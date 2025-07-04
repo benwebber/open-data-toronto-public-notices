@@ -9,7 +9,8 @@ main() {
   mkdir -p data/notices/
   jq --compact-output --sort-keys '.Records[] | select(. != null)' "${TEMP}/notices.json" >"${TEMP}/notices.jsonl"
   jq --compact-output --raw-output --sort-keys '.noticeId' "${TEMP}/notices.jsonl" | nl | while read i id; do
-    sed "${i}"'q;d' "${TEMP}/notices.jsonl" | jq --sort-keys '.' > "data/notices/${id}.json"
+    n="$(printf '%06d' "${id}")"
+    sed "${i}"'q;d' "${TEMP}/notices.jsonl" | jq --sort-keys '.' > "data/notices/${n}.json"
   done
 }
 
