@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -eux -o pipefail
+
+URL='http://app.toronto.ca/nm/notices.json'
+TEMP="$(mktemp -d)"
+
+main() {
+  curl --location --output "${TEMP}/notices.json" "${URL}"
+  mkdir -p data/notices/
+  jq --compact-output --sort-keys '.Records[] | select(. != null)' "${TEMP}/notices.json" >"${TEMP}/notices.jsonl"
+  jq --compact-output --raw-output --sort-keys '.noticeId' "${TEMP}/notices.jsonl" | nl | while read i id; do
+    sed "${i}"'q;d' "${TEMP}/notices.jsonl" | jq --sort-keys '.' > "data/notices/${id}.json"
+  done
+}
+
+cleanup() {
+  rm -r "${TEMP}"
+}
+
+trap cleanup EXIT
+main "${@}"

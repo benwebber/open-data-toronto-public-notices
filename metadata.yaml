@@ -1,0 +1,25 @@
+title: Public Notices
+description: >
+  The Public Notice website contains open source data related to notices published by the City Clerk as of January 1, 2018.
+  This dataset is part of the City of Toronto's ongoing commitment to proactive disclosure and the Open Data project.
+
+  The City gives notice to the public on a variety of different matters, such as fees and charges, heritage designations, renaming of roads, and sale of property. 
+license: Open Government Licence - Toronto
+license_url: https://open.toronto.ca/open-data-licence/
+source: Public Notices - City of Toronto Open Data Portal
+source_url: https://open.toronto.ca/dataset/public-notices/
+about_url: https://github.com/benwebber/open-data-toronto-public-notices/
+databases:
+  public_notices:
+    tables:
+      notice:
+        columns:
+          uid: The unique identifier for the notice.
+          title:  The title of the notice describing the subject of the notice and the address, if any.
+          subtitle: The subtitle is used to provide additional detail about the notice.
+          decision_body: The governing body with final decision-making power over the matter in the notice.
+          date_utc: The date and time the notice was published.
+          description_html: The details of the notice, which contains HTML markup for layout/formatting.
+          signed_by: The name of the person authorizing the notice.
+      sqlite_sequence:
+        hidden: true

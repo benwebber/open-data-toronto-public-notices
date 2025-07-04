@@ -1,0 +1,7 @@
+[project]
+name = "open-data-toronto-public-notices"
+dynamic = ["version"]
+dependencies = [
+  "datasette",
+  "datasette-geojson-map"
+]
