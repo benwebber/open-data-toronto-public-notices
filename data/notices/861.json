@@ -1,0 +1,57 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "20 St Regis Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7551437794",
+      "longitudeCoordinate": "-79.4874766385",
+      "postalCode": "M3J 1Y5",
+      "province": "Ontario",
+      "streetAddress": "20 St Regis Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "770 Don Mills Road Toronto Ontario",
+      "latitudeCoordinate": "43.7164526013",
+      "longitudeCoordinate": "-79.3381489594",
+      "postalCode": "M3C 1T3",
+      "province": "Ontario",
+      "streetAddress": "770 Don Mills Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Multiple Surplus Properties",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=661"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Joseph Sergnese",
+    "country": "Canada",
+    "emailAddress": "Joseph.Sergnese@toronto.ca",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-1857",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1562817600000,
+  "noticeDescription": "<p>NOTICE is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal by-law, the following properties were declared surplus:</p>\n<p>1.&nbsp; On June 26, 2019, a portion of 20 St. Regis Crescent, Toronto, being Part of Lot 4 on Plan 3672, and designated as Parts 2 and 3 on Reference Plan 66R-27811 was declared surplus. The portion of land and building has a total area of approximately 1,108.0 m2 (11,926.8 ft2). The intended manner of disposal to be by way of listing the land and building for sale on the open market.</p>\n<p>2.&nbsp; On July 5, 2019, part of 770 Don Mills Road, Toronto, shown as Part 2 on Sketch No. PS-2005-026 was declared surplus.&nbsp; The portion of land has a total area of approximately 5,016.76m2 m2 &plusmn; (54,000 ft2 &plusmn;) of stratified space.&nbsp; The intended manner of disposal to be by way of an exchange of land with&nbsp; the Toronto District School Board for the property known municipally as 200 Poplar Road, Toronto.</p>\n<p>The following City official has information about the proposed disposition: Mr. Joseph Sergnese, Tel: 416-392-1857, Fax: 416-392-1880, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 24th of July, 2019.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 861,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Declaration of Multiple Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

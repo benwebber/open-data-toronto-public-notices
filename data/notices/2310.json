@@ -1,0 +1,66 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "663 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6437902668",
+      "longitudeCoordinate": "-79.4022901204",
+      "postalCode": "M5V 1M5",
+      "province": "Ontario",
+      "streetAddress": "663 King Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law 241-2021 - 663 King Street West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2157"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1619755200000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 241-2021 to designate 663 King Street West (Spadina-Fort York, Ward 10) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2310,
+  "otherReferenceList": [
+    {
+      "description": "2019.PB2.2 - Alterations to Designated Heritage Property, Intention to Designate 663 King Street West under Part IV, Section 29 of the Ontario Heritage Act and Authority to Enter into a Heritage Easement Agreement",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB2.2"
+    },
+    {
+      "description": "2019.MM2.19 - Alterations to Designated Heritage Property, Intention to Designate 663 King Street West under Part IV, Section 29 of the Ontario Heritage Act and Authority to Enter into a Heritage Easement Agreement - by Councillor Joe Cressy, seconded by Councillor Michael Ford",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.MM2.19"
+    },
+    {
+      "description": "2021.TE23.11 - 663 King Street West, 69-73 Bathurst Street and 58-60 Stewart Street- Rental Housing Demolition Application - Final Report",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.TE23.11"
+    },
+    {
+      "description": "By-law 241-2021 - To designate the property at 663 King Street West as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2021/law0241.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 663 King Street West, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 241-2021 - 663 King Street West ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

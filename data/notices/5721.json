@@ -1,0 +1,53 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "20 De Boers Drive Toronto Ontario",
+      "latitudeCoordinate": "43.752093194",
+      "longitudeCoordinate": "-79.465430163",
+      "postalCode": "M3J 0H1",
+      "province": "Ontario",
+      "streetAddress": "20 De Boers Drive"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 20 De Boers Drive",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5578"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "fax": "416-392-1879",
+    "locationName": "North York Civic Centre",
+    "phone": "416-392-4666",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1732251600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 24 178354 NNY 06 OZ</p>\n<p>Applications to Amend the Official Plan and Zoning By-law to develop 50, 52, and 55-storey buildings with 1,759 dwelling units and 6,990 m2 of non-residential space.</p>\n<p>20 De Boers Drive Ward 6 &ndash; York Centre</p>\n<p>Marty Rokos, Senior Planner at 416-395-7127 or <a href=\"mailto:Marty.Rokos@toronto.ca\">Marty.Rokos@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p><br />Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p><br />If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>Dated at the City of Toronto on November 22, 2024.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5721,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 178354 NNY 06 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 20 De Boers Drive",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment",
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Proposal for an Official Plan Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

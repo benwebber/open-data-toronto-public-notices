@@ -1,0 +1,54 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Blue Goose Street Toronto Ontario",
+      "latitudeCoordinate": "43.6167534553",
+      "longitudeCoordinate": "-79.4957531911",
+      "postalCode": "M8V 2R5",
+      "province": "Ontario",
+      "streetAddress": "1 Blue Goose Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law - 1 Blue Goose Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1044"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke York Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "fax": "416-394-5600",
+    "locationName": "Etobicoke Civic Centre",
+    "phone": "416-392-8016",
+    "postalCode": "M9C 2Y2",
+    "province": "Ontario",
+    "streetAddress": "399 The West Mall"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1571803200000,
+  "noticeDescription": "<p>Take Notice that the Council of the City of Toronto has passed By-law No. 1384-2019 to designate the property at 1 Blue Goose Street as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1224,
+  "otherReferenceList": [
+    {
+      "description": "By-law No. 1384-2019 - To designate the property at 1 Blue Goose Street as being of cultural heritage value or interest.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law1384.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law - 1 Blue Goose Street",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

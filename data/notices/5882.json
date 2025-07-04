@@ -1,0 +1,68 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "824 Sheppard Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.7532634768",
+      "longitudeCoordinate": "-79.4512498781",
+      "postalCode": "M3H 2T2",
+      "province": "Ontario",
+      "streetAddress": "824 Sheppard Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "177 Cocksfield Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.753987057",
+      "longitudeCoordinate": "-79.451291626",
+      "postalCode": "M3H 3T4",
+      "province": "Ontario",
+      "streetAddress": "177 Cocksfield Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "179-181 Cocksfield Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.753955524",
+      "longitudeCoordinate": "-79.451588632",
+      "postalCode": "M3H 3T4",
+      "province": "Ontario",
+      "streetAddress": "179-181 Cocksfield Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 320-2022 - 824 Sheppard Avenue West and 177, 179, and 181 Cocksfield Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5759"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1737090000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF INTENTION TO REMOVE A HOLDING SYMBOL (H) FROM ZONING BY-LAW 320-2022</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application under Section 36 of the <em>Planning Act</em>:</p>\n<p>&nbsp;</p>\n<p><strong>Application Number:</strong> 22 156746 NNY 06 OZ</p>\n<p><strong>Address:</strong> 824 Sheppard Avenue West and 177, 179, and 181 Cocksfield Avenue</p>\n<p><strong>Ward:</strong> Ward 06 - York Centre</p>\n<p><strong>Contact:</strong> Kelly Snow, Planner, Community Planning at 416-395-7124, by e-mail at <a href=\"mailto:Kelly.Snow@toronto.ca\">Kelly.Snow@toronto.ca</a>, or by address 5100 Yonge St, North York, ON, M2N 5V7.</p>\n<p>&nbsp;</p>\n<p><strong>DESCRIPTION</strong></p>\n<p>&nbsp;</p>\n<p>The application to Amend Zoning By-law 320-2022 to remove the holding symbol (H) to permit a 12-storey (44.95 metre inclusive of mechanical) mixed use building with 20,269 square metres of gross floor area, resulting in a Floor Space Index of 4.2. The location of where the holding symbol (H) would be removed is noted on the map below.</p>\n<p>&nbsp;</p>\n<p>Detailed information about the proposal, including background information and materials may be made available for review by contacting the Planner noted above or by visiting the City of Toronto&rsquo;s <a href=\"https://www.toronto.ca/city-government/planning-development/application-information-centre\">https://www.toronto.ca/city-government/planning-development/application-information-centre</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>MAKE YOUR VIEWS KNOWN</strong></p>\n<p>&nbsp;</p>\n<p>You may send written comments by mail or email to the Community Planner noted under Contact. Your written comments must be submitted no later than <strong>January 31, 2025</strong> to be considered by the Executive Director, Development Review or their designate, Director, Community Planning, North District. A decision by the Executive Director, Development Review or their designate as to whether to remove the holding symbol (H) will occur no earlier than <strong>February 18, 2025</strong>.</p>\n<p>&nbsp;</p>\n<p><strong>Notice to people writing to the City:</strong> The <em>City of Toronto Act, 2006</em>, the <em>Planning Act</em>, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication to the City.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s).&nbsp; If you are submitting letters, e-mails, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5882,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "22 156746 NNY 06 OZ "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 320-2022 - 824 Sheppard Avenue West and 177, 179, and 181 Cocksfield Avenue",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Intention to remove a Holding Symbol"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

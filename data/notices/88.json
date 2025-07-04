@@ -1,0 +1,56 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "118 Peter Street Toronto Ontario",
+      "latitudeCoordinate": "43.6479458973",
+      "longitudeCoordinate": "-79.3933528324",
+      "postalCode": "M5V 2G7",
+      "province": "Ontario",
+      "streetAddress": "118 Peter Street"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1520312400000,
+  "noticeDescription": "<p>Take notice that Toronto City Council intends to designate the lands and building known municipally as 118 Peter Street under Part IV, Section 29 of the Ontario Heritage Act</p>\n<p>Reasons for Designation</p>\n<p>The property at 118 Peter Street (John Holdford House) is worthy of designation under Part IV, Section 29 of the Ontario Heritage Act for its cultural heritage value, and meets Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation under all three categories of design, associative and contextual value.</p>\n<p>Description</p>\n<p>The property at 118 Peter Street contains the John Holdford house, completed in 1885, a two-and-a-half-storey, semi-detached house with a mansard roof and raised basement with brick cladding on its principal elevation. The property is located in the King-Spadina area.</p>\n<p>Statement of Cultural Heritage Value</p>\n<p>The John Holdford house has design value as a representative example of a Victorian row house in the Second Empire style, featuring characteristic complex massing including a bay window, a stepped mansard roof and decorative wood brackets and string course details at the cornice.</p>\n<p>The Holdford house has historic value as it is associated with the King-Spadina neighbourhood&rsquo;s period of development when in response to the advent of the railways and the growth of industry, houses were provided for area&rsquo;s growing middle and working class population. Its late 20th century repurposing as a commercial property with a residential unit is indicative of the social and economic changes in the neighbourhood.</p>\n<p>Situated on the west side of Peter Street between Adelaide and Richmond Streets the house-form character and scale of the Holdford house has contextual value as it maintains a late 19th century residential character which is part of the diverse historic built form of the neighbourhood. It is physically functionally, visually and historically linked to its surroundings.</p>\n<p>Heritage Attributes</p>\n<p>The heritage attributes of the John Holdford house are:</p>\n<p>1.&nbsp; The setback, placement and orientation of the house on the west side of Peter Street between Adelaide and Richmond streets</p>\n<p>2.&nbsp; The scale, form and massing of the two-and-a-half storey semi-detached house with a raised basement with a mansard roof and dormers, projecting bay and at the basement and first floor level a polygonal bay window</p>\n<p>3.&nbsp; The principal (east) elevation with its red brick cladding and stone-clad basement level</p>\n<p>4.&nbsp; The south (side) elevation with stucco cladding</p>\n<p>5.&nbsp; The openings on the principal (east) elevation with the principal entry located at the north side of the elevation, the basement window, the first floor polygonal bay window, the two window openings on the second floor which correspond in height but are different in width and the two attic dormer windows.</p>\n<p>6.&nbsp; The details of the windows including the ground floor bay window with its double hung sash with transom lights above, the second floor windows with transom lights, the framing of the dormers with triangular pediments and pilasters with corbel brackets</p>\n<p>Notice of an objection to the proposed designation may be served on the City Clerk, Attention: Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, Toronto, Ontario, M5H 2N2, within thirty days of March 6, 2018, which is April 5, 2018. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 88,
+  "otherReferenceList": [
+    {
+      "description": "TE27.20 - Alterations to Designated Heritage Properties, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act and Authority to Enter into a Heritage Easement Agreement - 350 and 352 Adelaide Street West and 118 Peter Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2017.TE27.20"
+    },
+    {
+      "description": "By-law 1232-2017 - To provide for the entering into of a heritage easement agreement for the conservation of the property known municipally as 350 and 352 Adelaide Street West and 118 Peter Street",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2017/law1232.pdf"
+    },
+    {
+      "description": "By-law 492-2018 - To designate the properties at 350 and 352 Adelaide Street West and 118 Peter Street as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0492.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act  R.S.O. 1990, Chapter 0.18 and  City of Toronto, Province of Ontario",
+  "title": "Notice of Intention to Designate - 118 Peter Street (John Holdford House)",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [
+    {
+      "description": "Advisory Regarding Notice of Public Meetings and Complete Applications",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6193"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1747022400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>ADVISORY RE: NOTICE OF PUBLIC MEETING</strong></p>\n<p style=\"text-align: center;\"><strong>AND COMPLETE APPLICATIONS</strong></p>\n<p>&nbsp;</p>\n<p>You are receiving this advisory because you are entitled to, or have requested to be provided, public notice of planning matters in accordance with the Planning Act, R.S.O. 1990 and its regulations, by the City of Toronto City Clerk&rsquo;s Office.</p>\n<p>&nbsp;</p>\n<p>The City Clerk&rsquo;s Office relies on Canada Post in order to give you notice by ordinary mail.</p>\n<p>&nbsp;</p>\n<p>Please be advised that in the event of a Canada Post labour disruption, all Notices of Public Meeting and Complete Application will be published in the Toronto Star and made available at <a href=\"https://www.toronto.ca/city-government/public-notices-bylaws/\">https://www.toronto.ca/city-government/public-notices-bylaws/</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>We strongly encourage you to contact our office at <a href=\"mailto:RegistarCCO@toronto.ca\">RegistarCCO@toronto.ca</a> or 416-394-8101 to update your contact information with an email address, in order to receive public notices electronically.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6291,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Advisory Regarding Notice of Public Meetings and Complete Applications",
+  "topics": [
+    "Meetings",
+    "Planning"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-meeting.png",
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

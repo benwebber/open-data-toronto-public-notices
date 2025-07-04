@@ -1,0 +1,64 @@
+{
+  "accessibilityDescription": "Special Assistance for Members of the Public:  City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail nycc@toronto.ca",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "355 Roehampton Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7100667214",
+      "longitudeCoordinate": "-79.3873251596",
+      "postalCode": "M4P 1S3",
+      "province": "Ontario",
+      "streetAddress": "355 Roehampton Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "357 Roehampton Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7100652177",
+      "longitudeCoordinate": "-79.3872254131",
+      "postalCode": "M4P 1S3",
+      "province": "Ontario",
+      "streetAddress": "357 Roehampton Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Realignment of Permit Parking Area - 355-357 Roehampton Ave - Notice",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3089"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "fax": "416-395-7337",
+    "locationName": "North York Civic Centre",
+    "phone": "416-395-7337",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1652760000000,
+  "noticeDescription": "<p>Notice is hereby given that the North York Community Council proposes to pass a by-law to realign the boundary of Permit Parking on Roehampton Avenue to exclude the development address of 355-357 Roehampton Avenue.</p>\n<p>&nbsp;</p>\n<p>The meeting of the North York Community Council on May 24, 2022 at 9:30 a.m., or shortly afterwards, will be held by video conference and in person in the Council Chamber, North York Civic Centre, 5100 Yonge Street, Lower Level.</p>\n<p>&nbsp;</p>\n<p>To obtain additional information, submit comments or address the North York Community Council meeting on May 24, 2022, please contact the following City official no later than 12:00 p.m. on May 20, 2022.</p>\n<p>&nbsp;</p>\n<p>Julie Amoroso,</p>\n<p>Administrator, North York Community Council,</p>\n<p>City Clerk's Office</p>\n<p>Toronto City Hall, 100 Queen Street West</p>\n<p>10th floor, West Tower</p>\n<p>Toronto, Ontario, M5H 2N2</p>\n<p>Telephone:&nbsp; 416-395-0480; Fax: 416-392-2980</p>\n<p>E-mail: nycc@toronto.ca</p>\n<p>&nbsp;</p>\n<p>Notice to People Writing or Making Presentations to the North York Community Council:&nbsp;The City of&nbsp;Toronto Act, 2006 and the City of&nbsp;Toronto Municipal Code&nbsp;authorize the City of&nbsp;Toronto to collect any personal information in your communication or presentation to City Council or its Committees and Boards. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3320,
+  "otherReferenceList": [
+    {
+      "description": "2022.NY32.3 - 355 and 357 Roehampton Avenue - Zoning By-law Amendment Application - Final Report",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.NY32.3"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Realignment of Permit Parking Area \"Roehampton Avenue\"",
+  "topics": [
+    "Transportation"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "18 Portland Street Toronto Ontario",
+      "latitudeCoordinate": "43.642070913",
+      "longitudeCoordinate": "-79.399377901",
+      "province": "Ontario",
+      "streetAddress": "18 Portland Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Designation By-law 69-2023 – 18 Portland Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3548"
+    }
+  ],
+  "contact": {
+    "city": "Toronto ",
+    "contactName": "Toronto Preservation Board",
+    "country": "Canada",
+    "emailAddress": "hertpb@toronto.ca",
+    "locationName": "2nd floor, West Tower, City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario ",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1673499600000,
+  "noticeDescription": "<p>TAKE NOTICE that Council for the City of Toronto passed Designation By-law 69-2023 on December 14 and 15, 2022, which designates the lands, buildings and structures known municipally as 18 Portland Street, under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest.</p>\n<p>&nbsp;</p>\n<p>The City Clerk received an objection to the Notice of Intention to Designate the Property and City Council considered the objection in making its decision at its meeting on December 14 and 15, 2022. Refer to Item CC2.20.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal of the Designation by-law for the Property by those persons permitted to appeal under section 29 of the Ontario Heritage Act may be made by filing a notice of appeal with the City Clerk, Attention: Administrator, Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2; Email: <a href=\"mailto:hertpb@toronto.ca\">hertpb@toronto.ca</a> within thirty days of January 12, 2023, which is February 13, 2023.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1) set out the reasons for the objection to the designation by-law; and</p>\n<p>(2) set out the reasons in support of the objection to the designation by-law.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT), forms are available from the Ontario Land Tribunal website at <a href=\"https://olt.gov.on.ca\">https://olt.gov.on.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>Any persons who object to the designation by-law may refer the matter to the Ontario Land Tribunal.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>A copy of the by-law and background information about the application is available for public inspection by contacting Heritage Planning staff at <a href=\"mailto:heritageplanning@toronto.ca\">heritageplanning@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Further information in respect of the Designation By-law is available from the City of Toronto at:</p>\n<p>&nbsp;</p>\n<p><a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2023.CC2.20\">http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2023.CC2.20</a>&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3777,
+  "otherReferenceList": [
+    {
+      "description": "2023.CC2.20 - 18 Portland Street - Proposed Designation By-Law under Part IV, Section 29 of the Ontario Heritage Act - Consideration of Objection",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2023.CC2.20"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "IN THE MATTER OF THE ONTARIO HERITAGE ACT R.S.O. 1990, CHAPTER O.18 AND CITY OF TORONTO, PROVINCE OF ONTARIO",
+  "title": "Notice of Passing of Designation By-law 69-2023 – 18 Portland Street",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

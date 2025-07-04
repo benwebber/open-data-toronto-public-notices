@@ -1,0 +1,102 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "32 Rushbrooke Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.660901789",
+      "longitudeCoordinate": "-79.331766362",
+      "province": "Ontario",
+      "streetAddress": "32 Rushbrooke Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11A Marlow Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6846390417",
+      "longitudeCoordinate": "-79.3375261834",
+      "province": "Ontario",
+      "streetAddress": "11A Marlow Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "67 Parkdale Road Toronto Ontario",
+      "latitudeCoordinate": "43.6408778996",
+      "longitudeCoordinate": "-79.4528965871",
+      "province": "Ontario",
+      "streetAddress": "67 Parkdale Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "125 Victor Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6678791735",
+      "longitudeCoordinate": "-79.348172713",
+      "province": "Ontario",
+      "streetAddress": "125 Victor Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "157 Gledhill Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6916293397",
+      "longitudeCoordinate": "-79.3104500949",
+      "province": "Ontario",
+      "streetAddress": "157 Gledhill Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "167 Macdonell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6452658079",
+      "longitudeCoordinate": "-79.4395810306",
+      "province": "Ontario",
+      "streetAddress": "167 Macdonell Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "201 Coxwell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6716308375",
+      "longitudeCoordinate": "-79.3185582521",
+      "province": "Ontario",
+      "streetAddress": "201 Coxwell Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "314 Quebec Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6611758329",
+      "longitudeCoordinate": "-79.4705737413",
+      "province": "Ontario",
+      "streetAddress": "314 Quebec Avenue"
+    }
+  ],
+  "backgroundInformationList": [],
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1524542400000,
+  "noticeDescription": "<p>Individual bills for each of the benefitting properties listed below have been submitted for the meeting of City Council being held on April 24, 25 and 26, 2018.</p>\n<p>Weblinks for these bills can be found here.</p>\n<p>Each of these bills imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013 and enacted in By-law 1105-2013 (July 19, 2013).</p>\n<p>The benefitting properties are:</p>\n<p>1. 11 A Marlow Avenue</p>\n<p>2. 32 Rushbrooke Avenue</p>\n<p>3. 67 Parkdale Road</p>\n<p>4. 125 Victor Avenue</p>\n<p>5. 157 Gledhill Avenue</p>\n<p>6. 167 Macdonell Avenue</p>\n<p>7. 201 Coxwell Avenue</p>\n<p>8. 314 Quebec Avenue</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 219,
+  "otherReferenceList": [
+    {
+      "description": "EX33.22 - Proposed Energy and Water Efficiency Initiative for the Residential Sector",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22"
+    },
+    {
+      "description": "By-law 1105-2013",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "subheading": "Notice of the imposition of special charges on benefiting properties under the City's Residential Retrofit Program",
+  "title": "City’s Residential Retrofit Program",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

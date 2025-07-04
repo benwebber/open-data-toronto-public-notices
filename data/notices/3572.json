@@ -1,0 +1,47 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "39 Centre Street Toronto Ontario",
+      "latitudeCoordinate": "43.745365026",
+      "longitudeCoordinate": "-79.22138129",
+      "postalCode": "M1J 3B7",
+      "province": "Ontario",
+      "streetAddress": "39 Centre Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "447 Mortimer Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6889628831",
+      "longitudeCoordinate": "-79.3332231783",
+      "postalCode": "M4J 2G3",
+      "province": "Ontario",
+      "streetAddress": "447 Mortimer Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice Energy Retrofit By-laws Notice",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3340"
+    }
+  ],
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1660276800000,
+  "noticeDescription": "<p>Individual by-laws for each of the benefitting properties listed below have been enacted for the meeting of City Council held on July 19, 20, 21 and 22, 2022. Review by-law details (<a href=\"http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2022.CC47\">http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2022.CC47</a>).</p>\n<p>Each of these by-laws imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013 and enacted in By-law 1105-2013 (July 19, 2013).</p>\n<p>The benefitting properties are:</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 39 Centre Street</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 447 Mortimer Avenue</p>\n<p>&nbsp;</p>\n<p>For More Information Contact</p>\n<p>City Council<br /><a href=\"mailto:councilmeeting@toronto.ca\">councilmeeting@toronto.ca</a><br />Phone: 416-392-7032<br />Fax: 416-392-2980</p>\n<p>Toronto City Hall<br />100 Queen Street<br />Toronto, Ontario<br />M5H 2N2<br />Canada</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3572,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program",
+  "title": "City's Residential Retrofit Program",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

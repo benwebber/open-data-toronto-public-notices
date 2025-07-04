@@ -1,0 +1,58 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "100 Beverley Street Toronto Ontario",
+      "latitudeCoordinate": "43.6530038823",
+      "longitudeCoordinate": "-79.3938098687",
+      "postalCode": "M5T 1Y2",
+      "province": "Ontario",
+      "streetAddress": "100 Beverley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "104 Beverley Street Toronto Ontario",
+      "latitudeCoordinate": "43.6530870354",
+      "longitudeCoordinate": "-79.393831215",
+      "postalCode": "M5T 1Y2",
+      "province": "Ontario",
+      "streetAddress": "104 Beverley Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 100-104 Beverley Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5464"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1728014400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 23 112047 STE 10 OZ</p>\n<p>Application to Amend the Zoning By-law to permit a four-storey apartment building containing 12 dwelling units at the rear of the site at 100-104 Beverley St. At present, the site contains nine dwelling units in a three-storey apartment building; the proposal seeks to permit a second apartment building for a total of 21 dwelling units on the site.</p>\n<p>100-104 Beverley Street</p>\n<p>Ward 10 &ndash; Spadina-Fort York</p>\n<p>Josh Estrella, Planner at 416-338-7697 or <a href=\"mailto:Josh.Estrella@toronto.ca\">Josh.Estrella@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5603,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "23 112047 STE 10 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 100-104 Beverley Street",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "56 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.6481418704",
+      "longitudeCoordinate": "-79.3778264033",
+      "postalCode": "M5E 1G5",
+      "province": "Ontario",
+      "streetAddress": "56 Yonge Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing - 56 Yonge Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1295"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1577163600000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 1638-2019 to designate 56 Yonge Street (Toronto Centre, Ward 13) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1466,
+  "otherReferenceList": [
+    {
+      "description": "By-law 1638-2019 - To designate the property at 56 Yonge Street as being of cultural heritage value or interest. ",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law1638.pdf"
+    },
+    {
+      "description": "2019.PB6.4 - Alterations to a Designated Heritage Property, Amendment of a Designating By-Law, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, and Authority to Enter into a Heritage Easement Agreement - 199 Bay Street, 25 King Street West and 56 Yonge Street \n\n",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB6.4"
+    },
+    {
+      "description": "2019.TE7.16 - 56 Yonge Street, 21 Melinda Street, 18 to 30 Wellington Street West, 187 to 199 Bay Street and 25 King Street West - Zoning Amendment Application - Final Report",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE7.16"
+    },
+    {
+      "description": "2019.TE7.17 - Alterations to a Designated Heritage Property, Amendment of a Designating By-Law, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, and Authority to Enter into a Heritage Easement Agreement - 199 Bay Street, 25 King Street West and 56 Yonge Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE7.17"
+    },
+    {
+      "description": "2019.TE8.11 - 56 Yonge Street, 21 Melinda Street, 18 to 30 Wellington Street West, 187 to 199 Bay Street and 25 King Street West - Zoning Amendment Application - Final Report",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE8.11"
+    },
+    {
+      "description": "2019.TE8.70 - Alterations to a Designated Heritage Property and Authority to Enter into a Heritage Easement Agreement - 199 Bay Street, 25 King Street West and 56 Yonge Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE8.70"
+    },
+    {
+      "description": "2019.MM12.17 - 56 Yonge Street, 21 Melinda Street, 18 to 30 Wellington Street West, 187 to 199 Bay Street and 25 King Street West - Technical Amendment to Bills - by Councillor Kristyn Wong-Tam, seconded by Councillor Mike Layton ",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.MM12.17"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 56 Yonge Street, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law - 56 Yonge Street",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

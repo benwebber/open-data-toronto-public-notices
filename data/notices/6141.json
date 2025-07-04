@@ -1,0 +1,44 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "575 Van Horne Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.787561684",
+      "longitudeCoordinate": "-79.335444785",
+      "postalCode": "M2J 4S8",
+      "province": "Ontario",
+      "streetAddress": "575 Van Horne Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Property - 575 Van Horne Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6037"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Shirley Lee",
+    "country": "Canada",
+    "phone": "437-860-8908",
+    "postalCode": "M4W 2G8",
+    "province": "Ontario",
+    "streetAddress": "789 Yonge Street"
+  },
+  "eventList": [],
+  "noticeDate": 1743480000000,
+  "noticeDescription": "<p style=\"text-align: left;\"><strong>Notice</strong></p>\n<p>&nbsp;</p>\n<p><strong>NOTICE</strong> is hereby given that City Council, at its meeting held on February 5, 2025, declared surplus to the Toronto Public Library Board&rsquo;s purposes, part of the property municipally known as 575 Van Horne Avenue, legally described as Part of Block D, Plan M-1269, designated as Part 1 on Plan 66R-34190, being part of PIN 10045-0042 (LT). Part 1 on Plan 66R-34190 has a total area of approximately 32.6 m2 (350.90 ft2). It is proposed that Part 1 on Plan 66R-34190 be conveyed to City of Toronto for municipal purposes.</p>\n<p>&nbsp;</p>\n<p>The following Toronto Public Library official has information about the proposed disposition: Ms. Shirley Lee, Senior Manager, Facilities Capital Project, Tel: 437-860-8908, 789 Yonge Street, Toronto, Ontario M4W 2G8. Enquiries may be made of the said official until April 14, 2025.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6141,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property - 575 Van Horne Avenue",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

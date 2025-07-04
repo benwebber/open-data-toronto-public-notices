@@ -1,0 +1,35 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [],
+  "decisionBody": "Executive Committee",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Toronto City Hall, 2nd Floor, Committee Room 1",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1531834200000,
+      "streetAddress": "100 Queen Street West"
+    }
+  ],
+  "noticeDate": 1531195200000,
+  "noticeDescription": "<p>At its meeting in Committee Room 1, City Hall, 100 Queen Street West, Toronto, on July 17, 2018, the Executive Committee will consider Item <a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.EX36.45\">EX36.45</a> which contains a recommendation which may result in amendments to the Toronto Municipal Code, Chapter 441, Fees and Charges.</p>\n<p>It is proposed that the Council of the City of Toronto adopt amendments to Chapter 441, Fees and Charges to establish a fee of $20.00 for the new Criminal Record and Judicial Matters Police Reference Checks for the purpose of employment and volunteer opportunities, effective November 1, 2018.</p>\n<p><a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.EX36.45\">Item EX36.45 can be found on the City&rsquo;s Website</a>. For further information, to submit comments or speak to the Executive Committee on July 17, 2018, please contact the Committee at the email, phone or address listed below, no later than 12 noon on July 16, 2018:</p>\n<p style=\"padding-left: 30px;\">Executive Committee<br />City Clerk&rsquo;s Office<br />10W, Toronto City Hall<br />100 Queen Street West<br />Toronto, Ontario M5H 2N2<br />Phone: 416-392-4666<br />Email: <a href=\"mailto:exc@toronto.ca\">exc@toronto.ca</a></p>\n<p>The proposed amendment is subject to the decision of the Executive Committee and the decision of Toronto City Council. Consequently, the proposed amendment may be modified.</p>\n<p>It is proposed that the by-law be amended at the City Council meeting to be held on July 23, 24 and 25, 2018, or at a subsequent meeting.</p>\n<p><strong>Notice to People Writing or making presentations to the Executive Committee</strong>: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk&rsquo;s Office, City Hall, 100 Queen Street West, Toronto ON M5H 2N2 or by calling 416-392-4666.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 210,
+  "otherReferenceList": [
+    {
+      "description": "EX36.45 - Police Reference Check Program - Establishment of Criminal Record and Judicial Matters Checks Process and Proposed Fee",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.EX36.45"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Establishment of a New Police Reference Check Fee",
+  "topics": [
+    "Financial > Proposal to change user fees and charges"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

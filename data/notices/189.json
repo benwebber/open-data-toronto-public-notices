@@ -1,0 +1,65 @@
+{
+  "accessibilityDescription": "City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-395-0480, TTY 416-338-0889 or e-mail nycc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Don Mills Road & Bedle Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.797863725",
+      "longitudeCoordinate": "-79.354750234",
+      "majorIntersection": "Don Mills Road & Bedle Avenue",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "locationName": "North York Civic Centre",
+    "phone": "416-395-7337",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "North York Civic Centre, Council Chamber, Lower Floor",
+      "postalCode": "M2N 5V7",
+      "province": "Ontario",
+      "startDateTime": 1530725400000,
+      "streetAddress": "5100 Yonge Street"
+    }
+  ],
+  "noticeDate": 1529640000000,
+  "noticeDescription": "<p>To consider a proposal to rename a portion of the private highway, &ldquo;Au Large Boulevard&rdquo; east of Don Mills Road&rdquo; as &ldquo;Premier Davis Boulevard&rdquo;.</p>\n<p>The plan showing the lands to be affected may be seen in the City Clerk&rsquo;s Office, Secretariat, Ground Floor, North York Civic Centre, 5100 Yonge Street, between the hours of 8:30 a.m. and 4:30 p.m. Monday to Friday. At its meeting to be held in the Council Chamber, Lower Floor, North York Civic Centre, 5100 Yonge Street, on July 4, 2018 at 1:30 p.m., or shortly afterwards, the North York Community Council will hear in person or by his or her counsel, agent or solicitor, any person who claims that his or her lands will be prejudicially affected by the naming and who applies to be heard with respect to the proposed naming.</p>\n<p>Notice to people writing or making presentations to the North York Community Council: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>To obtain additional information, submit comments or address the North York Community Council meeting on July 4, 2018, please contact the following City official no later than 4:30 p.m. on July 3, 2018.</p>\n<p style=\"padding-left: 30px;\">Ms. Francine Adamo<br />Administrator, North York Community Council<br />City Clerk&rsquo;s Office<br />North York Civic Centre<br />Main Floor, 5100 Yonge Street<br />Toronto, Ontario M2N 5V7<br />Telephone: 416-395-0480; Fax: 416-395-7337<br />E-mail: nycc@toronto.ca</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 189,
+  "otherReferenceList": [
+    {
+      "description": "NY32.61 - Renaming of a Portion of Au Large Boulevard, east of Don Mills Road",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.NY32.61"
+    },
+    {
+      "description": "Bylaw 862-2018 - To authorize the renaming of a portion of the private street, Au Large Boulevard, east of Don Mills Road to Premier Davis Boulevard.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0862.pdf"
+    },
+    {
+      "description": "Bylaw 1043-2018 - To amend City of Toronto Municipal Code Chapter 950, Traffic and Parking, respecting the renaming of a portion of Au Large Boulevard as Premier Davis Boulevard",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law1043.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "subheading": "City of Toronto Act, 2006 – Public Notice, North York Community Council Area, Notice is given that the City of Toronto will consider whether to pass a By-law to authorize the renaming of a portion of a private highway in The North York Community Council area",
+  "title": "Renaming a Portion of the Private Highway, “Au Large Boulevard” East of Don Mills Road” as “Premier Davis Boulevard”",
+  "topics": [
+    "Transportation > Intention to name a road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

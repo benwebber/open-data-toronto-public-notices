@@ -1,0 +1,63 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2112 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.702849461",
+      "longitudeCoordinate": "-79.397890098",
+      "postalCode": "M4S 2A5",
+      "province": "Ontario",
+      "streetAddress": "2112 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2114 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.702958607",
+      "longitudeCoordinate": "-79.397904172",
+      "postalCode": "M4S 2A5",
+      "province": "Ontario",
+      "streetAddress": "2114 Yonge Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice exclusion of 2112-2114 Yonge St",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2981"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1649908800000,
+  "noticeDescription": "<p>Notice is hereby given that Toronto and East York Community Council proposes to pass a by-law to realign the boundary of Permit Parking on Hillsdale Avenue West to exclude the development address of 2112-2114 Yonge Street.</p>\n<p>&nbsp;</p>\n<p>The meeting of the Toronto and East York Community Council on April 21, 2022 at 9:30 a.m., or shortly afterwards at Council Chamber, Toronto City Hall and by video conference.</p>\n<p>&nbsp;</p>\n<p>Any objections regarding this proposal should be set out in writing and forwarded to the City Clerk, Attention: Administrator, Toronto and East York Community Council, City of Toronto, Secretariat Division, City Hall, 100 Queen Street W, 2nd floor west tower, Toronto, Ontario, M5H 2N2, or by E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>If you wish to make a presentation to the Community Council regarding this proposal, please phone 416-392-7033 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a> by 12 noon on April 20, 2022, so that we include your name on the list of speakers. We limit presentations to no longer than five minutes.</p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance for Members of the Public</strong>:&nbsp;City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY&nbsp;416-338-0889 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>&nbsp;</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, City Hall, 100 Queen Street West, Toronto, ON, M5H 2N2 or call 416-392-7033.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3213,
+  "otherReferenceList": [
+    {
+      "description": "TE32.72 – Realignment of Permit Parking on Hillsdale Avenue West to exclude the development address of 2112-2114 Yonge Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.TE32.72"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Realignment of Permit Parking Area \"Hillsdale Avenue West\" to exclude the development address of 2112-2114 Yonge Street",
+  "topics": [
+    "Transportation > Intention to reduce permit parking spaces or times"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

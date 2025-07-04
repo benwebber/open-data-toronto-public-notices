@@ -1,0 +1,53 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "183 Avenue Road Toronto Ontario",
+      "latitudeCoordinate": "43.6752383456",
+      "longitudeCoordinate": "-79.3965442916",
+      "postalCode": "M5R 2J2",
+      "province": "Ontario",
+      "streetAddress": "183 Avenue Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Designate - 183 Avenue Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2459"
+    }
+  ],
+  "contact": {
+    "city": "Toronto ",
+    "contactName": "Toronto Preservation Board",
+    "country": "Canada",
+    "emailAddress": "hertpb@toronto.ca",
+    "locationName": "2nd floor, West Tower, City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario ",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1628654400000,
+  "noticeDescription": "<p>TAKE NOTICE that Council for the City of Toronto intends to designate the property, including the lands, buildings and structures thereon known municipally as 183 Avenue Road under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest.</p>\n<p><strong>Edward G. Woodley House&nbsp;</strong></p>\n<p><strong>Reasons for Designation</strong></p>\n<p>The property at 183 Avenue Road is worthy of designation under Part IV, Section 29 of the Ontario Heritage Act for its cultural heritage value and meets Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation under all three categories of design, associative and contextual value.</p>\n<p><strong>Description</strong></p>\n<p>Located on the east side of Avenue Road between Pears Avenue and Davenport Road, the property at 183 Avenue Road contains a detached, red brick house-form building (currently painted) constructed by 1901 and first occupied by Edward G. Woodley, a well-known local builder. Alterations to the openings at the first-floor level reflect the addition of commercial/retail use to the original house-form building by the mid-20th century. The property was included on the City's Heritage Register on February 6, 1974.</p>\n<p><strong>Statement of Cultural Heritage Value</strong></p>\n<p><strong>Physical and Design Value</strong></p>\n<p>The property at 183 Avenue Road has design value as a representative example of a transitional, Late-Victorian/Edwardian era dwelling with its centred roof gable surmounting a centred third-storey window opening and expressed with minimal decorative detailing.</p>\n<p><strong>Historical and Associative Value</strong></p>\n<p>The Edward G. Woodley House stands as a defining property within a group of four adjacent heritage house-form buildings on this block of Avenue Road, just north of Davenport Road, and constructed by the Woodley family between 1898 and 1901. Of the four dwellings, the Woodley families built the four surviving house-form buildings at 177-183 Avenue Road, owned and occupied 183 Avenue Road for over half a century and are remembered as active members of the Deer Park community.</p>\n<p><strong>Contextual Value</strong></p>\n<p>Representing the earliest period in the subdivision of Town Lot 22, the house form of the Edward G. Woodley House is physically, visually and historically linked to its setting as part of the collection of four surviving heritage properties at 177-183 Avenue Road built together at the turn of the 20th century by the Woodleys. The property is also considered an important component in the history and evolution of Avenue Road as a residential street prior to its widening and redevelopment in the mid-20th century.</p>\n<p><strong>Heritage Attributes of 183 Avenue Road:</strong></p>\n<p style=\"padding-left: 40px;\">-&nbsp; &nbsp;The setback, placement and orientation of the building on its lot on the east side of Avenue Road between Pears Avenue and Davenport Road<br />-&nbsp; &nbsp;The scale, form and massing of the two and a half storey plan on a raised foundation<br />-&nbsp; &nbsp;The materials, with the red brick cladding (currently painted) and the brick and stone detailing<br />-&nbsp; &nbsp;The pitched roof with its central gable on the principal (west) elevation and chimney located at the north end<br />-&nbsp; &nbsp;The principal (west) elevation of the building, which is organized into two symmetrical bays at the first and second levels, and single centred opening at the third storey<br />-&nbsp; &nbsp;The segmental-arched window openings on the second storey and flat-headed window opening on the third storey of the principal (west) elevation</p>\n<p><strong>Notice of Objection to the Notice of Intention to Designate</strong></p>\n<p>Notice of an objection to the Notice of Intention to Designate the Property may be served on the City Clerk, Attention: Administrator, Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2.; Email: <a href=\"mailto:hertpb@toronto.ca\">hertpb@toronto.ca</a> within thirty days of August 11, 2021, which is September 10, 2021. The notice of objection to the Notice of Intention to Designate the Property must set out the reason(s) for the objection and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2612,
+  "otherReferenceList": [
+    {
+      "description": "2021.TE26.75 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 183 Avenue Road",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.TE26.75"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 183 Avenue Road, City of Toronto, Province of Ontario",
+  "title": "Notice of Intention to Designate - 183 Avenue Road ",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "255 Avenue Road Toronto Ontario",
+      "latitudeCoordinate": "43.67749023",
+      "longitudeCoordinate": "-79.397336781",
+      "province": "Ontario",
+      "streetAddress": "255 Avenue Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Surplus Ad_ 255 Avenue Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2919"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Mark Filice",
+    "country": "Canada",
+    "emailAddress": "mark.filice@toronto.ca",
+    "locationName": "Metro Hall",
+    "phone": "416-392-1830",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street, 2nd Floor"
+  },
+  "eventList": [],
+  "noticeDate": 1648785600000,
+  "noticeDescription": "<p>NOTICE is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal by-law, the following properties were declared surplus:</p>\n<p>&nbsp;</p>\n<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On March 24, 2022, a portion of parkland located on the southern side of Macpherson Avenue, part of the property municipally known as 255 Avenue Road and legally described as Part of PIN 21194-0086 (LT), part of Lot 4, Plan 166E, Part 1 on draft Plan 18-12-039-00 dated October 7, 2019, was declared surplus. The City proposes to grant a permanent easement of the subject lands to Enbridge Gas Inc. The lands have a total area of approximately 155m2 &plusmn; (1668.41 ft2 &plusmn;).</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On March 25, 2022, the bulb-shaped portion of Inez Court, a public highway located south of Drewry Avenue, shown on the draft Reference Plan updated February 9, 2022 designated as Part 10, being Part of PIN 10141-0289 (LT) was declared surplus conditional on City Council approving the permanent closure of the Highway. The Highway has a total area of 1,334.1 square metres (14,360.13 square feet). The intended manner of disposal to be by way of an offer to purchase the Highway be invited from the adjacent owner of 20-28 Inez Court, subject to any required easements, and on terms and conditions acceptable to the City, which may include a requirement that Parts 1, 2, 6, 8, 9, 13,&nbsp; 14, 18, 19, 21 on the draft Reference Plan be transferred to the City for the Beecroft extension and that Parts 3, 4, 5, 15, 16, 17 on the draft Reference Plan be transferred to the City for parkland.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed dispositions: Mr. Mark Filice, mark.filice@toronto.ca Tel: 416-392-1830, Metro Hall, 55 John Street, 2nd Floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until April 14th, 2022.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3152,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "281 College Street Toronto Ontario",
+      "latitudeCoordinate": "43.657587252",
+      "longitudeCoordinate": "-79.40073684",
+      "postalCode": "M5T 1S2",
+      "province": "Ontario",
+      "streetAddress": "281 College Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "289 College Street Toronto Ontario",
+      "latitudeCoordinate": "43.657531844",
+      "longitudeCoordinate": "-79.400995344",
+      "postalCode": "M5T 1S2",
+      "province": "Ontario",
+      "streetAddress": "289 College Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing - 281-289 College Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=708"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1564113600000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 973-2019 to designate 281-289 College Street (University-Rosedale, Ward 11) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 908,
+  "otherReferenceList": [
+    {
+      "description": "Bylaw 973-2019 - To designate the property at 281-289 College Street as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0973.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 281-289 College Street, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing - 281-289 College Street",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

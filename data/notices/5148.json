@@ -1,0 +1,49 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Sandfield Road Toronto Ontario",
+      "latitudeCoordinate": "43.7503112598",
+      "longitudeCoordinate": "-79.3744598505",
+      "postalCode": "M3B 2B5",
+      "province": "Ontario",
+      "streetAddress": "1 Sandfield Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - 1 Sandfield Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4985"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1714708800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 23 229538 NNY 15 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-law to permit seven, three-storey townhouse units, fronting onto York Mills Road, with a gross floor area of 2,629 m2, two parking spaces for each unit in rear integral garages accessed from a rear private driveway from Sandfield Road.</p>\n<p>1 Sandfield Road</p>\n<p>Ward 15 &ndash; Don Valley West</p>\n<p>Amie Chung at 416-338-3528 or <a href=\"mailto:Amie.Chung@toronto.ca\">Amie.Chung@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5148,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "23 229538 NNY 15 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - 1 Sandfield Road",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment",
+    "Planning > Proposal for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

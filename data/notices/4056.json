@@ -1,0 +1,48 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1117 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6429667198",
+      "longitudeCoordinate": "-79.4238304554",
+      "postalCode": "M6J 3X7",
+      "province": "Ontario",
+      "streetAddress": "1117 Queen Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "DEEMED WITHDRAWAL OF NOTICE OF INTENTION TO DESIGNATE THE PROPERTY – 1117 Queen Street West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3832"
+    }
+  ],
+  "contact": {
+    "city": "Toronto ",
+    "contactName": "Toronto Preservation Board",
+    "country": "Canada",
+    "emailAddress": "hertpb@toronto.ca",
+    "locationName": "2nd floor, West Tower, City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario ",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1684209600000,
+  "noticeDescription": "<p><span style=\"text-decoration: underline;\"><strong>DEEMED WITHDRAWAL OF NOTICE OF INTENTION TO DESIGNATE THE PRO</strong></span>PERTY</p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that as Council for the City of Toronto did not pass the designating by-law, the notice of intention designate the property, including the lands, buildings and structures thereon, known municipally as1117 Queen Street West under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest is deemed withdrawn in accordance with subsection 29(9) of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4056,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "IN THE MATTER OF THE ONTARIO HERITAGE ACT R.S.O. 1990, CHAPTER O.18 AND CITY OF TORONTO, PROVINCE OF ONTARIO 1117 QUEEN STREET WEST",
+  "title": "DEEMED WITHDRAWAL OF NOTICE OF INTENTION TO DESIGNATE THE PROPERTY – 1117 Queen Street West",
+  "topics": [
+    "Heritage"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

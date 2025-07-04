@@ -1,0 +1,110 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Norfolk Street Toronto Ontario",
+      "latitudeCoordinate": "43.6489396041",
+      "longitudeCoordinate": "-79.4357932265",
+      "postalCode": "M6K 2N8",
+      "province": "Ontario",
+      "streetAddress": "7 Norfolk Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Whaley Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6059942919",
+      "longitudeCoordinate": "-79.5490699015",
+      "postalCode": "M8W 2N2",
+      "province": "Ontario",
+      "streetAddress": "19 Whaley Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "39 Indian Grove Toronto Ontario",
+      "latitudeCoordinate": "43.651499205",
+      "longitudeCoordinate": "-79.456885629",
+      "postalCode": "M6R 2Y1",
+      "province": "Ontario",
+      "streetAddress": "39 Indian Grove"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "85 Bowring Walk Toronto Ontario",
+      "latitudeCoordinate": "43.7469811215",
+      "longitudeCoordinate": "-79.4535153045",
+      "postalCode": "M3H 5Z7",
+      "province": "Ontario",
+      "streetAddress": "85 Bowring Walk"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "106 Geoffrey Street Toronto Ontario",
+      "latitudeCoordinate": "43.6485195308",
+      "longitudeCoordinate": "-79.4484907014",
+      "postalCode": "M6R 1P3",
+      "province": "Ontario",
+      "streetAddress": "106 Geoffrey Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "294 Woodfield Road Toronto Ontario",
+      "latitudeCoordinate": "43.672530858",
+      "longitudeCoordinate": "-79.324538568",
+      "postalCode": "M4L 2X1",
+      "province": "Ontario",
+      "streetAddress": "294 Woodfield Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3473 Ellesmere Road Toronto Ontario",
+      "latitudeCoordinate": "43.787974979",
+      "longitudeCoordinate": "-79.180755032",
+      "postalCode": "M1C 1H4",
+      "province": "Ontario",
+      "streetAddress": "3473 Ellesmere Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3933"
+    }
+  ],
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1686283200000,
+  "noticeDescription": "<p><strong>PUBLIC NOTICE</strong></p>\n<p>&nbsp;</p>\n<p><strong>Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.</strong></p>\n<p>&nbsp;</p>\n<p>Individual bills for each of the benefitting properties listed below have been submitted for the meeting of City Council being held on June 14, 15 and 16, 2023. Review bill details (<a href=\"https://secure.toronto.ca/council/bill-bylaw.do?meeting=2023.CC7\">https://secure.toronto.ca/council/bill-bylaw.do?meeting=2023.CC7</a>).</p>\n<p>&nbsp;</p>\n<p>Each of these bills imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a href=\"https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>&nbsp;</p>\n<p>The benefitting properties are:</p>\n<ul>\n<li>7 Norfolk Street</li>\n<li>19 Whaley Drive</li>\n<li>39 Indian Grove</li>\n<li>85 Bowring Walk</li>\n<li>106 Geoffrey Street</li>\n<li>294 Woodfield Road</li>\n<li>3473 Ellesmere Road</li>\n</ul>\n<p><strong>For More Information Contact</strong></p>\n<p>City Council<br /><a href=\"mailto:councilmeeting@toronto.ca\">councilmeeting@toronto.ca</a>&nbsp;<br />Phone: 416-392-8485<br />Fax: 416-392-2980</p>\n<p>&nbsp;</p>\n<p>Toronto City Hall<br />100 Queen Street<br />Toronto, Ontario<br />M5H 2N2<br />Canada</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4142,
+  "otherReferenceList": [
+    {
+      "description": "By-law Index - City Council - June 14",
+      "url": "https://secure.toronto.ca/council/bill-bylaw.do?meeting=2023.CC7"
+    },
+    {
+      "description": "2013.EX.33.22 - Proposed Energy and Water Efficiency Initiative for the Residential Sector",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22"
+    },
+    {
+      "description": "By-Law No. 1105-2013 - To authorize the undertaking of energy efficiency and water conservation works on private\nresidential property as local improvements under the Residential Retrofit Program",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program",
+  "title": "City's Residential Retrofit Program",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

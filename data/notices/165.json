@@ -1,0 +1,52 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1477 Bayview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7028164419",
+      "longitudeCoordinate": "-79.3727531693",
+      "postalCode": "M4G 3B2",
+      "province": "Ontario",
+      "streetAddress": "1477 Bayview Avenue"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "clerk@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1528430400000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 607-2018 to amend By-law 6-87 of the former Borough of East York, being a by-law to designate the property at 1477 Bayview Avenue (Garden Court Apartments) (Don Valley West &ndash; Ward 26) under Part IV of the Ontario Heritage Act, by revising the reasons for designation to describe the property&rsquo;s cultural heritage value and heritage attributes.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 165,
+  "otherReferenceList": [
+    {
+      "description": "NY16.48 - Amendment of Designating By-law - 1477 Bayview Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2016.NY16.48"
+    },
+    {
+      "description": "By-law 607-2018 - To amend By-law 6-87 of the former Borough of East York, being a by-law to designate the property at 1477 Bayview Avenue (Garden Court Apartments) under Part IV of the Ontario Heritage Act, by revising the reasons for designation to describe the property's cultural heritage value and heritage attributes",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0607.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act  R.S.O. 1990 Chapter 0.18 and  City of Toronto, Province of Ontario, 1477 Bayview Ave.",
+  "title": "Notice of Passing of By-law - 1477 Bayview Avenue (Garden Court Apartments)",
+  "topics": [
+    "Heritage > Amendment to the designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

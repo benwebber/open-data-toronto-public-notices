@@ -1,0 +1,58 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "660 Eglinton Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.711758894",
+      "longitudeCoordinate": "-79.376210664",
+      "postalCode": "M4G 2K2",
+      "province": "Ontario",
+      "streetAddress": "660 Eglinton Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "278 Bessborough Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7119706581",
+      "longitudeCoordinate": "-79.3747841344",
+      "postalCode": "M4G 3K8",
+      "province": "Ontario",
+      "streetAddress": "278 Bessborough Drive"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 660 Eglinton Avenue East and 278 Bessborough Drive",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5881"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1740114000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 24 252497 NNY 15 OZ</p>\n<p>Application to Amend the Zoning By-law to develop three towers with a height of 32, 37 and 43 storeys.</p>\n<p>660 Eglinton Avenue East and 278 Bessborough Drive</p>\n<p>Ward 15 &ndash; Don Valley West</p>\n<p>Angela Zhao, Senior Planner at 416-338-8083 or <a href=\"mailto:Angela.Zhao@toronto.ca\">Angela.Zhao@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6004,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 252497 NNY 15 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 660 Eglinton Avenue East and 278 Bessborough Drive",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

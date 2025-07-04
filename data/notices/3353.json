@@ -1,0 +1,36 @@
+{
+  "accessibilityDescription": "Special Assistance for Members of the Public: City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-396-7287, TTY 416-338-0889 or e-mail exc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Degrassi Street & Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.659739309",
+      "longitudeCoordinate": "-79.34607739",
+      "majorIntersection": "Degrassi Street & Queen Street East",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice removal of Permit Parking on De Grassi St",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3120"
+    }
+  ],
+  "decisionBody": "Executive Committee",
+  "eventList": [],
+  "noticeDate": 1654056000000,
+  "noticeDescription": "<h1>Temporary removal of Permit Parking spaces on De Grassi Street</h1>\n<p>&nbsp;</p>\n<p>Notice is hereby given that the Executive Committee proposes to pass a by-law to temporarily remove 2 permit parking spaces on De Grassi Street, between Queen Street East and a point 30 metres further north from November 1, 2024 to June 30, 2025.<br />The meeting of the Executive Committee on June 8, 2022 at 9:30 a.m., or shortly afterwards, will be held via video conference and in person in the Council Chamber, City Hall, 100 Queen Street West.<br />To obtain additional information, submit comments or address the Executive Committee meeting on June 8, 2022, please contact the following City official no later than 12:00 p.m. on June 7, 2022:</p>\n<p>&nbsp;</p>\n<p>Julie Amoroso,</p>\n<p>Administrator, Executive Committee</p>\n<p>City Clerk's Office</p>\n<p>Toronto City Hall, 100 Queen Street West</p>\n<p>10th floor, West Tower</p>\n<p>Toronto, Ontario, M5H 2N2</p>\n<p>Telephone: 416-396-7287</p>\n<p>E-mail: <a href=\"mailto:exc@toronto.ca\">exc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><br /><strong>Notice to People Writing or Making Presentations to the Executive Committee:</strong> The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its Committees and Boards. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.<br />Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3353,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Proposal to pass a by-law to temporarily remove 2 permit parking spaces on De Grassi Street",
+  "topics": [
+    "Transportation > Intention to reduce permit parking spaces or times"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

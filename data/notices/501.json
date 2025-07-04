@@ -1,0 +1,310 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Westcroft Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7699375227",
+      "longitudeCoordinate": "-79.1923525357",
+      "province": "Ontario",
+      "streetAddress": "7 Westcroft Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Wyandot Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6267417",
+      "longitudeCoordinate": "-79.360488523",
+      "province": "Ontario",
+      "streetAddress": "7 Wyandot Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "13 Ashbury Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6901948653",
+      "longitudeCoordinate": "-79.4409839523",
+      "province": "Ontario",
+      "streetAddress": "13 Ashbury Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Orton Park Road Toronto Ontario",
+      "latitudeCoordinate": "43.7652112364",
+      "longitudeCoordinate": "-79.2054482242",
+      "province": "Ontario",
+      "streetAddress": "15 Orton Park Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 Olson Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7604972618",
+      "longitudeCoordinate": "-79.3434006512",
+      "province": "Ontario",
+      "streetAddress": "16 Olson Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "17 Simpson Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6180789841",
+      "longitudeCoordinate": "-79.5000255535",
+      "province": "Ontario",
+      "streetAddress": "17 Simpson Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "22 Sommerville Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6877358706",
+      "longitudeCoordinate": "-79.4947487419",
+      "province": "Ontario",
+      "streetAddress": "22 Sommerville Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "30 Mitchell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6452983633",
+      "longitudeCoordinate": "-79.4072306818",
+      "province": "Ontario",
+      "streetAddress": "30 Mitchell Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "37 Robbins Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.670054656",
+      "longitudeCoordinate": "-79.316762226",
+      "province": "Ontario",
+      "streetAddress": "37 Robbins Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "45 Driftwood Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7511483154",
+      "longitudeCoordinate": "-79.5114796645",
+      "province": "Ontario",
+      "streetAddress": "45 Driftwood Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "53 Symington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6588673326",
+      "longitudeCoordinate": "-79.4481559467",
+      "province": "Ontario",
+      "streetAddress": "53 Symington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "54 Allenby Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7125500841",
+      "longitudeCoordinate": "-79.5493809158",
+      "province": "Ontario",
+      "streetAddress": "54 Allenby Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "59 Fuller Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.641835763",
+      "longitudeCoordinate": "-79.4395150663",
+      "province": "Ontario",
+      "streetAddress": "59 Fuller Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "72 St Dunstan Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6945317191",
+      "longitudeCoordinate": "-79.2869357777",
+      "province": "Ontario",
+      "streetAddress": "72 St Dunstan Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "73 Spruce Hill Road Toronto Ontario",
+      "latitudeCoordinate": "43.67451177",
+      "longitudeCoordinate": "-79.289400999",
+      "province": "Ontario",
+      "streetAddress": "73 Spruce Hill Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "74 Prince Charles Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7246646832",
+      "longitudeCoordinate": "-79.4330609764",
+      "province": "Ontario",
+      "streetAddress": "74 Prince Charles Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "78 Bradworthy Court Toronto Ontario",
+      "latitudeCoordinate": "43.8030092645",
+      "longitudeCoordinate": "-79.2019690619",
+      "province": "Ontario",
+      "streetAddress": "78 Bradworthy Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "92 Holcolm Road Toronto Ontario",
+      "latitudeCoordinate": "43.7760990955",
+      "longitudeCoordinate": "-79.4218163167",
+      "province": "Ontario",
+      "streetAddress": "92 Holcolm Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "98 Waterton Road Toronto Ontario",
+      "latitudeCoordinate": "43.6960069346",
+      "longitudeCoordinate": "-79.5182202361",
+      "province": "Ontario",
+      "streetAddress": "98 Waterton Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "100 Silvio Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7141810703",
+      "longitudeCoordinate": "-79.2670429862",
+      "province": "Ontario",
+      "streetAddress": "100 Silvio Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "130 Presley Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7089019339",
+      "longitudeCoordinate": "-79.2881629098",
+      "province": "Ontario",
+      "streetAddress": "130 Presley Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "130 Riverdale Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.670171057",
+      "longitudeCoordinate": "-79.3478960815",
+      "province": "Ontario",
+      "streetAddress": "130 Riverdale Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "221 Milner Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7883475227",
+      "longitudeCoordinate": "-79.2401308981",
+      "province": "Ontario",
+      "streetAddress": "221 Milner Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "522 Main Street Toronto Ontario",
+      "latitudeCoordinate": "43.695251362",
+      "longitudeCoordinate": "-79.3052154893",
+      "province": "Ontario",
+      "streetAddress": "522 Main Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1747 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.6799944579",
+      "longitudeCoordinate": "-79.4436279322",
+      "province": "Ontario",
+      "streetAddress": "1747 Dufferin Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3950 Lawrence Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.7649205",
+      "longitudeCoordinate": "-79.204613933",
+      "province": "Ontario",
+      "streetAddress": "3950 Lawrence Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "17 Simpson Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6662107",
+      "longitudeCoordinate": "-79.3518379",
+      "postalCode": "M4K 1A1",
+      "province": "Ontario",
+      "streetAddress": "17 Simpson Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1566-1574 Avenue Road Toronto Ontario",
+      "latitudeCoordinate": "43.7239070287",
+      "longitudeCoordinate": "-79.4165383611",
+      "postalCode": "M5M 3X6",
+      "province": "Ontario",
+      "streetAddress": "1566-1574 Avenue Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=321"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Toronto City Hall, Council Chamber",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1553693400000,
+      "streetAddress": "100 Queen Street West"
+    }
+  ],
+  "noticeDate": 1553227200000,
+  "noticeDescription": "<p><strong>Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.</strong></p>\n<p>Individual bills for each of the benefitting properties listed below have been submitted for the meeting of City Council being held on March 27 and 28, 2019. Weblinks for these bills can be found <a title=\"Bills Index\" href=\"http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2019.CC5\" target=\"_blank\" rel=\"noopener\">here</a>.</p>\n<p>Each of these bills imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a title=\"Proposed Energy and Water Efficiency Initiative for the Residential Sector\" href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22\" target=\"_blank\" rel=\"noopener\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a title=\"By-law 1105-2013\" href=\"https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\" target=\"_blank\" rel=\"noopener\">By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>The benefitting properties are:</p>\n<p>&nbsp;</p>\n<table style=\"border: 1px solid black; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">7 Westcroft Drive</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">30 Mitchell Avenue</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">73 Spruce Hill Road</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">130 Riverdale Avenue</span></td>\n</tr>\n<tr>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">7 Wyandot Avenue</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">37 Robbins Avenue</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">74 Prince Charles Drive</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">221 Milner Avenue</span></td>\n</tr>\n<tr>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">13 Ashbury Avenue</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">45 Driftwood Avenue</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">78 Bradworthy Court</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">522 Main Street</span></td>\n</tr>\n<tr>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">15 Orton Park Road</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">53 Symington Avenue</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">92 Holcolm Road</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">1566-1574 Avenue Road</span></td>\n</tr>\n<tr>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">16 Olson Drive</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">54 Allenby Avenue</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">98 Waterton Road</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">1747 Dufferin Street</span></td>\n</tr>\n<tr>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">17 Simpson Avenue</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">59 Fuller Avenue</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">100 Silvio Avenue</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">3950 Lawrence Avenue East</span></td>\n</tr>\n<tr>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">22 Somerville Avenue</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">72 St Dunstan Drive</span></td>\n<td><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">130 Presley Avenue</span></td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p style=\"padding-left: 30px;\">&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 501,
+  "otherReferenceList": [
+    {
+      "description": "By-law 1105-2013 ",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf"
+    },
+    {
+      "description": "EX33.22 - Proposed Energy and Water Efficiency Initiative for the Residential Sector ",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "title": "City's Residential Retrofit Program",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

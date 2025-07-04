@@ -1,0 +1,57 @@
+{
+  "accessibilityDescription": "Special assistance for members of the public: City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-396-7287, TTY 416-338-0889 or e-mail scc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Steeles Avenue East & Redlea Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.824155236",
+      "longitudeCoordinate": "-79.30508506",
+      "majorIntersection": "Steeles Avenue East & Redlea Avenue",
+      "province": "Ontario"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Steeles Avenue East & Silver star Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.825306412",
+      "longitudeCoordinate": "-79.300079697",
+      "majorIntersection": "Steeles Avenue East & Silver star Boulevard",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "SC25.22 - Metrolinx GO Expansion - Permanent Closure of Steeles Avenue East Diversion Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2278"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Scarborough Community Council",
+    "country": "Canada",
+    "emailAddress": "scc@toronto.ca",
+    "fax": "416-396-4301",
+    "locationName": "Scarborough Civic Centre",
+    "phone": "416-396-7287",
+    "postalCode": "M1P 4N7",
+    "province": "Ontario",
+    "streetAddress": "150 Borough Drive"
+  },
+  "decisionBody": "Scarborough Community Council",
+  "eventList": [],
+  "noticeDate": 1623297600000,
+  "noticeDescription": "<p>The Council of the City of Toronto proposes to pass a by-law to permanently close portions of the public highway known as the Steeles Avenue East diversion road, between Redlea Avenue and Silver Star Boulevard, to facilitate the continued construction of the Steeles Avenue East grade separation under Metrolinx's GO Expansion program.</p>\n<p>At its meeting to be held by video conference on June 25, 2021, commencing at 9:30 a.m., the Scarborough Community Council will hear in person or by his or her counsel, agent or solicitor, any person who wishes to speak to this matter.</p>\n<p>To view a copy of the proposed by-laws and plans to close the public highway, obtain additional information, submit comments or address the Scarborough Community Council meeting on June 15, 2021, please contact the Scarborough Community Council at the number below no later than 12:00 p.m. on June 24, 2021.</p>\n<p style=\"padding-left: 40px;\">Scarborough Community Council</p>\n<p style=\"padding-left: 40px;\">City Clerk's Office</p>\n<p style=\"padding-left: 40px;\">c/o 100 Queen Street East, F2W</p>\n<p style=\"padding-left: 40px;\">Toronto&nbsp; ON&nbsp; M5H 2N2</p>\n<p style=\"padding-left: 40px;\">Telephone: 416-396-7287</p>\n<p style=\"padding-left: 40px;\">E-mail: scc@toronto.ca</p>\n<p><strong>Notice to people writing or making a presentation to the Scarborough Community Council</strong>: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>The City videotapes committee and community council meetings. If you make a presentation to a committee or community council, the City will be videotaping you and City staff may make the video tapes available to the public.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, Scarborough Civic Centre, c/o 100 Queen Street East, F2W</p>\n<p>Toronto, Ontario, M5H 2N2, or call 416-396-7287.</p>\n<p>This notice shall also constitute notice to the public of the proposed public highway closure in accordance with the requirements of the Municipal Class Environmental Assessment for Schedule A+ activities.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2430,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Proposal to pass a By-law to permanently close portions of the public highway known as the Steeles Avenue East diversion road, between Redlea Avenue and Silver Star Boulevard",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

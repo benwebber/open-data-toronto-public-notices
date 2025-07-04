@@ -1,0 +1,51 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1-87 Bredonhill Court Toronto Ontario",
+      "latitudeCoordinate": "43.722724014",
+      "longitudeCoordinate": "-79.444008956",
+      "postalCode": "M6A 2M6",
+      "province": "Ontario",
+      "streetAddress": "1-87 Bredonhill Court"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application Under the Planning Act - 1-87 Bredonhill Court",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4856"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "fax": "416-392-1879",
+    "locationName": "North York Civic Centre",
+    "phone": "416-392-4666",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1711080000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Numbers: 24 108534 NNY 08 CD &amp; 24 108552 NNY 08 CD</p>\n<p>Application for Draft Plan of Common Elements Condominium for a Private Rear Lane Driveway and Pedestrian Walkways.&nbsp;</p>\n<p>Application for Draft Plan of Standard Condominium for 40 Townhouse Dwelling Units.&nbsp;</p>\n<p>1-87 Bredonhill Court</p>\n<p>Ward 8 &ndash; Eglinton-Lawrence</p>\n<p>Assistant Planner, Paul Procopio at 416-338-3462 or <a href=\"mailto:Paul.Procopio@toronto.ca\">Paul.Procopio@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5012,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 108534 NNY 08 CD ",
+    "24 108552 NNY 08 CD"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application Under the Planning Act - 1-87 Bredonhill Court",
+  "topics": [
+    "Planning"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

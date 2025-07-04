@@ -1,0 +1,84 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "4 Alameda Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6915912939",
+      "longitudeCoordinate": "-79.4378830657",
+      "province": "Ontario",
+      "streetAddress": "4 Alameda Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "82 Howard Park Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6515298593",
+      "longitudeCoordinate": "-79.4522023456",
+      "province": "Ontario",
+      "streetAddress": "82 Howard Park Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "143 Chisholm Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6919609638",
+      "longitudeCoordinate": "-79.3044859494",
+      "province": "Ontario",
+      "streetAddress": "143 Chisholm Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "213 Nairn Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.682675693",
+      "longitudeCoordinate": "-79.4507834744",
+      "province": "Ontario",
+      "streetAddress": "213 Nairn Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3827 Lawrence Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.7620489485",
+      "longitudeCoordinate": "-79.211440469",
+      "province": "Ontario",
+      "streetAddress": "3827 Lawrence Avenue East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=501"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1557374400000,
+  "noticeDescription": "<p>Individual bills for each of the benefitting properties listed below have been submitted for the meeting of City Council being held on May 14 and 15, 2019. Review <a title=\"Bills Index\" href=\"http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2019.CC7\" target=\"_blank\" rel=\"noopener\">bill details</a>.</p>\n<p>Each of these bills imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <span style=\"text-decoration: underline;\"><a title=\"Executive Committee item EX33.22\" href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22\" target=\"_blank\" rel=\"noopener\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a></span> and enacted in <a title=\"By-law 1105-2013\" href=\"https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\" target=\"_blank\" rel=\"noopener\">By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>The benefitting properties are:</p>\n<p>-&nbsp;&nbsp;&nbsp; 4 Alameda Avenue</p>\n<p>-&nbsp;&nbsp;&nbsp; 82 Howard Park Avenue</p>\n<p>-&nbsp;&nbsp;&nbsp; 143 Chisholm Avenue</p>\n<p>-&nbsp;&nbsp;&nbsp; 213 Nairn Avenue</p>\n<p>-&nbsp;&nbsp;&nbsp; 3827 Lawrence Avenue East</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 701,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.",
+  "title": "City's Residential Retrofit Program ",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

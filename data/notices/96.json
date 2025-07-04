@@ -1,0 +1,64 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "505 Brookdale Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7257941607",
+      "longitudeCoordinate": "-79.4223697631",
+      "postalCode": "M5M 1R8",
+      "province": "Ontario",
+      "streetAddress": "505 Brookdale Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "182 Princess Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7706656372",
+      "longitudeCoordinate": "-79.4033733853",
+      "postalCode": "M2N 3R9",
+      "province": "Ontario",
+      "streetAddress": "182 Princess Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "186 Princess Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7707182152",
+      "longitudeCoordinate": "-79.4031276698",
+      "postalCode": "M2N 3R9",
+      "province": "Ontario",
+      "streetAddress": "186 Princess Avenue"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Melanie Hale-Carter",
+    "country": "Canada",
+    "emailAddress": "Melanie.Hale-Carter@toronto.ca",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-1227",
+    "postalCode": "M5V 3C5",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1521000000000,
+  "noticeDescription": "<p>1.&nbsp; On February 20, 2018, a 5.0 foot wide strip of vacant land, Part of Lot 127 on Plan 2371, Township of York Except NY110317; Toronto (North York), City of Toronto, shown as Part 1 on Sketch No. PS-2017-059. The vacant land has a total area of approximately 51.0 m&sup2; (549.0 ft&sup2;). The City proposes to invite an offer to purchase the vacant land from the adjoining owners of 505 Brookdale Avenue.</p>\n<p>2.&nbsp; On March 5, 2018, a portion of an untraveled City-owned public lane and a 0.762 metre strip of vacant land located between 182 and 186 Princess Avenue, subject to the retention of any required easements by the City. Portion of Lane on Plan 1751, Township of York, South of Empress Avenue and West of Willowdale Avenue; Lane on Plan 1609, Township of York, North of Princess Avenue and West of Willowdale Avenue; Toronto (North York), City of Toronto and shown as Part 1 Sketch No. PS-2017-003, and a 0.762 metre strip of land, shown as Part 2 on Sketch No. PS-2017-003. The untraveled public lane be declared surplus, conditional on City Council approving the permanent closure of the public lane and to authorize the invitation of an offer to purchase the public lane from the owner of 182 Princess Avenue and to authorize the invitation of an offer to purchase the strip from the owner of 186 Princess Avenue.</p>\n<p>If recommendable offers are not received from both owners for each respective Part, each of the owners be invited to submit an offer to purchase both Parts. The untraveled public lane has a total area of approximately 146 m&sup2; (1,571.58 ft&sup2;) and vacant land of approximately 17.9 m2 (192.68 ft2).</p>\n<p>The following City official has information about the proposed dispositions: Mrs. Melanie Hale-Carter, Tel: 416-392-1227, Fax: 416-392-1880, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 27th day of March, 2018.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 96,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Notice is hereby given that in accordance with the City of Toronto’s real estate disposal by-law, the following properties were declared surplus:",
+  "title": "Declaration of Multiple Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

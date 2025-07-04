@@ -1,0 +1,62 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10A Eastern Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.653112451",
+      "longitudeCoordinate": "-79.36073322",
+      "province": "Ontario",
+      "streetAddress": "10A Eastern Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 Eastern Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.653015948",
+      "longitudeCoordinate": "-79.360291647",
+      "postalCode": "M5A 1H4",
+      "province": "Ontario",
+      "streetAddress": "16 Eastern Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Proposal to Pass a By-law to Permanently Close the Public Laneway located between 10A Eastern Avenue - 16 Eastern Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5823"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1738904400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>CITY OF TORONTO ACT, 2006, PUBLIC NOTICE</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">Toronto and East York Community Council Area</span></strong></p>\n<p>&nbsp;</p>\n<p>The Council of the City of Toronto proposes to pass a by-law to permanently close the following:</p>\n<p>&nbsp;</p>\n<p>1. The public laneway located between 10A Eastern Avenue and 16 Eastern Avenue, legally described as follows:&nbsp;</p>\n<p>&nbsp;</p>\n<p>PIN 21079-0106 (LT)</p>\n<p>PT LANE ON PL 242E TORONTO SOUTH OF THE LANDS DESCRIBED IN ES67802 &amp; WEST OF THE LANDS DESCRIBED IN CT680499 (TENTHLY DESCRIBED); PT LT 5 &amp; 7 ON PL 242E TORONTO AS IN ES12750, DESIGNATED AS PART 5 ON 66R-32512, CITY OF TORONTO</p>\n<p>&nbsp;</p>\n<p>At its meeting to be held in Committee Room 1, Toronto City Hall, 100 Queen Street West on February 20, 2025, at 9:30 a.m. or shortly afterwards, the Toronto and East York Community Council will hear from, or by their counsel, agent or solicitor, any person who wishes to speak to this matter.</p>\n<p>&nbsp;</p>\n<p>This meeting of the Toronto and East York Community Council will be held with members participating in person and remotely, and the proceedings of the Toronto and East York Community Council will be conducted publicly.</p>\n<p>&nbsp;</p>\n<p>To obtain additional information, including to view a copy of the proposed by-law and plan, please review Item TE20.4 on the Community Council agenda at <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2025.TE20.4\">https://secure.toronto.ca/council/agenda-item.do?item=2025.TE20.4</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p>To submit comments or address the Toronto and East York Community Council meeting on February 20, 2025, please contact the following City official no later than 12:00 p.m. on February 19, 2025:</p>\n<p>&nbsp;</p>\n<p>Administrator, Toronto and East York Community Council</p>\n<p>City Clerk&rsquo;s Office</p>\n<p>Toronto City Hall</p>\n<p>100 Queen St. W., 2nd Floor, West</p>\n<p>Toronto, ON M5H 2N2</p>\n<p>Telephone: 416-392-7033; Fax: 416-392-2980</p>\n<p>E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance for Members of the Public:</strong> &nbsp;City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Notice to people writing or making presentations to the Toronto and East York Community Council:</strong> The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5947,
+  "otherReferenceList": [
+    {
+      "description": "2025.TE20.4 - Permanent Closure of the Public Laneway between 10A Eastern Avenue and 16 Eastern Avenue",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2025.TE20.4"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Proposal to Pass a By-law to Permanently Close the Public Laneway located between 10A Eastern Avenue - 16 Eastern Avenue",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

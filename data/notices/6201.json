@@ -1,0 +1,47 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Montesson Street Toronto Ontario",
+      "latitudeCoordinate": "43.638675197264725",
+      "longitudeCoordinate": "-79.5415672619254",
+      "province": "Ontario",
+      "streetAddress": "Montesson Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Proposal to Pass a By-law to Permanently Close Part of the Public Highway - Montesson Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6099"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke York Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Etobicoke Civic Centre",
+    "phone": "416-397-4579",
+    "postalCode": "M9C 2Y2",
+    "province": "Ontario",
+    "streetAddress": "399 The West Mall"
+  },
+  "decisionBody": "Etobicoke York Community Council",
+  "eventList": [],
+  "noticeDate": 1744776000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>CITY OF TORONTO ACT, 2006, PUBLIC NOTICE</strong></p>\n<p style=\"text-align: center;\"><br /><span style=\"text-decoration: underline;\"><strong>Etobicoke York Community Council Area</strong></span></p>\n<p style=\"text-align: left;\"><br />The Council of the City of Toronto proposes to pass a by-law to permanently close the following:</p>\n<p style=\"text-align: left;\"><br />1.Part of the public highway known as Montesson Street, legally described as follows:</p>\n<p style=\"text-align: left;\"><br />PIN 07541-0065 (LT)</p>\n<p style=\"text-align: left;\">PART OF FREDRICK STREET (KNOWN AS MONTESSON STREET),</p>\n<p style=\"text-align: left;\">REGISTERED PLAN 2384, DESIGNATED AS PART 2, PLAN 66R-34439</p>\n<p style=\"text-align: left;\">City of Toronto and Province of Ontario</p>\n<p style=\"text-align: left;\">Land Titles Division of the Toronto Registry Office (No. 66)</p>\n<p style=\"text-align: left;\"><br />At its meeting to be held in the Council Chamber, Etobicoke Civic Centre, 399 The West Mall on April 30, 2025 at 9:30 a.m., or shortly afterwards, the Etobicoke York Community Council will hear from, or by their counsel, agent or solicitor, any person who wishes to speak to this matter.</p>\n<p style=\"text-align: left;\"><br />The meeting of the Etobicoke York Community Council will be held with members participating in person and remotely, and the proceedings of the Etobicoke York Community Council will be conducted publicly.</p>\n<p style=\"text-align: left;\"><br />To obtain additional information, including to view a copy of the proposed by-law and plan to close a portion of Montesson Street please review Item EY22.18 on the Community Council's agenda at <a href=\"https://secure.toronto.ca/council/agendaitem.do?item=2025.EY22.18\">https://secure.toronto.ca/council/agendaitem.do?item=2025.EY22.18</a>.</p>\n<p style=\"text-align: left;\"><br />To submit comments or address the Etobicoke York Community Council meeting on April 30, 2025 either in-person or by video conference or by phone, please contact the City Clerk's Office no later than 12:00 p.m. on April 29, 2025:</p>\n<p style=\"text-align: left; padding-left: 40px;\"><br />Administrator, Etobicoke York Community Council<br />City Clerk's Office<br />Telephone: 416-397-4579; Fax: 416-392-2980<br />E-mail: <a href=\"mailto:etcc@toronto.ca\">etcc@toronto.ca</a></p>\n<p style=\"text-align: left; padding-left: 40px;\"><br />Mail: Etobicoke York Community Council<br />c/o Toronto City Hall, 100 Queen Street West, 2nd Floor<br />Toronto, Ontario M5H 2N2</p>\n<p style=\"text-align: left;\"><br /><strong>Special Assistance for Members of the Public:</strong> City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-397-4579, TTY 416-338-0889 or e-mail <a href=\"mailto:etcc@toronto.ca\">etcc@toronto.ca</a>.</p>\n<p style=\"text-align: left;\"><br />Notice to people writing or making presentations to the Etobicoke York Community Council: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p style=\"text-align: left;\"><br />Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p style=\"text-align: left;\"><br />This notice shall also constitute notice to the public of the proposed public highway closure in accordance with the requirements of the Municipal Class Environmental Assessment for Schedule A+ activities.</p>\n<p style=\"text-align: left;\">&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6201,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Proposal to Pass a By-law to Permanently Close Part of the Public Highway - Montesson Street",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

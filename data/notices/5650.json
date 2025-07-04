@@ -1,0 +1,371 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Birchcrest Court Toronto Ontario",
+      "latitudeCoordinate": "43.797387158",
+      "longitudeCoordinate": "-79.320799637",
+      "postalCode": "M1W 4A4",
+      "province": "Ontario",
+      "streetAddress": "5 Birchcrest Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Wilberton Road Toronto Ontario",
+      "latitudeCoordinate": "43.694798378",
+      "longitudeCoordinate": "-79.399918252",
+      "postalCode": "M4V 1Z2",
+      "province": "Ontario",
+      "streetAddress": "7 Wilberton Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 Humbercrest Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.654536251",
+      "longitudeCoordinate": "-79.49266335",
+      "postalCode": "M6S 4K7",
+      "province": "Ontario",
+      "streetAddress": "16 Humbercrest Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Summerhill Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.684713678",
+      "longitudeCoordinate": "-79.387177933",
+      "postalCode": "M4T 1B3",
+      "province": "Ontario",
+      "streetAddress": "19 Summerhill Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "20 Chandler Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7631737782",
+      "longitudeCoordinate": "-79.2209879353",
+      "postalCode": "M1G 1Z2",
+      "province": "Ontario",
+      "streetAddress": "20 Chandler Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "21 Sandyhook Square Toronto Ontario",
+      "latitudeCoordinate": "43.8179590267",
+      "longitudeCoordinate": "-79.3205211294",
+      "postalCode": "M1W 3N6",
+      "province": "Ontario",
+      "streetAddress": "21 Sandyhook Square"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "26 Columbine Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.671499017",
+      "longitudeCoordinate": "-79.309128468",
+      "postalCode": "M4L 1P3",
+      "province": "Ontario",
+      "streetAddress": "26 Columbine Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "26 Concord Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.655114997",
+      "longitudeCoordinate": "-79.424595141",
+      "postalCode": "M6H 2P1",
+      "province": "Ontario",
+      "streetAddress": "26 Concord Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "26 Easton Road Toronto Ontario",
+      "latitudeCoordinate": "43.7557109368",
+      "longitudeCoordinate": "-79.4249827549",
+      "postalCode": "M2N 2L3",
+      "province": "Ontario",
+      "streetAddress": "26 Easton Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "36 Manchester Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6675621984",
+      "longitudeCoordinate": "-79.4269658167",
+      "postalCode": "M6G 1V3",
+      "province": "Ontario",
+      "streetAddress": "36 Manchester Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "45 Manorglen Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7794013368",
+      "longitudeCoordinate": "-79.2722922526",
+      "postalCode": "M1S 1W3",
+      "province": "Ontario",
+      "streetAddress": "45 Manorglen Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "47 Fermanagh Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.646735292",
+      "longitudeCoordinate": "-79.4459110366",
+      "postalCode": "M6R 1M1",
+      "province": "Ontario",
+      "streetAddress": "47 Fermanagh Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "58 St Andrews Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.6860369272",
+      "longitudeCoordinate": "-79.3738071577",
+      "postalCode": "M4W 2E1",
+      "province": "Ontario",
+      "streetAddress": "58 St Andrews Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "62 Marlow Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6855660457",
+      "longitudeCoordinate": "-79.3386420838",
+      "postalCode": "M4J 3T9",
+      "province": "Ontario",
+      "streetAddress": "62 Marlow Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "88 Ridge Hill Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7018543949",
+      "longitudeCoordinate": "-79.4352387576",
+      "postalCode": "M6C 2J8",
+      "province": "Ontario",
+      "streetAddress": "88 Ridge Hill Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "89 Lindsey Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6530881",
+      "longitudeCoordinate": "-79.434030252",
+      "postalCode": "M6H 1E4",
+      "province": "Ontario",
+      "streetAddress": "89 Lindsey Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "91 Colin Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.701896676",
+      "longitudeCoordinate": "-79.400602082",
+      "postalCode": "M5P 2C1",
+      "province": "Ontario",
+      "streetAddress": "91 Colin Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "105 Cleveland Street Toronto Ontario",
+      "latitudeCoordinate": "43.7030563064",
+      "longitudeCoordinate": "-79.3776103295",
+      "postalCode": "M4S 2W4",
+      "province": "Ontario",
+      "streetAddress": "105 Cleveland Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "113 Coleman Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6903580014",
+      "longitudeCoordinate": "-79.2962302197",
+      "postalCode": "M4C 1P9",
+      "province": "Ontario",
+      "streetAddress": "113 Coleman Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "118 Mimico Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.612886834",
+      "longitudeCoordinate": "-79.494697575",
+      "postalCode": "M8V 1R5",
+      "province": "Ontario",
+      "streetAddress": "118 Mimico Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "148 Blythwood Road Toronto Ontario",
+      "latitudeCoordinate": "43.717822775",
+      "longitudeCoordinate": "-79.395990227",
+      "postalCode": "M4N 1A4",
+      "province": "Ontario",
+      "streetAddress": "148 Blythwood Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "165 Old Orchard Grove Toronto Ontario",
+      "latitudeCoordinate": "43.7331664467",
+      "longitudeCoordinate": "-79.4114704871",
+      "postalCode": "M5M 2E1",
+      "province": "Ontario",
+      "streetAddress": "165 Old Orchard Grove"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "188 Atlas Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6869958203",
+      "longitudeCoordinate": "-79.4335083972",
+      "postalCode": "M6C 3P7",
+      "province": "Ontario",
+      "streetAddress": "188 Atlas Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "190 Atlas Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6870378132",
+      "longitudeCoordinate": "-79.4335264277",
+      "postalCode": "M6C 3P7",
+      "province": "Ontario",
+      "streetAddress": "190 Atlas Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "190 Parkview Hill Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7076613452",
+      "longitudeCoordinate": "-79.3250585041",
+      "postalCode": "M4B 1R8",
+      "province": "Ontario",
+      "streetAddress": "190 Parkview Hill Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "193 Palmerston Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.653108572",
+      "longitudeCoordinate": "-79.40877933",
+      "postalCode": "M6J 2J3",
+      "province": "Ontario",
+      "streetAddress": "193 Palmerston Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "218 Concord Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.659798058",
+      "longitudeCoordinate": "-79.426391399",
+      "postalCode": "M6H 2P5",
+      "province": "Ontario",
+      "streetAddress": "218 Concord Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "321 Churchill Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7680919943",
+      "longitudeCoordinate": "-79.4366492785",
+      "postalCode": "M2R 1E6",
+      "province": "Ontario",
+      "streetAddress": "321 Churchill Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "423 Millwood Road Toronto Ontario",
+      "latitudeCoordinate": "43.7021744519",
+      "longitudeCoordinate": "-79.3839030036",
+      "postalCode": "M4S 1K3",
+      "province": "Ontario",
+      "streetAddress": "423 Millwood Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "428 Hounslow Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7712280588",
+      "longitudeCoordinate": "-79.4350237494",
+      "postalCode": "M2R 1H6",
+      "province": "Ontario",
+      "streetAddress": "428 Hounslow Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "556 Clinton Street Toronto Ontario",
+      "latitudeCoordinate": "43.669452606",
+      "longitudeCoordinate": "-79.41962618",
+      "postalCode": "M6G 2Z6",
+      "province": "Ontario",
+      "streetAddress": "556 Clinton Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "674 Crawford Street Toronto Ontario",
+      "latitudeCoordinate": "43.661394458",
+      "longitudeCoordinate": "-79.42185366",
+      "postalCode": "M6G 3K2",
+      "province": "Ontario",
+      "streetAddress": "674 Crawford Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5507"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-8485",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1729828800000,
+  "noticeDescription": "<p><strong>City's Residential Retrofit Program</strong></p>\n<p>&nbsp;</p>\n<p><strong>PUBLIC NOTICE</strong></p>\n<p>&nbsp;</p>\n<p><strong>Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.</strong></p>\n<p>&nbsp;</p>\n<p>Individual by-laws for each of the benefitting properties listed below have been enacted for the meeting of City Council held on October 9 and 10, 2024. Review by-law details (<a href=\"https://secure.toronto.ca/council/bill-bylaw.do?meeting=2024.CC22\">https://secure.toronto.ca/council/bill-bylaw.do?meeting=2024.CC22</a>).</p>\n<p>&nbsp;</p>\n<p>Each of these by-laws imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a href=\"https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>&nbsp;</p>\n<p>The benefitting properties are:</p>\n<ul>\n<li>5 Birchcrest Court</li>\n<li>7 Wilberton Road</li>\n<li>16 Humbercrest Boulevard</li>\n<li>19 Summerhill Gardens</li>\n<li>20 Chandler Drive</li>\n<li>21 Sandyhook Square</li>\n<li>26 Columbine Avenue</li>\n<li>26 Concord Avenue</li>\n<li>26 Easton Road</li>\n<li>36 Manchester Avenue</li>\n<li>45 Manorglen Crescent</li>\n<li>47 Fermanagh Avenue</li>\n<li>58 St. Andrews Gardens</li>\n<li>62 Marlow Avenue</li>\n<li>88 Ridge Hill Drive</li>\n<li>89 Lindsey Avenue</li>\n<li>91 Colin Avenue</li>\n<li>105 Cleveland Street</li>\n<li>113 Coleman Avenue</li>\n<li>118 Mimico Avenue</li>\n<li>148 Blythwood Road</li>\n<li>165 Old Orchard Grove</li>\n<li>188 Atlas Avenue</li>\n<li>190 Atlas Avenue</li>\n<li>190 Parkview Hill Crescent</li>\n<li>193 Palmerston Avenue</li>\n<li>218 Concord Avenue</li>\n<li>321 Churchill Avenue</li>\n<li>423 Millwood Road</li>\n<li>428 Hounslow Avenue</li>\n<li>556 Clinton Street</li>\n<li>674 Crawford Street</li>\n</ul>\n<p><strong>For More Information Contact</strong></p>\n<p>City Council<br /><a href=\"mailto:councilmeeting@toronto.ca\">councilmeeting@toronto.ca</a><br />Phone: 416-392-8485<br />Fax: 416-392-2980</p>\n<p>&nbsp;</p>\n<p>Toronto City Hall<br />100 Queen Street<br />Toronto, Ontario<br />M5H 2N2<br />Canada</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5650,
+  "otherReferenceList": [
+    {
+      "description": "By-law Index October 9,10, 2024",
+      "url": "https://secure.toronto.ca/council/bill-bylaw.do?meeting=2024.CC22"
+    },
+    {
+      "description": "Item - 2013.EX33.22",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22"
+    },
+    {
+      "description": "BY-LAW No. 1105-2013 - To authorize the undertaking of energy efficiency and water conservation works on private residential property as local improvements under the Residential Retrofit Program.\n",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "City's Residential Retrofit Program ",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

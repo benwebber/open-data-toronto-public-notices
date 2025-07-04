@@ -1,0 +1,59 @@
+{
+  "accessibilityDescription": "City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail teycc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Barton Avenue & Clinton Street Toronto Ontario",
+      "latitudeCoordinate": "43.666812828",
+      "longitudeCoordinate": "-79.418408446",
+      "majorIntersection": "Barton Avenue & Clinton Street",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Committee Room One, Toronto City Hall",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1570714200000,
+      "streetAddress": "100 Queen Street West"
+    }
+  ],
+  "noticeDate": 1569902400000,
+  "noticeDescription": "<p>Notice is given that the City of Toronto will consider whether to pass a by-law to authorize the naming of a public lane in the Toronto and East York Community Council Area.&nbsp;</p>\n<p>To consider a proposal to name a public lane located south of Barton Avenue, extending easterly from Clinton Street as \"Miriam Garfinkle Lane\".</p>\n<p>The plan showing the lands to be affected may be seen in the City Clerk's Office, Secretariat, 2nd Floor, West Tower, Toronto City Hall, 100 Queen Street West, between the hours of 8:30 a.m. and 4:30 p.m. Monday to Friday. At its meeting to be held in Committee Room 1, 2nd floor, Toronto City Hall, 100 Queen Street West, on October 10, 2019, at 9:30 a.m., or shortly afterwards, the Toronto and East York Community Council will hear in person or by his or her counsel, agent or solicitor, any person who claims that his or her lands will be prejudicially affected by the naming and who applies to be heard with respect to the proposed naming.</p>\n<p><strong>Notice to People writing or making presentations to the Toronto and East York Community Council:&nbsp;</strong> The personal information contained in your correspondence to Toronto City Council or its committees is collected under the City of Toronto Act, 2006, and the City of Toronto Municipal Code Chapter 27 &ndash; Council Procedures, section 27-21. Any personal information will become part of the public record and may be posted on the City's website, unless you expressly request the removal of personal identity information. Questions about the collection of this information may be directed to the City Clerk's office at 416-392-7033.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast.&nbsp; Video broadcasts are archived and continue to be publicly available.</p>\n<p>To obtain additional information, submit comments or address the Toronto and East York Community Council meeting on October 10, 2019, please contact the Toronto and East York Community Council no later than 4:30 p.m. on October 9, 2019.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1166,
+  "otherReferenceList": [
+    {
+      "description": "TE9.1 - Naming of an existing Public Lane south of Barton Avenue, extending easterly from Clinton Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE9.1"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Notice is given that the City of Toronto will consider whether to pass a by-law to authorize the Naming of a public lane in the Toronto and East York Community Council Area",
+  "title": "Naming of a Public Lane located south of Barton Avenue, extending easterly from Clinton Street as \"Miriam Garfinkle Lane\"",
+  "topics": [
+    "Transportation > Intention to name a road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

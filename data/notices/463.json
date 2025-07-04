@@ -1,0 +1,67 @@
+{
+  "accessibilityDescription": "Special assistance for members of the public: City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-394-8101, TTY 416-398-0889 or e-mail etcc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3819 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6412666729",
+      "longitudeCoordinate": "-79.5368872228",
+      "province": "Ontario",
+      "streetAddress": "3819 Bloor Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Proposal to pass a By-law to permanently close the portion of Dundas Street West abutting 3819 Bloor Street West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=283"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke York Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "fax": "416-394-5600",
+    "locationName": "Etobicoke Civic Centre",
+    "phone": "416-392-8016",
+    "postalCode": "M9C 2Y2",
+    "province": "Ontario",
+    "streetAddress": "399 The West Mall"
+  },
+  "decisionBody": "Etobicoke York Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Council Chamber, Etobicoke Civic Centre",
+      "postalCode": "M9C 2Y2",
+      "province": "Ontario",
+      "startDateTime": 1553002200000,
+      "streetAddress": "399 The Well Mall"
+    }
+  ],
+  "noticeDate": 1552021200000,
+  "noticeDescription": "<p>The Council of the City of Toronto proposes to pass a by-law to permanently close the portion of Dundas Street West abutting 3819 Bloor Street West, designated as Parts 3 and 4 on Plan 66R-30521, City of Toronto (former City of Etobicoke).</p>\n<p>At its meeting to be held in the Etobicoke Civic Centre on March 19, 2019, commencing at 9:30 a.m., the Etobicoke York Community Council will hear in person or by his or her counsel, agent or solicitor, any person who wishes to speak to this matter.</p>\n<p>To view a copy of the proposed by-law and plan to close the portion of public highway lands abutting 3819 Bloor Street West, obtain additional information, submit comments or address the Etobicoke York Community Council meeting on March 19, 2019, please contact the Etobicoke Community Council no later than 12:00 p.m. on March 18, 2019.</p>\n<p><strong>Notice to people writing or making a presentation to the Etobicoke York Community Council</strong>:&nbsp; The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>The City videotapes committee and community council meetings. If you make a presentation to a committee or community council, the City will be videotaping you and City staff may make the video tapes available to the public.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, Etobicoke Civic Centre, Main Floor, 399 The West Mall, Toronto, Ontario, M9C 2Y2.</p>\n<p>This notice shall also constitute notice to the public of the proposed public highway closure in accordance with the requirements of the Municipal Class Environmental Assessment for Schedule A+ activities.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 463,
+  "otherReferenceList": [
+    {
+      "description": "EY4.8 - Permanent Closure of Portion of Dundas Street West abutting 3819 Bloor Street West",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.EY4.8"
+    },
+    {
+      "description": "Bylaw 488-2019 - To permanently close a portion of Dundas Street West abutting 3819 Bloor Street West",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0488.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Proposed by-law to Permanently Close the Portion of Dundas Street West abutting 3819 Bloor Street West",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

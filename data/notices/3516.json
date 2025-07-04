@@ -1,0 +1,64 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "14 Duncan Street Toronto Ontario",
+      "latitudeCoordinate": "43.6476554118",
+      "longitudeCoordinate": "-79.3887528954",
+      "postalCode": "M5H 3G8",
+      "province": "Ontario",
+      "streetAddress": "14 Duncan Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "180 Pearl Street Toronto Ontario",
+      "latitudeCoordinate": "43.6476172445",
+      "longitudeCoordinate": "-79.3888869772",
+      "province": "Ontario",
+      "streetAddress": "180 Pearl Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "184 Pearl Street Toronto Ontario",
+      "latitudeCoordinate": "43.6475422285",
+      "longitudeCoordinate": "-79.3891784915",
+      "postalCode": "M5H 1L5",
+      "province": "Ontario",
+      "streetAddress": "184 Pearl Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "188 Pearl Street Toronto Ontario",
+      "latitudeCoordinate": "43.6474691622",
+      "longitudeCoordinate": "-79.3895589533",
+      "province": "Ontario",
+      "streetAddress": "188 Pearl Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Web - Notice of Passing - 14 Duncan St",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3283"
+    }
+  ],
+  "decisionBody": "Planning and Housing Committee",
+  "eventList": [],
+  "noticeDate": 1657684800000,
+  "noticeDescription": "<p style=\"text-align: center;\">IN THE MATTER OF THE ONTARIO HERITAGE ACT</p>\n<p style=\"text-align: center;\">R.S.O. 1990, CHAPTER O.18 AND</p>\n<p style=\"text-align: center;\">CITY OF TORONTO, PROVINCE OF ONTARIO</p>\n<p style=\"text-align: center;\">14 DUNCAN STREET (including entrance addresses at 180, 184, and 188 Pearl Street)</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">NOTICE OF PASSING OF DESIGNATION BY-LAW 567-2022</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that Council for the City of Toronto passed Designation By-law 567-2022 on June 15 and 16, 2022, which designates the lands, buildings and structures known municipally as 14 Duncan Street (including entrance addresses at 180, 184, and 188 Pearl Street) under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest.</p>\n<p>&nbsp;</p>\n<p>The City Clerk did not receive any objections to the Notice of Intention to Designate the Property. Therefore, City Council did not consider any objections and passed the Designation By-law for the Property.</p>\n<p>&nbsp;</p>\n<p>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal of the Designation by-law for the Property by those persons permitted to appeal under section 29 of the Ontario Heritage Act may be made by filing a notice of appeal with the City Clerk, Attention: Administrator, Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2; Email: <a href=\"mailto:hertpb@toronto.ca\">hertpb@toronto.ca</a> within thirty days of July 13, 2022, which is August 12, 2022.</p>\n<p>&nbsp;</p>\n<p>A Notice of Appeal must:</p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the objection to the designation by-law; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons in support of the objection to the designation by-law.</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT), forms are available from the Ontario Land Tribunal website at <a href=\"https://olt.gov.on.ca\">https://olt.gov.on.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Who Can File An Appeal:</p>\n<p>&nbsp;</p>\n<p>Any persons who object to the designation by-law may refer the matter to the Ontario Land Tribunal.</p>\n<p>&nbsp;</p>\n<p>Getting Additional Information:</p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application is available for public inspection by contacting Heritage Planning staff at <a href=\"mailto:heritageplanning@toronto.ca\">heritageplanning@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Further information in respect of the Designation By-law is available from the City of Toronto at:</p>\n<p>&nbsp;</p>\n<p><a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.PH32.12\">http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.PH32.12</a></p>\n<p>&nbsp;</p>\n<p>Dated at the City of Toronto on July 13, 2022.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>John D. Elvidge</p>\n<p>City Clerk</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3516,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Passing Designation of By-law 567-2022 - 14 Duncan Street (including entrance addresses at 180, 184, and 188 Pearl Street)",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

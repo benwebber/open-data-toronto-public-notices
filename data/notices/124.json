@@ -1,0 +1,50 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Planning and Growth Management Committee",
+    "country": "Canada",
+    "emailAddress": "pgmc@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "phone": "416-397-4579",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Planning and Growth Management Committee",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Planning and Growth Management Committee, Toronto City Hall, 2nd Floor, Committee Room 1",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1522935000000,
+      "streetAddress": "100 Queen Street West"
+    }
+  ],
+  "noticeDate": 1522036800000,
+  "noticeDescription": "<p>Notice is given that the Chief Building Official and Executive Director, Toronto Building, is reporting on a staff-initiated amendment to Municipal Code Chapter 694, Signs, General (the &ldquo;Sign By-law&rdquo;), to amend the Sign By-law to expand the permissions for first-party signs in Residential Apartment (RA) Sign Districts throughout the city.</p>\n<p>The proposed amendment seeks to delete the requirement that first party signs in Residential Apartment Sign Districts be used exclusively to identify or direct people towards apartment buildings, so that all types of first party sign copy may be displayed on signs currently permitted in Residential Apartment Sign Districts.</p>\n<p>At its meeting to be held in Toronto City Hall, Committee Room 1, on April 5, 2018 commencing at 10:00 a.m., or as soon as possible thereafter, the Planning and Growth Management Committee of Toronto City Council will hear in person or by his or her counsel, agent or solicitor, any person who wishes to speak to the matter.</p>\n<p>To obtain or view a copy of the report outlining the proposed amendments, you may view the Planning and Growth Management Committee agenda item, as of March 27 2018. To submit comments or make a presentation to the Planning and Growth Management Committee, please notify the City Clerk, attention: Nancy Martins, Administrator, Planning and Growth Management Committee, Toronto City Hall, 100 Queen Street West, 10th Floor, West Tower, Toronto, ON M5H 2N2, or call 416 397-4579, or e-mail pgmc@toronto.ca, by no later than 12:00 p.m. on April 4, 2018.</p>\n<p>To ask questions regarding the content of the report, contact: Robert Bader, Supervisor, Sign By-law Unit, Toronto Building, 100 Queen Street West, Ground Floor, East Tower, Toronto ON M5H 2N2, Telephone: 416-392-4113 or Ted Van Vliet, Manager, Sign By-law Unit, Toronto Building, 100 Queen Street West, Ground Floor, East Tower, Toronto ON M5H 2N2, Telephone: 416-392-4235.</p>\n<p>Any comments received after the Committee meeting will be processed to Council.</p>\n<p>If this matter is deferred at the Committee meeting or Council meeting or considered at a subsequent Committee or Council meeting, no additional notice will be provided other than the information on the subsequent Committee or Council agenda. Please contact the above City officials if you require notice in these cases.</p>\n<p>People writing or making presentations at the public meeting: The City of Toronto Act, 2006, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available. Direct any questions about this collection to the City Clerk&rsquo;s Office at 416-397-4579.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 124,
+  "otherReferenceList": [
+    {
+      "description": "PG28.2 - Amendment to the Sign By-law for Residential Apartment (\"RA\") Sign Districts",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.PG28.2"
+    },
+    {
+      "description": "By-law 657-2018 - To amend City of Toronto Municipal Code Chapter 694, Signs, General, to modify the regulations concerning first party signs located in RA Sign Districts",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0657.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Amendment to the Sign By-law for Residential Apartment Sign Districts",
+  "topics": [
+    "Signs > Proposal to amend a signs chapter of the Municipal Code"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-signs.png"
+  ]
+}

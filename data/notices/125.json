@@ -1,0 +1,53 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Public Works and Infrastructure Committee",
+    "country": "Canada",
+    "emailAddress": "pwic@toronto.ca",
+    "fax": "416-392-1879",
+    "locationName": "Toronto City Hall, 10th Floor, West Tower",
+    "phone": "416-397-4579",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Public Works and Infrastructure Committee, Toronto City Hall, 2nd Floor, Committee Room 1",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1523453400000,
+      "streetAddress": "100 Queen Street West"
+    }
+  ],
+  "noticeDate": 1523592000000,
+  "noticeDescription": "<p>At its meeting to be held in Committee Room 1, Toronto City Hall, 100 Queen Street West, on April 11, 2018 beginning at 9:30 a.m., or as soon as possible thereafter, the Public Works and Infrastructure Committee will consider an <a title=\"Item PW28.11 - Revised Free-Floating Car-Share Pilot and Interim Policy\" href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.PW28.11\">Item</a> which contains a recommendation that may result in amendments to City of Toronto Municipal Code Chapter 441, Fees and Charges.</p>\n<p>It is proposed that the by-law(s) be adopted at the City Council meeting to be held on April 24, 2018 or at a subsequent meeting.</p>\n<p>The report from the General Manager, Transportation Services, titled &ldquo;<a title=\"Item PW28.11 - Revised Free-Floating Car-Share Pilot and Interim Policy\" href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.PW28.11\">Revised Free-Floating Car-Share Pilot and Interim Policy</a>&rdquo; includes the following recommendation:</p>\n<p>&ldquo;City Council amend City of Toronto Municipal Code Chapter 441, Fees and Charges, to allow car-share companies to utilize the Car-share Vehicle Parking Area Tier 2 annualized permit fee ($1,499.02 annually plus HST in 2017) for free-floating car-share vehicles in accordance with the interim policy outlined within Attachment 1 and 2 of this report.&rdquo;</p>\n<p>If approved by City Council, City of Toronto Municipal Code Chapter 441, Fees and Charges will require amendment.</p>\n<p>To view or obtain a copy of the report that outlines the proposed fee changes and related amendments to City of Toronto Municipal Code Chapter 441, Fees and Charges, <a title=\"Item PW28.11 - Revised Free-Floating Car-Share Pilot and Interim Policy\" href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.PW28.11\">visit the City&rsquo;s website</a> after April 4, 2018.</p>\n<p>To submit comments or make a presentation to the Public Works and Infrastructure Committee on April 11, 2018, please contact the Committee no later than 12 p.m. on April 10, 2018:</p>\n<p style=\"padding-left: 30px;\">Public Works and Infrastructure Committee</p>\n<p style=\"padding-left: 30px;\">Toronto City Hall</p>\n<p style=\"padding-left: 30px;\">100 Queen Street West, 10th Floor, West Tower</p>\n<p style=\"padding-left: 30px;\">Toronto, ON M5H 2N2</p>\n<p style=\"padding-left: 30px;\">Telephone: 416-397-4579</p>\n<p style=\"padding-left: 30px;\">Fax: 416-392-1879</p>\n<p style=\"padding-left: 30px;\">Email: <a href=\"mailto:pwic@toronto.ca\">pwic@toronto.ca</a></p>\n<p>To ask questions regarding the content of the report contact:</p>\n<p style=\"padding-left: 30px;\">Jacquelyn Hayward Gulati</p>\n<p style=\"padding-left: 30px;\">Acting Director, Transportation Infrastructure Management</p>\n<p style=\"padding-left: 30px;\">Transportation Services</p>\n<p style=\"padding-left: 30px;\">Telephone: 416-392-5348</p>\n<p style=\"padding-left: 30px;\">Email: <a href=\"mailto:Jacquelyn.HaywardGulati@toronto.ca\">Jacquelyn.HaywardGulati@toronto.ca</a></p>\n<p>Any comments received after the Committee meeting will be forwarded to Council.</p>\n<p>While the staff report sets out proposed changes, the Committee and/or City Council may make amendments and may adopt a fee that differs from the recommendations set out in the report.</p>\n<p>If this matter is postponed at the Committee meeting or Council meeting or considered at a subsequent Committee or Council meeting, no additional notice will be provided other than the information on the subsequent Committee or Council agenda. Please contact the above City officials if you require notice in these cases.</p>\n<p>The Public Works and Infrastructure Committee will make its final recommendations on April 11, 2018, which will be forwarded to City Council at its meeting on April 24, 2018.</p>\n<p><strong>Notice to people writing or making presentations to the Government Management Committee:</strong> The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk&rsquo;s Office, City Hall, 100 Queen Street West, Toronto ON M5H 2N2 or by calling 416-397-4579.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 125,
+  "otherReferenceList": [
+    {
+      "description": "Item PW28.11 - Revised Free-Floating Car-Share Pilot and Interim Policy",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.PW28.11"
+    },
+    {
+      "description": "By-law 635-2018 - To amend City of Toronto Municipal Code Chapter 925, Permit Parking, and City of Toronto Municipal Code Chapter 950, Traffic and Parking, respecting free-floating car-share parking permits",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0635.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Fees and Charges to allow car-share companies to utilize the Car-share Vehicle Parking Area Tier 2 annualized permit fee for free-floating car-share vehicles",
+  "title": "Amendments to City of Toronto Municipal Code Chapter 441, Fees and Charges Regarding Car-Share Companies",
+  "topics": [
+    "Transportation > Proposal to change user fees and charges",
+    "Transportation > Proposal to amend the Municipal Code"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "accessibilityDescription": "Special Assistance for Members of the Public:  City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail teycc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Rusholme Road & Rusholme Park Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.65190405840053",
+      "longitudeCoordinate": "-79.4281867356792",
+      "majorIntersection": "Rusholme Road & Rusholme Park Crescent",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of proposal to Name a Public Lane located west of Rusholme Road, extending south of Rusholme Park Crescent, as \"Tony Oliveira Lane\"",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3095"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1652932800000,
+  "noticeDescription": "<p>To consider a proposal to name a public lane located west of Rusholme Road, extending south of Rusholme Park Crescent, as \"Tony Oliveira Lane\".</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>At its meeting to be held by video conference and in person in the Council Chamber, Toronto City Hall, 100 Queen Street West, on May 26, 2022, at 9:30 a.m., or shortly afterwards, the Toronto and East York Community Council will hear in person or by his or her counsel, agent or solicitor, any person who claims that his or her lands will be prejudicially affected by the naming and who applies to be heard with respect to the proposed naming.</p>\n<p>&nbsp;</p>\n<p>To obtain additional information, submit comments or to address the Toronto and East York Community Council meeting on May 26, 2022, please contact the following City official no later than 12:00 p.m. on May 25, 2022.</p>\n<p>&nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ellen Devlin</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Administrator, Toronto and East York Community Council</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; City Clerk&rsquo;s Office</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Toronto City Hall, 100 Queen Street West</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2nd floor, West Tower</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Toronto, Ontario M5H 2N2</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Telephone: 416-392-7033; Fax: 416-397-0111</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Notice to People Writing or Making Presentations to the Toronto and East York Community Council:</strong>&nbsp;The City of&nbsp;Toronto Act, 2006 and the City of&nbsp;Toronto Municipal Code&nbsp;authorize the City of&nbsp;Toronto to collect any personal information in your communication or presentation to City Council or its Committees and Boards. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3327,
+  "otherReferenceList": [
+    {
+      "description": "TE33.1 - Naming of an existing Public Lane west of Rusholme Road, extending south of Rusholme Park Crescent",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.TE33.1"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "Notice is given that the City of Toronto will consider whether to pass a by-law to authorize the naming of a public lane in the Toronto and East York Community Council Area",
+  "title": "Notice of proposal to Name a Public Lane located west of Rusholme Road, extending south of Rusholme Park Crescent, as \"Tony Oliveira Lane\"",
+  "topics": [
+    "Transportation > Intention to name a road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

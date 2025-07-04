@@ -1,0 +1,59 @@
+{
+  "accessibilityDescription": "We are committed to providing accessible services as set out in the Accessibility for Ontarians with Disabilities Act, 2005.  If you have any accessibility needs, please contact our Accessibility Coordinator as soon as possible.  If you require documents in formats other than conventional print, or if you have specific accommodation needs, please let us know so we can make arrangements in advance.  Please also identify any assistance you may require in the event of an emergency evacuation.  ",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "64 Wellesley Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6659096087",
+      "longitudeCoordinate": "-79.3818101517",
+      "postalCode": "M4Y 1G6",
+      "province": "Ontario",
+      "streetAddress": "64 Wellesley Street East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice of Hearing - 64 Wellesley Street East ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1474"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Environment and Land Tribunals Ontario Conservation Review Board ",
+    "country": "Canada",
+    "emailAddress": "conservation.review.board@ontario.ca",
+    "fax": "416-326-6209",
+    "locationName": "Conservation Review Board",
+    "phone": "416-212-6349",
+    "postalCode": "M5G 1E5",
+    "province": "Ontario",
+    "streetAddress": "655 Bay Street",
+    "unit": "1500"
+  },
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Environment and Land Tribunals Ontario Conservation Review Board",
+      "province": "Ontario",
+      "startDateTime": 1594216800000,
+      "streetAddress": "Microsoft Teams video conference call"
+    }
+  ],
+  "noticeDate": 1592452800000,
+  "noticeDescription": "<p style=\"text-align: right;\">&nbsp;</p>\n<p style=\"text-align: right;\"><strong><img src=\"/nm/api/individual/fileSpace.do?f=1478\" alt=\"Province of Ontario.png\" width=\"85\" height=\"94\" /></strong></p>\n<p style=\"text-align: right;\"><strong>CRB1906</strong></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p>PROCEEDING COMMENCED UNDER subsection 29(5) of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended <br />Owner/Objector:&nbsp;&nbsp; WAM Montez C &amp; W Inc. <br />Subject:&nbsp;&nbsp; Notice of Intention to Designate (Wellesley Apartments) <br />Property Address:&nbsp;&nbsp; 64 Wellesley Street East <br />Legal Description:&nbsp;&nbsp; Park Lot 7, Block 2 (part) <br />Municipality:&nbsp;&nbsp; City of Toronto <br />CRB Case No.:&nbsp;&nbsp; CRB1906 <br />CRB Case Name:&nbsp;&nbsp; WAM Montez C &amp; W Inc. v. Toronto (City)</p>\n<p>&nbsp;</p>\n<p>The Conservation Review Board will conduct a hearing respecting this matter.&nbsp;</p>\n<p><strong>This hearing will be held:</strong></p>\n<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10:00 a.m.</strong></p>\n<p style=\"padding-left: 30px;\"><strong>on:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July 8 &amp; 9, 2020</strong></p>\n<p style=\"padding-left: 30px;\"><strong>by:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Microsoft Teams video conference call</strong></p>\n<p>The Review Board has set aside <strong>two days</strong> for this hearing.</p>\n<p>Please contact the Review Board at <a href=\"mailto:conservation.review.board@ontario.ca\">conservation.review.board@ontario.ca</a> by no later than Monday, July 6, 2020 to obtain the video conference details.&nbsp;</p>\n<p>If you do not attend at the commencement of the hearing or are not represented at this hearing, the Review Board may proceed in your absence and you will not be entitled to any further notice of the proceedings.</p>\n<p><em>Pour recevoir des services en fran&ccedil;ais, veuillez communiquer avec nous au (416) 212-6349, immediatement.</em></p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1668,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Proceeding commenced under subsection 29(5) of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended.",
+  "title": "Notice of Hearing - 64 Wellesley Street East ",
+  "topics": [
+    "Heritage > Conservation Review Board hearing"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

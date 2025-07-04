@@ -1,0 +1,62 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "69 Long Branch Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.5936421216",
+      "longitudeCoordinate": "-79.5333878357",
+      "postalCode": "M8W 3J5",
+      "province": "Ontario",
+      "streetAddress": "69 Long Branch Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "24 Marina Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.5936835588",
+      "longitudeCoordinate": "-79.533199005",
+      "postalCode": "M8W 1K2",
+      "province": "Ontario",
+      "streetAddress": "24 Marina Avenue"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "locationName": "Etobicoke Civic Centre",
+    "phone": "416-392-8016",
+    "postalCode": "M9C 2Y2",
+    "province": "Ontario",
+    "streetAddress": "399 The West Mall"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1518584400000,
+  "noticeDescription": "<p>Take Notice that the Council of the City of Toronto has passed By-law No. 75-2018 to designate the property at 69 Long Branch Avenue (St. Agnes&rsquo; Church) and 24 Marina Avenue (Rectory of St. Agnes&rsquo; Church) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 41,
+  "otherReferenceList": [
+    {
+      "description": "EY13.9 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 69 Long Branch Avenue and 24 Marina Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2016.EY13.9"
+    },
+    {
+      "description": "By-law 75-2018 - To designate the property at 69 Long Branch Avenue (St. Agnes' Church) and 24 Marina Avenue (Rectory of St. Agnes' Church) as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0075.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario.",
+  "title": "Notice of Passing of By-law - 69 Long Branch Avenue (St. Agnes’ Church) and 24 Marina Avenue (Rectory of St. Agnes’ Church)",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

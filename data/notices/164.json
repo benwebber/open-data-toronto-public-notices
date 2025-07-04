@@ -1,0 +1,52 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "64 Woodlawn Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.6835960088",
+      "longitudeCoordinate": "-79.395206863",
+      "postalCode": "M4V 1G7",
+      "province": "Ontario",
+      "streetAddress": "64 Woodlawn Avenue West"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "clerk@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1528430400000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 606-2018 to designate 64 Woodlawn Avenue West (St. Paul&rsquo;s, Ward 22) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 164,
+  "otherReferenceList": [
+    {
+      "description": "MM38.28 - 64 Woodlawn Avenue West - Intention To Designate Under Part IV, Section 29 of The Ontario Heritage Act - by Councillor Josh Matlow, seconded by Councillor Kristyn Wong-Tam",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.MM38.28"
+    },
+    {
+      "description": "By-law 606-2018 - To designate the property at 64 Woodlawn Avenue West as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0606.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act  R.S.O. 1990 Chapter 0.18 and  City of Toronto, Province of Ontario  64 Woodlawn Avenue West, Notice of Passing of By-law 606-2018",
+  "title": "Notice of Passing of By-law 606-2018 - 64 Woodlawn Avenue West",
+  "topics": [
+    "Heritage > Designation of a Heritage Conservation  District"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "468-480 Danforth Road Toronto Ontario",
+      "latitudeCoordinate": "43.708302485",
+      "longitudeCoordinate": "-79.267887581",
+      "postalCode": "M1K 1C6",
+      "province": "Ontario",
+      "streetAddress": "468-480 Danforth Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 468-480 Danforth Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5208"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Scarborough Community Council",
+  "eventList": [],
+  "noticeDate": 1720152000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>SCARBOROUGH COMMUNITY COUNCIL</strong></p>\n<p><br />Application Number: 22 210128 ESC 20 OZ</p>\n<p>Application to Amend the Zoning By-law to permit a 12-storey mixed used building with a total of 431 units and 591 square metres of retail space. The owner has also purchased 509 Birchmount Road to extend the Sadler Parkette with a 545 square metre park to meet parkland dedication requirement.</p>\n<p>468-480 Danforth Road</p>\n<p>Ward 20 &ndash; Scarborough Southwest</p>\n<p>Planner, Marian Barsoum at (416) 396-5004 or <a href=\"mailto:Marian.Barsoum@toronto.ca\">Marian.Barsoum@toronto.ca</a>&nbsp;<br />&nbsp;&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5366,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "22 210128 ESC 20 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 468-480 Danforth Road",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

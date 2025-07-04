@@ -1,0 +1,57 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "349 George Street Toronto Ontario",
+      "latitudeCoordinate": "43.660135811",
+      "longitudeCoordinate": "-79.37430236",
+      "postalCode": "M5A 2N2",
+      "province": "Ontario",
+      "streetAddress": "349 George Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Heritage Designation notice for 349 George Street (Allan School)",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=22"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1515387600000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 1024-2017 to designate 349 George Street (Allan School) (St. Paul&rsquo;s, Ward 20) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 25,
+  "otherReferenceList": [
+    {
+      "description": "TE13.15 - Intention to Designate Under Part IV, Section 29 of the Ontario Heritage Act - 349 George Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2016.TE13.15"
+    },
+    {
+      "description": "By-law 1024-2017 - To designate the property at 349 George Street (Allan School) as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2017/law1024.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 349 George Street (Allan School) City of Toronto, Province of Ontario",
+  "title": "Notice of Passing By-law 1024-2017 - 349 George Street (Allan School) - Heritage Designation",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "64 Prince Arthur Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.669263642",
+      "longitudeCoordinate": "-79.399378387",
+      "province": "Ontario",
+      "streetAddress": "64 Prince Arthur Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice - Realignment of Permit Parking Area \"5E\" - to Exclude the Development Located at 64 Prince Arthur Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4697"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1707368400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>Public Notice</strong></p>\n<p style=\"text-align: center;\"><br /><strong>Realignment of Permit Parking Area \"5E\"</strong></p>\n<p style=\"text-align: left;\"><br />Notice is hereby given that Toronto and East York Community Council proposes to pass a by-law to realign the boundary of Permit Parking area \"5E\" to exclude development at 64 Prince Arthur Avenue.</p>\n<p style=\"text-align: left;\"><br />The meeting of the Toronto and East York Community Council will be held on February 21, 2024 at 9:30 a.m., or shortly afterwards and will meet by video conference and in person in Committee Room 1, Toronto City Hall, 100 Queen Street West.</p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">Any objections regarding this proposal should be set out in writing and forwarded to the City Clerk, Attention: Administrator, Toronto and East York Community Council, City of Toronto, Secretariat Division, City Hall, 100 Queen Street W, 2nd floor West Tower, Toronto, Ontario, M5H 2N2, or by E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.&nbsp;</p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">If you wish to make a presentation to the Community Council regarding this proposal, please phone 416-392-7033 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a> by 12:00 p.m. on February 20, 2024, so that we can include your name on the list of speakers and provide you with instructions on how to participate in the meeting.</p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\"><strong>Special Assistance for Members of the Public:</strong> City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.&nbsp;</p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\"><strong>Notice to People Writing or Making Presentations to the Toronto and East York Community Council:</strong> The <em>City of Toronto Act, 2006</em> and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees and Boards.</p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">Many Committee Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, City Hall, 100 Queen Street West, Toronto, ON, M5H 2N2 or call 416-392-7033.<br /><br /></p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4860,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Public Notice - Realignment of Permit Parking Area \"5E\" - to Exclude the Development Located at 64 Prince Arthur Avenue",
+  "topics": [
+    "Transportation > Intention to reduce permit parking spaces or times"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

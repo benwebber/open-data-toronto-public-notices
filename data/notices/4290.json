@@ -1,0 +1,60 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "789 Don Mills Road Toronto Ontario",
+      "latitudeCoordinate": "43.718590373",
+      "longitudeCoordinate": "-79.337518748",
+      "postalCode": "M3C 1T5",
+      "province": "Ontario",
+      "streetAddress": "789 Don Mills Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "793 Don Mills Road Toronto Ontario",
+      "latitudeCoordinate": "43.718985259",
+      "longitudeCoordinate": "-79.337710141",
+      "postalCode": "M3C 1T4",
+      "province": "Ontario",
+      "streetAddress": "793 Don Mills Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing Designation By-Law 743-2023 - 789-793 Don Mills",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4087"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1692244800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>IN THE MATTER OF THE ONTARIO HERITAGE ACT</strong></p>\n<p style=\"text-align: center;\"><strong>R.S.O. 1990, CHAPTER O.18 AND</strong></p>\n<p style=\"text-align: center;\"><strong>CITY OF TORONTO, PROVINCE OF ONTARIO</strong></p>\n<p style=\"text-align: center;\"><strong>789-793 DON MILLS ROAD</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>NOTICE OF PASSING OF DESIGNATION BY-LAW 743-2023</strong></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that Council for the City of Toronto passed Designation By-law 743-2023 on July 19 and 20, 2023, which designates the lands, buildings and structures known municipally as 789-793 Don Mills Road, under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest.</p>\n<p>&nbsp;</p>\n<p>The City Clerk received two objections to the Notice of Intention to Designate the Property and City Council considered the objections in making its decision at its meeting on July 19 and 20, 2023. Refer to Item CC8.33.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal of the Designation by-law for the Property by those persons permitted to appeal under section 29 of the Ontario Heritage Act may be made by filing a notice of appeal with the City Clerk, Attention: Registrar Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2; Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a> within thirty days of August 17, 2023, which is September 18, 2023.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp; &nbsp; &nbsp; set out the reasons for the objection to the designation by-law; and</p>\n<p>(2)&nbsp; &nbsp; &nbsp; set out the reasons in support of the objection to the designation by-law.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT), forms are available from the Ontario Land Tribunal website at <a href=\"https://olt.gov.on.ca\">https://olt.gov.on.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Any persons who object to the designation by-law may refer the matter to the Ontario Land Tribunal.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application is available for public inspection by contacting Heritage Planning staff at <a href=\"mailto:heritageplanning@toronto.ca\">heritageplanning@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Further information in respect of the Designation By-law is available from the City of Toronto at:</p>\n<p><a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2023.CC8.33\">https://secure.toronto.ca/council/agenda-item.do?item=2023.CC8.33</a>&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4290,
+  "otherReferenceList": [
+    {
+      "description": "2023.CC8.33 - 789-793 Don Mills Road - Proposed Designation By-Law under Part IV, Section 29 of the Ontario Heritage Act - Consideration of Objection",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2023.CC8.33"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "title": "Notice of Passing Designation By-Law 743-2023 - 789-793 Don Mills Road",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

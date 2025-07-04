@@ -1,0 +1,54 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Blue Goose Street Toronto Ontario",
+      "latitudeCoordinate": "43.6167534553",
+      "longitudeCoordinate": "-79.4957531911",
+      "postalCode": "M8V 2R5",
+      "province": "Ontario",
+      "streetAddress": "1 Blue Goose Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Designate - 1 Blue Goose Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=764"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke York Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "fax": "416-394-5600",
+    "locationName": "Etobicoke Civic Centre",
+    "phone": "416-392-8016",
+    "postalCode": "M9C 2Y2",
+    "province": "Ontario",
+    "streetAddress": "399 The West Mall"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1565064000000,
+  "noticeDescription": "<p>Take notice that Toronto City Council intends to designate the lands and building known municipally as 1 Blue Goose Street under Part IV, Section 29 of the Ontario Heritage Act.</p>\n<p><strong>Reasons for Designation</strong></p>\n<p>The property at 1 Blue Goose Street is worthy of designation under Part IV, Section 29 of the Ontario Heritage Act for its cultural heritage value, and meets Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation under all three categories of design, associative and contextual value.</p>\n<p><strong>Description:</strong></p>\n<p>The property at 1 Blue Goose Street is located southeast of the intersection of Royal York Road and the railway tracks in Mimico.&nbsp; It contains a 3&frac12;-storey building (1909) that is known historically as the Windsor Hotel, which replaced a late-19th century hostelry on the same site where it continued to serve the passengers and crews of the Grand Trunk Railway (afterward Canadian National Railways), as well as the local community.&nbsp; The site was renamed the Blue Goose Tavern in 1971.&nbsp; The property at 1 Blue Goose Street was included on the City of Toronto's Heritage Register in 2017.</p>\n<p><strong>Statement of Cultural Heritage Value:</strong></p>\n<p>The property at 1 Blue Goose Street has cultural heritage value for its design as a well-preserved early-20th century commercial building with features of Edwardian Classicism, which emerged as the most popular style prior to World War in reaction to the architectural excesses of the late Victorian era.&nbsp; The Windsor Hotel displays the plain brick surfaces, the geometrical lines with the hipped roof and dormers, and the symmetrical placement of the openings identified with the Edwardian Classical style.</p>\n<p>The Windsor Hotel is associated with the history of Mimico, from its origins as a community linked to the railway, to its development and evolution as an independent municipality.&nbsp; A railway hotel has existed in this locality since the late 19th century when it was built in close proximity to the tracks and the Grand Trunk Railway (later Canadian National Railways) station.&nbsp; As a community hub with its links to Mimico's sports culture, the hotel has been in continuous operation for more than a century.</p>\n<p>Contextually, the property at 1 Blue Goose is historically and visually related to its setting southeast of the railway tracks and Royal York Road in Mimico with its proximity to the original location of Mimico Station (the latter building is now found in Centennial Park on the west side of Royal York Road).&nbsp;&nbsp; The Windsor Hotel remains a local landmark in the community.&nbsp;</p>\n<p><strong>Heritage Attributes:</strong></p>\n<p>The heritage attributes of the Windsor Hotel on the property at 1 Blue Goose Street are:</p>\n<p>-&nbsp; The setback, placement and orientation of the building on the southeast corner of Blue Goose Street and Manchester Street</p>\n<p>-&nbsp; The scale, form and massing of the 3&frac12;-storey building with the square-shaped plan</p>\n<p>-&nbsp; The hipped roof with the brick chimney (south) and the hipped dormers on all of the slopes</p>\n<p>-&nbsp; The brick cladding with the brick and stone detailing</p>\n<p>-&nbsp; On the principal (west) and side (north and south) elevations, above the first floor (which has been altered), the symmetrically-placed segmental-arched window openings with the brick flat arches and the stone sills</p>\n<p><strong>Notice of an objection to the proposed designation</strong> may be served on the City Clerk, Attention Rosemary MacKenzie, Administrator, Etobicoke York Community Council, Etobicoke Civic Centre, Main floor, 399 The West Mall, Toronto, Ontario, M9C 2Y2, by 4.30 p.m. on or before September 5, 2019.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 964,
+  "otherReferenceList": [
+    {
+      "description": "2019.EY7.10 - Alterations to a Heritage Property, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act and Authority to Enter into a Heritage Easement Agreement - 1 Blue Goose Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.EY7.10"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario, 1 Blue Goose Street",
+  "title": "Notice of Intention to Designate - 1 Blue Goose Street",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

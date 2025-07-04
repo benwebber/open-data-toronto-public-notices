@@ -1,0 +1,48 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "34 Dixington Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.696411866",
+      "longitudeCoordinate": "-79.541932687",
+      "province": "Ontario",
+      "streetAddress": "34 Dixington Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "45 Driftwood Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7511483154",
+      "longitudeCoordinate": "-79.5114796645",
+      "province": "Ontario",
+      "streetAddress": "45 Driftwood Avenue"
+    }
+  ],
+  "backgroundInformationList": [],
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1522036800000,
+  "noticeDescription": "<p>Individual bills for each of the benefitting properties listed below have been submitted for the meeting of City Council being held on March 26, 27 and 28, 2018. Weblinks for these bills can be found here.</p>\n<p>Each of these bills imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013 and enacted in By-law 1105-2013 (July 19, 2013).</p>\n<p>The benefitting properties are:</p>\n<p>1. 34 Dixington Crescent</p>\n<p>2. 45 Driftwood Avenue</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 234,
+  "otherReferenceList": [
+    {
+      "description": "By-law 1105-2013",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf"
+    },
+    {
+      "description": "EX33.2 - Proposed Energy and Water Efficiency Initiative for the Residential Sector",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "subheading": "Notice of the imposition of special charges on benefitting properties under the City’s Residential Retrofit Program.",
+  "title": "City’s Residential Retrofit Program",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

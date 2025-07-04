@@ -1,0 +1,40 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Sterling Road & Perth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.655203012",
+      "longitudeCoordinate": "-79.446344736",
+      "majorIntersection": "Sterling Road & Perth Avenue",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Mike Saffran",
+    "country": "Canada",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall",
+    "phone": "416-392-7205",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55  John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1547442000000,
+  "noticeDescription": "<p>Notice is hereby given that in accordance with the City of Toronto's real estate disposal by-law, on December 18, 2018, a portion of a public highway dedicated as Perth Avenue, west of Sterling Road, shown as Part 1 on Sketch No. PS-2018-013 was declared surplus, conditional upon City Council approving the permanent closure of the subject public highway. The portion of Perth Avenue has a total area of approximately 821.5 m&sup2;&plusmn; (8,842.8 ft&sup2;&plusmn;). The City proposes that the intended manner of disposal to be by way of an invitation of an offer to purchase the public highway from the adjacent owner.</p>\n<p>The following City official has information about the proposed dispositions: Mr. Mike Saffran, Tel: 416-392-7205, Fax: 416-392-1880, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 28th of January, 2019.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 323,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Declaration of Multiple Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

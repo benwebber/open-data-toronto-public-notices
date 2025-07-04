@@ -1,0 +1,63 @@
+{
+  "accessibilityDescription": "Special assistance for members of the public: City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-395-0480, TTY 416-338-0889 or e-mail nycc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Trafford Lane & Cather Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.72339322732721",
+      "longitudeCoordinate": "-79.4420657075816",
+      "majorIntersection": "Trafford Lane & Cather Crescent",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of a Proposal to Pass a By-law to Permanently Close Certain Public Highways for Incorporation into the Lawrence Heights Revitalization Project – Northeast District, being Portions of Varna Drive and Cather Crescent ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=561"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "fax": "416-395-7337",
+    "locationName": "North York Civic Centre",
+    "phone": "416-395-7337",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Council Chamber, North York Civic Centre",
+      "postalCode": "M2N 5V7",
+      "province": "Ontario",
+      "startDateTime": 1561469400000,
+      "streetAddress": "5100 Yonge Street"
+    }
+  ],
+  "noticeDate": 1560484800000,
+  "noticeDescription": "<p>The Council of the City of Toronto proposes to pass a by-law to permanently close certain public highways in the North York Community Council area for incorporation into the Lawrence Heights Revitalization Project &ndash; Northeast District, being Portions of Varna Drive and Cather Crescent shown as Parts 1 and 2 respectively on Sketch No.</p>\n<p>PS-2019-050 (Stage 3), Portions of Varna Drive and Cather Crescent shown as Parts 1 and 2 respectively on Sketch No. PS-2019-051 (Stage 4) and a Portion of Cather Crescent and Trafford Lane shown as Parts 1 and 2 respectively on Sketch No.</p>\n<p>PS-2019-049 (Stage 5).</p>\n<p>At its meeting to be held in the Council Chamber at the North York Civic Centre on</p>\n<p>June 25, 2019, the North York Community Council, at 11:00 a.m., will hear in person or by his or her counsel, agent or solicitor, any person who wishes to speak to this matter.</p>\n<p>To view copies of the proposed by-law and plan to close the highway, obtain additional information, submit comments or address the North York Community Council meeting on June 25, 2019, please contact the following City official no later than 12:00 noon</p>\n<p>June 24, 2019.</p>\n<p>Francine Adamo, Administrator</p>\n<p>North York Community Council</p>\n<p>City Clerk's Office, North York Civic Centre</p>\n<p>Main Floor, 5100 Yonge Street</p>\n<p>Toronto, ON M2N 5V7</p>\n<p>Telephone: 416-395-0480</p>\n<p>Fax: 416-395-7337</p>\n<p>E-mail: <a href=\"mailto:Francine.Adamo@toronto.ca\">Francine.Adamo@toronto.ca</a></p>\n<p><strong>Notice to people writing or making a presentation to the North York Community Council</strong>: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, North York Civic Centre, 5100 Yonge Street, Toronto, ON M2N 5V7 or call 416-395-0480.</p>\n<p>This notice shall also constitute notice to the public of the proposed public highway closures in accordance with the requirements of the Municipal Class Environmental Assessment for Schedule \"A+\" activities.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 741,
+  "otherReferenceList": [
+    {
+      "description": "2019.NY6.23 - Permanent Public Highway Closures for the Lawrence Heights Revitalization Project - Northeast District - Stage 3 - a Portion of Varna Drive and a Portion of Cather Crescent; Stage 4 - a Portion of Varna Drive and a Portion of Cather Crescent; Stage 5 - a Portion of Cather Crescent and Tafford Lane",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.NY6.23"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Notice of a Proposal to Pass a By-law to Permanently Close Certain Public Highways for Incorporation into the Lawrence Heights Revitalization Project – Northeast District, being Portions of Varna Drive and Cather Crescent ",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "164 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.6462787763",
+      "longitudeCoordinate": "-79.4039845367",
+      "postalCode": "M5V 2R3",
+      "province": "Ontario",
+      "streetAddress": "164 Bathurst Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Intention to Designate - 164 Bathurst Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2646"
+    }
+  ],
+  "contact": {
+    "city": "Toronto ",
+    "contactName": "Toronto Preservation Board",
+    "country": "Canada",
+    "emailAddress": "hertpb@toronto.ca",
+    "locationName": "2nd floor, West Tower, City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario ",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto Preservation Board",
+  "eventList": [],
+  "noticeDate": 1637211600000,
+  "noticeDescription": "<p>IN THE MATTER OF THE ONTARIO HERITAGE ACT</p>\n<p>R.S.O. 1990, CHAPTER O.18 AND</p>\n<p>CITY OF TORONTO, PROVINCE OF ONTARIO</p>\n<p>164 BATHURST STREET</p>\n<p>NOTICE OF INTENTION TO DESIGNATE THE PROPERTY</p>\n<p>TAKE NOTICE that Council for the City of Toronto intends to designate the property, including the lands, buildings and structures thereon known municipally as 164 Bathurst Street under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest.</p>\n<p>Reasons for Designation</p>\n<p>The property at 164 Bathurst Street is worthy of designation under Part IV, Section 29 of the Ontario Heritage Act for its cultural heritage value, and meets Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation, under the categories of design/physical value and contextual value.</p>\n<p>Description</p>\n<p>The property at 164 Bathurst Street, dating to c.1875, is a mixed-use building with commercial use at the ground floor and residential use above. Having served various commercial occupants since its construction, including a hotel, grocery stores, and \"box lunch\" shops, it currently houses a restaurant. Oriented towards Bathurst Street, the building's primary component is a two-and-a-half storey structure, with a two-storey rear portion along Richmond Street West.&nbsp;</p>\n<p>Statement of Cultural Heritage Value</p>\n<p>Dating to c.1875, the property at 164 Bathurst Street is a representative example of a mixed-use commercial building from the late nineteenth century. It retains its scale, form, and massing as a two/two-and-a-half-storey brick building with a cross-gable roof, original openings at the upper storey, and details that suggest the influence of the Italianate style, which was popular in Ontario between the 1850s and 1880s. This style typically featured a prominent application of Classical vocabulary, as seen in this property's brick quoins and pronounced wood brackets beneath the eaves. Apart from various alterations at the ground storey, the building's most substantial modification appears to have been a small rear extension in the 1880s to expand the property's commercial capacity.</p>\n<p>Sited at the corner of Bathurst Street and Richmond Street West, the property is important in maintaining and supporting the character of the surrounding area. The building's location at the intersection of two thoroughfares heightens its position as a historic anchor within an evolved block. The property is also visually and historically linked to its surroundings as one of the oldest mixed-use commercial properties in the immediate area. As the earliest mixed-use commercial building along this portion of Bathurst Street, which was otherwise substantially developed by 1889, the property is a significant remnant of the nineteenth-century streetscape to which it long contributed.</p>\n<p>Heritage Attributes</p>\n<p>Design and Physical Value</p>\n<p>The following heritage attributes contribute to the cultural heritage value of the property at 164 Bathurst Street as a representative example of a mixed-use commercial building from the late nineteenth century:</p>\n<ul>\n<li>The property's scale, form, and massing, with a two-and-a-half-storey component along Bathurst Street and a two-storey component along Richmond Street West, both with gabled roofs</li>\n<li>The property's brick construction with brick and wood exterior details&nbsp;&nbsp;</li>\n<li>The primary (east) elevation's composition in four bays with original openings at the upper storeys</li>\n<li>Segmentally arched brick surrounds at the upper storey windows</li>\n<li>Two dormers on the east elevation with a starburst pattern in their gable ends and small wood brackets</li>\n<li>The property's architectural features that suggest the influence of the Italianate style, including brick quoins and pronounced wood brackets beneath the eaves</li>\n<li>Two original or early decorative wood pilasters, one on the east elevation and one on the north elevation</li>\n</ul>\n<p>Contextual Value</p>\n<p>The following heritage attribute contributes to the cultural heritage value of the property at 164 Bathurst Street as a historic anchor within its block and a significant remnant of a nineteenth-century streetscape:</p>\n<ul>\n<li>The property's siting and orientation at the southwest corner of Bathurst Street and Richmond Street West, with a primary elevation along the former and a secondary elevation along the latter&nbsp;</li>\n</ul>\n<p>Notice of Objection to the Notice of Intention to Designate</p>\n<p>Notice of an objection to the Notice of Intention to Designate the Property may be served on the City Clerk, Attention: Administrator, Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2; Email: <a href=\"mailto:hertpb@toronto.ca\">hertpb@toronto.ca</a> within thirty days of November 18, 2021, which is December 20, 2021. The notice of objection to the Notice of Intention to Designate the Property must set out the reason(s) for the objection and all relevant facts.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2835,
+  "otherReferenceList": [
+    {
+      "description": "PH27.11 - 164 Bathurst Street - Notice of Intention to Designate a Property under Part IV, Section 29 of the Ontario Heritage Act",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.PH27.11"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "IN THE MATTER OF THE ONTARIO HERITAGE ACT R.S.O. 1990, CHAPTER O.18 AND CITY OF TORONTO, PROVINCE OF ONTARIO 164 BATHURST STREET",
+  "title": "NOTICE OF INTENTION TO DESIGNATE THE PROPERTY - 164 BATHURST STREET",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

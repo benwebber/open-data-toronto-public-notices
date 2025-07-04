@@ -1,0 +1,45 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1785 Finch Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.758964884",
+      "longitudeCoordinate": "-79.50735919",
+      "postalCode": "M3N 1M6",
+      "province": "Ontario",
+      "streetAddress": "1785 Finch Avenue West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Property - 1785 Finch Avenue West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5687"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Akhilesh Tekchand",
+    "country": "Canada",
+    "locationName": "Metro Hall",
+    "phone": "416-648-7061",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1734670800000,
+  "noticeDescription": "<p><strong>Notice</strong></p>\n<p>&nbsp;</p>\n<p><strong>NOTICE</strong> is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal By-law, on December 9, 2024, portion of the property municipally known as 1785 Finch Avenue West, comprising an area of approximately 746.1 m2 (8,031 ft2) and generally shown as Part 3 on a draft plan of survey titled Project No. 22-B7980 prepared by Mario Group Inc. dated January 24, 2023 , being part &nbsp;of PIN 10253-0805 (LT), City of Toronto was declared surplus.</p>\n<p>&nbsp;</p>\n<p>The City proposes that the intended manner of disposal is to be by way of a long-term ground lease in favour of Community Music Schools of Toronto to construct and operate a non-profit music school.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Mr. Akhilesh Tekchand, Project Manager, Real Estate Services, Tel: 416-648-7061, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until January 9, 2025.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5811,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property - 1785 Finch Avenue West",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

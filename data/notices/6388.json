@@ -1,0 +1,97 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "172 Finch Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.7767266271",
+      "longitudeCoordinate": "-79.4305181676",
+      "postalCode": "M2R 1M1",
+      "province": "Ontario",
+      "streetAddress": "172 Finch Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "186 Finch Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.776429392",
+      "longitudeCoordinate": "-79.431601459",
+      "postalCode": "M2R 1M1",
+      "province": "Ontario",
+      "streetAddress": "186 Finch Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Grantbrook Street Toronto Ontario",
+      "latitudeCoordinate": "43.777260704114276",
+      "longitudeCoordinate": "-79.43164081534397",
+      "province": "Ontario",
+      "streetAddress": "1 Grantbrook Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "33 Grantbrook Street Toronto Ontario",
+      "latitudeCoordinate": "43.7779545291",
+      "longitudeCoordinate": "-79.431889988",
+      "postalCode": "M2R 2E6",
+      "province": "Ontario",
+      "streetAddress": "33 Grantbrook Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "305 Hendon Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7781014657",
+      "longitudeCoordinate": "-79.43093238",
+      "postalCode": "M2M 1B3",
+      "province": "Ontario",
+      "streetAddress": "305 Hendon Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "313 Hendon Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7779671547",
+      "longitudeCoordinate": "-79.4314485729",
+      "postalCode": "M2M 1B3",
+      "province": "Ontario",
+      "streetAddress": "313 Hendon Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 172-186 Finch Ave West, 1-33 Grantbrook Street and 305-313 Hendon Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6314"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1750996800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 25 138195 NNY 18 SB</p>\n<p>Application to Amend the Draft Plan of Subdivision to create six Blocks.</p>\n<p>172-186 Finch Ave West, 1-33 Grantbrook Street and 305-313 Hendon Avenue</p>\n<p>Ward 18 &ndash; Willowdale</p>\n<p>Julia Covelli, Planner at 416-338-9070 or <a href=\"mailto:Julia.Covelli@toronto.ca\">Julia.Covelli@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.<br /><br /></p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6388,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 138195 NNY 18 SB"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 172-186 Finch Ave West, 1-33 Grantbrook Street and 305-313 Hendon Avenue\n",
+  "topics": [
+    "Planning > Complete application for Plan of Subdivision"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

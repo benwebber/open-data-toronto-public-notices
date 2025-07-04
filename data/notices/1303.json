@@ -1,0 +1,58 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "145 Portland Street Toronto Ontario",
+      "latitudeCoordinate": "43.6466540823",
+      "longitudeCoordinate": "-79.4006598914",
+      "postalCode": "M5V 2N4",
+      "province": "Ontario",
+      "streetAddress": "145 Portland Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Designate - 145 Portland Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1123"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1573621200000,
+  "noticeDescription": "<p>Take notice that Toronto City Council stated its intention to designate the lands and buildings known municipally as 145 Portland Street under Part IV, Section 29 of the Ontario Heritage Act.</p>\n<p><strong>Reasons for Designation</strong></p>\n<p>The property at 145 Portland Street is worthy of designation under Part IV, Section 29 of the Ontario Heritage Act for its cultural heritage value, and meets Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation under all three categories of design, associative and contextual value.&nbsp;</p>\n<p><strong>Description</strong></p>\n<p>The property at 145 Portland Street is located in the proposed King-Spadina Heritage Conservation District (HCD), and is identified as a contributing property in the King-Spadina HCD Plan (2017) for the proposed District.</p>\n<p>Located on the east side of the street between Adelaide and Richmond streets, the property at 145 Portland Street comprises the northern anchor of a row of two pairs of 2&frac12;-storey house-form buildings that date to 1881 in the King Spadina HCD Plan (2017).</p>\n<p><strong>Statement of Significance</strong></p>\n<p>The property at 145 Portland Street has cultural heritage value for its design as a residential building with Gothic Revival styling associated with the first wave of development in the King-Spadina neighbourhood in the 19th century. As part of a row of four house-form buildings, the property at 145 Portland Street represents a key building typology in King-Spadina, which originated in the 1800s as a residential and institutional enclave where the side streets and many of the main streets were lined with detached, semi-detached and row houses.&nbsp; The subject property survived the replacement of much of the residential building stock during the second phase of development of the community in the 20th century when King-Spadina became Toronto&rsquo;s industrial centre. The building at 145 Portland Street is distinguished by its late Victorian design with Gothic Revival styling, particularly the centrally-placed gable with its decorative wood bargeboard.</p>\n<p>The property at 145 Portland Street is valued for its association with the local builder/speculator, Francis Phillips, who built the subject property along with the heritage properties directly to the south at 139, 141 and 143 Portland Street.</p>\n<p>Contextually, the house-form building at 145 Portland Street is valued for its role in defining, supporting and maintaining the historical character of the King-Spadina neighbourhood, reflecting its evolution from a 19th-century residential and institutional enclave and Toronto&rsquo;s manufacturing centre in the 20th century, to its current status as a mixed-use community. The house at 145 Portland Street is historically, visually and physically linked to its setting in the King-Spadina neighbourhood where it is among the small group of surviving late-19th century residential buildings, including the adjacent examples at 139, 139-143 Portland Street and 124-130 Portland on the west side of the street, all of which are also included on the City's Heritage Register.</p>\n<p><strong>Heritage Attributes</strong></p>\n<p>The heritage attributes of the building at 145 Portland Street are:</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The setback, placement and orientation of the building on the east side of the street between Adelaide and Portland streets</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The scale, form and massing of the 2&frac12;-storey rectangular shaped plan</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The cross-gable roof covering the building, where a central gable is shared on the west slope with the attached property to the south, containing brackets and decorative wood bargeboard</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The materials, with the red brick cladding (currently painted), the contrasting buff brick detailing for the string course beneath the west rooflines and on the window openings, and the stone and wood trim</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The principal (west) elevation, which is designed as a mirror image of the attached property to the south, with the main entrances placed side-by-side in segmental-arched surrounds with transoms (the open porch is not original)</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the west elevation, the single-storey bay window with the segmental-arched openings and the roof, the segmental-arched window openings in the second storey, the single round-arched attic opening under the central cross-gable, and the brick segmental arches and stone sills</p>\n<p>Notice of an objection to the proposed designation may be served on the City Clerk, Attention:&nbsp; Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, Toronto, Ontario, M5H 2N2, within thirty days of this notice which is December 13, 2019. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1303,
+  "otherReferenceList": [
+    {
+      "description": "2019.PB9.3 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 145 Portland Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB9.3"
+    },
+    {
+      "description": "2019.TE9.12 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 145 Portland Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE9.12"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Intention to Designate - 145 Portland Street",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

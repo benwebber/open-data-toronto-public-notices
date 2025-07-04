@@ -1,0 +1,53 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "76 Marilake Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7791167041",
+      "longitudeCoordinate": "-79.2718698752",
+      "province": "Ontario",
+      "streetAddress": "76 Marilake Drive"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3039"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1651809600000,
+  "noticeDescription": "<p>A Bill for the benefitting property listed below has been submitted for the meeting of City Council being held on May 11 and 12, 2022. Review Bill details (<a href=\"http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2022.CC43\">http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2022.CC43</a>).</p>\n<p>The Bill imposes a special charge on the benefitting property as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a href=\"http://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>The benefitting property is:</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 76 Marilake Drive</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3272,
+  "otherReferenceList": [
+    {
+      "description": "EX33.22 - Proposed Energy and Water Efficiency Initiative for the Residential Sector",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.",
+  "title": "City's Residential Retrofit Program",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

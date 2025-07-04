@@ -1,0 +1,57 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "4700 Keele Street Toronto Ontario",
+      "latitudeCoordinate": "43.773410085",
+      "longitudeCoordinate": "-79.502338172",
+      "postalCode": "M3J 1P3",
+      "province": "Ontario",
+      "streetAddress": "4700 Keele Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-Law - 4700 Keele Street (Abraham Hoover House)",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=228"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "locationName": "Etobicoke Civic Centre",
+    "phone": "416-392-8016",
+    "postalCode": "M9C 2Y2",
+    "province": "Ontario",
+    "streetAddress": "399 The West Mall"
+  },
+  "decisionBody": "Etobicoke York Community Council",
+  "eventList": [],
+  "noticeDate": 1547096400000,
+  "noticeDescription": "<p>Take Notice that the Council of the City of Toronto has passed By-law No. 15-2019 to designate the property at 4700 Keele Street (Abraham Hoover House) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 341,
+  "otherReferenceList": [
+    {
+      "description": "NY29.27 - 4700 Keele Street - Inclusion on Heritage Inventory and Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act (2009)",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2009.NY29.27"
+    },
+    {
+      "description": "Bylaw 15-2019 - To designate the property at 4700 Keele Street (Hoover House) as being of cultural heritage value or interest.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0015.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 And 4700 Keele Street (Abraham Hoover House) City Of Toronto, Province Of Ontario",
+  "title": "Notice of Passing of By-Law - 4700 Keele Street (Abraham Hoover House) ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

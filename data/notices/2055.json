@@ -1,0 +1,58 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "305 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6461538021",
+      "longitudeCoordinate": "-79.3903403958",
+      "postalCode": "M5V 1J5",
+      "province": "Ontario",
+      "streetAddress": "305 King Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law 1142-2020",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1886"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1608613200000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 1142-2020 to designate 305 (309, 311) King Street West (Spadina-Fort York, Ward 10) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2055,
+  "otherReferenceList": [
+    {
+      "description": "By-Law 1142-2020 - To designate the property at 305 (309, 311) King Street West as being of cultural heritage value or interest.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2020/law1142.pdf"
+    },
+    {
+      "description": "2019.TE11.9 - Alterations to Heritage Properties, Authority to Enter into a Heritage Easement Agreement and Designation Under Part IV, Section 29, of the Ontario Heritage Act - 301 (303), 305 (309, 311), 315 and 319 King Street West",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE11.9"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, Interim City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 305 (309, 311) King Street West, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 1142-2020 - 305 (309, 311) King Street West ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

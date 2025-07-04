@@ -1,0 +1,52 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "85 Richmond Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6505746903",
+      "longitudeCoordinate": "-79.3829496377",
+      "postalCode": "M5H 2C9",
+      "province": "Ontario",
+      "streetAddress": "85 Richmond Street West"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1523419200000,
+  "noticeDescription": "<p>Take notice that City Council intends to amend former City of Toronto By-law 960-88, a by-law designating the property at 85 Richmond Street West as being of architectural value or interest, to update the cultural heritage values and attributes according to the 2005 amendments to the Ontario Heritage Act.</p>\n<p><strong>Federal Building</strong></p>\n<p>The Federal Building meets Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation under all three categories of design, associative and contextual values.</p>\n<p>Located on the southwest corner of Sheppard Street, the property at 85 Richmond Street West contains the Federal Building, an 11-storey office building that was completed in 1923 by Yolles and Rotenberg, developers and general contractors, according to the design of American architect C. Howard Crane.</p>\n<p><strong>Statement of Significance</strong></p>\n<p>The Federal Building has design value as a commercial building from the interwar era that is distinguished as a first-generation &ldquo;skyscraper&rdquo; with Beaux-Arts styling while employing contemporary materials and construction methods. It was completed as the largest fire-proof office building in Canada.</p>\n<p>The Federal Building is valued for its historical association with the American architect, C. Howard Crane. Following his training with the notable Albert Kahn Associates in Detroit, Crane was recognized internationally for the movie theatres he designed across North America and in Britain. While Crane accepted commissions for other building types in the United States and Canada, the Federal Building is his only documented office building in Canada.</p>\n<p>The cultural heritage value of the property at 85 Richmond Street West is also through its connection to Yolles and Rotenberg, the contractors and developers who constructed the Federal Building. The company was co-founded by Louis S. Yolles, who is also distinguished as one of the first practicing Jewish architects in Ontario. Following the completion of the Federal Building, Yolles and his business partner, lawyer Harry Rotenberg commissioned other heritage buildings in the Financial District, including the National Building (1926) at 347 Bay Street, the Sterling Tower (1928) at 372 Bay Street and the Yolles and Rotenberg Building (1954) at 111 Richmond Street West.</p>\n<p>The property at 85 Richmond Street West is also linked to the ongoing development of the Financial District in the early 20th century when the area west of Bay Street was laid out according to urban design principles identified with the City Beautiful Movement. A 1911 plan introduced &ldquo;Federal Avenue,&rdquo; a ceremonial boulevard designed to link Union Station with a new public building on Queen Street West. With the outbreak of World War I, the project remained unbuilt, but was recognized in the naming of the Federal Building.</p>\n<p>Contextually, the Federal Building is historically, visually and physically linked to its setting on the southwest corner of Richmond and Sheppard streets where it contributes to the character of the Financial District. Placed east of the Yolles and Rotenberg Building (1954) at 111 Richmond Street West, the Federal Building adjoins other landmark skyscrapers located west of Bay Street, including the adjoining Graphic Arts Building (1911) at 73 Richmond Street West, the Concourse Building (1928) at 100 Adelaide Street West, and the Victory Building (1930) at 78 Richmond Street West.</p>\n<p><strong>Heritage Attributes:</strong></p>\n<p>The heritage attributes of the Federal Building at 85 Richmond Street West are:</p>\n<p>1.&nbsp; The placement, setback and orientation of the building on the southwest corner of Sheppard Street</p>\n<p>2.&nbsp; The scale, form and massing of the 11-storey U-shaped plan with the light well (south)</p>\n<p>3.&nbsp; The materials, with the concrete construction, the limestone and brick cladding, and the stone, brick and metal detailing</p>\n<p>4.&nbsp; The flat roofline (the pressed metal cornice was removed)</p>\n<p>5.&nbsp; The principal (north) elevation, extending 9 bays on Richmond Street West, and the east side elevation, extending five bays on Sheppard Street, with the two-storey base and the nine-storey shaft</p>\n<p>6.&nbsp; On the north elevation, the main entrance, which is centered in the wall in a two-storey surround with the reed moulding, the entablature and the cartouche (the original doors have been replaced)</p>\n<p>7.&nbsp; The organization of the north and east elevations by the piers and, above the second, third and ninth stories, the band courses</p>\n<p>8.&nbsp; The fenestration on the north and east elevations, with the oversized commercial openings in the first (ground) floor, the tripartite Chicago-style windows in the second storey, the symmetrically-placed pairs of flat-headed openings with the stone sills in the upper floors, and the spandrels</p>\n<p>9.&nbsp; The west side elevation, which is viewed from Richmond Street West, and the rear (south) elevation, which is viewed from Sheppard Street</p>\n<p>10.&nbsp; On the interior, the north lobby with the ceiling with the coffers and mouldings, the brass fittings, the bracketed wall-hung light fixtures, and the stainless-steel elevator doors with the decorative brass motifs</p>\n<p>Notice of an objection to the amendment of the designating by-law may be served on the City Clerk, Attention: Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, Toronto, Ontario, M5H 2N2, within thirty days of April 11, 2018, which is May 11, 2018. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 133,
+  "otherReferenceList": [
+    {
+      "description": "TE30.18 - Alterations to a Designated Heritage Property, Amendment of a Designation By-Law and Authority to Amend a Heritage Easement Agreement - 85 Richmond Street West",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.TE30.18"
+    },
+    {
+      "description": "By-law 783-2018 - To amend former City of Toronto By-law 960-88, being a by-law to designate the property at 85 Richmond Street West of architectural value or interest, by amending the reasons for designation to update and revise the reasons for designation",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0783.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act  R.S.O. 1990, Chapter 0.18 and  City of Toronto, Province of Ontario  85 Richmond Street West",
+  "title": "Amendment of Designating By-law - 85 Richmond Street West",
+  "topics": [
+    "Heritage > Amendment to the designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "accessibilityDescription": "Special assistance for members of the public: City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-398-0889 or e-mail teycc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "375 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.649124734",
+      "longitudeCoordinate": "-79.3937698723",
+      "province": "Ontario",
+      "streetAddress": "375 Queen Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Permanent Closure of a Stratified Parcel of Public Lane Located to the West of 375 Queen Street West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2808"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1644382800000,
+  "noticeDescription": "<p>The Council of the City of Toronto proposes to pass a by-law to permanently close a stratified portion of the public lane located at the rear of 375 Queen Street West, labelled as shown as Parts 5 and 6 on PLAN 66R-32180, described as follows:</p>\n<p>&nbsp;</p>\n<p style=\"padding-left: 40px;\">Part of PIN 21412-0236 (LT)</p>\n<p style=\"padding-left: 40px;\">Part of Lot 21 Plan 1B, City of Toronto</p>\n<p style=\"padding-left: 40px;\">Designated as Part 6 on Plan 66R-32180</p>\n<p style=\"padding-left: 40px;\">Land Titles Division of the Toronto Registry Office (No. 66)</p>\n<p style=\"padding-left: 40px;\">&nbsp;</p>\n<p style=\"padding-left: 40px;\">Part of PIN 21412-0310 (LT)</p>\n<p style=\"padding-left: 40px;\">Part of Lots 21 and 22 Plan 1B, City of Toronto</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>Designated as Part 5 on Plan 66R-32180, subject to an easement over parts 1 and 2 on Plan 66R-25893 in favour of Part 3 on Plan 66R-25893 until such time as the said Parts 1 and 2 have been dedicated for public lane purposes as in AT3083271 Land Titles Division of the Toronto Registry Office (No. 66)</p>\n<p>&nbsp;</p>\n<p>At its meeting to be held on February 16, 2022, commencing at 9:30 a.m. or shortly afterwards, the Toronto and East York Community Council will hear from, or by his or her counsel, agent or solicitor, any person who wishes to speak to this matter.</p>\n<p>&nbsp;</p>\n<p>This meeting of the Toronto and East York Community Council will be held by electronic means and the proceedings of the Toronto and East York Community Council will be conducted publicly.</p>\n<p>&nbsp;</p>\n<p>These measures are necessary to comply with public health guidelines and prevent the spread of COVID-19.</p>\n<p>&nbsp;</p>\n<p>To view a copy of the proposed by-law and plan to close the portion of public lane lands described above, obtain additional information, submit comments or address the Toronto and East York Community Council meeting on February 16, 2022, please contact the following City official no later than 12:00 p.m. on February 15, 2022.</p>\n<p>&nbsp;</p>\n<p>Ellen Devlin, Administrator</p>\n<p>Toronto and East York Community Council</p>\n<p>City Hall, 2nd Floor, West Tower</p>\n<p>Toronto, Ontario. M5H 2N2</p>\n<p>Telephone: 416-392-7033; Facsimile: 416-392-2980</p>\n<p>E-mail: teycc@toronto.ca</p>\n<p>&nbsp;</p>\n<p>Notice to people writing or making a presentation to the Toronto and East York Community Council: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view.&nbsp; If you speak at the meeting you will appear in the video broadcast.&nbsp; Video broadcasts are archived and continue to be publicly available.</p>\n<p>&nbsp;</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, City Hall, 2nd Floor, 100 Queen Street West, Toronto, Ontario, M5H 2N2 or by email at teycc@toronto.ca.</p>\n<p>&nbsp;</p>\n<p>This notice shall also constitute notice to the public of the proposed public highway closure in accordance with the requirements of the Municipal Class Environmental Assessment for Schedule A+ activities.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3039,
+  "otherReferenceList": [
+    {
+      "description": "TE31.3 - Permanent Closure of a Stratified Parcel of Public Lane Located to the West of 375 Queen Street West",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.TE31.3"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "Proposal to pass a by-law to permanently close a stratified portion of the public lane located at the rear of 375 Queen Street West, labelled as shown as Parts 5 and 6 on PLAN 66R-32180",
+  "title": "Notice of Proposal to Permanently Close a Stratified Parcel of Public Lane Located to the West of 375 Queen Street West ",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

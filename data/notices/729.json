@@ -1,0 +1,58 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10 St Mary Street Toronto Ontario",
+      "latitudeCoordinate": "43.6681070914",
+      "longitudeCoordinate": "-79.3862165806",
+      "postalCode": "M4Y 1P9",
+      "province": "Ontario",
+      "streetAddress": "10 St Mary Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 10 St. Mary Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=549"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "Toronto Preservation Board",
+  "eventList": [],
+  "noticeDate": 1560139200000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto on January 30, 2019, having considered an application to alter a structure designated under Part IV of the Ontario Heritage Act for 10 St. Mary Street, decided among other things, to:</p>\n<p style=\"padding-left: 30px;\">1.&nbsp; Accept the Settlement Offer dated September 9, 2018, as amended on January 17, 2019, in&nbsp;Confidential Attachment 2 to the report January 23, 2019 from the City Solicitor, and City Council direct the City Solicitor to attend at a pre-hearing/settlement hearing at the Local Planning Appeal Tribunal in support of the revised proposal.</p>\n<p style=\"padding-left: 30px;\">2.&nbsp; Direct that the community benefits under Section 37 of the Planning Act be allocated as $3,100,000.00 towards capital improvements in close proximity to the subject site, to the satisfaction of the Chief Planner and Executive Director, City Planning, in consultation with the local Councillor;&nbsp; in the event the cash contribution has not been used for the intended purpose as set out&nbsp;therein within three (3) years of the approval of the Zoning By-law Amendments, the cash contribution may be redirected for another purpose, at the discretion of the Chief Planner and Executive Director, City Planning, in consultation with the local City Councillor, provided that the purpose(s) is/are identified in the Toronto Official Plan and will benefit the community in the vicinity of the Site.</p>\n<p style=\"padding-left: 30px;\">3.&nbsp; Instruct the City Solicitor to request&nbsp;the Local Planning Appeal Tribunal to&nbsp;hold its Order on the Zoning By-law Amendment until such time that:</p>\n<p style=\"padding-left: 60px;\">a.&nbsp; By-law&nbsp;353-2015 for 10 St. Mary Street is amended under Section 30.1 of the Ontario Heritage Act to add additional heritage attributes to the Statement of Significance;</p>\n<p style=\"padding-left: 60px;\">b.&nbsp; the properties at 710, 712, 714 and 716 Yonge Street are designated under Part IV, Section 29 of the Ontario Heritage Act;</p>\n<p style=\"padding-left: 60px;\">c.&nbsp; the owner has entered into Heritage Easement Agreements with the City for the properties at 10 St. Mary Street, 81 and 85 St. Nicholas Street, 710, 712, 714, 716 and 718 Yonge Street in accordance with plans and drawings dated January 16, 2019, prepared by Architects Alliance, date-stamped received by Heritage Preservation Services January 17, 2019 and on file with the Senior Manager, Heritage Preservation Services, and in accordance with the Conservation Plan required in&nbsp;Part 3.d. below&nbsp;to the satisfaction of the Senior Manager, Heritage Preservation Services including registration of such agreement to the satisfaction of the City Solicitor;</p>\n<p style=\"padding-left: 60px;\">d.&nbsp;the owner has provided a detailed Conservation Plan prepared by a qualified heritage consultant that is consistent with the conservation strategy set out in the Heritage Impact Assessment for 10 St. Mary Street, 81 and 85 St. Nicholas Street and 710, 712, 714, 716 and 718 Yonge Street prepared by ERA Architects Inc. dated January 17, 2019, to the satisfaction of the Senior Manager, Heritage Preservation Services; and</p>\n<p style=\"padding-left: 60px;\">e.&nbsp; the owner has entered into and registered on the properties at 10 St. Mary Street, 81 and 85 St. Nicholas Street,&nbsp; 710, 712, 714, 716 and 718 Yonge Street one or more agreements with the City pursuant to Section 37 of the Planning Act, to secure the benefits in&nbsp;Part 2, above to the satisfaction of the City Solicitor, the Chief Planner and Executive Director, City Planning and the Senior Manager, Heritage Preservation Services, with such facilities, services and matters to be set forth in the related site specific Zoning By-law Amendment giving rise to the proposed alterations.</p>\n<p>4.&nbsp; Direct Staff to request the Local Planning Appeal Tribunal to approve such modifications, if any, as may be required to permit the proposed Development to the Historic Yonge Heritage Conservation District, Official Plan Amendment 352 and By-laws 1106-2016&nbsp;and 1107-2016, Official Plan Amendment&nbsp;183, Official Plan Amendment&nbsp;199, Official Plan Amendment&nbsp;231 and the Downtown Secondary Plan, or otherwise provide relief from such instruments as necessary in order to reflect the terms of this settlement.</p>\n<p>5.&nbsp; Direct that the parkland dedication requirement be satisfied by a payment of cash-in-lieu of parkland.</p>\n<p><strong>Appeal to the Conservation Review Board:</strong><br />The Ontario Heritage Act states that where a Council consents to an application to alter a designated property with certain terms or conditions, or refuses the application, the owner may, within thirty days after receipt of this notice, apply to the Council for a hearing before the Conservation Review Board.</p>\n<p>The owner may request a hearing before the Conservation Review Board in this matter, by writing to the City Clerk:&nbsp; Attention Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, West, Toronto, Ontario, M5H 2N2, by 4.30 p.m. on or before July 10, 2019.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 729,
+  "otherReferenceList": [
+    {
+      "description": "2019.CC2.5 - 10 St. Mary Street, 81 - 85 St. Nicholas Street, 710 - 718 Yonge Street - Local Planning Appeal Tribunal Appeal - Request for Direction (Part 1)",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.CC2.5"
+    },
+    {
+      "description": "2019.CC2.6 - 10 St. Mary Street, 81 - 85 St. Nicholas Street, 710 - 718 Yonge Street - Local Planning Appeal Tribunal Appeal - Request for Direction (Part 2)",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.CC2.6"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990, Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Decision – 10 St. Mary Street",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

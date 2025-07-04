@@ -1,0 +1,58 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "210 Douglas Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6855607892",
+      "longitudeCoordinate": "-79.3731003868",
+      "postalCode": "M4W 2B8",
+      "province": "Ontario",
+      "streetAddress": "210 Douglas Drive"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 210 Douglas Drive",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=997"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1570766400000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto on June 18 and June 19, 2019, having considered an application to demolish the property at 210 Douglas Drive, decided among other things, to:</p>\n<p style=\"padding-left: 30px;\">1. Approve the demolition of the unrated house-form building at 210 Douglas Drive, within the North Rosedale Heritage Conservation District, in accordance with Section 42 of the Ontario Heritage Act subject to the following:</p>\n<p style=\"padding-left: 60px;\">a. City Council approve the replacement structure for 210 Douglas Drive as shown in the plans and elevations submitted by the applicant and prepared by Richard Wengle Architect Inc., dated March 6 and March 29, 2019, and on file with the Senior Manager, Heritage Preservation Services, and that the replacement structure be constructed substantially in accordance with the submitted plans.</p>\n<p style=\"padding-left: 60px;\">b. That prior to the issuance of any heritage permit for the property at 210 Douglas Drive including a demolition permit, but excluding permits for interior work, repairs and maintenance and usual and minor works for the existing heritage building as are acceptable to the Senior Manager, Heritage Preservation Services, the applicant provide the following to the satisfaction of the Senior Manager, Heritage Preservation Services:</p>\n<p style=\"padding-left: 90px;\">1. Photo documentation of the existing structure at 210 Douglas Drive; and</p>\n<p style=\"padding-left: 90px;\">2. Final building permit drawings for the replacement structure and landscape plan consistent with the plans and elevations submitted by the applicant and prepared by Richard Wengle Architect Inc. dated March 6 and March 29, 2019 and with the North Rosedale Heritage <strong>Conservation District Plan.</strong></p>\n<p><strong>Appeal to the Local Planning Appeal Tribunal</strong></p>\n<p>The Ontario Heritage Act states that if a Council of a municipality consents to an application to demolish a designated heritage property subject to certain terms or conditions or refuses the application, the owner may, within thirty days of the day the owner received notice of Council&rsquo;s decision, give notice of appeal to the Local Planning Appeal Tribunal and to the Clerk of the municipality: Attention Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2. Notice of appeal must be received on or before November 12, 2019</p>\n<p>A notice of appeal shall set out the reasons for objection to the decision of Council and be accompanied by the fee prescribed ($300.00) under the Local Planning Appeal Tribunal.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1195,
+  "otherReferenceList": [
+    {
+      "description": "2019.TE6.7 - Demolition of an Unrated Building in the North Rosedale Heritage Conservation District and Construction of a Replacement House - 210 Douglas Drive",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE6.7"
+    },
+    {
+      "description": "2019.PB5.2 - Demolition of an Unrated Building in the North Rosedale Heritage Conservation District and Construction of a Replacement House - 210 Douglas Drive",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB5.2"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990, Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Decision - 210 Douglas Drive",
+  "topics": [
+    "Heritage > Decision on demolition or removal of structure"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

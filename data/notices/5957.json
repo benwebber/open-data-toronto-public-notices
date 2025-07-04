@@ -1,0 +1,44 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "996 Woodbine Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6863304983",
+      "longitudeCoordinate": "-79.3133568306",
+      "postalCode": "M4C 4B9",
+      "province": "Ontario",
+      "streetAddress": "996 Woodbine Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": " Declaration of Surplus Property - 996 Woodbine Ave",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5833"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Robert Patterson",
+    "country": "Canada",
+    "phone": "416-392-1851",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1739336400000,
+  "noticeDescription": "<p><strong>Notice</strong></p>\n<p>&nbsp;</p>\n<p><strong>NOTICE</strong> is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal By-law, on February 3, 2025, portion of the property municipally known as 996 Woodbine Avenue, being Part of Lot 29 on Plan 550E, City of Toronto, being part of PIN 10423-0232 (LT), and generally shown as Parts 1 and 2 on Sketch No. PS-2018-096, was declared surplus.&nbsp; The surplus portion has a total area of approximately 213.5 m2 (2290 ft2).</p>\n<p>&nbsp;</p>\n<p>The City proposes that the intended manner of disposal to be by way of an offer to purchase the subject property from 2-Spirited People of the First Nations.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Mr. Robert Patterson, Senior Project Manager, Real Estate Services, Tel: 416-392-1851, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until February 27, 2025.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5957,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property - 996 Woodbine Ave",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

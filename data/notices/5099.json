@@ -1,0 +1,88 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3 Collingwood Street Toronto Ontario",
+      "latitudeCoordinate": "43.7816594949",
+      "longitudeCoordinate": "-79.2865947134",
+      "postalCode": "M1S 1A4",
+      "province": "Ontario",
+      "streetAddress": "3 Collingwood Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Collingwood Street Toronto Ontario",
+      "latitudeCoordinate": "43.7817045437",
+      "longitudeCoordinate": "-79.2863706068",
+      "postalCode": "M1S 1A4",
+      "province": "Ontario",
+      "streetAddress": "5 Collingwood Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Collingwood Street Toronto Ontario",
+      "latitudeCoordinate": "43.7817444997",
+      "longitudeCoordinate": "-79.2862348739",
+      "postalCode": "M1S 1A4",
+      "province": "Ontario",
+      "streetAddress": "7 Collingwood Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2223 Kennedy Road Toronto Ontario",
+      "latitudeCoordinate": "43.7816047963",
+      "longitudeCoordinate": "-79.2870513747",
+      "postalCode": "M1T 3G5",
+      "province": "Ontario",
+      "streetAddress": "2223 Kennedy Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2221 Kennedy Road Toronto Ontario",
+      "latitudeCoordinate": "43.7814906948",
+      "longitudeCoordinate": "-79.2869932848",
+      "postalCode": "M1T 3G5",
+      "province": "Ontario",
+      "streetAddress": "2221 Kennedy Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "2221 & 2223 Kennedy Road and 3, 5 & 7 Collingwood Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4937"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Scarborough Community Council",
+  "eventList": [],
+  "noticeDate": 1713499200000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong><br /><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: left;\">The City has received the following application(s) under the Planning Act:</p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p><strong>SCARBOROUGH COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 23 216720 ESC 22 OZ<br />Application to Amend the Official Plan to permit three four-storey stacked and back-to-back townhouse buildings with rooftop access.<br />2221 &amp; 2223 Kennedy Road and 3, 5 &amp; 7 Collingwood Street<br />Ward 22 &ndash; Scarborough-Agincourt<br />This land is also subject to an application under the Planning Act for an amendment to a zoning by-law, Application Number: 22 222952 ESC 22 OZ, and site plan control, Application Number: 22 222951 ESC 22 SA<br />Planner, Bram Bulger at 416-394-2945 or <a href=\"mailto:Bram.Bulger@toronto.ca\">Bram.Bulger@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat<br />Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2, <br />Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5099,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "23 216720 ESC 22 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application Under the Planning Act - 2221 & 2223 Kennedy Road and 3, 5 & 7 Collingwood Street",
+  "topics": [
+    "Planning"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

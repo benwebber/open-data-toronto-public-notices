@@ -1,0 +1,83 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "375 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.649124734",
+      "longitudeCoordinate": "-79.3937698723",
+      "province": "Ontario",
+      "streetAddress": "375 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Dundas Street West & Durie Street Toronto Ontario",
+      "latitudeCoordinate": "43.66561213",
+      "longitudeCoordinate": "-79.484817282",
+      "majorIntersection": "Dundas Street West & Durie Street",
+      "province": "Ontario"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "444 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6535711252",
+      "longitudeCoordinate": "-79.3958946123",
+      "postalCode": "M5T 1G7",
+      "province": "Ontario",
+      "streetAddress": "444 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1747 St Clair Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.67392841792903",
+      "longitudeCoordinate": "-79.4601662024656",
+      "postalCode": "M6N 1J4",
+      "province": "Ontario",
+      "streetAddress": "1747 St Clair Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "838 Broadview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6786331379",
+      "longitudeCoordinate": "-79.3586649855",
+      "province": "Ontario",
+      "streetAddress": "838 Broadview Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Properties",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1385"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Real Estate Services",
+    "country": "Canada",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-1227",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1583298000000,
+  "noticeDescription": "<p>NOTICE is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal by-law, the following properties were declared surplus:</p>\n<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On February 6, 2020, the rear of 375 Queen Street West, legally described as Part of Lots 21-23 Plan 1b Toronto, being Part 1 on Reference Plan 63R-4373, Part 1 on Reference Plan 63R-3898 and Parts 1 to 7 on Expropriation Plan CT907963, save and except Part 2 on Reference Plan 63R-4373; City of Toronto, being part of PIN: 21412-0236 in Land Registry Office of Toronto (No. 66) in Land Titles Division, shown as Part 1 on Sketch No. PS-2019-075 and conditional upon City Council approving the permanent closure of that portion of the public lane. &nbsp;The lane has an area of approximately 43.0 sq. m.&nbsp; The intended manner of disposal to be by way of the invitation of an offer to purchase of that portion of the public lane from the adjoining owner, 375-381 Queen Street West Inc.</p>\n<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On February 24, 2020, a public lane abutting the south limit of 3385 Dundas Street West and the north limit of 727 Durie Street, legally described as 10 Foot Lane on Plan 888 abutting Lots 1-3 Plan 888, Toronto (York) (being all of PIN 10519-0461 (LT). &nbsp;&nbsp;The public lane has a total area of approximately 97.3 sq. m.&nbsp; The intended manner of disposal to be by way of an offer to purchase the Property be invited from the owner of the abutting property, 727 Durie Street.</p>\n<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On February 24, 2020, a small portion of a public lane abutting 444 Dundas Street West, legally described as Part 1 on Sketch No. PS-2019-094 attached hereto as Schedule \"B\", being part of the public laneway legally described as LANE PL 364 CITY EAST; LANE PL D222 TORONTO; LANE PL 245E TORONTO; PT LT K PL 245E TORONTO PT 1, 63R1038; PT LT 1-5, 9 PL D222 TORONTO PT 1-3, 63R1309, PT 2, 63R1820, PT 2, 63R1901, PT 2, 63R2671, PT 2, 63R2687; PT PARKLT 14 CON 1 FTB TWP OF YORK PT 2, 63R1106, PT 2, 63R3013, PT 2, 63R3787; CITY OF TORONTO and conditional upon City Council approving the permanent closure of the Lane. The property has a total area of approximately 8.3 sq. m. &nbsp;The intended manner of disposal to be by way of the invitation of an offer to purchase the lane from the owner of the abutting property, Chinese Gospel Church of Toronto.</p>\n<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On February 24, 2020, a public lane between 1747 and 1753 St. Clair Avenue West, legally described as PART OF LANE ON PLAN 141; PT LANE PL 141 TORONTO CLOSED BY CA503862; PT LT 41-43 PL 141 TORONTO AS IN WH34884; BEING LANE ON W &amp; S OF HOUNSLOW HEATH RD; CITY OF TORONTO, shown as Part 1 on Sketch No. PS-2019-076 and conditional upon City Council approving the permanent closure of the highway. &nbsp;The public lane have a total area of approximately 181.6 sq. m.&nbsp; The intended manner of disposal to be by way of the invitation of an offer to purchase the lane from the owner of the abutting lands, 1749 St. Clair Inc.</p>\n<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On February 24, 2020, 838 Broadview Avenue, legally described as LT 45 Pl 257 Toronto (midway); Toronto; City of Toronto.&nbsp; The lot has a total area of approximately 812.04 sq. m.&nbsp; The intended manner of disposal to be by way of an invitation of an offer to purchase from the owner of the abutting lands or their successor for inclusion in its proposed mixed-use development.</p>\n<p>The following City official has information about the proposed dispositions: Mrs. Anna Edwards, Tel: 416-338-3185, Fax: 416-392-1880, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 18th of March, 2020.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1563,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Declaration of Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

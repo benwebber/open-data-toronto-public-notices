@@ -1,0 +1,53 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "100 Simcoe Street Toronto Ontario",
+      "latitudeCoordinate": "43.6482005232",
+      "longitudeCoordinate": "-79.386762747",
+      "postalCode": "M5H 3G2",
+      "province": "Ontario",
+      "streetAddress": "100 Simcoe Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Designation By-law 931-2022 - 100 Simcoe Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3360"
+    }
+  ],
+  "contact": {
+    "city": "Toronto ",
+    "contactName": "Toronto Preservation Board",
+    "country": "Canada",
+    "emailAddress": "hertpb@toronto.ca",
+    "locationName": "2nd floor, West Tower, City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario ",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1660795200000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 931-2022 to designate 100 Simcoe Street (Spadina-Fort York, Ward 10) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3592,
+  "otherReferenceList": [
+    {
+      "description": "By-law 931-2022 - To designate the property at 100 Simcoe Street as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2022/law0931.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "IN THE MATTER OF THE ONTARIO HERITAGE ACT R.S.O. 1990 CHAPTER 0.18 AND 100 SIMCOE STREET ",
+  "title": "Notice of Passing of Designation By-law 931-2022 - 100 Simcoe Street",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

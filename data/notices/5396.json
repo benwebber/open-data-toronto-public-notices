@@ -1,0 +1,157 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Wembley Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6767268612",
+      "longitudeCoordinate": "-79.3179643982",
+      "postalCode": "M4L 3C9",
+      "province": "Ontario",
+      "streetAddress": "11 Wembley Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "35 Hastings Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.664606589",
+      "longitudeCoordinate": "-79.3291998",
+      "postalCode": "M4L 2L1",
+      "province": "Ontario",
+      "streetAddress": "35 Hastings Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "35 Thome Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.676628941",
+      "longitudeCoordinate": "-79.433402592",
+      "postalCode": "M6H 2S6",
+      "province": "Ontario",
+      "streetAddress": "35 Thome Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "36 Gifford Street Toronto Ontario",
+      "latitudeCoordinate": "43.663599817",
+      "longitudeCoordinate": "-79.363758694",
+      "postalCode": "M5A 3J1",
+      "province": "Ontario",
+      "streetAddress": "36 Gifford Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "49 Holcolm Road Toronto Ontario",
+      "latitudeCoordinate": "43.776238948",
+      "longitudeCoordinate": "-79.419262647",
+      "postalCode": "M2N 2C8",
+      "province": "Ontario",
+      "streetAddress": "49 Holcolm Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "81 Thursfield Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7159944129",
+      "longitudeCoordinate": "-79.3559308477",
+      "postalCode": "M4G 2N4",
+      "province": "Ontario",
+      "streetAddress": "81 Thursfield Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "86 Fuller Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.642664105",
+      "longitudeCoordinate": "-79.440389251",
+      "postalCode": "M6R 2C5",
+      "province": "Ontario",
+      "streetAddress": "86 Fuller Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "115 Ponymeadow Terrace Toronto Ontario",
+      "latitudeCoordinate": "43.796995255",
+      "longitudeCoordinate": "-79.182233041",
+      "postalCode": "M1C 4J6",
+      "province": "Ontario",
+      "streetAddress": "115 Ponymeadow Terrace"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "151 Harbourview Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.622185805",
+      "longitudeCoordinate": "-79.4882917",
+      "postalCode": "M8V 4A8",
+      "province": "Ontario",
+      "streetAddress": "151 Harbourview Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "153 Boultbee Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.673997891",
+      "longitudeCoordinate": "-79.333076912",
+      "postalCode": "M4J 1B2",
+      "province": "Ontario",
+      "streetAddress": "153 Boultbee Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "153 Westwood Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6859590765",
+      "longitudeCoordinate": "-79.350345038",
+      "postalCode": "M4K 2A9",
+      "province": "Ontario",
+      "streetAddress": "153 Westwood Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "569 Ossington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6579434428",
+      "longitudeCoordinate": "-79.4238111218",
+      "postalCode": "M6G 3T4",
+      "province": "Ontario",
+      "streetAddress": "569 Ossington Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5240"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-8485",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1721188800000,
+  "noticeDescription": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>City's Residential Retrofit Program</strong></span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">PUBLIC NOTICE</span></strong></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Individual by-laws for each of the benefitting properties listed below have been enacted for the meeting of City Council held on June 26 and 27, 2024. Review by-law details <a href=\"(https://secure.toronto.ca/council/bill-bylaw.do?meeting=2024.CC19)\">(https://secure.toronto.ca/council/bill-bylaw.do?meeting=2024.CC19)</a>.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Each of these by-laws imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a href=\"https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">By-law 1105-2013 (July 19, 2013).</a></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">The benefitting properties are:</span></p>\n<p>&nbsp;</p>\n<ul>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">&nbsp; &nbsp; 11 Wembley Drive</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">&nbsp; &nbsp; 35 Hastings Avenue</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">&nbsp; &nbsp; 35 Thome Crescent</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">&nbsp; &nbsp; 36 Gifford Street</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">&nbsp; &nbsp; 49 Holcolm Road</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">&nbsp; &nbsp; 81 Thursfield Crescent</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">&nbsp; &nbsp; 86 Fuller Avenue</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">&nbsp; &nbsp; 115 Ponymeadow Terrace</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">&nbsp; &nbsp; 151 Harbourview Crescent</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">&nbsp; &nbsp; 153 Boultbee Avenue</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">&nbsp; &nbsp; 153 Westwood Avenue</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif;\">&nbsp; &nbsp; 569 Ossington Avenue</span></li>\n</ul>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: arial, helvetica, sans-serif;\">For More Information Contact</span></strong></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">City Council</span><br /><a href=\"mailto:councilmeeting@toronto.ca\"><span style=\"font-family: arial, helvetica, sans-serif;\">councilmeeting@toronto.ca</span></a><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Phone: 416-392-8485</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Fax: 416-392-2980</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Toronto City Hall</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">100 Queen Street</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Toronto, Ontario</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">M5H 2N2</span><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Canada</span></p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5396,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "City's Residential Retrofit Program ",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Buttonwood Avenue & Verona Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6895552",
+      "longitudeCoordinate": "-79.504827391",
+      "majorIntersection": "Buttonwood Avenue & Verona Avenue",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke York Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "locationName": "Etobicoke Civic Centre",
+    "phone": "416-392-8016",
+    "postalCode": "M9C 2Y2",
+    "province": "Ontario",
+    "streetAddress": "399 The West Mall"
+  },
+  "decisionBody": "Etobicoke York Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Etobicoke Civic Centre, Council Chamber",
+      "postalCode": "M9C 2Y2",
+      "province": "Ontario",
+      "startDateTime": 1524231000000,
+      "streetAddress": "150 The West Mall"
+    }
+  ],
+  "noticeDate": 1524196800000,
+  "noticeDescription": "<p>At its meeting to be held in the Etobicoke Civic Centre on May 2, 2018, commencing at 9:30 a.m., the Etobicoke York Community Council will hear in person or by his or her counsel, agent or solicitor, any person who wishes to speak to this matter.</p>\n<p>To view a copy of the proposed by-law and plan to close the westerly portion of the public highway known as Buttonwood Avenue adjacent to West Park Healthcare Centre, obtain additional information, submit comments or address the Etobicoke York Community Council meeting on May 2, 2018, please contact the following City official no later than 12:00 p.m. on May 1, 2018.</p>\n<p style=\"padding-left: 30px;\">Rosemary MacKenzie, Administrator<br />Etobicoke York Community Council<br />Etobicoke Civic Centre<br />Main Floor, 399 The West Mall<br />Toronto, Ontario. M9C 2Y2<br />Telephone: 416-394-8101; Facsimile: 416-394-5600<br />E-mail: etcc@toronto.ca</p>\n<p>Closed Meeting Requirements: If the Etobicoke York Community Council wants to meet in closed session (privately), a member of the committee must make a motion to do so and give the reason why the Committee has to meet privately. (City of Toronto Act, 2006).</p>\n<p>Notice to people writing or making presentations to the Etobicoke York Community Council: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk&rsquo;s Office, City Hall, 100 Queen Street West, Toronto ON M5H 2N2 or by calling 416-394-8101.</p>\n<p>This notice shall also constitute notice to the public of the proposed public highway closure in accordance with the requirements of the Municipal Class Environmental Assessment for Schedule A+ activities.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 185,
+  "otherReferenceList": [
+    {
+      "description": "EY30.15 - Permanent Closure of the westerly Portion of Buttonwood Avenue adjacent to West Park Healthcare Centre",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.EY30.15"
+    },
+    {
+      "description": "By-law 602-2018 - To permanently close part of the public highway known as the westerly 64 metres of Buttonwood Avenue adjacent to West Park Healthcare Centre",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0602.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "The Council of the City of Toronto proposes to pass a by-law to permanently close the westerly portion of Buttonwood Avenue adjacent to West Park Healthcare Centre, designated as Part 1 on Plan 66R-29921, City of Toronto (former City of Etobicoke).",
+  "title": "Proposed By-law and Plan to Close the Westerly Portion of the Public Highway known as Buttonwood Avenue Adjacent to West Park Healthcare Centre",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

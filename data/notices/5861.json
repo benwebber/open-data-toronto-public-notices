@@ -1,0 +1,168 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "12 Kimbermount Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7928669137",
+      "longitudeCoordinate": "-79.2986987068",
+      "postalCode": "M1T 2X9",
+      "province": "Ontario",
+      "streetAddress": "12 Kimbermount Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 MacDonell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.640878045",
+      "longitudeCoordinate": "-79.438372983",
+      "postalCode": "M6R 2A2",
+      "province": "Ontario",
+      "streetAddress": "16 MacDonell Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 Masseygrove Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.736138097",
+      "longitudeCoordinate": "-79.585060417",
+      "postalCode": "M9V 3C9",
+      "province": "Ontario",
+      "streetAddress": "16 Masseygrove Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "32 Fern Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.704183791",
+      "longitudeCoordinate": "-79.521619882",
+      "postalCode": "M6R 1K1",
+      "province": "Ontario",
+      "streetAddress": "32 Fern Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "33 Muir Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.758865631",
+      "longitudeCoordinate": "-79.575779269",
+      "postalCode": "M6H 1E7",
+      "province": "Ontario",
+      "streetAddress": "33 Muir Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "50 Burlingame Road Toronto Ontario",
+      "latitudeCoordinate": "43.6001848792",
+      "longitudeCoordinate": "-79.54887386",
+      "postalCode": "M8W 1Y8",
+      "province": "Ontario",
+      "streetAddress": "50 Burlingame Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "69 Sheridan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.648134857",
+      "longitudeCoordinate": "-79.432742302",
+      "postalCode": "M6K 2G8",
+      "province": "Ontario",
+      "streetAddress": "69 Sheridan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "75 Robert Street Toronto Ontario",
+      "latitudeCoordinate": "43.7069032167",
+      "longitudeCoordinate": "-79.5173028484",
+      "postalCode": "M5S 2K4",
+      "province": "Ontario",
+      "streetAddress": "75 Robert Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "103 Roseheath Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6836640794",
+      "longitudeCoordinate": "-79.3176262082",
+      "postalCode": "M4C 3P6",
+      "province": "Ontario",
+      "streetAddress": "103 Roseheath Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "211 Three Valleys Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7449914056",
+      "longitudeCoordinate": "-79.3362834606",
+      "postalCode": "M3A 3L7",
+      "province": "Ontario",
+      "streetAddress": "211 Three Valleys Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "268 Rusholme Road Toronto Ontario",
+      "latitudeCoordinate": "43.658147064",
+      "longitudeCoordinate": "-79.430388954",
+      "postalCode": "M6H 2Y8",
+      "province": "Ontario",
+      "streetAddress": "268 Rusholme Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "457 Manor Road East Toronto Ontario",
+      "latitudeCoordinate": "43.706631233",
+      "longitudeCoordinate": "-79.376299488",
+      "postalCode": "M4S 1T3",
+      "province": "Ontario",
+      "streetAddress": "457 Manor Road East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "734 Royal York Road Toronto Ontario",
+      "latitudeCoordinate": "43.6347173008",
+      "longitudeCoordinate": "-79.50648347",
+      "postalCode": "M8Y 2T6",
+      "province": "Ontario",
+      "streetAddress": "734 Royal York Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": " City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5737"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-8485",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1736312400000,
+  "noticeDescription": "<p><strong>City's Residential Retrofit Program</strong></p>\n<p>&nbsp;</p>\n<p><strong>PUBLIC NOTICE</strong></p>\n<p>&nbsp;</p>\n<p><strong>Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.</strong></p>\n<p>&nbsp;</p>\n<p>Individual by-laws for each of the benefitting properties listed below have been enacted for the meeting of City Council held on December 17 and 18, 2024. Review by-law details (<a href=\"https://secure.toronto.ca/council/bill-bylaw.do?meeting=2024.CC24\">https://secure.toronto.ca/council/bill-bylaw.do?meeting=2024.CC24</a>).</p>\n<p>&nbsp;</p>\n<p>Each of these by-laws imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by<a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22\"> Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a href=\"https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>&nbsp;</p>\n<p>The benefitting properties are:</p>\n<p>&nbsp;</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12 Kimbermount Drive</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16 MacDonell Avenue</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16 Masseygrove Crescent</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 32 Fern Avenue</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 33 Muir Avenue</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50 Burlingame Road</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 69 Sheridan Avenue</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 75 Robert Street</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 103 Roseheath Avenue</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 211 Three Valleys Drive</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 268 Rusholme Road</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 457 Manor Road East</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 734 Royal York Road</p>\n<p>&nbsp;</p>\n<p><strong>For More Information Contact</strong></p>\n<p>City Council<br /><a href=\"mailto:councilmeeting@toronto.ca\">councilmeeting@toronto.ca</a>&nbsp;<br />Phone: 416-392-8485<br />Fax: 416-392-2980</p>\n<p>&nbsp;</p>\n<p>Toronto City Hall<br />100 Queen Street<br />Toronto, Ontario<br />M5H 2N2<br />Canada</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5861,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "City's Residential Retrofit Program ",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

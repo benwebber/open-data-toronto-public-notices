@@ -1,0 +1,47 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "620 Dundas Street East Toronto Ontario",
+      "latitudeCoordinate": "43.661043259",
+      "longitudeCoordinate": "-79.361779727",
+      "province": "Ontario",
+      "streetAddress": "620 Dundas Street East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-Law 1325-2023 - 620 Dundas Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5235"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1721102400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif;\"><strong>NOTICE OF INTENTION TO REMOVE A HOLDING SYMBOL (H) FROM ZONING BY-LAW 1325-2023</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif;\"><strong>(Under the Planning Act)</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">The City has received the following application under Section 36 of the Planning Act:</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>Application Number:</strong> 23 192194 STE 13 OZ</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>Location of Application:</strong> 620 Dundas Street East (Regent Park Phases 4 and 5)</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>Ward:</strong> Ward 13 - Toronto Centre</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>Contact: Katherine Bailey</strong>, Senior Planner, Community Planning at 416-397-1761, by e-mail at <a href=\"mailto:Katherine.Bailey@toronto.ca\">Katherine.Bailey@toronto.ca</a>, or by address City Hall, 100 Queen Street West, East Tower, 18th Floor, Toronto, Ontario, M5H 2N2.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>DESCRIPTION</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">The application proposes to amend Zoning By-law 1325-2023 to remove the Holding Symbol (H) &nbsp;applying to Phases 4 and 5 of the Regent Park revitalization to allow development to proceed for these phases. The area where the holding symbol (H) would be removed is noted on the map below.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Detailed information regarding the above-listed proposal, including background information and materials may be made available for public inspection by contacting the Planner noted above or by visiting the City of Toronto&rsquo;s Application Information Centre.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>MAKE YOUR VIEWS KNOWN</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">You may send written comments by mail or email to the Planner noted above. Your written comments must be submitted no later than <strong>August 9, 2024</strong>, to be considered by the Chief Planner and Executive Director, City Planning or designate. A decision by the Chief Planner and Executive Director, City Planning or designate as to whether to remove the Holding Symbol (H) will occur no earlier than <strong>September 17, 2024</strong>.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>Notice to People Writing to the City</strong>: The <em>City of Toronto Act, 2006,</em> the Planning Act, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication to the City.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">The City collects this information to enable it to make informed decisions on the relevant issue(s).&nbsp; If you are submitting letters, e-mails, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</span></p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5393,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "23 192194 STE 13 OZ "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-Law 1325-2023 - 620 Dundas Street",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment",
+    "Planning > Intention to remove a Holding Symbol"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

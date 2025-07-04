@@ -1,0 +1,72 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "33 Blackbush Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7507812005",
+      "longitudeCoordinate": "-79.5926107033",
+      "postalCode": "M9V 3N8",
+      "province": "Ontario",
+      "streetAddress": "33 Blackbush Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "23 Netherly Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7509850237",
+      "longitudeCoordinate": "-79.5916122643",
+      "postalCode": "M9V 3M3",
+      "province": "Ontario",
+      "streetAddress": "23 Netherly Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "30 Netherly Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7508654175",
+      "longitudeCoordinate": "-79.5921367399",
+      "postalCode": "M9V 3M2",
+      "province": "Ontario",
+      "streetAddress": "30 Netherly Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "96 Dynevor Road Toronto Ontario",
+      "latitudeCoordinate": "43.6931287182",
+      "longitudeCoordinate": "-79.4504841701",
+      "postalCode": "M6E 3X2",
+      "province": "Ontario",
+      "streetAddress": "96 Dynevor Road"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Melanie Hale-Carter",
+    "country": "Canada",
+    "emailAddress": "Melanie.Hale-Carter@toronto.ca",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-1227",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario ",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1519102800000,
+  "noticeDescription": "<p>1. On February 1, 2018, the public lane extending between Blackbush Drive and Netherly Drive, legally described as PCL PLAN-1, SEC M1040 Public Lane, Plan M1040 Etobicoke, shown as Parts 1 to 4 on Sketch No. PS-2017-002, conditional upon City Council approving the permanent closure of the Public Lane and subject to all required easements. The public lane has a total area of approximately 201.0 m&sup2; (2163.55 ft&sup2;). The City proposes to invite an offer to purchase the Public Lane from the adjacent owners at 31 and 33 Blackbush Drive and 23 and 30 Netherly Drive.</p>\n<p>2. On February 1, 2018, a reserve strip located at north limit of Lot 710 on Plan 1442, also shown as Part 1 on Sketch No. PS-2017-060. The strip has a total area of approximately10 m&sup2; (107.64 ft&sup2;). The City proposes to invite an offer to purchase the property from the owner of 96 Dynevor Road.</p>\n<p>The following City official has information about the proposed dispositions: Mrs. Melanie Hale-Carter, Tel: 416-392-1227, Fax: 416-392-1880, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 5th day of March, 2018.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 81,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Notice is hereby given that in accordance with the City of Toronto’s real estate disposal by-law, the following properties were declared surplus:",
+  "title": "Declaration of Multiple Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

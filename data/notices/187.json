@@ -1,0 +1,33 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [],
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1526356800000,
+  "noticeDescription": "<p>TAKE NOTICE that on Friday, April 27, 2018 the Council of the City of Toronto enacted By-law No. 515-2018 pursuant to Section 2 of the Development Charges Act, 1997, S.O. 1997, c.27. By-law No. 515-2018 shall come into force on May 1, 2018.</p>\n<p>AND TAKE NOTICE that any person or organization may appeal to the Local Planning Appeal Tribunal (formerly the Ontario Municipal Board), in respect to the by-law by filing with the Clerk of the City of Toronto, on or before the date of Wednesday, June 6, 2018, a notice of appeal setting out the objection to the by-law and the reasons in support of the objection.</p>\n<p>The charges in By-law No. 515-2018 will apply to all new residential and non-residential development, subject to certain terms, conditions and limited exemptions as identified in the by-law.</p>\n<p>Development charges are levied against new development to pay for the increased capital costs related to the provision of such municipal services as Spadina Subway Extension, Transit (balance), Roads and Related, Water, Sanitary Sewer, Storm Water Management, Parks and Recreation, Library, Subsidized Housing, Police, Fire, Paramedic Services, Development-related Studies, Civic Improvements, Child Care, Health, Pedestrian Infrastructure, and Shelter.</p>\n<p>The by-law levies development charges against all lands, buildings or structures within the City of Toronto, subject to exemptions contained in the by-law. As the by-law applies to all lands within the City of Toronto, a key map has not been included in this notice.</p>\n<p>A copy of the complete by-law is available for examination during regular business hours (weekdays from 8:30 a.m. to 4:30 p.m.) in the City Clerk&rsquo;s Office at Toronto City Hall, 10th Floor, West Tower, 100 Queen Street West, Toronto, Ontario, M5H 2N2. The complete by-law is also available on the City&rsquo;s website.</p>\n<p>The development charges imposed by the by-law are as follows*:</p>\n<table style=\"border: 1px solid black; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td>Development Type</td>\n<td>May 1, 2018</td>\n<td>November 1, 2018</td>\n<td>November 1, 2019</td>\n<td>November 1, 2020</td>\n</tr>\n<tr>\n<td>Residential ($ per unit)</td>\n<td>41, 251</td>\n<td>60,739</td>\n<td>72,432</td>\n<td>80,277</td>\n</tr>\n<tr>\n<td style=\"padding-left: 30px;\">Singles &amp; Semis</td>\n<td>34, 742</td>\n<td>50,528</td>\n<td>59,999</td>\n<td>66,313</td>\n</tr>\n<tr>\n<td style=\"padding-left: 30px;\">Multiples 2+ Bedrooms</td>\n<td>234, 816</td>\n<td>29,041</td>\n<td>31, 576</td>\n<td>33,266</td>\n</tr>\n<tr>\n<td style=\"padding-left: 30px;\">Multiples 1 Bedroom and Bach</td>\n<td>26,366</td>\n<td>36,165</td>\n<td>42,644</td>\n<td>46,963</td>\n</tr>\n<tr>\n<td style=\"padding-left: 30px;\">Apartments 1 Bedroom and Bach</td>\n<td>17,644</td>\n<td>24,150</td>\n<td>28,054</td>\n<td>30,656</td>\n</tr>\n<tr>\n<td style=\"padding-left: 30px;\">Dwelling Room</td>\n<td>11,028</td>\n<td>16,386</td>\n<td>19,600</td>\n<td>21,743</td>\n</tr>\n<tr>\n<td>Non-residential ($ per sq. m.)</td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td style=\"padding-left: 30px;\">Non-residential uses</td>\n<td>213.65</td>\n<td>310.40</td>\n<td>368.45</td>\n<td>407.15</td>\n</tr>\n</tbody>\n</table>\n<p>*Development charges rates are subject to adjustment for indexing, in accordance with the by-law.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 187,
+  "otherReferenceList": [
+    {
+      "description": "EX33.3 - Development Charges Bylaw Review - Results of Additional Consultation",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.EX33.3"
+    },
+    {
+      "description": "By-law 515-2018 - To amend City of Toronto Municipal Code Chapter 415, Development of Land, by re-enacting Article I, Development Charges",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0515.pdf"
+    },
+    {
+      "description": "By-law 748-2018 - To amend City of Toronto Municipal Code Chapter 227, Reserves and Reserve Funds, to establish the Development Charges - Shelter Services Obligatory Reserve Fund",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0748.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Notice of Passing of Development Charge By-law No. 515-2018 Development Charges Act, 1997, S.O. 1997, c.27",
+  "topics": [
+    "Planning > Development charge"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

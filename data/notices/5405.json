@@ -1,0 +1,59 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2026 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.670479798",
+      "longitudeCoordinate": "-79.298646317",
+      "postalCode": "M4L 1J4",
+      "province": "Ontario",
+      "streetAddress": "2026 Queen Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2040 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.670728016",
+      "longitudeCoordinate": "-79.298264429",
+      "postalCode": "M4L 1J4",
+      "province": "Ontario",
+      "streetAddress": "2040 Queen Street East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 2026-2040 Queen Street East",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5263"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1721966400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif;\"><strong>NOTICE OF APPLICATION(S)</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif;\"><strong>(Under the Planning Act)</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">The City has received the following application(s) under the Planning Act:</span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Application Number: 24 164943 STE 19 OZ</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Application to Amend the Official Plan and Zoning By-law to demolish the existing two-storey mixed-use building and construct a six-storey mixed-use building with retail fronting Queen Street East</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">2026-2040 Queen Street East</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Ward 19 &ndash; Beaches-East York</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Raymond Tung at 416-392-3812 or <a href=\"mailto:Raymond.Tung@toronto.ca\">Raymond.Tung@toronto.ca</a></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>CONTACT INFORMATION</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">City Clerk, Attention: Registrar Secretariat</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>BACKGROUND INFORMATION</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>FURTHER INFORMATION</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</span></p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5405,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 164943 STE 19 OZ "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 2026-2040 Queen Street East",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment",
+    "Planning > Proposal for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

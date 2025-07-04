@@ -1,0 +1,53 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 St Clair Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.6877867857",
+      "longitudeCoordinate": "-79.3943542302",
+      "postalCode": "M4V 1K7",
+      "province": "Ontario",
+      "streetAddress": "1 St Clair Avenue West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Designation By-law 1214-2022 - 1 St. Clair Avenue West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3441"
+    }
+  ],
+  "contact": {
+    "city": "Toronto ",
+    "contactName": "Toronto Preservation Board",
+    "country": "Canada",
+    "emailAddress": "hertpb@toronto.ca",
+    "locationName": "2nd floor, West Tower, City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario ",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1666843200000,
+  "noticeDescription": "<p>TAKE NOTICE that Council for the City of Toronto passed Designation By-law 1214-2022 on September 28, 2022, which designates the lands, buildings and structures known municipally as 1 St. Clair Avenue West, under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest.</p>\n<p>&nbsp;</p>\n<p>The City Clerk did not receive any objections to the Notice of Intention to Designate the Property. Therefore, City Council did not consider any objections and passed the Designation By-law for the Property.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal of the Designation by-law for the Property by those persons permitted to appeal under section 29 of the Ontario Heritage Act may be made by filing a notice of appeal with the City Clerk, Attention: Administrator, Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2; Email: <a href=\"mailto:hertpb@toronto.ca\">hertpb@toronto.ca</a> within thirty days of October 27, 2022, which is November 28, 2022.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>(1) set out the reasons for the objection to the designation by-law; and</p>\n<p>(2) set out the reasons in support of the objection to the designation by-law.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT), forms are available from the Ontario Land Tribunal website at <a href=\"https://olt.gov.on.ca\">https://olt.gov.on.ca</a>.</p>\n<p>Who Can File An Appeal:</p>\n<p>&nbsp;</p>\n<p>Any persons who object to the designation by-law may refer the matter to the Ontario Land Tribunal.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>A copy of the by-law and background information about the application is available for public inspection by contacting Heritage Planning staff at <a href=\"mailto:heritageplanning@toronto.ca\">heritageplanning@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Further information in respect of the Designation By-law is available from the City of Toronto at:</p>\n<p>&nbsp;</p>\n<p><a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.CC47.37\">http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.CC47.37</a></p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3674,
+  "otherReferenceList": [
+    {
+      "description": "2022.CC47.37 - 1 St. Clair Avenue West - Notice of Intention to Designate a Property under Part IV, Section 29 of the Ontario Heritage Act",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.CC47.37"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "IN THE MATTER OF THE ONTARIO HERITAGE ACT R.S.O. 1990, CHAPTER O.18 AND CITY OF TORONTO, PROVINCE OF ONTARIO 1 ST. CLAIR AVENUE WEST",
+  "title": "Notice of Passing of Designation By-law 1214-2022 - 1 St. Clair Avenue West",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

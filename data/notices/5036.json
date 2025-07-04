@@ -1,0 +1,57 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "935 The Queensway Toronto Ontario",
+      "latitudeCoordinate": "43.6237678426",
+      "longitudeCoordinate": "-79.5123516912",
+      "postalCode": "M8Z 1P3",
+      "province": "Ontario",
+      "streetAddress": "935 The Queensway"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "933 The Queensway Toronto Ontario",
+      "latitudeCoordinate": "43.6239530382",
+      "longitudeCoordinate": "-79.5121068525",
+      "postalCode": "M8Z 1P3",
+      "province": "Ontario",
+      "streetAddress": "933 The Queensway"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application to Remove a Holding Symbol from Zoning By-Law - 933-935 The Queensway",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4873"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1711598400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF INTENTION TO REMOVE A HOLDING SYMBOL (H) FROM ZONING BY-LAW 535-2023</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p><strong>Application Number</strong>: 23 184025 WET 03 OZ</p>\n<p><strong>Location of Application</strong>: 933-935 The Queensway</p>\n<p><strong>Ward</strong>: Ward 03 - Etobicoke-Lakeshore</p>\n<p><strong>Contact</strong>: Andrej Obradovic, Planner at 416-395-7150, by e-mail at andrej.obradovic@toronto.ca, or by address 2 Civic Centre Court, 3rd Floor, City of Toronto</p>\n<p>&nbsp;</p>\n<p><strong>DESCRIPTION</strong></p>\n<p>&nbsp;</p>\n<p>An application to amend Zoning By-law 535-2023 (OLT) to remove the Holding Symbol (H) to permit a 10-storey mixed-use building. The Holding provisions were imposed to enable the applicant to provide additional information related to site servicing demonstrating sufficient capacity to service the proposed development and confirm that all required upgrades and improvements have been financially secured. The Holding provisions also required a satisfactory wind study demonstrating efficacy of recommended wind mitigation measures and wind conditions, and a Section 37 Agreement that has been registered on the title of the lands. A further explanation of the effect of the removal of the holding symbol (H) is noted on the map below.</p>\n<p>&nbsp;</p>\n<p>Detailed information regarding the above-listed proposal, including background information and materials may be made available for public inspection by contacting the Planner noted above or by visiting the City of Toronto&rsquo;s Application Information Centre.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>MAKE YOUR VIEWS KNOWN</strong></p>\n<p>&nbsp;</p>\n<p>You may send written comments by mail or email to the Planner noted above. Your written comments must be submitted no later than <strong>April 25, 2024</strong> to be considered by the Chief Planner and Executive Director, City Planning or designate. A decision by the Chief Planner and Executive Director, City Planning or designate as to whether to remove the Holding Symbol (H) will occur no earlier than <strong>May 14, 2024</strong>.</p>\n<p>&nbsp;</p>\n<p><strong>Notice to People Writing to the City</strong>: The <em>City of Toronto Act, 2006</em>, the <em>Planning Act</em>, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication to the City.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s).&nbsp; If you are submitting letters, e-mails, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5036,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "23 184025 WET 03 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application to Remove a Holding Symbol from Zoning By-law - 933-935 The Queensway",
+  "topics": [
+    "Planning > Intention to remove a Holding Symbol"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

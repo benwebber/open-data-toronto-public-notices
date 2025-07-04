@@ -1,0 +1,54 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Toronto City Hall, 2nd Floor, Committee Room 1",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1519223400000,
+      "streetAddress": "100 Queen Street West"
+    }
+  ],
+  "noticeDate": 1518498000000,
+  "noticeDescription": "<p>Toronto and East York Community Council will be considering the option to permit parklet caf&eacute;s on Temperance Street. The imposition of fees to implement the parklet caf&eacute;s will also be considered at the Toronto and East York Community Council meeting on February 21, 2018.</p>\n<p>It is proposed that the recommendations be adopted at the City Council meeting to be held on March 26, 27 and 28, 2018.</p>\n<p>The proposed changes are detailed in the report titled, &ldquo;Temperance Street Parklet Caf&eacute;s&rdquo;. To view or obtain a copy of the report that outlines the proposed changes, <a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.TE30.51\">visit the City&rsquo;s website</a>.</p>\n<p>To submit comments or make a presentation to the Toronto and East York Community Council, please contact the Committee no later than 12:00 p.m. on February 20, 2018.</p>\n<p>To ask questions regarding the content of the report contact Fiona Chapman, Manager, Pedestrian Projects, Public Realm Section, Transportation Services at 416-392-0828 or by email: <a href=\"mailto:fiona.chapman@toronto.ca\">fiona.chapman@toronto.ca</a>.</p>\n<p>Any comments received after the Committee meeting will be forwarded to City Council.</p>\n<p>While the staff report sets out proposed changes, the Committee and/or City Council may make amendments and fee recommendations that differ from the recommendations set out in the report.</p>\n<p>Special Assistance for Members of the Public: City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</p>\n<p>Notice to People writing or making presentations to the Toronto and East York Community Council: The personal information contained in your correspondence to Toronto City Council or its committees is collected under the City of Toronto Act, 2006, and the City of Toronto Municipal Code Chapter 27 &ndash; Council Procedures, section 27-21. Any personal information will become part of the public record and may be posted on the City&rsquo;s website, unless you expressly request the removal of personal identity information. Questions about the collection of this information may be directed to the City Clerk&rsquo;s office at 416-392-7033.</p>\n<p>The City videotapes committee and community council meetings. If you make a presentation to a committee or community council, the City will be videotaping you and City staff may make the video tapes available to the public.</p>\n<p>To submit comments or make a presentation to the Toronto and East York Community Council, please contact the following City Official no later than 12:00 p.m. on February 20, 2018:</p>\n<p style=\"padding-left: 30px;\">Ms. Ellen Devlin<br />Administrator, Toronto and East York Community Council<br />City Clerk&rsquo;s Office<br />Toronto City Hall, 100 Queen Street West<br />2nd floor, West Tower<br />Toronto, Ontario M5H 2N2<br />Telephone: 416-392-7033; email: <a href=\"mail%20to:\">teycc@toronto.ca</a></p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 84,
+  "otherReferenceList": [
+    {
+      "description": "TE30.51 - Temperance Street Parklet Cafés",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.TE30.51"
+    },
+    {
+      "description": "By-law 438-2018 - To amend City of Toronto Municipal Code Chapter 950, Traffic and Parking, respecting Temperance Street",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0438.pdf"
+    },
+    {
+      "description": "By-law 343-2019 - To amend City of Toronto Municipal Code Chapter 950, Traffic and Parking, respecting Temperance Street",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0343.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Fees for Temperance Street Parklet Cafés",
+  "topics": [
+    "Licensing > Proposal to change user fees and charges"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-license.png"
+  ]
+}

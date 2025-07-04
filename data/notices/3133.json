@@ -1,0 +1,115 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Bartlett Avenue North & Geary Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.669972211",
+      "longitudeCoordinate": "-79.436813991",
+      "majorIntersection": "Bartlett Avenue North & Geary Avenue",
+      "province": "Ontario"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Bartlett Avenue North & Davenport Road Toronto Ontario",
+      "latitudeCoordinate": "43.6737084",
+      "longitudeCoordinate": "-79.438347331",
+      "majorIntersection": "Bartlett Avenue North & Davenport Road",
+      "province": "Ontario"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Davenport Road & Salem Avenue North Toronto Ontario",
+      "latitudeCoordinate": "43.673974243",
+      "longitudeCoordinate": "-79.437140982",
+      "majorIntersection": "Davenport Road & Salem Avenue North",
+      "province": "Ontario"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Davenport Avenue & Bristol Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.67332248",
+      "longitudeCoordinate": "-79.439525574",
+      "majorIntersection": "Davenport Avenue & Bristol Avenue",
+      "province": "Ontario"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Gladstone Avenue & Lindsey Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.653906539",
+      "longitudeCoordinate": "-79.431465629",
+      "majorIntersection": "Gladstone Avenue & Lindsey Avenue",
+      "province": "Ontario"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Gladstone Court & College Street Toronto Ontario",
+      "latitudeCoordinate": "43.652848804",
+      "longitudeCoordinate": "-79.431080519",
+      "majorIntersection": "Gladstone Court & College Street",
+      "province": "Ontario"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Gladstone Avenue & Sylvan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.654970656",
+      "longitudeCoordinate": "-79.431864972",
+      "majorIntersection": "Gladstone Avenue & Sylvan Avenue",
+      "province": "Ontario"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Lindsey Avenue & Havelock Street Toronto Ontario",
+      "latitudeCoordinate": "43.654218537",
+      "longitudeCoordinate": "-79.429934974",
+      "majorIntersection": "Lindsey Avenue & Havelock Street",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Removal of Permit Parking spaces",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2900"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Infrastructure and Environment Committee ",
+    "country": "Canada",
+    "emailAddress": "iec@toronto.ca",
+    "fax": "416-392-1879",
+    "locationName": "Toronto City Hall, 10th Floor, West Tower",
+    "phone": "416-397-4579",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1647921600000,
+  "noticeDescription": "<p>Notice is hereby given that the Infrastructure and Environment Committee proposes to have City Council to pass a by-law to remove permit parking spaces on the following streets:</p>\n<p>&nbsp;</p>\n<p>Bartlett Avenue North</p>\n<ul>\n<li>3 spaces between Davenport Road and Geary Avenue</li>\n</ul>\n<p>Davenport Road</p>\n<ul>\n<li>6 spaces between Bartlett Avenue North and Salem Avenue North</li>\n<li>3 spaces between Bartlett Avenue North and Bristol Avenue</li>\n</ul>\n<p>Gladstone Avenue</p>\n<ul>\n<li>5 spaces between Lindsey Avenue and Sylvan Avenue</li>\n<li>7 spaces between Lindsey Avenue and College Street</li>\n</ul>\n<p>Lindsey Avenue</p>\n<ul>\n<li>2 spaces between Gladstone Avenue and Havelock Street</li>\n</ul>\n<p>To accommodate a contra flow bike lane, new traffic signals and change of traffic flow.</p>\n<p>&nbsp;</p>\n<p>Any objections regarding this proposal should be set out in writing and forwarded to the City Clerk, Attention: Matthew Green, City Council, City of Toronto, Secretariat Division, City Hall, 100 Queen Street W, 10th floor west tower, Toronto, Ontario, M5H 2N2, or by E-mail: iec@toronto.ca.&nbsp; Written objections received by the required date will be scheduled for deputations at the next Infrastructure and Environment Committee meeting. If the Clerk receives no objections by the 29th day of March, 2022, the City will proceed with its proposed action.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3133,
+  "otherReferenceList": [
+    {
+      "description": "2022.IE28.7 - Cycling Network Plan - 2022 Cycling Infrastructure Installation - First Quarter and 2021 ActiveTO Cycling Network Expansion Project Updates ",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.IE28.7"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Removal of Permit Parking spaces ",
+  "topics": [
+    "Transportation > Intention to reduce permit parking spaces or times"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

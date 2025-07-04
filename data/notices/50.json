@@ -1,0 +1,94 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "89 Watson Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6634351097",
+      "longitudeCoordinate": "-79.4915091194",
+      "province": "Ontario",
+      "streetAddress": "89 Watson Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "107 Rainsford Road Toronto Ontario",
+      "latitudeCoordinate": "43.6724160913",
+      "longitudeCoordinate": "-79.3082428573",
+      "province": "Ontario",
+      "streetAddress": "107 Rainsford Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "139 Elmer Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6741359296",
+      "longitudeCoordinate": "-79.3051617341",
+      "province": "Ontario",
+      "streetAddress": "139 Elmer Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "192 Hallam Street Toronto Ontario",
+      "latitudeCoordinate": "43.6668977236",
+      "longitudeCoordinate": "-79.4339869256",
+      "province": "Ontario",
+      "streetAddress": "192 Hallam Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "201 Boulton Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6645467509",
+      "longitudeCoordinate": "-79.3485779223",
+      "province": "Ontario",
+      "streetAddress": "201 Boulton Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "257 Koning Court Toronto Ontario",
+      "latitudeCoordinate": "43.7885675706",
+      "longitudeCoordinate": "-79.1363785607",
+      "province": "Ontario",
+      "streetAddress": "257 Koning Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "785 Browns Line Toronto Ontario",
+      "latitudeCoordinate": "43.6087903273",
+      "longitudeCoordinate": "-79.5475815073",
+      "province": "Ontario",
+      "streetAddress": "785 Browns Line"
+    }
+  ],
+  "backgroundInformationList": [],
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1517374800000,
+  "noticeDescription": "<p>Individual bills for each of the benefitting properties listed below have been submitted for the meeting of City Council being held on January 31, February 1 and 2, 2018. Weblinks for these bills can be found here.</p>\n<p>Each of these bills imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013 and enacted in By-law 1105-2013 (July 19, 2013).</p>\n<p>The benefitting properties are:</p>\n<p>1. 89 Watson Avenue</p>\n<p>2. 107 Rainsford Road</p>\n<p>3. 139 Elmer Avenue</p>\n<p>4. 192 Hallam Street</p>\n<p>5. 201 Boulton Avenue</p>\n<p>6. 257 Koning Court</p>\n<p>7. 785 Browns Line</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 50,
+  "otherReferenceList": [
+    {
+      "description": "By-law 1105-2013",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf"
+    },
+    {
+      "description": "EX33.2 - Proposed Energy and Water Efficiency Initiative for the Residential Sector",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Notice of the imposition of special charges on benefiting properties under the City's Residential Retrofit Program",
+  "title": "City's Residential Retrofit Program",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

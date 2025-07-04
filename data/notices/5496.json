@@ -1,0 +1,45 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "25 Earnscliffe Road Toronto Ontario",
+      "latitudeCoordinate": "43.683186681",
+      "longitudeCoordinate": "-79.438969827",
+      "postalCode": "M6E 1J4",
+      "province": "Ontario",
+      "streetAddress": "25 Earnscliffe Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Property - Located to the south of 25 Earnscliffe Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5365"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Sami Aljundi",
+    "country": "Canada",
+    "locationName": "Metro Hall",
+    "phone": "416-338-4862",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1724990400000,
+  "noticeDescription": "<p><strong>NOTICE</strong> is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal By-law, on August 27, 2024 the parcel of land, located to the south of 25 Earnscliffe Road is legally described as all of PIN 10473-0461 (LT), LT 11 PL 2479 TWP Of York; Toronto (YORK), City of Toronto was declared surplus.</p>\n<p>&nbsp;</p>\n<p>The property has an area of approximately 58 m2 (625 ft2).&nbsp; The City proposes that the intended manner of disposal is to be by way of an offer to purchase from the abutting owner.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Mr. Sami Aljundi, Property Officer, Real Estate Services, Tel: 416-338-4862, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until September 13, 2024.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5496,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property - Located to the south of 25 Earnscliffe Road ",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

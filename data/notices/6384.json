@@ -1,0 +1,63 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1747 St Clair Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.673875601",
+      "longitudeCoordinate": "-79.46023268",
+      "postalCode": "M6N 1J4",
+      "province": "Ontario",
+      "streetAddress": "1747 St Clair Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1753 St Clair Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.673846631",
+      "longitudeCoordinate": "-79.460499088",
+      "postalCode": "M6N 1J4",
+      "province": "Ontario",
+      "streetAddress": "1753 St Clair Avenue West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Proposal to Pass a By-Law to Permanently Close Part of the Public Laneway - 1747 and 1753 St. Clair Avenue West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6308"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1750824000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong><span style=\"font-family: 'Arial',sans-serif;\">CITY OF TORONTO ACT, 2006, PUBLIC NOTICE</span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"font-family: 'Arial',sans-serif;\">&nbsp;</span></strong></p>\n<p style=\"text-align: center;\"><strong><u><span style=\"font-family: 'Arial',sans-serif;\">Toronto and East York Community Council Area</span></u></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"font-family: 'Arial',sans-serif;\">&nbsp;</span></strong></p>\n<p><strong><span style=\"font-family: 'Arial',sans-serif;\">&nbsp;</span></strong></p>\n<p><span style=\"font-family: 'Arial',sans-serif;\">The Council of the City of Toronto proposes to pass a by-law to permanently close the following:</span></p>\n<ol>\n<li><span style=\"font-family: 'Arial',sans-serif;\"> Part of the public laneway located between 1747 and 1753 St. Clair Avenue West, legally described as follows:</span></li>\n</ol>\n<p><span style=\"font-family: 'Arial',sans-serif;\">PART OF PIN 21323-0364 (LT)</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif;\">PART OF LANE ON REGISTERED PLAN 141</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif;\">DESIGNATED AS PARTS 1 &amp; 2, PLAN 66R-33759</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif;\">City of Toronto and Province of Ontario</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif;\">Land Titles Division of the Toronto Registry Office (No. 66)</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif;\">&nbsp;</span></p>\n<p style=\"text-align: justify; background: white;\"><span style=\"font-family: 'Arial',sans-serif; color: black;\">At its meeting to be held in Committee Room 1, Toronto City Hall, 100 Queen Street West on July 8, 2025, at 9:30 a.m. or shortly afterwards, the Toronto and East York Community Council will hear from, or by their counsel, agent or solicitor, any person who wishes to speak to this matter.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif;\">&nbsp;</span></p>\n<p style=\"text-align: justify; background: white;\"><span style=\"font-family: 'Arial',sans-serif; color: black;\">This meeting of the Toronto and East York Community Council will be held with members participating in person and remotely, and the proceedings of the Toronto and East York Community Council will be conducted publicly.</span></p>\n<p>&nbsp;</p>\n<p style=\"background: white;\"><span style=\"font-family: 'Arial',sans-serif; color: black;\">To obtain additional information, including to view a copy of the proposed by-law and plan, please review Item TE24.39 on the Community Council agenda at</span></p>\n<p style=\"background: white;\"><span style=\"font-family: 'Arial',sans-serif; color: black;\"><a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2025.TE24.39\">https://secure.toronto.ca/council/agenda-item.do?item=2025.TE24.39</a></span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; layout-grid-mode: line;\">&nbsp;</span></p>\n<p style=\"text-align: justify; background: white;\"><span style=\"font-family: 'Arial',sans-serif; color: black;\">To submit comments or address the Toronto and East York Community Council meeting on </span><span style=\"font-family: 'Arial',sans-serif; color: black; layout-grid-mode: line;\">July 8, 2025</span><span style=\"font-family: 'Arial',sans-serif; color: black;\">, please contact the following City official no later than 12:00 p.m. on </span><span style=\"font-family: 'Arial',sans-serif; color: black; layout-grid-mode: line;\">July 7, 2025</span><span style=\"font-family: 'Arial',sans-serif; color: black;\">:</span></p>\n<p style=\"text-align: justify; background: white;\"><span style=\"font-family: 'Arial',sans-serif;\">&nbsp;</span></p>\n<p style=\"margin-left: 36.0pt; text-align: justify; background: white;\"><span style=\"font-family: 'Arial',sans-serif; color: black;\">Administrator, Toronto and East York Community Council</span></p>\n<p style=\"margin-left: 36.0pt; text-align: justify; background: white;\"><span style=\"font-family: 'Arial',sans-serif; color: black;\">City Clerk&rsquo;s Office</span></p>\n<p style=\"margin-left: 36.0pt; text-align: justify; background: white;\"><span style=\"font-family: 'Arial',sans-serif; color: black;\">Toronto City Hall</span></p>\n<p style=\"margin-left: 36.0pt; text-align: justify; background: white;\"><span style=\"font-family: 'Arial',sans-serif; color: black;\">100 Queen St. W., 2nd Floor, West</span></p>\n<p style=\"margin-left: 36.0pt; text-align: justify; background: white;\"><span style=\"font-family: 'Arial',sans-serif; color: black;\">Toronto, ON M5H 2N2</span></p>\n<p style=\"margin-left: 36.0pt; text-align: justify; background: white;\"><span style=\"font-family: 'Arial',sans-serif; color: black;\">Telephone: 416-392-7033; Fax: 416-392-2980</span></p>\n<p style=\"margin-left: 36.0pt; text-align: justify; background: white;\"><span style=\"font-family: 'Arial',sans-serif; color: black;\">E-mail: </span><span style=\"color: black;\"><a href=\"mailto:teycc@toronto.ca\"><span style=\"font-family: 'Arial',sans-serif;\">teycc@toronto.ca</span></a></span></p>\n<p style=\"text-align: justify; background: white;\"><span style=\"font-family: 'Arial',sans-serif;\">&nbsp;</span></p>\n<p style=\"text-align: justify; background: white;\"><strong><span style=\"font-family: 'Arial',sans-serif; color: black;\">Special Assistance for Members of the Public: </span></strong><span style=\"font-family: 'Arial',sans-serif; color: black;\">&nbsp;City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</span></p>\n<p style=\"text-align: justify; background: white;\"><span style=\"font-family: 'Arial',sans-serif;\">&nbsp;</span></p>\n<p style=\"text-align: justify; background: white;\"><strong><span style=\"font-family: 'Arial',sans-serif; color: black;\">Notice to people writing or making presentations to the Toronto and East York Community Council:</span></strong><span style=\"font-family: 'Arial',sans-serif; color: black;\"> The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</span></p>\n<p style=\"text-align: justify; background: white;\"><span style=\"font-family: 'Arial',sans-serif;\">&nbsp;</span></p>\n<p style=\"text-align: justify; background: white;\"><span style=\"font-family: 'Arial',sans-serif; color: black;\">Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif;\">&nbsp;</span></p>\n<p><span style=\"font-family: 'Arial',sans-serif; layout-grid-mode: line;\">This notice shall also constitute notice to the public of the proposed public highway closure in accordance with the requirements of the Municipal Class Environmental Assessment for Schedule A+ activities.</span></p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6384,
+  "otherReferenceList": [
+    {
+      "description": "2025.TE24.39 - Permanent Closure and Dedication of a portion of the public laneway abutting 1747 and 1753 St. Clair Avenue West",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2025.TE24.39"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Proposal to Pass a By-Law to Permanently Close Part of the Public Laneway - 1747 and 1753 St. Clair Avenue West",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

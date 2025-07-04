@@ -1,0 +1,57 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3315 Midland Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.8074060967",
+      "longitudeCoordinate": "-79.2884508161",
+      "postalCode": "M1V 4W7",
+      "province": "Ontario",
+      "streetAddress": "3315 Midland Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law 606-2021 - 3315 Midland Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2483"
+    }
+  ],
+  "contact": {
+    "city": "Toronto ",
+    "contactName": "Toronto Preservation Board",
+    "country": "Canada",
+    "emailAddress": "hertpb@toronto.ca",
+    "locationName": "2nd floor, West Tower, City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario ",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1630296000000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 606-2021 to designate the property at 3315 Midland Avenue (Ward 23 Scarborough North) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2635,
+  "otherReferenceList": [
+    {
+      "description": "2021.SC22.3 - Intention to Designate Under Part IV, Section 29 of the Ontario Heritage Act - 3315 Midland Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.SC22.3"
+    },
+    {
+      "description": "By-law 606-2021 - To designate the property at 3315 Midland Avenue as being of cultural heritage value or interest.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2021/law0606.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 3315 Midland Avenue City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 606-2021 - 3315 Midland Avenue ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

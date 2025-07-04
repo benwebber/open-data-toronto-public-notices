@@ -1,0 +1,147 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "14 Condor Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.674400431",
+      "longitudeCoordinate": "-79.334947704",
+      "postalCode": "M4J 3M6",
+      "province": "Ontario",
+      "streetAddress": "14 Condor Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Colonial Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7338478765",
+      "longitudeCoordinate": "-79.2341087472",
+      "postalCode": "M1M 2C3",
+      "province": "Ontario",
+      "streetAddress": "15 Colonial Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Poplar Plains Road Toronto Ontario",
+      "latitudeCoordinate": "43.677653783",
+      "longitudeCoordinate": "-79.402724358",
+      "postalCode": "M4V 2M7",
+      "province": "Ontario",
+      "streetAddress": "19 Poplar Plains Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "26 Ulverston Road Toronto Ontario",
+      "latitudeCoordinate": "43.6492505591",
+      "longitudeCoordinate": "-79.5706926216",
+      "postalCode": "M9C 3A4",
+      "province": "Ontario",
+      "streetAddress": "26 Ulverston Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "34 Beck Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.685492523",
+      "longitudeCoordinate": "-79.307454403",
+      "postalCode": "M4C 4L5",
+      "province": "Ontario",
+      "streetAddress": "34 Beck Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "39 Inniswood Drive Toronto Ontario",
+      "latitudeCoordinate": "43.737193144",
+      "longitudeCoordinate": "-79.3059956728",
+      "postalCode": "M1R 1E6",
+      "province": "Ontario",
+      "streetAddress": "39 Inniswood Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "48 Brooklyn Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6635046543",
+      "longitudeCoordinate": "-79.336706749",
+      "postalCode": "M4M 2X5",
+      "province": "Ontario",
+      "streetAddress": "48 Brooklyn Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55 Brumwell Street Toronto Ontario",
+      "latitudeCoordinate": "43.7921952721",
+      "longitudeCoordinate": "-79.1488264998",
+      "postalCode": "M1C 2K7",
+      "province": "Ontario",
+      "streetAddress": "55 Brumwell Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "65 Harvie Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6791783618",
+      "longitudeCoordinate": "-79.4505787455",
+      "postalCode": "M6E 4K4",
+      "province": "Ontario",
+      "streetAddress": "65 Harvie Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "173 Langford Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6841566048",
+      "longitudeCoordinate": "-79.3420082075",
+      "postalCode": "M4J 3E7",
+      "province": "Ontario",
+      "streetAddress": "173 Langford Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "583 Melrose Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.727438349",
+      "longitudeCoordinate": "-79.430510464",
+      "postalCode": "M5M 2A5",
+      "province": "Ontario",
+      "streetAddress": "583 Melrose Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5245"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-8485",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1721361600000,
+  "noticeDescription": "<p><strong>City's Residential Retrofit Program</strong></p>\n<p>&nbsp;</p>\n<p><strong>PUBLIC NOTICE</strong></p>\n<p>&nbsp;</p>\n<p><strong>Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.</strong></p>\n<p>&nbsp;</p>\n<p>Individual bills for each of the benefitting properties listed below have been submitted for the meeting of City Council being held on July 24, 25 and 26, 2024. Review bill details (<a href=\"https://secure.toronto.ca/council/bill-bylaw.do?meeting=2024.CC20\">https://secure.toronto.ca/council/bill-bylaw.do?meeting=2024.CC20</a>).</p>\n<p>&nbsp;</p>\n<p>Each of these bills imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a href=\"http://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>&nbsp;</p>\n<p>The benefitting properties are:</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14 Condor Avenue</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15 Colonial Avenue</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 19 Poplar Plains Road</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 26 Ulverston Road</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 34 Beck Avenue</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 39 Inniswood Drive</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 48 Brooklyn Avenue</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 55 Brumwell Street</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 65 Harvie Avenue</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 173 Langford Avenue</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 583 Melrose Avenue</p>\n<p>&nbsp;</p>\n<p><strong>For More Information Contact</strong></p>\n<p>City Council<br /><a href=\"mailto:councilmeeting@toronto.ca\">councilmeeting@toronto.ca</a>&nbsp;<br />Phone: 416-392-8485<br />Fax: 416-392-2980</p>\n<p>&nbsp;</p>\n<p>Toronto City Hall<br />100 Queen Street<br />Toronto, Ontario<br />M5H 2N2<br />Canada</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5401,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "City's Residential Retrofit Program ",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

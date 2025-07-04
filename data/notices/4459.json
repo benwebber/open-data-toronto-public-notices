@@ -1,0 +1,229 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Hopedale Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6936299518",
+      "longitudeCoordinate": "-79.3521914064",
+      "postalCode": "M4K 3M8",
+      "province": "Ontario",
+      "streetAddress": "15 Hopedale Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "18 Radford Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6541596254",
+      "longitudeCoordinate": "-79.4540954904",
+      "postalCode": "M6R 1Z6",
+      "province": "Ontario",
+      "streetAddress": "18 Radford Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "20 Castlebury Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7949076328",
+      "longitudeCoordinate": "-79.3705293249",
+      "postalCode": "M2H 1W6",
+      "province": "Ontario",
+      "streetAddress": "20 Castlebury Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "23 Kimberdale Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7869775944",
+      "longitudeCoordinate": "-79.3103744151",
+      "postalCode": "M1W 1Y4",
+      "province": "Ontario",
+      "streetAddress": "23 Kimberdale Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "41 Roebuck Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7229234887",
+      "longitudeCoordinate": "-79.2733499731",
+      "postalCode": "M1K 2H6",
+      "province": "Ontario",
+      "streetAddress": "41 Roebuck Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "46 Benson Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.68046063",
+      "longitudeCoordinate": "-79.424158738",
+      "postalCode": "M6G 2H6",
+      "province": "Ontario",
+      "streetAddress": "46 Benson Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "53 Beresford Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.647457735",
+      "longitudeCoordinate": "-79.4755499",
+      "postalCode": "M6S 3A9",
+      "province": "Ontario",
+      "streetAddress": "53 Beresford Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "61 Simpson Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.66663629",
+      "longitudeCoordinate": "-79.349968656",
+      "postalCode": "M8Z 1E2",
+      "province": "Ontario",
+      "streetAddress": "61 Simpson Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "64 MacKenzie Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.648669423",
+      "longitudeCoordinate": "-79.425996104",
+      "postalCode": "M6J 1T1",
+      "province": "Ontario",
+      "streetAddress": "64 MacKenzie Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "270 Bingham Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6858937398",
+      "longitudeCoordinate": "-79.2874913572",
+      "postalCode": "M4E 3R7",
+      "province": "Ontario",
+      "streetAddress": "270 Bingham Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Hardwick Court Toronto Ontario",
+      "latitudeCoordinate": "43.669639627",
+      "longitudeCoordinate": "-79.5819940096",
+      "postalCode": "M9C 4G5",
+      "province": "Ontario",
+      "streetAddress": "19 Hardwick Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "22 Pergola Road Toronto Ontario",
+      "latitudeCoordinate": "43.7229942977",
+      "longitudeCoordinate": "-79.5865423893",
+      "postalCode": "M9W 5K6",
+      "province": "Ontario",
+      "streetAddress": "22 Pergola Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "36 Chipping Road Toronto Ontario",
+      "latitudeCoordinate": "43.7455122228",
+      "longitudeCoordinate": "-79.3414605321",
+      "postalCode": "M3B 1L1",
+      "province": "Ontario",
+      "streetAddress": "36 Chipping Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "50 Grattan Street Toronto Ontario",
+      "latitudeCoordinate": "43.706353448",
+      "longitudeCoordinate": "-79.52176401",
+      "postalCode": "M9N 3J5",
+      "province": "Ontario",
+      "streetAddress": "50 Grattan Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "63 Harvie Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6790713308",
+      "longitudeCoordinate": "-79.4506987717",
+      "postalCode": "M6E 4K4",
+      "province": "Ontario",
+      "streetAddress": "63 Harvie Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "110 Roseneath Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.6854208277",
+      "longitudeCoordinate": "-79.4361017425",
+      "postalCode": "M6C 3X6",
+      "province": "Ontario",
+      "streetAddress": "110 Roseneath Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "195 Westmount Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.680818597",
+      "longitudeCoordinate": "-79.442724157",
+      "postalCode": "M6E 3M6",
+      "province": "Ontario",
+      "streetAddress": "195 Westmount Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "495 Glenlake Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.655242821",
+      "longitudeCoordinate": "-79.4735232424",
+      "postalCode": "M6P 1G9",
+      "province": "Ontario",
+      "streetAddress": "495 Glenlake Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "621 Glencairn Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7109230604",
+      "longitudeCoordinate": "-79.4339165428",
+      "postalCode": "M6B 1Z6",
+      "province": "Ontario",
+      "streetAddress": "621 Glencairn Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program\t",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4296"
+    }
+  ],
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1696478400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>PUBLIC NOTICE</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>Individual bills for each of the benefitting properties listed below have been submitted for the meeting of City Council being held on October 11, 12, and 13, 2023. Review bill details (<a href=\"https://secure.toronto.ca/council/bill-bylaw.do?meeting=2023.CC11\">https://secure.toronto.ca/council/bill-bylaw.do?meeting=2023.CC11</a>).</p>\n<p>&nbsp;</p>\n<p>Each of these bills imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013 and enacted in By-law 1105-2013 (July 19, 2013).</p>\n<p>&nbsp;</p>\n<p>The benefitting properties are:</p>\n<p>&nbsp;</p>\n<ul>\n<li>15 Hopedale Avenue</li>\n<li>18 Radford Avenue</li>\n<li>20 Castlebury Crescent</li>\n<li>23 Kimberdale Crescent</li>\n<li>41 Roebuck Drive</li>\n<li>46 Benson Avenue</li>\n<li>53 Beresford Avenue</li>\n<li>61 Simpson Avenue</li>\n<li>64 Mackenzie Crescent</li>\n<li>270 Bingham Avenue</li>\n<li>19 Hardwick Court</li>\n<li>22 Pergola Road</li>\n<li>36 Chipping Road</li>\n<li>50 Grattan Street</li>\n<li>63 Harvie Avenue</li>\n<li>110 Roseneath Gardens</li>\n<li>195 Westmount Avenue</li>\n<li>495 Glenlake Avenue</li>\n<li>621 Glencairn Avenue</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>For More Information Contact</strong></p>\n<p>City Council<br /><a href=\"mailto:councilmeeting@toronto.ca\">councilmeeting@toronto.ca</a>&nbsp;<br />Phone: 416-392-8485<br />Fax: 416-392-2980</p>\n<p>&nbsp;</p>\n<p>Toronto City Hall<br />100 Queen Street<br />Toronto, Ontario<br />M5H 2N2<br />Canada</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4459,
+  "otherReferenceList": [
+    {
+      "description": "By-law Index - City Council October 11\t",
+      "url": "https://secure.toronto.ca/council/#/committees/2462/23198"
+    },
+    {
+      "description": "By-Law No. 1105-2013 - To authorize the undertaking of energy efficiency and water conservation works on private residential property as local improvements under the Residential Retrofit Program",
+      "url": "http://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf"
+    },
+    {
+      "description": "2013.EX.33.22 - Proposed Energy and Water Efficiency Initiative for the Residential Sector\t",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "City's Residential Retrofit Program",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

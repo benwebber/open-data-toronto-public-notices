@@ -1,0 +1,55 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "375 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.649124734",
+      "longitudeCoordinate": "-79.3937698723",
+      "postalCode": "M5V 2A5",
+      "province": "Ontario",
+      "streetAddress": "375 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "100 Princes' Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.634530286",
+      "longitudeCoordinate": "-79.412551577",
+      "postalCode": "M6K 3C3",
+      "province": "Ontario",
+      "streetAddress": "100 Princes' Boulevard"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Properties",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2719"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Mark MacSorley",
+    "country": "Canada",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-3891",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1639458000000,
+  "noticeDescription": "<p>NOTICE is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal by-law, the following properties were declared surplus:</p>\n<p>1.&nbsp; On November 19, 2021, the City-owned stratified parcel located at the rear of 375 Queen Street West, shown as Part 2 on the Property Survey Sketch No. PS-2021-045, conditional on City Council approving the permanent closure of the stratified parcel of the public lane was declared surplus. The stratified parcel has a total area of approximately 21.2 m2 (228.2 ft2 ). &nbsp;The City proposes that the intended manner of disposal is to be by way of an invitation of an offer to purchase the stratified parcel of the public lane from the adjacent owners at 375-381 Queen Street West.</p>\n<p>2.&nbsp; On December 1, 2021,&nbsp; a portion of the City-owned property within Exhibition Place known as Phase 2 Development, legally described as as Part of Block 14 of the Ordnance Reserve and Part of the Waterlot Fronting the Ordnance Reserve, Toronto.&nbsp; The property has a total area of approximately 2,716.95 m2 (29,245 ft2).&nbsp; The intended manner of disposal to be by way of a long term lease (greater than 21 years), to Lakeshore Princess West G.P. Inc., as general partner of Lakeshore Princess West Limited Partnership to construct and operate Hotel X Phase 2 and an entertainment venue.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed dispositions: Mr. Mark MacSorley, Tel: 416-392-3891, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 28th of December, 2021.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2952,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

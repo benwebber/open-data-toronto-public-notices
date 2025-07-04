@@ -1,0 +1,42 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice - Removal of Permit Parking spaces on Florence Crescent, between Eileen Avenue and Pritchard Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2678"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Infrastructure and Environment Committee ",
+    "country": "Canada",
+    "emailAddress": "iec@toronto.ca",
+    "fax": "416-392-1879",
+    "locationName": "Toronto City Hall, 10th Floor, West Tower",
+    "phone": "416-397-4579",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1637816400000,
+  "noticeDescription": "<p>Notice is hereby given that the Infrastructure and Environment Committee proposes to have City Council to pass a by-law to remove all the permit parking spaces on Florence Crescent, between Eileen Avenue and Pritchard Avenue to accommodate a contra flow bike lane.</p>\n<p>Any objections regarding this proposal should be set out in writing and forwarded to the City Clerk, Attention: Matthew Green, City Council, City of Toronto, Secretariat Division, City Hall, 100 Queen Street W, 10th floor west tower, Toronto, Ontario, M5H 2N2, or by E-mail: iec@toronto.ca.&nbsp; Written objections received by the required date will be scheduled for deputations at the next Infrastructure and Environment Committee meeting. If the Clerk receives no objections by the 15th day of December, 2021, the City will proceed with its proposed action.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2891,
+  "otherReferenceList": [
+    {
+      "description": "IE26.10 - Cycling Network Plan - 2021 Cycling Infrastructure Installation - Fourth Quarter Update and the Future of the 2020 ActiveTO Cycling Network Projects",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.IE26.10"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Removal of Permit Parking spaces on Florence Crescent, between Eileen Avenue and Pritchard Avenue",
+  "topics": [
+    "Transportation > Intention to terminate permit parking on a road"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

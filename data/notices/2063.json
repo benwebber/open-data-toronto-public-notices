@@ -1,0 +1,62 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "102 Bude Street Toronto Ontario",
+      "latitudeCoordinate": "43.6942268669",
+      "longitudeCoordinate": "-79.4422237505",
+      "postalCode": "M6E 2E5",
+      "province": "Ontario",
+      "streetAddress": "102 Bude Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1892"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1608786000000,
+  "noticeDescription": "<p>A By-law for the benefitting property listed below has been enacted for the meeting of City Council held on December 16, 17 and 18, 2020. <a href=\"http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2020.CC27)\">Review By-law details.</a></p>\n<p>&nbsp;</p>\n<p>Each By-law imposes a special charge on each of the corresponding benefitting property as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a href=\"https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>The benefitting property is:</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 102 Bude Street</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2063,
+  "otherReferenceList": [
+    {
+      "description": "By-law 1105-2013 - To authorize the undertaking of energy efficiency and water conservation works on private residential property as local improvements under the Residential Retrofit Program",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf"
+    },
+    {
+      "description": "2013.EX33.22 - Proposed Energy and Water Efficiency Initiative for the Residential Sector",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22"
+    },
+    {
+      "description": "City Council By-law Index",
+      "url": "http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2020.CC27)"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, Interim City Clerk",
+  "subheading": "Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.",
+  "title": "City's Residential Retrofit Program",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

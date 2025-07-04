@@ -1,0 +1,53 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Fallingbrook Road Toronto Ontario",
+      "latitudeCoordinate": "43.6757298035",
+      "longitudeCoordinate": "-79.2761930934",
+      "postalCode": "M1N 2T3",
+      "province": "Ontario",
+      "streetAddress": "1 Fallingbrook Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 1 Fallingbrook Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6116"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-8485",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1745812800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>IN THE MATTER OF THE ONTARIO HERITAGE ACT</strong></p>\n<p style=\"text-align: center;\"><strong>R.S.O. 1990, CHAPTER O.18 AND</strong></p>\n<p style=\"text-align: center;\"><strong>CITY OF TORONTO, PROVINCE OF ONTARIO</strong></p>\n<p style=\"text-align: center;\"><strong>1 FALLINGBROOK ROAD</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>NOTICE OF DECISION</strong></span></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that the Council of the City of Toronto on April 24, 2025, has considered an application under Section 33 of the Ontario Heritage Act to alter a building and/or structure on a Property designated under Part IV, Section 29 of the Ontario Heritage Act for the Property municipally known as 1 Fallingbrook Road.</p>\n<p>&nbsp;</p>\n<p>The decision of City Council, among other matters, regarding the application under the Ontario Heritage Act is as follows:</p>\n<p>&nbsp;</p>\n<p>1. City Council approve the alterations to the heritage property at 1 Fallingbrook Road, under Section 33 of the Ontario Heritage Act, and with such alterations substantially in accordance with plans and drawings prepared by Richard Wengle Architects Inc., dated October 1, 2024, and on file with the Senior Manager, Heritage Planning, and the Heritage Impact Assessment, prepared by ERA Architects Inc., dated March 28, 2023, and revised February 7, 2025, and on file with the Senior Manager, Heritage Planning, Urban Design, City Planning, and subject to the following conditions:</p>\n<p>&nbsp;</p>\n<p>a. That prior to the issuance of any permit for all or any part of the property at 1 Fallingbrook Road, including a heritage permit or a building permit, but excluding permits for repairs and maintenance and usual and minor works for the existing heritage building as are acceptable to the Senior Manager, Heritage Planning, the owner the owner shall:</p>\n<p>&nbsp;</p>\n<p>1. Provide building permit drawings, including a description of materials and finishes, to be prepared by the project architect to the satisfaction of the Senior Manager, Heritage Planning.</p>\n<p>&nbsp;</p>\n<p>2. Obtain all planning permissions as may be necessary including, but not limited to, obtaining a Minor Variance.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Notice of an appeal of the decision of City Council on the application to alter the Property may be served on the City Clerk, Attention: Registrar Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2.; Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a> within thirty days of April 28, 2025, which is May 28, 2025.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the objection to the decision; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons in support of the objection to the decision.</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only the owner of the Property may appeal the decision of Council of the City of Toronto to the Ontario Land Tribunal under Part IV, Section 33 of the Ontario Heritage Act, and only where City Council has consented to an application to alter a property with certain terms or conditions, or refuses the application to alter a property.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>Further information in respect of the Decision of Council of the City of Toronto on the matter is available from the City of Toronto at:</p>\n<p>&nbsp;</p>\n<p><a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2025.SC21.6\">https://secure.toronto.ca/council/agenda-item.do?item=2025.SC21.6</a>.&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6219,
+  "otherReferenceList": [
+    {
+      "description": "2025.SC21.6 - 1 Fallingbrook Road - Alterations to a Designated Heritage Property Under Section 33 of the Ontario Heritage Act",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2025.SC21.6. "
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Decision - 1 Fallingbrook Road",
+  "topics": [
+    "Heritage > Decision on alteration to a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

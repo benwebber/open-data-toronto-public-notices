@@ -1,0 +1,62 @@
+{
+  "accessibilityDescription": "City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-396-7287, TTY 416-398-0889 or e-mail scc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Triton Road & Borough Drive Toronto Ontario",
+      "latitudeCoordinate": "43.773612506",
+      "longitudeCoordinate": "-79.2611327",
+      "majorIntersection": "Triton Road & Borough Drive",
+      "province": "Ontario"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Progress Avenue & Borough Drive Toronto Ontario",
+      "latitudeCoordinate": "43.775759176",
+      "longitudeCoordinate": "-79.261897122",
+      "majorIntersection": "Progress Avenue & Borough Drive",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Proposal to Pass a By-law to Permanently Close Portions of Public Highway Lands known as Borough Drive",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3202"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Scarborough Community Council",
+    "country": "Canada",
+    "emailAddress": "scc@toronto.ca",
+    "fax": "416-396-4301",
+    "locationName": "Scarborough Civic Centre",
+    "phone": "416-396-7287",
+    "postalCode": "M1P 4N7",
+    "province": "Ontario",
+    "streetAddress": "150 Borough Drive"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1655697600000,
+  "noticeDescription": "<p>CITY OF TORONTO ACT, 2006, PUBLIC NOTICE</p>\n<p>Scarborough Community Council Area</p>\n<p>&nbsp;</p>\n<p>The Council of the City of Toronto proposes to pass a by-law to permanently close portions of public highway lands known as Borough Drive, described as follows:</p>\n<p>Part of PIN 06000-0208(LT)</p>\n<p>Part of Parcel Streets-1 and Parcel 1 Foot Reserve-1, Section M1410. Borough Drive, Described as Borough Drive, Plan 66-M1410; Part of Block PX (1 Foot Reserve), Plan 66-M1410 being Part 1 on Reference Plan 66R-9462; Part of Blocks RX and QX (1 Foot Reserve), Plan 66M-1410 being Parts 1 and 2 on Reference Plan 66R-7220; Part of Block KX (1 Foot Reserve), Plan 66M-1410 being Part 1 on Reference Plan 66R-7221, subject to a Right of Way over Blocks KX, PX, QX, RX as in Instrument Nos. A322822 &amp; A322040. Scarborough, City of Toronto; designated as Part 13 on the Draft Reference Plan, dated May 11, 2022, prepared by Schaeffer Dzaldov Bennett Ltd, as attached to the staff report, Toronto, City of Toronto.</p>\n<p>&nbsp;</p>\n<p>At its meeting to be held on June 30, 2022 at 9:30 a.m., or shortly afterwards, the Scarborough Community Council will hear in person or by his or her counsel, agent or solicitor, any person who wishes to speak to this matter.</p>\n<p>The meeting of the Scarborough Community Council will be held with members participating in person and remotely, and the proceedings of the Scarborough Community Council will be conducted publicly.</p>\n<p>&nbsp;</p>\n<p>To view a copy of the proposed by-law and plan to close the portion of public highway lands known as Borough Drive, obtain additional information, submit comments or address the Scarborough Community Council meeting on June 30, 2022, please contact the following City official no later than 12:00 p.m. on June 29, 2022.</p>\n<p style=\"padding-left: 40px;\">Julie Amoroso, Administrator</p>\n<p style=\"padding-left: 40px;\">Scarborough Community Council</p>\n<p style=\"padding-left: 40px;\">City Hall</p>\n<p style=\"padding-left: 40px;\">2nd Floor, West Tower</p>\n<p style=\"padding-left: 40px;\">Toronto, Ontario. M5H 2N2</p>\n<p style=\"padding-left: 40px;\">Telephone: &nbsp;416-396-7287; Facsimile: 416-392-2980</p>\n<p style=\"padding-left: 40px;\">E-mail: scc@toronto.ca</p>\n<p><strong>Notice to people writing or making a presentation to the Scarborough Community Council:</strong> The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>The City videotapes committee and community council meetings. If you make a presentation to a committee or community council, the City will be videotaping you and City staff may make the video tapes available to the public.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, City Hall, 2nd Floor, 100 Queen Street West, Toronto, Ontario, M5H 2N2.</p>\n<p>This notice shall also constitute notice to the public of the proposed public highway closure in accordance with the requirements of the Municipal Class Environmental Assessment for Schedule A+ activities.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3435,
+  "otherReferenceList": [
+    {
+      "description": "2022.SC33.41 - Permanent Closure of a Portion of Borough Drive, between Triton Road and Progress Avenue ",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.SC33.41"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Proposal to Pass a By-law to Permanently Close Portions of Public Highway Lands known as Borough Drive",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Licensing and Standards Committee",
+    "country": "Canada",
+    "emailAddress": "lsc@toronto.ca",
+    "locationName": "Toronto City Hall, 10th Floor, West Tower",
+    "phone": "416-397-4592",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Licensing and Standards Committee, Toronto City Hall, 2nd Floor, Committee Room 1",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1536931800000,
+      "streetAddress": "100 Queen Street West"
+    }
+  ],
+  "noticeDate": 1528344000000,
+  "noticeDescription": "<p>At its meeting in Committee Room 1, 2nd floor, Toronto City Hall, 100 Queen Street West, Toronto, Ontario, on Thursday, June 14, 2018 at 9:30 a.m., or as soon as possible thereafter, the Licensing and Standards Committee will consider Item LS26.4, Transfer of Taxicab Licences &ndash; Accessible Taxi Service, which contains recommendations which may result in amendments to Toronto Municipal Code, Chapter 546, Licensing of Vehicles-for-Hire.</p>\n<p>If approved, it is proposed that the By-law be adopted at the City Council meeting to be held on June 26, 27, and 28, 2018, or at a subsequent meeting.</p>\n<p>Item LS26.4 contains the following recommendations:</p>\n<p>1. City Council direct that, upon the termination of accessible taxicab licences issued to Royal Taxi Inc. as a Qualified Taxicab Brokerage prior to the enactment of By-law 503-2014, Municipal Licensing and Standards may issue an equal number of new accessible taxicab licences to its successor corporation, 2605881 Ontario Inc.</p>\n<p>2. City Council direct that any taxicab licence issued in accordance with Recommendation 1 shall be deemed to have been issued to a Qualified Taxicab Brokerage prior to the enactment of By-law 503-2014 for the purposes of Chapter 546 of the Toronto Municipal Code and that the licence(s) shall terminate once they are no longer under contract with the Toronto Transit Commission.</p>\n<p>Item LS26.4 can be viewed on the City of Toronto&rsquo;s website. For further information, to submit comments, or make a deputation to the Licensing and Standards Committee on Thursday, June 14, 2018, please contact the Committee no later than 12 noon on Wednesday, June 13, 2018:</p>\n<p style=\"padding-left: 30px;\">Licensing and Standards Committee<br />City Clerk&rsquo;s Office<br />Toronto City Hall, 100 Queen St. W.<br />10th Floor, West Tower, Toronto, ON M5H 2N2<br />Telephone: 416-397-4592<br />TTY: 416-338-0889<br />Fax: 416-392-1879<br />Email: <a href=\"mailto:lsc@toronto.ca\">lsc@toronto.ca</a></p>\n<p><strong>Notice to people writing or making presentations to the Licensing and Standards Committee:</strong> The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number, or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting, you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk&rsquo;s Office, Toronto City Hall, 100 Queen Street West, Toronto, Ontario, M5H 2N2 or by calling 416-397-4592.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 181,
+  "otherReferenceList": [
+    {
+      "description": "LS26.4 - Transfer of Taxicab Licences - Accessible Taxi Service",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.LS26.4"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "City of Toronto Act, 2006 Public Notice - Transfer of Taxicab Licences – Accessible Taxi Service Amendments to Toronto Municipal Code Chapter 546, Licensing of Vehicles-For-Hire.",
+  "title": "Amendments to Toronto Municipal Code Chapter 546, Licensing of Vehicles-For-Hire",
+  "topics": [
+    "Licensing > Proposal to amend the Municipal Code"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-license.png"
+  ]
+}

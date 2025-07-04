@@ -1,0 +1,68 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "61 Niagara Street Toronto Ontario",
+      "latitudeCoordinate": "43.6416394635",
+      "longitudeCoordinate": "-79.4023298039",
+      "postalCode": "M5V 1C3",
+      "province": "Ontario",
+      "streetAddress": "61 Niagara Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "69 Niagara Street Toronto Ontario",
+      "latitudeCoordinate": "43.6416267839",
+      "longitudeCoordinate": "-79.4025890236",
+      "postalCode": "M5V 1C3",
+      "province": "Ontario",
+      "streetAddress": "69 Niagara Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Designate - 61-69 Niagara Street ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1320"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1578632400000,
+  "noticeDescription": "<p>Take notice that Toronto City Council intends to designate the lands and building known municipally as 61-69 Niagara Street, under Part IV, Section 29 of the Ontario Heritage Act.</p>\n<p><strong>Reasons for Designation</strong></p>\n<p>Essery Row (Part Of)</p>\n<p>The properties at 61-69 Niagara Street are worthy of designation under Part IV, Section 29 of the Ontario Heritage Act for their cultural heritage value, and meet Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation under all three categories of design, associative and contextual value.</p>\n<p><strong>Description</strong></p>\n<p>Located on the south side of the street west of Bathurst Street and adjacent to the mid-19th century heritage property at 89-109 Niagara Street in the South Niagara District neighbourhood, the properties at 61-69 Niagara Street contain five two-storey Late Victorian-era row houses completed in 1885 by original owner William H. Essery, and first occupied by working class families. The subject properties are part of a larger set of seventeen row houses built together by the Essery family at 55-87 Niagara Street. Two of these (75 and 77 Niagara Street) were demolished in 1963 to accommodate a public laneway. While their loss interrupts the original contiguous row, the overall integrity of the historic row is not negatively impacted. In August 2014, City Council adopted the South Niagara Planning Strategy, which includes a Heritage Study identifying the subject properties as having potential cultural heritage value for their contribution to defining, supporting and maintaining the late 19th-century character of the area.&nbsp;</p>\n<p><strong>Statement of Cultural Heritage Value</strong></p>\n<p>The properties at 61-69 Niagara Street are valued for their design as part of an intact set of fifteen remaining 2-storey Victorian-era row houses constructed together in 1885-1886 and representative of the rise of speculative development in downtown Toronto in the late-nineteenth century to meet the housing demands of a burgeoning population. With their polychromatic brickwork, shared scale, and organization of the principal (north) elevations, these paired and mirrored row houses are unified by the rhythm of the placement of their window and door openings.&nbsp;</p>\n<p>The subject properties are also valued for their association with the Essery family, who owned and developed nearly the entire portion of the south side of Niagara Street between Bathurst and Tecumseth over the course of the 1880s. After establishing The Essery Manufacturing Company on the site of today&rsquo;s National Casket Company Factories heritage property at the west end of the block in the early 1880s, the local manufacturers and builders William H. and William L. Essery purchased the vacant lots at 55-87 Niagara Street on speculation and promptly sold them following development.&nbsp;</p>\n<p>The Essery Row, including 61-69 Niagara Street, provides a consistent stretch of building fabric that is valued for its importance in defining, maintaining and supporting the historical character of the South Niagara District neighbourhood in the late-1800s as a largely working class residential community with larger scale industrial uses along its southern edge, including the adjacent National Casket Company Factories complex, which was also once the location of the Essery Manufacturing Company.</p>\n<p>Comprising five two-storey row houses within the set of remaining fifteen dwellings built together, the properties at 61-69 Niagara Street are historically and visually linked to their setting along the northern edge of the CPR and GTR railway tracks, and within an area that has maintained a consistent built form, pattern of use and heritage character established more than 120 years ago.</p>\n<p><strong>Heritage Attributes</strong></p>\n<p>The heritage attributes of all five house-form buildings at 61-69 Niagara Street are:</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The location of the row houses on the south side of Niagara Street, including the set back and orientation</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The scale, form and massing of the row houses including their two-storey height and L-shaped plan on a raised basement, and gable roof with each mirrored pair containing a central cross-gable on the principal (north) elevation</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The mirrored organization of the principal (north) elevations with their side-by-side entrances, single-storey bay windows and symmetrically-arranged windows at the second floor level</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the principal (north) elevations, the segmental-arched window and door openings</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The materials with the red brick cladding and buff brick detailing, the pointed buff brick headers above all openings, and the existing wooden window- and door-frames and sills</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the principal (north) elevations, the transom surmounting the main entrance</p>\n<p>Notice of an objection to the proposed designation may be served on the City Clerk, Attention:&nbsp; Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, Toronto, Ontario, M5H 2N2, within thirty days of January 10, 2020, which is February 10, 2020. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1492,
+  "otherReferenceList": [
+    {
+      "description": "2019.PB11.6 - Inclusion on the City of Toronto's Heritage Register - 55-73 and 79-87 Niagara Street and Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 61-69 Niagara Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB11.6"
+    },
+    {
+      "description": "2019.TE11.10 - Inclusion on the City of Toronto's Heritage Register - 55-73 and 79-87 Niagara Street and Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 61-69 Niagara Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE11.10"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Intention to Designate - 61-69 Niagara Street",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

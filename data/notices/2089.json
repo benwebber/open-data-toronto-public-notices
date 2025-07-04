@@ -1,0 +1,54 @@
+{
+  "accessibilityDescription": "Special Assistance for Members of the Public:  City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail teycc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Dundas Street East & Sumach Street Toronto Ontario",
+      "latitudeCoordinate": "43.6607714603741",
+      "longitudeCoordinate": "-79.35927500052526",
+      "majorIntersection": "Dundas Street East & Sumach Street",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Ratna Lane",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1936"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1613538000000,
+  "noticeDescription": "<p>To consider a proposal to name a public lane north of Dundas Street East extending between Sumach Street and River Street, as \"Ratna Lane\".&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>\n<p>At its meeting on February 24, 2021 at 9:30 a.m., or shortly afterwards, the Toronto and East York Community Council will hear from, or by his or her counsel, agent or solicitor, any person who claims that his or her lands will be prejudicially affected by the naming and who applies to be heard with respect to the proposed naming.&nbsp; This meeting of the Toronto and East York Community Council will be held by electronic means and the proceedings of the Toronto and East York Community Council will be conducted publicly.&nbsp; These measure are necessary to comply with physical distancing requirements and as civic buildings are closed to the public.</p>\n<p>Notice to people writing or making presentations to the Toronto and East York Community Council: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the removal of personal identity information. Questions about the collection of this information may be directed to the City Clerk's office at 416-392-7033.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view.&nbsp; If you speak at the meeting you will appear in the video broadcast.&nbsp; Video broadcasts are archived and continue to be publicly available&nbsp;</p>\n<p>At this time, civic buildings are closed to the public.&nbsp; The meeting will take place by video conference and streamed live online.&nbsp; You can follow the meeting at www.youtube.com/TorontoCityCouncilLive.&nbsp; You are invited to make representations to the Toronto and East York Community Council to make your views known regarding the proposal.</p>\n<p>To obtain additional information, submit comments or address the Toronto and East York Community Council meeting on February 24, 2021, please contact the following City official no later than 12:00 p.m. on February 23, 2021.</p>\n<p style=\"padding-left: 40px;\">Ms. Ellen Devlin</p>\n<p style=\"padding-left: 40px;\">Administrator, Toronto and East York Community Council</p>\n<p style=\"padding-left: 40px;\">City Clerk&rsquo;s Office</p>\n<p style=\"padding-left: 40px;\">Toronto City Hall, 100 Queen Street West</p>\n<p style=\"padding-left: 40px;\">2nd floor, West Tower</p>\n<p style=\"padding-left: 40px;\">Toronto, Ontario M5H 2N2</p>\n<p style=\"padding-left: 40px;\">Telephone: 416-392-7033; Fax: 416-397-0111</p>\n<p style=\"padding-left: 40px;\">E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a></p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2089,
+  "otherReferenceList": [
+    {
+      "description": "2021.TE23.6 - Naming of a Private Lane located north of Dundas Street East extending between Sumach Street and River Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.TE23.6"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, Interim City Clerk",
+  "subheading": "Notice is given that the City of Toronto will consider whether to pass a by-law to authorize the naming of a public lane in the Toronto and East York Community Council Area",
+  "title": "Naming of a Public Lane north of Dundas Street East extending between Sumach Street and River Street - \"Ratna Lane\"",
+  "topics": [
+    "Transportation > Intention to name a road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "64 King Street Toronto Ontario",
+      "latitudeCoordinate": "43.7039535942",
+      "longitudeCoordinate": "-79.5182715964",
+      "postalCode": "M9N 1L3",
+      "province": "Ontario",
+      "streetAddress": "64 King Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "NOTICE OF PASSING OF AMENDMENT TO THE DESIGNATION BY-LAW",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3021"
+    }
+  ],
+  "contact": {
+    "city": "Toronto ",
+    "contactName": "Toronto Preservation Board",
+    "country": "Canada",
+    "emailAddress": "hertpb@toronto.ca",
+    "locationName": "2nd floor, West Tower, City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario ",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1651118400000,
+  "noticeDescription": "<p><strong>IN THE MATTER OF THE ONTARIO HERITAGE ACT</strong></p>\n<p><strong>R.S.O. 1990, CHAPTER O.18 AND</strong></p>\n<p><strong>CITY OF TORONTO, PROVINCE OF ONTARIO</strong></p>\n<p><strong>64 KING STREET</strong></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>NOTICE OF PASSING OF AMENDMENT TO THE DESIGNATION BY-LAW</strong></span></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that Council for the City of Toronto passed By-law 288-2022 on April 6 and 7, 2022, pursuant to Section 30.1 of the Ontario Heritage Act, which amends Designation By-law 2970-78, being a by-law designating the property known municipally as 64 King Street, under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest.</p>\n<p>&nbsp;</p>\n<p>The City Clerk did not receive any objections to the Notice of Proposed Amendment to the Designation By-Law. Therefore, City Council did not consider any objections and passed the by-law for the Property.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal of the Amendment to the Designation By-law by those persons under s. 30.1 of the Ontario Heritage Act permitted to appeal may be made by filing a notice of appeal with the City Clerk, Attention: Administrator, Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2.; Email: <a href=\"mailto:hertpb@toronto.ca\">hertpb@toronto.ca</a> within thirty days of April 28, 2022, which is May 30, 2022.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp; &nbsp;set out the reasons for the objection to the amendments to the designation by-law; and</p>\n<p>(2)&nbsp; &nbsp;set out the reasons in support of the objection to the amendments to the designation by-law.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the Ontario Land Tribunal website at <a href=\"https://olt.gov.on.ca\">https://olt.gov.on.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only an owner who objected to the amending designation by-law may appeal to the Ontario Land Tribunal.&nbsp;</p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application is available for public inspection by contacting Heritage Planning staff by email at <a href=\"mailto:heritageplanning@toronto.ca\">heritageplanning@toronto.ca</a>.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3254,
+  "otherReferenceList": [
+    {
+      "description": "Further information in respect of the Amendment to the Designation By-law is available from the City of Toronto at:",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.CC38.17"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "IN THE MATTER OF THE ONTARIO HERITAGE ACT R.S.O. 1990, CHAPTER O.18 AND CITY OF TORONTO, PROVINCE OF ONTARIO 64 KING STREET",
+  "title": "Notice of Passing of Amendment to the Designation By-law - 64 King Street",
+  "topics": [],
+  "uniqueMapUrl": []
+}

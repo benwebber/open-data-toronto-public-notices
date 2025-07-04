@@ -1,0 +1,66 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "64 Wellesley Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6659096087",
+      "longitudeCoordinate": "-79.3818101517",
+      "postalCode": "M4Y 1G6",
+      "province": "Ontario",
+      "streetAddress": "64 Wellesley Street East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law - 64 Wellesley Street East ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1577"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1597291200000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 659-2020 to designate 64 Wellesley Street East (Toronto Centre, Ward 13) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1746,
+  "otherReferenceList": [
+    {
+      "description": "By-law 659-2020 - To designate the property at 64 Wellesley Street East as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2020/law0659.pdf"
+    },
+    {
+      "description": "2019.TE3.15 - Intention to Designate 64 Wellesley Street East under Part IV, Section 29 of the Ontario Heritage Act",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE3.15"
+    },
+    {
+      "description": "2019.PB2.8 - Inclusion on the City of Toronto's Heritage Register and Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 64 Wellesley Street East",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB2.8"
+    },
+    {
+      "description": "2020.CC23.10 - 64 Wellesley Street East - Notice of Intention to Designate Property under Section 29 of the Ontario Heritage Act - Conservation Review Board",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.CC23.10"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 64 Wellesley Street East, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law - 64 Wellesley Street East ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

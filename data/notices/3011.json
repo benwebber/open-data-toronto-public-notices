@@ -1,0 +1,44 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "375 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.649124734",
+      "longitudeCoordinate": "-79.3937698723",
+      "postalCode": "M5V 2A5",
+      "province": "Ontario",
+      "streetAddress": "375 Queen Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Properties",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2778"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Mike Saffran",
+    "country": "Canada",
+    "locationName": "Metro Hall, 2nd floor",
+    "phone": "416-392-7205",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1642568400000,
+  "noticeDescription": "<p>NOTICE is hereby given that in accordance with the City of Toronto's real estate disposal</p>\n<p>By-law, on January 14th, 2022, the City-owned stratified parcel of the u-shaped public lane located at the rear of 375 Queen Street West, designated as Part 5 on Plan 66R-32180, conditional on City Council approving the permanent closure of the stratified portion of the public lane, was declared surplus. The stratified portion has a total area of 21.2 m2 (228.2 ft2 ). The City proposes that the intended manner of disposal is to be by way of an invitation of an offer to purchase the stratified portion of the public lane from the adjacent owners at 375-381 Queen Street West.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Mr. Mike Saffran, Tel: 416-392-7205, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the February 1st, 2022.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3011,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "title": "Declaration of Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

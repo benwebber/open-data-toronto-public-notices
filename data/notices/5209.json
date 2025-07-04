@@ -1,0 +1,131 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "26 Bartlett Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.661467595",
+      "longitudeCoordinate": "-79.433579479",
+      "postalCode": "M6H 3E6",
+      "province": "Ontario",
+      "streetAddress": "26 Bartlett Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "39 Preakness Drive Toronto Ontario",
+      "latitudeCoordinate": "43.745948995",
+      "longitudeCoordinate": "-79.355146529",
+      "postalCode": "M3B 3S2",
+      "province": "Ontario",
+      "streetAddress": "39 Preakness Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "75 Kings Park Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.685914578",
+      "longitudeCoordinate": "-79.342372582",
+      "postalCode": "M4J 2B9",
+      "province": "Ontario",
+      "streetAddress": "75 Kings Park Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "95 Dewson Street Toronto Ontario",
+      "latitudeCoordinate": "43.655820105",
+      "longitudeCoordinate": "-79.428380391",
+      "postalCode": "M6H 1H2",
+      "province": "Ontario",
+      "streetAddress": "95 Dewson Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "118 Mintwood Drive Toronto Ontario",
+      "latitudeCoordinate": "43.8048287342",
+      "longitudeCoordinate": "-79.3796880089",
+      "postalCode": "M2M 3A8",
+      "province": "Ontario",
+      "streetAddress": "118 Mintwood Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "192 Leslie Street Toronto Ontario",
+      "latitudeCoordinate": "43.666503136",
+      "longitudeCoordinate": "-79.331965593",
+      "postalCode": "M4M 3C7",
+      "province": "Ontario",
+      "streetAddress": "192 Leslie Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "275 Osler Street Toronto Ontario",
+      "latitudeCoordinate": "43.671176259",
+      "longitudeCoordinate": "-79.459718057",
+      "postalCode": "M6N 2Z3",
+      "province": "Ontario",
+      "streetAddress": "275 Osler Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "368 Glencairn Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7148312298",
+      "longitudeCoordinate": "-79.4193227116",
+      "postalCode": "M5N 1V1",
+      "province": "Ontario",
+      "streetAddress": "368 Glencairn Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5047"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-8485",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1715659200000,
+  "noticeDescription": "<p><strong>Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.</strong></p>\n<p>&nbsp;</p>\n<p>Individual by-laws for each of the benefitting properties listed below have been enacted for the meeting of City Council held on April 17 and 18, 2024. Review by-law details (<a href=\"https://secure.toronto.ca/council/bill-bylaw.do?meeting=2024.CC17\">https://secure.toronto.ca/council/bill-bylaw.do?meeting=2024.CC17</a>).</p>\n<p>&nbsp;</p>\n<p>Each of these by-laws imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a href=\"https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">By-law 1105-2013 (July 19, 2013).</a></p>\n<p>&nbsp;</p>\n<p>The benefitting properties are:</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 26 Bartlett Avenue</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 39 Preakness Drive</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 75 Kings Park Boulevard</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 95 Dewson Street</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 118 Mintwood Drive</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 192 Leslie Street</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 275 Osler Street</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 368 Glencairn Avenue</p>\n<p>&nbsp;</p>\n<p>For More Information Contact</p>\n<p>City Council<br /><a href=\"mailto:councilmeeting@toronto.ca\">councilmeeting@toronto.ca</a></p>\n<p>Phone: 416-392-8485<br />Fax: 416-392-2980</p>\n<p>&nbsp;</p>\n<p>Toronto City Hall<br />100 Queen Street<br />Toronto, Ontario<br />M5H 2N2<br />Canada</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5209,
+  "otherReferenceList": [
+    {
+      "description": "Item - 2013.EX33.22",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22"
+    },
+    {
+      "description": "Bills Index April 17,18,19, 2024",
+      "url": "https://secure.toronto.ca/council/bill-bylaw.do?meeting=2024.CC17"
+    },
+    {
+      "description": "BY-LAW No. 1105-2013 - To authorize the undertaking of energy efficiency and water conservation works on private residential property as local improvements under the Residential Retrofit Program.",
+      "url": "http://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "City's Residential Retrofit Program",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

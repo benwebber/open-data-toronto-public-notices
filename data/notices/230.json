@@ -1,0 +1,40 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "80 Dale Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.752751247",
+      "longitudeCoordinate": "-79.2057405",
+      "province": "Ontario",
+      "streetAddress": "80 Dale Avenue"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Joseph Sergnese",
+    "country": "Canada",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-1857",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1535601600000,
+  "noticeDescription": "<p>Notice is given that in accordance with the City&rsquo;s real estate disposal by-law, on August 21, 2018, part of 80 Dale Avenue, Toronto, being Part of Lot 15, Concession D, Geographic Township of Scarborough, designated as Parts 6 and 9 on the Draft Plan. The portion of land has a total area of approximately 1,202.2 m2 &plusmn; (12,940.4 ft2 &plusmn;) . The intended manner of disposal to be by way of an exchange of land with Podium Development Corp. for Parts 10 and 11 on the Draft Plan.</p>\n<p>The following City official has information about the proposed disposition: Mr. Joseph Sergnese, Tel: 416-392-1857, Fax: 416-392-1880, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 13th of September, 2018.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 230,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Declaration of Multiple Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

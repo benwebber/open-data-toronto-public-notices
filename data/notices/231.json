@@ -1,0 +1,42 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Washington Avenue & Spadina Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.665510498",
+      "longitudeCoordinate": "-79.403109379",
+      "majorIntersection": "Washington Avenue & Spadina Avenue",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Melanie Hale-Carter",
+    "country": "Canada",
+    "emailAddress": "Melanie.Hale-Carter@toronto.ca",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-1227",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1531713600000,
+  "noticeDescription": "<p>Notice is given that in accordance with the City&rsquo;s real estate disposal by-law, on June 18, 2018, the public lane located north of Washington Avenue, between Spadina Avenue and Huron Street, PL 449 Toronto N of Washington Ave; City of Toronto, said lands being all of PIN No.21211-0102 (LT) and shown as Parts 1 &amp; 2 on Sketch No. PS-2017-004, was declared surplus, conditional upon City Council approving the permanent closure of the said lane and subject to granting the required easements. The public lane has a total area of approximately 499.8 m2 &plusmn; (5,379.8 ft2 &plusmn;). The City proposes to invite an offer to purchase the subject lane from the University of Toronto.&nbsp;</p>\n<p>The following City official has information about the proposed dispositions: Mrs. Melanie Hale-Carter, Tel: 416-392-1227, Fax: 416-392-1880, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 30th day of July, 2018.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 231,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Declaration of Multiple Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

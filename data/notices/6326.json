@@ -1,0 +1,92 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "47 Stadacona Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7358535247",
+      "longitudeCoordinate": "-79.4358519702",
+      "postalCode": "M3H 2Z8",
+      "province": "Ontario",
+      "streetAddress": "47 Stadacona Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "22 Richelieu Road Toronto Ontario",
+      "latitudeCoordinate": "43.7363208214",
+      "longitudeCoordinate": "-79.4354740652",
+      "postalCode": "M3H 3A2",
+      "province": "Ontario",
+      "streetAddress": "22 Richelieu Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "24 Richelieu Road Toronto Ontario",
+      "latitudeCoordinate": "43.736199404",
+      "longitudeCoordinate": "-79.4355575564",
+      "postalCode": "M3H 3A2",
+      "province": "Ontario",
+      "streetAddress": "24 Richelieu Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "26 Richelieu Road Toronto Ontario",
+      "latitudeCoordinate": "43.7360795936",
+      "longitudeCoordinate": "-79.4356825964",
+      "postalCode": "M3H 3A2",
+      "province": "Ontario",
+      "streetAddress": "26 Richelieu Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "28 Richelieu Road Toronto Ontario",
+      "latitudeCoordinate": "43.7359813418",
+      "longitudeCoordinate": "-79.4357629346",
+      "postalCode": "M3H 3A2",
+      "province": "Ontario",
+      "streetAddress": "28 Richelieu Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Public Meeting - Request to Amend the Zoning By-Law - 47 Stadacona Dr and 22-28 Richelieu Rd (OZ)",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6235"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "fax": "416-392-1879",
+    "locationName": "North York Civic Centre",
+    "phone": "416-392-4666",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1748923200000,
+  "noticeDescription": "<p style=\"margin-right: 0.9pt; text-align: center;\"><strong><span style=\"font-size: 16.0pt;\">NOTICE OF PUBLIC MEETING</span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"font-size: 11.0pt;\">To be held by North York Community Council</span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"font-size: 11.0pt;\">(Under the Planning Act)</span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"font-size: 11.0pt;\">&nbsp;</span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"font-size: 11.0pt;\">Request to Amend the Zoning By-law Application Number 22 213129 NNY 06 OZ</span></strong></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p><strong>Location of Application:</strong>&nbsp; &nbsp; &nbsp; &nbsp; <strong>47 Stadacona Drive and 22, 24, 26, and 28 Richelieu Road</strong><br /><strong>Applicant:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Arcadis Professional Services (Canada) Inc.</strong></p>\n<p>&nbsp;</p>\n<p><strong>Date:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>July 3, 2025</strong><br /><strong>Time:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>9:30 am or as soon as possible thereafter</strong><br /><strong>Place:&nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Council Chamber, 5100 Yonge Street, North York Civic Centre&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and by video conference</strong></p>\n<p><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p style=\"margin-right: .9pt;\"><strong><span style=\"font-size: 11.0pt;\">PROPOSAL</span></strong></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">The application to amend the Zoning By-law proposes to permit a 12-storey mixed-use building with 550 square metres of non-residential retail space on the ground floor and 190 residential units for the property at 47 Stadacona Drive and 22, 24, 26, and 28 Richelieu Road. The total gross floor area is 14,600 square metres.</span></p>\n<p style=\"margin-right: .9pt;\"><strong><span style=\"font-size: 11.0pt;\">&nbsp;</span></strong></p>\n<p style=\"margin-right: .9pt;\"><strong><span style=\"font-size: 11.0pt;\">Detailed information regarding the proposal, including background information and material may be obtained by contacting Jennifer Combs, Planner Community Planning at 416-392-2534, or by e-mail at </span></strong><a href=\"mailto:Jennifer.Combs@toronto.ca\"><strong><span style=\"font-size: 11.0pt;\">Jennifer.Combs@toronto.ca</span></strong></a><strong><span style=\"font-size: 11.0pt;\">.</span></strong></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">Further information can be found at </span><a href=\"http://www.toronto.ca/47StadaconaDr\"><span style=\"font-size: 11.0pt;\">www.toronto.ca/47StadaconaDr</span></a><span style=\"font-size: 11.0pt;\">.</span></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p style=\"margin-right: .9pt;\"><strong><span style=\"font-size: 11.0pt;\">PURPOSE OF PUBLIC MEETING</span></strong></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">North York Community Council will receive input and review the proposal and any other material placed before it, in order to make recommendations on the application. These recommendations will then be forwarded to Toronto City Council for its consideration.</span></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">You can follow the meeting at </span><a href=\"http://www.youtube.com/TorontoCityCouncilLive\"><span style=\"font-size: 11.0pt;\">www.youtube.com/TorontoCityCouncilLive</span></a><span style=\"font-size: 11.0pt;\">.</span></p>\n<p style=\"margin-right: .9pt;\">&nbsp;</p>\n<p style=\"margin-right: .9pt;\"><strong><u><span style=\"font-size: 11.0pt;\">MAKE YOUR VIEWS KNOWN</span></u></strong></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">You may send written comments by e-mail to </span><a href=\"mailto:nycc@toronto.ca\"><strong><span style=\"font-size: 11.0pt;\">nycc@toronto.ca</span></strong></a> <span style=\"font-size: 11.0pt;\">or by mail to the address below. You can submit written comments up until City Council gives final consideration to the proposal.</span></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">You are also invited to address</span><span style=\"font-size: 11.0pt;\">, in person, by video conference or by telephone, to make your views known regarding the proposal.</span></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">If you wish to address directly, please register by e-mail to </span><a href=\"mailto:nycc@toronto.ca\"><strong><span style=\"font-size: 11.0pt;\">nycc@toronto.ca</span></strong></a><span style=\"font-size: 11.0pt;\"> or by phone at 416-392-4666, no later than </span><strong><span style=\"font-size: 11.0pt;\">12:00 p.m. on July 2, 2025</span></strong><span style=\"font-size: 11.0pt;\">. If you register, we will contact you with instructions on how to participate in the meeting.</span></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">The North York Community Council may request you to file an outline of your presentation with the Clerk.</span></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">For more information about the matter, including information about appeal rights, please contact: <strong>City Clerk, Attention</strong></span><span style=\"font-size: 11.0pt;\">: <strong>Matthew Green, Administrator, North York Community Council, 100 Queen Street West, 2nd Floor, West Tower, Toronto ON M5H 2N2, Phone: 416-392-4666, Fax: 416-392-2980, email: </strong></span><a href=\"mailto:nycc@toronto.ca\"><strong><span style=\"font-size: 11.0pt;\">nycc@toronto.ca</span></strong></a><strong><span style=\"font-size: 11.0pt;\">.</span></strong></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p style=\"margin-right: .9pt;\"><strong><span style=\"font-size: 11.0pt;\">Special Assistance</span></strong><span style=\"font-size: 11.0pt;\">: City Staff can arrange for special assistance with some advance notice.&nbsp; If you need special assistance, please call </span><span style=\"font-size: 11.0pt;\">416-392-4666</span><span style=\"font-size: 11.0pt;\">, TTY 416-338-0889 or e-mail </span><a href=\"mailto:nycc@toronto.ca\"><span style=\"font-size: 11.0pt;\">nycc@toronto.ca</span></a><span style=\"font-size: 11.0pt;\">.</span></p>\n<p style=\"margin-right: .9pt; text-align: justify;\"><strong><span style=\"font-size: 11.0pt;\">&nbsp;</span></strong></p>\n<p style=\"margin-right: .9pt; text-align: justify;\"><strong><span style=\"font-size: 11.0pt;\">FURTHER INFORMATION</span></strong></p>\n<p style=\"margin-right: .9pt; text-align: justify;\"><strong><span style=\"font-size: 11.0pt;\">&nbsp;</span></strong></p>\n<p style=\"margin-right: .9pt;\"><strong><span style=\"font-size: 11.0pt;\">If you wish to be notified</span></strong><span style=\"font-size: 11.0pt;\"> of the decision of the City of Toronto on the passing or refusal of the proposed Zoning By-law Amendment,</span><span style=\"font-size: 11.0pt;\"> you must make a written request to the City Clerk attention: </span><span style=\"font-size: 11.0pt;\">Matthew Green, Administrator</span><span style=\"font-size: 11.0pt;\">, North York Community Council, at the address, fax number or e-mail set out above.</span></p>\n<p style=\"margin-right: .9pt;\"><strong><span style=\"font-size: 11.0pt;\">Zoning By-law Amendment Appeal:</span></strong><span style=\"font-size: 11.0pt;\"> If a specified person or public body as defined under the Planning Act or the registered owner of any land to which by-law would apply would otherwise have an ability to appeal the decision of the Council of the City of Toronto to the Ontario Land Tribunal but the specified person or public body as defined under the Planning Act or the registered owner of any land to which the by-law would apply does not make oral submissions at a public meeting or make written submissions to the City of Toronto before the proposed Zoning By-law Amendment is passed, the specified person or public body as defined under the Planning Act or the registered owner of any land to which the by-law would apply is not entitled to appeal the by-law.</span></p>\n<p style=\"margin-right: .9pt; text-align: justify;\"><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p style=\"margin-right: .9pt;\"><strong><span style=\"font-size: 11.0pt;\">People writing or making presentations at the public meeting: </span></strong><span style=\"font-size: 11.0pt;\">The <em>City of Toronto Act, 2006</em>, the<em> Planning Act</em>, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</span></p>\n<p><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p><span style=\"font-size: 11.0pt;\">The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</span></p>\n<p><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p><span style=\"font-size: 11.0pt;\">Many Committee, Board and Advisory Body meetings are broadcast live over the internet for the public to view.&nbsp; If you speak at the meeting, you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available. </span><span style=\"font-size: 11.0pt; color: black;\">Direct any questions about this collection to City Clerk&rsquo;s Office at the telephone number or email address set out above.</span></p>\n<p><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p><span style=\"font-size: 11.0pt; color: black;\">An online version of this Notice is available at </span><a href=\"https://www.toronto.ca/city-government/public-notices-bylaws/\"><span style=\"font-size: 11.0pt;\">https://www.toronto.ca/city-government/public-notices-bylaws/</span></a><span style=\"font-size: 11.0pt; color: black;\">.</span></p>\n<p><span style=\"font-size: 11.0pt; color: black;\">&nbsp;</span></p>\n<p><span style=\"font-size: 11.0pt;\">Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</span></p>\n<p style=\"margin-right: .9pt;\">&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6326,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "22 213129 NNY 06 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Public Meeting - Request to Amend the Zoning By-Law - 47 Stadacona Dr and 22-28 Richelieu Rd (OZ)",
+  "topics": [
+    "Meetings > Notice of meeting",
+    "Planning > Proposal for a Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-meeting.png",
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

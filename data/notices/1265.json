@@ -1,0 +1,84 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "199 Bay Street Toronto Ontario",
+      "latitudeCoordinate": "43.6482345941",
+      "longitudeCoordinate": "-79.3795651525",
+      "province": "Ontario",
+      "streetAddress": "199 Bay Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "25 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6486689621",
+      "longitudeCoordinate": "-79.3790759618",
+      "postalCode": "M5L 2A1",
+      "province": "Ontario",
+      "streetAddress": "25 King Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "56 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.6481418704",
+      "longitudeCoordinate": "-79.3778264033",
+      "postalCode": "M5E 1G5",
+      "province": "Ontario",
+      "streetAddress": "56 Yonge Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 199 Bay Street, 25 King Street West and 56 Yonge Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1085"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1572321600000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto on October 2 and 3, 2019, having considered an application to alter a structure designated under Part IV of the Ontario Heritage Act for 199 Bay Street, 25 King Street West and 56 Yonge Street, decided among other things, to:</p>\n<p>1. Approve the alterations to the heritage properties at 199 Bay Street, 25 King Street West and 56 Yonge Street, in accordance with Section 33 of the Ontario Heritage Act, to allow for the construction of a new commercial office building on the lands known municipally in the year 2019 as 199 Bay Street, 25 King Street West and 56 Yonge Street (including the entrance addresses of 21 Melinda Street, 187 Bay Street and 18-30 Wellington Street West) with such alterations substantially in accordance with plans and drawings last revised on April 29, 2019, prepared by Adamson Associates Architects, and on file with the Senior Manager, Heritage Preservation Services; and the Heritage Impact Assessment, prepared by ERA Architects Inc. dated December 18, 2017 and revised March 13, 2019, and on file with the Senior Manager, Heritage Preservation Services, all subject to and in accordance with a Conservation Plan satisfactory to the Senior Manager, Heritage Preservation Services and subject to the following additional conditions:</p>\n<p style=\"padding-left: 30px;\">&nbsp;a. Prior to the introduction of the Bills for such Zoning By-law Amendment by City Council, the owner shall:</p>\n<p style=\"padding-left: 60px;\">1. Enter into a Heritage Easement Agreement with the City for the properties at 199 Bay Street, 25 King Street West and 56 Yonge Street in accordance with the plans and drawings last revised on April 29, 2019, prepared by Adamson Associates Architects, and on file with the Senior Manager, Heritage Preservation Services, the Heritage Impact Assessment prepared by ERA Architects Inc. dated December 18, 2017 and revised March 13, 2019, and in accordance with the Conservation Plan required in Recommendation 1.a.2. below, to the satisfaction of the Senior Manager, Heritage Preservation Services;</p>\n<p style=\"padding-left: 60px;\">2. Provide a detailed Conservation Plan, prepared by a qualified heritage consultant, that is consistent with the conservation strategy set out in the Heritage Impact Assessment for 199 Bay Street, 25 King Street West and 56 Yonge Street prepared by ERA Architects Inc. dated December 18, 2017 and revised March 13, 2019, to the satisfaction of the Senior Manager, Heritage Preservation Services; and</p>\n<p style=\"padding-left: 60px;\">3. Enter into on the property at 199 Bay Street, 25 King Street West and 56 Yonge Street one or more agreements with the City pursuant to Section 37 of the Planning Act to the satisfaction of the City Solicitor, the Chief Planner and Executive Director, City Planning and the Senior Manager, Heritage Preservation Services with such facilities, services and matters to be set forth in the related site specific Zoning By-law Amendment giving rise to the proposed alterations;</p>\n<p style=\"padding-left: 30px;\">b. Prior to final Site Plan approval for the proposed Zoning By-law Amendment by City Council, for the property located at 199 Bay Street, 25 King Street West and 56 Yonge Street:</p>\n<p style=\"padding-left: 60px;\">1. Provide final site plan drawings substantially in accordance with the approved Conservation Plan required in Recommendation 1.a.2. above.</p>\n<p style=\"padding-left: 60px;\">2. Have obtained final approval for the necessary Zoning By-law Amendment required for the subject property, such Amendment to have come into full force and effect.</p>\n<p style=\"padding-left: 60px;\">3. Provide a detailed landscape plan for the subject property, satisfactory to the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 60px;\">4. Provide a Heritage Lighting Plan that describes how the exterior of the heritage properties will be sensitively illuminated to enhance their heritage character to the satisfaction of the Senior Manager, Heritage Preservation Services and thereafter shall implement such Plan to the satisfaction of the Senior Manager Heritage Preservation Services.</p>\n<p style=\"padding-left: 60px;\">5. Submit a Signage Plan to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 60px;\">6. Provide an Interpretation Plan for the subject properties to the satisfaction of the Senior Manager, Heritage Preservation Services and thereafter shall implement such Plan to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 30px;\">c. prior to the issuance of any permit for all or any part of the property at 199 Bay Street, 25 King Street West and 56 Yonge Street, including a heritage permit or a building permit, but excluding permits for repairs and maintenance and usual and minor works for the existing heritage building as are acceptable to the Senior Manager, Heritage Preservation Services, the owner shall:</p>\n<p style=\"padding-left: 60px;\">1. Have obtained final approval for the necessary Zoning By-law Amendment required for the subject property, such Amendment to have come into full force and effect;</p>\n<p style=\"padding-left: 60px;\">2. Provide building permit drawings, including notes and specifications for the conservation and protective measures keyed to the approved Conservation Plan required in Recommendation 1.a.2. above including a description of materials and finishes, to be prepared by the project architect and a qualified heritage consultant to the satisfaction of the Senior Manager, Heritage Preservation Services;</p>\n<p style=\"padding-left: 60px;\">3. Provide a Letter of Credit, including provision for upwards indexing, in a form and amount and from a bank satisfactory to the Senior Manager, Heritage Preservation Services to secure all work included in the approved Conservation Plan Lighting and Interpretation Plan; and</p>\n<p style=\"padding-left: 60px;\">4. Provide full documentation of the Commerce Court South and Commerce Court East buildings, including two (2) printed sets of archival quality 8&rdquo; x 10&rdquo; colour photographs with borders in a glossy or semi-gloss finish and one (1) digital set on a CD in tiff format and 600 dpi resolution keyed to a location map, elevations and measured drawings, and copies of all existing interior floor plans and original drawings as may be available, to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 60px;\">5.&nbsp; Register the heritage easement agreement referenced in Recommendation 1.a.l. above on title to the property, to the satisfaction of the City Solicitor.</p>\n<p style=\"padding-left: 30px;\">d. Prior to the release of the Letter of Credit required in Recommendation 1.c.3. above, the owner shall:</p>\n<p style=\"padding-left: 60px;\">1. Provide a letter of substantial completion prepared and signed by a qualified heritage consultant confirming that the required conservation work and the required interpretive work has been completed in accordance with the Conservation Plan and Interpretation Plan and that an appropriate standard of conservation has been maintained, all to the satisfaction of the Senior Manager, Heritage Preservation Services; and</p>\n<p style=\"padding-left: 60px;\">2. Provide replacement Heritage Easement Agreement photographs to the satisfaction of the Senior Manager, Heritage Preservation Services;</p>\n<p><strong>Appeal to the Conservation Review Board</strong>:<br />The Ontario Heritage Act states that where a Council consents to an application to alter a designated property with certain terms or conditions, or refuses the application, the owner may, within thirty days after receipt of this notice, apply to the Council for a hearing before the Conservation Review Board.</p>\n<p>The owner may request a hearing before the Conservation Review Board in this matter, by writing to the City Clerk:&nbsp; Attention Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, West, Toronto, Ontario, M5H 2N2, by 4.30 p.m. on or before November 28, 2019.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1265,
+  "otherReferenceList": [
+    {
+      "description": "2019.TE8.70 - Alterations to a Designated Heritage Property and Authority to Enter into a Heritage Easement Agreement - 199 Bay Street, 25 King Street West and 56 Yonge Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE8.70"
+    },
+    {
+      "description": "2019.TE8.11 - 56 Yonge Street, 21 Melinda Street, 18 to 30 Wellington Street West, 187 to 199 Bay Street and 25 King Street West - Zoning Amendment Application - Final Report \n\n",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE8.11"
+    },
+    {
+      "description": "2019.TE7.17 - Alterations to a Designated Heritage Property, Amendment of a Designating By-Law, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, and Authority to Enter into a Heritage Easement Agreement - 199 Bay Street, 25 King Street West and 56 Yonge Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE7.17"
+    },
+    {
+      "description": "By-law 1374-2019 - To provide for the entering into of a heritage easement agreement for the conservation of the property known municipally as 199 Bay Street, 25 King Street West and 56 Yonge Street",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law1374.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Decision - 199 Bay Street, 25 King Street West and 56 Yonge Street",
+  "topics": [
+    "Heritage > Decision on alteration to a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

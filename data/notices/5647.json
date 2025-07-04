@@ -1,0 +1,48 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1117 Danforth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.680785833",
+      "longitudeCoordinate": "-79.334088523",
+      "postalCode": "M4J 1M5",
+      "province": "Ontario",
+      "streetAddress": "1117 Danforth Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 497-2024 - 1117 Danforth Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5504"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1729828800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF INTENTION TO REMOVE A HOLDING SYMBOL (H) FROM ZONING BY-LAW 497-2024</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application under Section 36 of the <em>Planning Act</em>:</p>\n<p>&nbsp;</p>\n<p><strong>Application Number:</strong> 24 223684 STE 14 OZ</p>\n<p><strong>Address:</strong> 1117 Danforth Avenue</p>\n<p><strong>Ward:</strong> Ward 14 - Toronto-Danforth</p>\n<p><strong>Contact:</strong> Doris Ho, Community Planner at 416-338-1264, by e-mail at <a href=\"mailto:Doris.Ho@toronto.ca\">Doris.Ho@toronto.ca</a>, or by address at 18th Floor East, City Hall, 100 Queen St W, Toronto, ON M5H 2N2</p>\n<p>&nbsp;</p>\n<p><strong>DESCRIPTION</strong></p>\n<p>&nbsp;</p>\n<p>The application to amend Zoning By-law 497-2024 to remove the holding symbol (H) to permit a 14-storey mixed use building that secures the shared access and use of one loading space &ndash; Type G for the lands municipally know as 1095 and 1111 Danforth Avenue, and 1117 Danforth Avenue. The location of where the holding symbol (H) would be removed is noted on the map below.</p>\n<p>&nbsp;</p>\n<p>Detailed information about the proposal, including background information and materials may be made available for review by contacting the Planner noted above or by visiting the City of Toronto&rsquo;s Application Information Centre.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>MAKE YOUR VIEWS KNOWN</strong></p>\n<p>&nbsp;</p>\n<p>You may send written comments by mail or email to the Community Planner noted under Contact. Your written comments must be submitted no later than <strong>November 22, 2024</strong> to be considered by the Executive Director, Development Review or their designate, Director, Community Planning, Toronto East York District. A decision by the Executive Director, Development Review or their designate as to whether to remove the holding symbol (H) will occur no earlier than <strong>December 10, 2024.</strong></p>\n<p>&nbsp;</p>\n<p><strong>Notice to people writing to the City:</strong> The C<em>ity of Toronto Act, 2006</em>, the <em>Planning Act,</em> and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication to the City.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s).&nbsp; If you are submitting letters, e-mails, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5647,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 223684 STE 14 OZ "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 497-2024 - 1117 Danforth Avenue",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment",
+    "Planning > Intention to remove a Holding Symbol"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

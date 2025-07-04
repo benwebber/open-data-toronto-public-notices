@@ -1,0 +1,51 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2A Flemington Road Toronto Ontario",
+      "latitudeCoordinate": "43.719973884",
+      "longitudeCoordinate": "-79.441457614",
+      "province": "Ontario",
+      "streetAddress": "2A Flemington Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "121 St Patrick Street Toronto Ontario",
+      "latitudeCoordinate": "43.6536637994",
+      "longitudeCoordinate": "-79.3897107534",
+      "province": "Ontario",
+      "streetAddress": "121 St Patrick Street"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Melanie Hale-Carter",
+    "country": "Canada",
+    "emailAddress": "Melanie.Hale-Carter@toronto.ca",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-1227",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1523937600000,
+  "noticeDescription": "<p>1. On March 27, 2018, lands located at 121 St. Patrick Street, being Lot 18 and Part of Lot 19 east side of St. Patrick Street and Part of Lot 18 on the west side of Simcoe Street on Plan 1-49-55; also designated as Parts 1 &amp; 2 on Reference Plan 63R-3936, save and except such below-grade portion of the lands as may be required for municipal parking purposes. The vacant land has a total area of approximately 1019 m&sup2;&plusmn; (10,968 ft&sup2;&plusmn;). The City proposes to invite an offer to purchase the property from Lanterra 234 Simcoe Realty Ltd. for inclusion in its proposed mixed-use development which shall include a 75 to 125 space below-grade public parking garage to be owned by the City and operated by the Toronto Parking Authority.</p>\n<p>2. On April 5, 2018, conditional on City Council approving the permanent closure of the public highways known as Bredonhill Court, Plan 5633 North York, being Part 6 on Plan 66R-28485 and shown as Part 1 on Sketch No. PS-2017-100, Bagot Court, Plan 5633 North York, being Part 7 on Plan 66R-28485 and shown as Part 2 on Sketch No. PS-2017-100, Polaris Lane, Plan 5633 North York, being Part 3 on Plan 66R-28485 and shown as Part 2 on Sketch No. PS-2017-104 and Part of Varna Drive, Plan 5633 North York, being part of Part 1 on Plan 66R-28485 and shown as Part 1 on Sketch No. PS-2017-104, subject to the reservation by the City of easements for sewer and water main purposes. The highways have a total area of approximately 1305.5 m&sup2;&plusmn;, 2197.5 m&sup2;&plusmn;, 1061.2 m&sup2;&plusmn;, and 2377.5 m&sup2;&plusmn; respectively. The City proposes that the intended manner of disposal to be by way of a nominal sum conveyance to Toronto Community Housing Corporation (TCHC) as part of the Lawrence Heights Revitalization Project.</p>\n<p>3. On April 5, 2018, part of Flemington Park, known as 2A Flemington Road, described as Part of Block O on Plan 5633 North York, being part of Part 10 on Plan 66R-28485 and shown as Part 1 on Sketch No. PS-2018-009 and the 1 foot reserve at the rear of 161 &amp; 167 Ranee Avenue, described as 1 Ft. Reserve on Plan 5633 North York and designated as Part 13 on Plan 66R- 28485. The parcel has a total area of approximately 1326 m&sup2;&plusmn; and reserve strip has an approximate area of 6 m2&plusmn;. The intended manner of disposal to be by way of a nominal sum conveyance to Toronto Community Housing Corporation as part of the Lawrence Heights Revitalization Project.</p>\n<p>4. On April 11, 2018, portion of Dowry Street, legally described as Dowry St (Formerly Station St) Plan 3666 Scarborough Lying NE of Part 5 64R10799; 1 Foot Reserve Plan 3666 Scarborough Abutting East Limit of Dowry St., Plan 3666; Being Dowry St; S/T Debts in SC625164, shown as Parts 1 on Sketch No. PS-2017-107, conditional upon City Council approving the permanent closure of the said portion of Dowry Street and subject to the reservation of an easement for operation and management of Toronto Water infrastructure and all other required easements. The property has a total area of approximately 306.6 m&sup2;&plusmn; (3,000 ft&sup2;&plusmn;). The City proposes to invite an offer to purchase the property from Metrolinx.</p>\n<p>The following City official has information about the proposed dispositions: Mrs. Melanie Hale-Carter, Tel: 416-392-1227, Fax: 416-392-1880, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 30th day of April, 2018.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 224,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Notice is hereby given that in accordance with the City of Toronto’s real estate disposal by-law, the following properties were declared surplus:",
+  "title": "Declaration of Multiple Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

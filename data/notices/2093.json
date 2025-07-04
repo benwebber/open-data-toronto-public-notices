@@ -1,0 +1,53 @@
+{
+  "accessibilityDescription": "Special assistance for members of the public: City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-398-0889 or e-mail teycc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Queen Street East & Parliament Street Toronto Ontario",
+      "latitudeCoordinate": "43.654254975236746",
+      "longitudeCoordinate": "-79.36790650237512",
+      "majorIntersection": "Queen Street East & Parliament Street",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Permanently close portions of public highway lands known as Brigden Place",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1940"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1613538000000,
+  "noticeDescription": "<p>The Council of the City of Toronto proposes to pass a by-law to permanently close portions of public highway lands known as Brigden Place, described as follows:</p>\n<p>All of PIN 21091-0070 (R)</p>\n<p>PART OF TOWN LOT 1, S/S QUEEN STREET EAST, PART OF TOWN LOT 1, N/S DUCHESS STREET, PLAN OF THE TOWN OF YORK,</p>\n<p>PART OF LOTS 4 &amp; 5, S/S QUEEN STREET, PART OF LOTS 5 &amp; 6, N/S DUCHESS STREET, REGISTERED PLAN 124; CITY OF TORONTO</p>\n<p>Land Titles Division of the Toronto Registry Office (No. 66)</p>\n<p>All of PIN 21091-0275 (LT)</p>\n<p>PART OF LOT 5, N/S DUCHESS STREET, REGISTERED PLAN 124,</p>\n<p>AS IN OR32902; CITY OF TORONTO</p>\n<p>Land Titles Division of the Toronto Registry Office (No. 66)</p>\n<p>At its meeting to be held on February 24, 2021, commencing at 9:30 a.m., or shortly afterwards, the Toronto and East York Community Council will hear in person or by his or her counsel, agent or solicitor, any person who wishes to speak to this matter.</p>\n<p>To obtain additional information, submit comments or address Toronto and East York Community Council meeting on February 24, 2021, please contact Toronto and East York Community Council no later than 12:00 noon on February 23, 2021.</p>\n<p style=\"padding-left: 40px;\">Ellen Devlin, Administrator</p>\n<p style=\"padding-left: 40px;\">Toronto and East York Community Council</p>\n<p style=\"padding-left: 40px;\">City Hall</p>\n<p style=\"padding-left: 40px;\">2nd Floor, West Tower</p>\n<p style=\"padding-left: 40px;\">Toronto, Ontario. M5H 2N2</p>\n<p style=\"padding-left: 40px;\">Telephone: 416-392-7033; Facsimile: 416-397-0111</p>\n<p style=\"padding-left: 40px;\">E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a> </p>\n<p><strong>Notice to people writing or making a presentation to the Toronto and East York Community Council</strong>: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board and Advisory Body meetings are broadcast live over the internet for the public to view.&nbsp; If you speak at the meeting you will appear in the video broadcast.&nbsp; Video broadcasts are archived and continue to be publicly available.&nbsp; Direct any questions about this collection to the City Clerk's Office at 416-392-7033or by e-mail at <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>. </p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2093,
+  "otherReferenceList": [
+    {
+      "description": "2021.TE23.2 - Permanent Closure of the City-owned Public Lane Known as Brigden Place",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.TE23.2"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, Interim City Clerk",
+  "title": "Proposal to pass a by-law to permanently close portions of public highway lands known as Brigden Place",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

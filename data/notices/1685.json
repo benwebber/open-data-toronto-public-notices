@@ -1,0 +1,220 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "671 Huntingwood Drive Toronto Ontario",
+      "latitudeCoordinate": "43.789731343",
+      "longitudeCoordinate": "-79.304283296",
+      "postalCode": "M1W 1H6",
+      "province": "Ontario",
+      "streetAddress": "671 Huntingwood Drive",
+      "unit": "8"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Stratton Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7384802205",
+      "longitudeCoordinate": "-79.2692372907",
+      "postalCode": "M1K 3V2",
+      "province": "Ontario",
+      "streetAddress": "11 Stratton Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "39 Robbins Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.670125782",
+      "longitudeCoordinate": "-79.31668836",
+      "postalCode": "M4L 1X1",
+      "province": "Ontario",
+      "streetAddress": "39 Robbins Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "40 Fallingbrook Road Toronto Ontario",
+      "latitudeCoordinate": "43.6770488553",
+      "longitudeCoordinate": "-79.2773687376",
+      "postalCode": "M1N 2T4",
+      "province": "Ontario",
+      "streetAddress": "40 Fallingbrook Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "42 Gordon Street Toronto Ontario",
+      "latitudeCoordinate": "43.646653364",
+      "longitudeCoordinate": "-79.432111244",
+      "postalCode": "M6K 1P6",
+      "province": "Ontario",
+      "streetAddress": "42 Gordon Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "68 Stuart Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7536411031",
+      "longitudeCoordinate": "-79.4189548556",
+      "postalCode": "M2N 1B3",
+      "province": "Ontario",
+      "streetAddress": "68 Stuart Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "86 Lowther Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6696885402",
+      "longitudeCoordinate": "-79.4023035374",
+      "postalCode": "M5R 1E1",
+      "province": "Ontario",
+      "streetAddress": "86 Lowther Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "94 Prince Arthur Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6686657934",
+      "longitudeCoordinate": "-79.4017453426",
+      "postalCode": "M5R 1B6",
+      "province": "Ontario",
+      "streetAddress": "94 Prince Arthur Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "100 Dowswell Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7954223292",
+      "longitudeCoordinate": "-79.2226047617",
+      "postalCode": "M1B 1J2",
+      "province": "Ontario",
+      "streetAddress": "100 Dowswell Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "130 Divadale Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7153262796",
+      "longitudeCoordinate": "-79.3666831592",
+      "postalCode": "M4G 2P4",
+      "province": "Ontario",
+      "streetAddress": "130 Divadale Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "133 Cowan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.63760143",
+      "longitudeCoordinate": "-79.431443775",
+      "postalCode": "M6K 2N1",
+      "province": "Ontario",
+      "streetAddress": "133 Cowan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "182 Brenyon Way Toronto Ontario",
+      "latitudeCoordinate": "43.805698553",
+      "longitudeCoordinate": "-79.2127424913",
+      "postalCode": "M1B 3G2",
+      "province": "Ontario",
+      "streetAddress": "182 Brenyon Way"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "237 Seaton Street Toronto Ontario",
+      "latitudeCoordinate": "43.660367251",
+      "longitudeCoordinate": "-79.36999177",
+      "postalCode": "M5A 2T5",
+      "province": "Ontario",
+      "streetAddress": "237 Seaton Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "278 Bering Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6386608927",
+      "longitudeCoordinate": "-79.5260848811",
+      "postalCode": "M8Z 3A3",
+      "province": "Ontario",
+      "streetAddress": "278 Bering Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "540 Dawes Road Toronto Ontario",
+      "latitudeCoordinate": "43.7059714885",
+      "longitudeCoordinate": "-79.2960157018",
+      "postalCode": "M4B 2E9",
+      "province": "Ontario",
+      "streetAddress": "540 Dawes Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "630 Glebeholme Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.6880208802",
+      "longitudeCoordinate": "-79.3151405207",
+      "postalCode": "M4C 1V6",
+      "province": "Ontario",
+      "streetAddress": "630 Glebeholme Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "796 The Queensway Toronto Ontario",
+      "latitudeCoordinate": "43.6257173021",
+      "longitudeCoordinate": "-79.5071960245",
+      "postalCode": "M8Z 1N5",
+      "province": "Ontario",
+      "streetAddress": "796 The Queensway"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1703 Dundas Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6675004474",
+      "longitudeCoordinate": "-79.3252527964",
+      "postalCode": "M4L 1L7",
+      "province": "Ontario",
+      "streetAddress": "1703 Dundas Street East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1492"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1594180800000,
+  "noticeDescription": "<p>Individual By-laws for each of the benefitting properties listed below have been enacted for the meeting of City Council held on June 29 and 30, 2020. <a title=\"City Council By-law Index for June 29 and 30, 2020\" href=\"http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2020.CC22\" target=\"_blank\" rel=\"noopener\">Review By-law details</a>.</p>\n<p>Each of these By-laws imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a title=\"2013.EX33.22 - Proposed Energy and Water Efficiency Initiative for the Residential Sector\" href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22\" target=\"_blank\" rel=\"noopener\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a title=\"By-law 1105-2013 - To authorize the undertaking of energy efficiency and water conservation works on private residential property as local improvements under the Residential Retrofit Program\" href=\"https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\" target=\"_blank\" rel=\"noopener\">By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>The benefitting properties are:</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8-671 Huntingwood Drive</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11 Stratton Avenue</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 39 Robbins Avenue</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 40 Fallingbrook Road</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 42 Gordon Street</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 68 Stuart Avenue</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 86 Lowther Avenue</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 94 Prince Arthur Avenue</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 100 Dowswell Drive</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 130 Divadale Drive</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 133 Cowan Avenue</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 182 Brenyon Way</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 237 Seaton Street</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 278 Bering Avenue</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 540 Dawes Road</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 630 Glebeholme Boulevard</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 796 The Queensway</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1703 Dundas Street East</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1685,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.",
+  "title": "City's Residential Retrofit Program",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7049107148",
+      "longitudeCoordinate": "-79.5490823472",
+      "postalCode": "M9P 3M9",
+      "province": "Ontario",
+      "streetAddress": "1 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7047617978",
+      "longitudeCoordinate": "-79.5496454873",
+      "postalCode": "M9P 3N1",
+      "province": "Ontario",
+      "streetAddress": "2 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7050464314",
+      "longitudeCoordinate": "-79.549141787",
+      "postalCode": "M9P 3M9",
+      "province": "Ontario",
+      "streetAddress": "3 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "4 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7049184112",
+      "longitudeCoordinate": "-79.5497463994",
+      "postalCode": "M9P 3N1",
+      "province": "Ontario",
+      "streetAddress": "4 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7051687734",
+      "longitudeCoordinate": "-79.5492330169",
+      "postalCode": "M9P 3M9",
+      "province": "Ontario",
+      "streetAddress": "5 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "6 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7050453253",
+      "longitudeCoordinate": "-79.5497932379",
+      "postalCode": "M9P 3N1",
+      "province": "Ontario",
+      "streetAddress": "6 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7053109104",
+      "longitudeCoordinate": "-79.5492633915",
+      "postalCode": "M9P 3M9",
+      "province": "Ontario",
+      "streetAddress": "7 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "8 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7051851528",
+      "longitudeCoordinate": "-79.5499142138",
+      "postalCode": "M9P 3N1",
+      "province": "Ontario",
+      "streetAddress": "8 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7054596142",
+      "longitudeCoordinate": "-79.5493401639",
+      "postalCode": "M9P 3M9",
+      "province": "Ontario",
+      "streetAddress": "9 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7053101657",
+      "longitudeCoordinate": "-79.549866217",
+      "postalCode": "M9P 3N1",
+      "province": "Ontario",
+      "streetAddress": "10 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7055822268",
+      "longitudeCoordinate": "-79.5493887354",
+      "postalCode": "M9P 3M9",
+      "province": "Ontario",
+      "streetAddress": "11 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "14 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7054391609",
+      "longitudeCoordinate": "-79.5499771834",
+      "postalCode": "M9P 3N1",
+      "province": "Ontario",
+      "streetAddress": "14 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7057043566",
+      "longitudeCoordinate": "-79.5494924353",
+      "postalCode": "M9P 3M9",
+      "province": "Ontario",
+      "streetAddress": "15 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7055666587",
+      "longitudeCoordinate": "-79.5500305141",
+      "postalCode": "M9P 3N1",
+      "province": "Ontario",
+      "streetAddress": "16 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "17 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7058369544",
+      "longitudeCoordinate": "-79.5495094658",
+      "postalCode": "M9P 3M9",
+      "province": "Ontario",
+      "streetAddress": "17 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "18 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7056875051",
+      "longitudeCoordinate": "-79.5500960747",
+      "postalCode": "M9P 3N1",
+      "province": "Ontario",
+      "streetAddress": "18 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.70595821",
+      "longitudeCoordinate": "-79.5496023469",
+      "postalCode": "M9P 3M9",
+      "province": "Ontario",
+      "streetAddress": "19 Adriatic Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "20 Adriatic Road Toronto Ontario",
+      "latitudeCoordinate": "43.7058299289",
+      "longitudeCoordinate": "-79.5501482695",
+      "postalCode": "M9P 3N1",
+      "province": "Ontario",
+      "streetAddress": "20 Adriatic Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Public Meeting - Request to Amend the Official Plan and Zoning By-law - 1-20 Adriatic Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5523"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke York Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Etobicoke Civic Centre",
+    "phone": "416-397-4579",
+    "postalCode": "M9C 2Y2",
+    "province": "Ontario",
+    "streetAddress": "399 The West Mall"
+  },
+  "decisionBody": "Etobicoke York Community Council",
+  "eventList": [],
+  "noticeDate": 1730260800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF PUBLIC MEETING</strong></p>\n<p style=\"text-align: center;\"><strong>To be held by the Etobicoke York Community Council</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the <em>Planning Act</em>)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Request to Amend the Official Plan and Zoning By-law Application Number 22 135811 WET 01 OZ</strong></p>\n<p>&nbsp;</p>\n<p><strong>Location of Application:&nbsp; &nbsp; &nbsp; &nbsp;1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 15, 16, 17, 18, 19, 20 Adriatic Road</strong><br /><strong>Applicant:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; BV Realty Partners LP&nbsp; </strong><br /><strong>&nbsp;</strong><br /><strong>Date:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;December 2, 2024</strong><br /><strong>Time:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;9:30 a.m. or as soon as possible thereafter</strong><br /><strong>Place:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Council Chamber, Etobicoke Civic Centre, 399 The West Mall, and by Video Conference</strong></p>\n<p>&nbsp;</p>\n<p><strong>PROPOSAL</strong></p>\n<p>&nbsp;</p>\n<p>The application to amend the Official Plan would redesignate 18 properties, each with a detached dwelling, from <em>Neighbourhoods to Apartment Neighbourhoods</em> to facilitate a more intense form of development. The Amendment would also redesignate the southeast corner of the development block as <em>Parks and Other Open Spaces &ndash; Parks,</em> in recognition of the on-site parkland dedication secured through the development review process, and <em>Natural Areas</em> for the sensitive areas within the natural heritage system.</p>\n<p>&nbsp;</p>\n<p>The application to amend the Zoning By-law would introduce regulations and performance standards to permit the intensification of the site with three new 22-storey residential apartment buildings.</p>\n<p>&nbsp;</p>\n<p><strong>Detailed information regarding the proposal, including background information and material and a copy of the proposed Official Plan Amendment may be obtained by contacting Daniel Hahn, Planner at 416-394-8071, or by e-mail at <a href=\"mailto:Daniel.Hahn2@toronto.ca\">Daniel.Hahn2@toronto.ca</a>.</strong></p>\n<p>&nbsp;</p>\n<p>Further information can be found at <a href=\"http://www.toronto.ca/1AdriaticRd\">www.toronto.ca/1AdriaticRd</a>.</p>\n<p>&nbsp;</p>\n<p><strong>PURPOSE OF PUBLIC MEETING</strong></p>\n<p>&nbsp;</p>\n<p>Etobicoke York Community Council will receive input and review the proposal and any other material placed before it, in order to make recommendations on the applications. These recommendations will then be forwarded to Toronto City Council for its consideration.</p>\n<p>&nbsp;</p>\n<p>You can follow the meeting at <a href=\"http://www.youtube.com/TorontoCityCouncilLive\">www.youtube.com/TorontoCityCouncilLive</a>.</p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>MAKE YOUR VIEWS KNOWN</strong></span></p>\n<p>&nbsp;</p>\n<p>You may send written comments by e-mail to <strong><a href=\"mailto:etcc@toronto.ca\">etcc@toronto.ca</a></strong> or by mail to the address below. You can submit written comments up until City Council gives final consideration to the proposal.</p>\n<p>&nbsp;</p>\n<p>You are also invited to address the Etobicoke York Community Council, in person, by video conference or by telephone, to make your views known regarding the proposal.</p>\n<p>&nbsp;</p>\n<p>If you wish to address the Etobicoke York Community Council directly, please register by e-mail to <strong><a href=\"mailto:etcc@toronto.ca\">etcc@toronto.ca</a></strong> or by phone at 416-397-4579, no later than <strong>12:00 p.m. on November 29, 2024.</strong> If you register, we will contact you with instructions on how to participate in the meeting.</p>\n<p>&nbsp;</p>\n<p>The Etobicoke York Community Council may request you to file an outline of your presentation with the Clerk.</p>\n<p>&nbsp;</p>\n<p>For more information about matter, including information about appeal rights, please contact: <strong>City Clerk, Attention: Nancy Martins, Administrator, Etobicoke York Community Council, Toronto City Hall, 100 Queen Street West, 2nd Floor, Toronto, ON, M5H 2N2, Phone: 416-397-4579, Fax: 416-392-2980, e-mail:</strong> <a href=\"mailto:etcc@toronto.ca\">etcc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance:</strong> City Staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-397-4579, TTY 416-338-0889 or e-mail <a href=\"mailto:etcc@toronto.ca\">etcc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p><strong>If you wish to be notified</strong> of the decision of the City of Toronto on the proposed Official Plan Amendment and/or passing or refusal of the proposed Zoning By-law Amendment, you must make a written request to the City Clerk attention: Nancy Martins, Administrator, Etobicoke York Community Council, at the address, fax number or e-mail set out above.</p>\n<p>&nbsp;</p>\n<p><strong>Official Plan and Zoning By-law Amendment Appeal:</strong>&nbsp; If a specified person or public body as defined under the <em>Planning Act</em> or the registered owner of any land to which the plan or by-law would apply would otherwise have an ability to appeal the decision of the Council of the City of Toronto to the Ontario Land Tribunal, but the specified person or public body as defined under the <em>Planning Act</em> or the registered owner of any land to which the plan or by-law would apply does not make oral submissions at a public meeting or make written submissions to the City of Toronto before the proposed Official Plan Amendment is adopted or Zoning By-law Amendment is passed, the specified person or public body as defined under the <em>Planning Act</em> or the registered owner of any land to which the plan would apply is not entitled to appeal the decision to adopt the proposed Official Plan Amendment or the by-law.</p>\n<p>&nbsp;</p>\n<p><strong>People writing or making presentations at the public meeting:</strong> The <em>City of Toronto Act, 2006,</em> the <em>Planning Act,</em> and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available. Direct any questions about this collection to City Clerk&rsquo;s Office at the telephone number or email address set out above.</p>\n<p>&nbsp;</p>\n<p>An online version of this Notice is available at <a href=\"https://www.toronto.ca/city-government/public-notices-bylaws/\">https://www.toronto.ca/city-government/public-notices-bylaws/</a>.</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5666,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "22 135811 WET 01 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Public Meeting - Request to Amend the Official Plan and Zoning By-law - 1-20 Adriatic Road",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment",
+    "Planning > Proposal for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

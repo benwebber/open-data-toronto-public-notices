@@ -1,0 +1,61 @@
+{
+  "accessibilityDescription": "City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail teycc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "61 Front Street West Toronto Ontario",
+      "latitudeCoordinate": "43.64587054768334",
+      "longitudeCoordinate": "-79.38005754683536",
+      "province": "Ontario",
+      "streetAddress": "61 Front Street West"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Toronto City Hall",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1547562600000,
+      "streetAddress": "100  Queen Street West"
+    }
+  ],
+  "noticeDate": 1547010000000,
+  "noticeDescription": "<p>The Council of the City of Toronto proposes to pass a by-law to permanently close a portion of the public highway of Front Street West, adjacent to the north side of 61 Front Street West, designated as Parts 1, 3, 4, 6, 7, 8 and 9 on Plan 66R-30375, City of Toronto.</p>\n<p>At its meeting to be held in the Toronto City Hall on January 15, 2019, commencing at 9:30 a.m., the Toronto and East York Community Council will hear in person or by his or her counsel, agent or solicitor, any person who wishes to speak to this matter.</p>\n<p>To view a copy of the proposed by-law and plan to close a portion of the public highway, obtain additional information, submit comments or address the Toronto and East York Community Council meeting on January 15, 2019, please contact the following City official no later than 12:00 p.m. on January 14, 2019.</p>\n<p style=\"padding-left: 30px;\">Ellen Devlin, Administrator</p>\n<p style=\"padding-left: 30px;\">Toronto and East York Community Council</p>\n<p style=\"padding-left: 30px;\">City Clerk&rsquo;s Office, Toronto City Hall</p>\n<p style=\"padding-left: 30px;\">100 Queen Street West, 2nd Floor, West Tower</p>\n<p style=\"padding-left: 30px;\">Toronto, Ontario. M5H 2N2</p>\n<p style=\"padding-left: 30px;\">Telephone: 416-392-7033; Facsimile: 416-397-0111</p>\n<p style=\"padding-left: 30px;\">E-mail: <a href=\"mailto:Ellen.Devlin@toronto.ca\">Ellen.Devlin@toronto.ca</a></p>\n<p><strong>Notice to people writing or making a presentation to the Toronto and East York Community Council</strong>: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>The City videotapes committee and community council meetings. If you make a presentation to a committee or community council, the City will be videotaping you and City staff may make the video tapes available to the public.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, City Hall, 100 Queen Street West, Toronto ON M5H 2N2 or call 416-392-7033.</p>\n<p>This notice shall also constitute notice to the public of the proposed public highway closure in accordance with the requirements of the Municipal Class Environmental Assessment for Schedule A+ activities.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 322,
+  "otherReferenceList": [
+    {
+      "description": "TE2.1 - Permanent Closure of a Portion of Front Street West Adjacent to the North Side of 61 Front Street West",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE2.1"
+    },
+    {
+      "description": "Bylaw 226-2019 - To permanently close a portion of Front Street West adjacent to the north side of 61 Front Street West.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0226.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Proposed by-law to permanently close a portion of the public highway of Front Street West, adjacent to the north side of 61 Front Street West",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

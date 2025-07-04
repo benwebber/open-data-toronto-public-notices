@@ -1,0 +1,57 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10 Zorra Street Toronto Ontario",
+      "latitudeCoordinate": "43.621277886",
+      "longitudeCoordinate": "-79.522351437",
+      "postalCode": "M8Z 4Z7",
+      "province": "Ontario",
+      "streetAddress": "10 Zorra Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "18 Zorra Street Toronto Ontario",
+      "latitudeCoordinate": "43.620862759",
+      "longitudeCoordinate": "-79.52220661",
+      "postalCode": "M8Z 4Z7",
+      "province": "Ontario",
+      "streetAddress": "18 Zorra Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application to Remove a Holding Symbol from Zoning By-Law - 10, 12, 14, and 18 Zorra Street ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4844"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1709874000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF INTENTION TO REMOVE A HOLDING SYMBOL (H) FROM ZONING BY-LAW 1286-2023</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>The City has received the following application under Section 36 of the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>Application Number:</strong> 24 107357 WET 03 OZ</p>\n<p><strong>Location of Application:</strong> 10, 12, 14, and 18 Zorra Street</p>\n<p><strong>Ward:</strong> Ward 3 &ndash; Etobicoke-Lakeshore</p>\n<p><strong>Contact:</strong> Daniel Kolominsky at 416-394-5462, or by e-mail at <a href=\"mailto:Daniel.Kolominsky@toronto.ca\">Daniel.Kolominsky@toronto.ca</a>,&nbsp; or by mailing to: Etobicoke Civic Centre, 2 Civic Centre Court, 3rd Floor, Toronto ON, M9C 5A3</p>\n<p>&nbsp;</p>\n<p><strong>DESCRIPTION</strong></p>\n<p>&nbsp;</p>\n<p>This notice acknowledges that the above-noted application complies with the Minimum Application Requirements of the Planning Act, the City of Toronto's Official Plan, and the provisions identified in site-specific By-law 1286-2023. The application was deemed complete on February 16, 2024.</p>\n<p>Under Section 5.1.9 of the Official Plan and Chapter 415, Section 18 of the Municipal Code, authority is delegated to the Chief Planner and Executive Director, City Planning or their designate, to remove a Holding Symbol (&ldquo;H&rdquo;) from a zoning by-law, where the conditions for the removal of the holding provision have been satisfied.</p>\n<p>&nbsp;</p>\n<p><strong>MAKE YOUR VIEWS KNOWN</strong></p>\n<p>&nbsp;</p>\n<p>You may send written comments by mail or email to the Planner noted above. Your written comments must be submitted no later than <strong>April 25, 2024</strong> to be considered by the Chief Planner and Executive Director, City Planning or designate. A decision by the Chief Planner and Executive Director, City Planning or designate as to whether to remove the holding symbol (H) will occur no earlier than <strong>May 6, 2024</strong>.</p>\n<p>&nbsp;</p>\n<p><strong>Notice to People Writing to the City:</strong> The <em>City of Toronto Act, 2006</em>, the <em>Planning Act</em>, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication to the City.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s).&nbsp; If you are submitting letters, e-mails, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5002,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 107357 WET 03 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application to Remove a Holding Symbol from Zoning By-Law - 10, 12, 14, and 18 Zorra Street ",
+  "topics": [
+    "Planning > Intention to remove a Holding Symbol"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

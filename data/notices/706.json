@@ -1,0 +1,62 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Olive Avenue & Manning Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.66955363998829",
+      "longitudeCoordinate": "-79.41772082238128",
+      "majorIntersection": "Olive Avenue & Manning Avenue",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Converting 2 Permit Parking spaces to an Accessible Loading Zone",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=510"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Committee Room One, Toronto City Hall",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1558531800000,
+      "streetAddress": "100 Queen Street West"
+    }
+  ],
+  "noticeDate": 1557720000000,
+  "noticeDescription": "<p>Notice is hereby given that the Toronto and East York Community Council will consider a proposal to pass a by-law, to convert 2 permit parking spaces on Olive Avenue between Manning Avenue and Palmerston Avenue to accommodate an Accessible Loading Zone between the hours of 8:00 a.m. to 6:00 p.m., 7 days a week - parking will be accessible outside these loading zone hours, at its meeting on May 22, 2019 at 9:30 a.m. in Committee Room 1, Second Floor, City Hall, 100 Queen Street West.</p>\n<p>Any objections regarding this proposal should be set out in writing by May 21, 2019 and forwarded to the Toronto and East York Community Council, Attention: Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street W, 2nd floor west tower, Toronto, Ontario, M5H 2N2, or by E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</p>\n<p>If you wish to make a presentation to the Community Council regarding this proposal, please phone 416-392-7033 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a> <strong>by noon on the day before the meeting</strong>, so that we can include your name on the list of speakers. We limit presentations <strong>to no longer than five minutes</strong>.</p>\n<p>The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, City Hall, 100 Queen Street West, Toronto ON M5H 2N2 or call 416-392-7033.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 706,
+  "otherReferenceList": [
+    {
+      "description": "2019.TE6.41 - Accessible Loading Zone - Olive Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE6.41"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Notice of Intention to Convert Two Permit Parking spaces to an Accessible Loading Zone - Olive Avenue",
+  "topics": [
+    "Transportation > Intention to reduce permit parking spaces or times"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

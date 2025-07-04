@@ -1,0 +1,66 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "222 Spadina Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6509372448",
+      "longitudeCoordinate": "-79.3978409971",
+      "postalCode": "M5T 3B3",
+      "province": "Ontario",
+      "streetAddress": "222 Spadina Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "292 Parliament Street Toronto Ontario",
+      "latitudeCoordinate": "43.6586589821",
+      "longitudeCoordinate": "-79.3659903719",
+      "postalCode": "M5A 3A4",
+      "province": "Ontario",
+      "streetAddress": "292 Parliament Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "4626 Kingston Road Toronto Ontario",
+      "latitudeCoordinate": "43.775132028",
+      "longitudeCoordinate": "-79.180120154",
+      "postalCode": "M1E 2P6",
+      "province": "Ontario",
+      "streetAddress": "4626 Kingston Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Surplus Ad_ 4626 Kingston Rd",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2903"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Myron Menezes",
+    "country": "Canada",
+    "locationName": "Metro Hall,",
+    "phone": "416-338-3586",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario ",
+    "streetAddress": "55 John Street",
+    "unit": "2nd floor"
+  },
+  "eventList": [],
+  "noticeDate": 1648008000000,
+  "noticeDescription": "<p>NOTICE is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal by-law, the following properties were declared surplus:</p>\n<p>&nbsp;</p>\n<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On October 1, 2021, the City-owned parcels located at 222 Spadina Avenue, 292 Parliament Street and 4626 Kingston Road, were declared surplus. The City proposes the intended manner of disposal for each of these parcels to be by way of long-term leases to a non-profit operator who will manage the affordable housing program and provide support services.</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On November 9, 2021, the City-owned stratified parcel located at 249 Queens Quay West was declared surplus. The stratified parcel consists of a building containing a 50,301 square foot, 157 rooms, Radisson branded hotel building and 20,305 square foot of mixed-use commercial space and a 379 stall parking garage below grade. The City proposes that the intended manner of disposal is to be by way of a stratified interest to Silver Hotel Group that presently is the tenant and operates the hotel within the property.</p>\n<p>&nbsp;</p>\n<p>3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On July 28, 2020, the City-owned parcels located at 11 Macey Avenue and 150 Harrison Street (now known as 321 Dovercourt Road), were declared surplus. The City proposes that the intended manner of disposal for each of these parcels is to be by way of a long-term lease to a non-profit operator who will manage the affordable housing program and provide support services.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed dispositions: Mr. Myron Menezes, Tel: 416-338-3586, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 7th of April, 2022.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3135,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

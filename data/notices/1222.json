@@ -1,0 +1,54 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10 Buchan Court Toronto Ontario",
+      "latitudeCoordinate": "43.773274357",
+      "longitudeCoordinate": "-79.359993142",
+      "postalCode": "M2J 1V2",
+      "province": "Ontario",
+      "streetAddress": "10 Buchan Court"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": " Notice of Passing of By-law - 10 Buchan Court",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1042"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "fax": "416-395-7337",
+    "locationName": "North York Civic Centre",
+    "phone": "416-395-7337",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1571803200000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 1345-2019 to designate the property at 10 Buchan Court (Don Valley North - Ward 17) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1222,
+  "otherReferenceList": [
+    {
+      "description": "By-law 1345-2019 - To designate the property at 10 Buchan Court as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law1345.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law - 10 Buchan Court",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

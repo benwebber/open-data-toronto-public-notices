@@ -1,0 +1,42 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice_Removal of Permit Parking Pine Cres, Pine Cres, Glen Ames, Long Cres, Glen Oak Dr, Balsam Rd, Pine Glen Rdand Glen Stewart Cres\n\n ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2642"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1637125200000,
+  "noticeDescription": "<p>Notice is hereby given that the Toronto and East York Community Council proposes to pass a by-law to remove all the permit parking spaces on&nbsp;Pine Crescent, Glen Ames, Long Crescent, Glen Oak Drive, Balsam Road, Pine Glen Road and Glen Stewart Crescent.</p>\n<p>Any objections regarding this proposal should be set out in writing and forwarded to the City Clerk, Attention: Ellen Devlin, Toronto and East York Community Council, City of Toronto, Secretariat Division, City Hall, 100 Queen Street W, 2nd floor west tower, Toronto, Ontario, M5H 2N2, or by E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</p>\n<p>If you wish to make a presentation to the Community Council regarding this proposal, please phone 416-392-7033 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca&nbsp;</a> by 12 noon on November 23, 2021, so that we include your name on the list of speakers. We limit presentations to no longer than five minutes.</p>\n<p>The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, City Hall, 100 Queen Street West, Toronto, ON, M5H 2N2 or call 416-392-7033.</p>\n<p>Written objections received by the required date will be scheduled for deputations at the next Toronto and East York Community Council meeting. If the Clerk receives no objections by November 24, 2021, the City will proceed with its proposed action.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2834,
+  "otherReferenceList": [
+    {
+      "description": "TE29.53\tRemoval of Permit Parking Poll Results - Pine Crescent, Glen Ames, Long Crescent, Glen Oak Drive, Balsam Road, Pine Glen Road and Glen Stewart Crescent",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.TE29.53"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Removal of Permit Parking spaces on Pine Crescent, Glen Ames, Long Crescent, Glen Oak Drive, Balsam Road, Pine Glen Road and Glen Stewart Crescent",
+  "topics": [
+    "Transportation > Intention to terminate permit parking on a road"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

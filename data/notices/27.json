@@ -1,0 +1,97 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "639 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6581164382",
+      "longitudeCoordinate": "-79.3524317988",
+      "postalCode": "M4M 1G4",
+      "province": "Ontario",
+      "streetAddress": "639 Queen Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "641 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6581379428",
+      "longitudeCoordinate": "-79.3523612236",
+      "postalCode": "M4M 1G4",
+      "province": "Ontario",
+      "streetAddress": "641 Queen Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "643 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6581577828",
+      "longitudeCoordinate": "-79.3522773987",
+      "postalCode": "M4M 1G4",
+      "province": "Ontario",
+      "streetAddress": "643 Queen Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "651 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.658198292",
+      "longitudeCoordinate": "-79.352037046",
+      "postalCode": "M4M 1G4",
+      "province": "Ontario",
+      "streetAddress": "651 Queen Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "655 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.658234036",
+      "longitudeCoordinate": "-79.351888958",
+      "postalCode": "M4M 1G4",
+      "province": "Ontario",
+      "streetAddress": "655 Queen Street East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Heritage Designation notice for 639, 641, 643, 651, 653 And 655 Queen Street East (The Smith Block)",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=24"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1515387600000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 1214-2017 to designate 639, 641, 643, 651, 653 And 655 Queen Street East (The Smith Block), (Toronto-Danforth, Ward 30) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 27,
+  "otherReferenceList": [
+    {
+      "description": "TE14.14 - Intention to Designate Under Part IV, Section 29 of the Ontario Heritage Act and Inclusion on the Heritage Register - 639, 641, 643, 651, 653 and 655 Queen Street East",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2016.TE14.14"
+    },
+    {
+      "description": "By-law 1214-2017 - To designate the property at 639, 641, 643, 651, 653 and 655 Queen Street East (the Smith Block) as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2017/law1214.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 639, 641, 643, 651, 653 And 655 Queen Street East (The Smith Block) City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 1214-2017 - 639, 641, 643, 651, 653 And 655 Queen Street East (The Smith Block) - Heritage Designation",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

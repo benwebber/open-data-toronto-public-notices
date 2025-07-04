@@ -1,0 +1,41 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1140 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.679518828",
+      "longitudeCoordinate": "-79.3910503989",
+      "postalCode": "M4W 2L8",
+      "province": "Ontario",
+      "streetAddress": "1140 Yonge Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing - 1140 Yonge St",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2763"
+    }
+  ],
+  "eventList": [],
+  "noticeDate": 1642136400000,
+  "noticeDescription": "<p>NOTICE OF PASSING OF DESIGNATION BY-LAW 1082-2021</p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that Council for the City of Toronto passed Designation By-law 1082-2021 on December 15, 16 and 17, 2021, which designates the lands, buildings and structures known municipally as 1140 Yonge Street, Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest.</p>\n<p>&nbsp;</p>\n<p>The City Clerk did not receive any objections to the Notice of Intention to Designate the Property. Therefore, City Council did not consider any objections and passed the Designation By-law for the Property.</p>\n<p>&nbsp;</p>\n<p>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal of the Designation by-law for the Property by those persons permitted to appeal under section 29 of the Ontario Heritage Act may be made by filing a notice of appeal with the City Clerk, Attention: Administrator, Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2.; Email: <a href=\"mailto:hertpb@toronto.ca\">hertpb@toronto.ca</a> within thirty days of January 14, 2022, which is February 14, 2022.</p>\n<p>&nbsp;</p>\n<p>A Notice of Appeal must:</p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the objection to the designation by-law; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons in support of the objection to the designation by-law.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT), forms are available from the Ontario Land Tribunal website at <a href=\"mailto:https://olt.gov.on.ca\">https://olt.gov.on.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Who Can File An Appeal:</p>\n<p>&nbsp;</p>\n<p>Any persons who object to the designation by-law may refer the matter to the Ontario Land Tribunal.</p>\n<p>&nbsp;</p>\n<p>Getting Additional Information:</p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application is available for public inspection by contacting Heritage Planning staff at <a href=\"mailto:heritageplanning@toronto.ca\">heritageplanning@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Further information in respect of the Designation By-law is available from the City of Toronto at:</p>\n<p>&nbsp;</p>\n<p><a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.PH26.8\">http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.PH26.8</a></p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2997,
+  "otherReferenceList": [
+    {
+      "description": "PH26.8 - 1130-1134 and 1140 Yonge Street - Notice of Intention to Designate a Property Under Part IV, Section 29 of the Ontario Heritage Act",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.PH26.8"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "IN THE MATTER OF THE ONTARIO HERITAGE ACT R.S.O. 1990, CHAPTER O.18 AND CITY OF TORONTO, PROVINCE OF ONTARIO 1140 YONGE STREET",
+  "title": "Notice of Passing Designation - 1140 Yonge Street",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

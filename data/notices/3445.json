@@ -1,0 +1,63 @@
+{
+  "accessibilityDescription": "Special Assistance for Members of the Public: City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail teycc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "46 Laing Street Toronto Ontario",
+      "latitudeCoordinate": "43.662777917",
+      "longitudeCoordinate": "-79.327122832",
+      "postalCode": "M4L 2N2",
+      "province": "Ontario",
+      "streetAddress": "46 Laing Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "48 Laing Street Toronto Ontario",
+      "latitudeCoordinate": "43.662823707",
+      "longitudeCoordinate": "-79.327118669",
+      "postalCode": "M4L 2N2",
+      "province": "Ontario",
+      "streetAddress": "48 Laing Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "TE34.131 Public Notice exclusion of 46 and 48 Laing St - Public Notice",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3216"
+    }
+  ],
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Toronto City Hall",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1656509400000,
+      "streetAddress": "100 Queen Street West",
+      "unit": "2nd floor"
+    }
+  ],
+  "noticeDate": 1655784000000,
+  "noticeDescription": "<p>&nbsp;</p>\n<p style=\"text-align: center;\">Public Notice</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Realignment of Permit Parking Area \"8D\"</p>\n<p>&nbsp;</p>\n<p>Notice is hereby given that Toronto and East York Community Council proposes to pass a by-law to realign the boundary of Permit Parking area \"8D\" to exclude the development address of 46 and 48 Laing Street.</p>\n<p>&nbsp;</p>\n<p>The meeting of the Toronto and East York Community Council will be held on June 29, 2022 at 9:30 a.m., or shortly afterwards and will meet by video conference and in person in Council Chamber, Toronto City Hall, 100 Queen Street West.</p>\n<p>&nbsp;</p>\n<p>Any objections regarding this proposal should be set out in writing and forwarded to the City Clerk, Attention: Administrator, Toronto and East York Community Council, City of Toronto, Secretariat Division, City Hall, 100 Queen Street W, 2nd floor West Tower, Toronto, Ontario, M5H 2N2, or by E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>If you wish to make a presentation to the Community Council regarding this proposal, please phone 416-392-7033 or e-mail teycc@toronto.ca by 12:00 p.m. on June 28, 2022, so that we can include your name on the list of speakers and provide you with instructions on how to participate in the meeting.</p>\n<p>&nbsp;</p>\n<p>Notice to People Writing or Making Presentations to the Toronto and East York Community Council: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees and Boards.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>&nbsp;</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, City Hall, 100 Queen Street West, Toronto, ON, M5H 2N2 or call 416-392-7033.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3445,
+  "otherReferenceList": [
+    {
+      "description": "TE34.131 - Realignment of Permit Parking Area 8D to Exclude the Development Located at 46 and 48 Laing Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.TE34.131"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of proposal to pass a by-law to realign the boundary of Permit Parking area \"8D\" to exclude the development address of 46 and 48 Laing Street",
+  "topics": [
+    "Transportation > Intention to reduce permit parking spaces or times"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

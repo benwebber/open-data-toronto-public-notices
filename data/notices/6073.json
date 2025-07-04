@@ -1,0 +1,68 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "101 Spadina Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.646484406",
+      "longitudeCoordinate": "-79.39498925",
+      "postalCode": "M5V 2K2",
+      "province": "Ontario",
+      "streetAddress": "101 Spadina Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "105 Spadina Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.646635671",
+      "longitudeCoordinate": "-79.395125774",
+      "province": "Ontario",
+      "streetAddress": "105 Spadina Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "363 Adelaide Street West Toronto Ontario",
+      "latitudeCoordinate": "43.646734722",
+      "longitudeCoordinate": "-79.394730906",
+      "province": "Ontario",
+      "streetAddress": "363 Adelaide Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 101-105 Spadina Avenue and 363 Adelaide Street West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5949"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1741323600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>The City has received the following application(s) under the Planning Act:</strong></p>\n<p>&nbsp;</p>\n<p><strong>TORONTO EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 25 110349 STE 10 OZ</p>\n<p>Application to amend the Zoning By-Law to permit an 11-storey height increase to an approved mixed-use building, totaling 50-storeys with 452 dwelling units and ground floor retail.</p>\n<p>101-105 Spadina Avenue and 363 Adelaide Street West</p>\n<p>Ward 10 &ndash; Spadina-Fort York</p>\n<p>Shaylyn Costello, Planner at 416-392-6061 or <a href=\"mailto:Shaylyn.Costello@toronto.ca\">Shaylyn.Costello@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6073,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 110349 STE 10 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 101-105 Spadina Avenue and 363 Adelaide Street West",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

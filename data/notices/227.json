@@ -1,0 +1,55 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "50 King Street East Toronto Ontario",
+      "latitudeCoordinate": "43.649774666",
+      "longitudeCoordinate": "-79.3762448654",
+      "province": "Ontario",
+      "streetAddress": "50 King Street East"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1534910400000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No.1148-2018 to designate 50 King Street East (the Quebec Bank) (Toronto Centre-Rosedale, Ward 28) as being of cultural heritage value or interest.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 227,
+  "otherReferenceList": [
+    {
+      "description": "TE32.23 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act and Authority to Enter Into a Heritage Easement Agreement - 50 King Street East",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.TE32.23"
+    },
+    {
+      "description": "Bylaw 1129-2018 - To provide for the entering into of a heritage easement agreement for the conservation of the property known municipally as 50 King Street East.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law1129.pdf"
+    },
+    {
+      "description": "Bylaw 1148-2018 - To designate the property at 50 King Street East (the Quebec Bank) as being of cultural heritage value or interest.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law1148.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 50 King Street East (The Quebec Bank), City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-Law 1148-2018 - 50 King Street East (The Quebec Bank)",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

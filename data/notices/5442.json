@@ -1,0 +1,48 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "586 Eglinton Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.710896016",
+      "longitudeCoordinate": "-79.379633714",
+      "postalCode": "M4P 1P2",
+      "province": "Ontario",
+      "streetAddress": "586 Eglinton Avenue East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 586 Eglinton Avenue East",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5299"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1723780800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif;\"><strong>NOTICE OF APPLICATION(S)</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif;\"><strong>(Under the Planning Act)</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">The City has received the following application(s) under the Planning Act:</span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'times new roman', times, serif;\">NORTH YORK COMMUNITY COUNCIL</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Application Number: 24 164643 NNY 15 OZ</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Application to Amend the Official Plan to permit replacement of office gross floor area in the proposal of the related application (Number 21 219614 NNY 15 OZ) to amend the Zoning By-law to allow a 32-storey building with dwelling units, 4021 sqm of office gross floor area, and 651 sqm of commercial-retail gross floor area.</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">586 Eglinton Avenue East</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Ward 15 &ndash; Don Valley West</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">This land is also subject to applications under the Planning Act for an amendment to a Zoning By-Law (Application Number: 21 219614 NNY 15 OZ) and site plan control (Application Number: 21 237238 NNY 15 SA).</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Planner, Jason Xie at 416-338-3004 or <a href=\"mailto:Jason.Xie@toronto.ca\">Jason.Xie@toronto.ca</a></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'times new roman', times, serif;\">CONTACT INFORMATION</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">City Clerk, Attention: Registrar Secretariat</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'times new roman', times, serif;\">BACKGROUND INFORMATION</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'times new roman', times, serif;\">FURTHER INFORMATION</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</span></p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5442,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 164643 NNY 15 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 586 Eglinton Avenue East",
+  "topics": [
+    "Planning > Proposal for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

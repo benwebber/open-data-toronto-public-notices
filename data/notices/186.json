@@ -1,0 +1,53 @@
+{
+  "accessibilityDescription": "The Environment and Land Tribunals Ontario Conservation Review Board is committed to providing accessible services as set out in the Accessibility for Ontarians with Disabilities Act, 2005.  If you have any accessibility needs, please contact our Accessibility Coordinator as soon as possible.  \n\nIf you require documents in formats other than conventional print, or if you have specific accommodation needs, please let us know so we can make arrangements in advance.  Please also identify any assistance you may require in the event of an emergency evacuation.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "276 Forest Hill Road Toronto Ontario",
+      "latitudeCoordinate": "43.6998728943",
+      "longitudeCoordinate": "-79.4157822084",
+      "postalCode": "M5P 2N6",
+      "province": "Ontario",
+      "streetAddress": "276 Forest Hill Road"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Environment and Land Tribunals Ontario Conservation Review Board",
+    "country": "Canada",
+    "fax": "877-849-2066",
+    "locationName": "Environment and Land Tribunals Ontario Conservation Review Board",
+    "phone": "866-448-2248",
+    "postalCode": "M5G 1E5",
+    "province": "Ontario",
+    "streetAddress": "655 Bay Street",
+    "unit": "1500"
+  },
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Environment and Land Tribunals Ontario Conservation Review Board, 12th Floor, Hearing Room 12-3",
+      "postalCode": "M5G 1E5",
+      "province": "Ontario",
+      "startDateTime": 1522072800000,
+      "streetAddress": "655 Bay Street"
+    }
+  ],
+  "noticeDate": 1519966800000,
+  "noticeDescription": "<p>The Review Board has set aside three (3) days for this hearing.</p>\n<p>If you do not attend at the commencement of the hearing or are not represented at this hearing, the Review Board may proceed in your absence and you will not be entitled to any further notice of the proceedings.</p>\n<p><em>Pour recevoir des services en fran&ccedil;ais, veuillez communiquer avec nous au (416) 212-6349, immediatement.</em></p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 186,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "subheading": "Proceeding  commenced under subsection 29(5) of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended.",
+  "title": "Notice of Hearing - 276 Forest Hill Road (Alfred D. Morrow House)\n\n",
+  "topics": [
+    "Heritage > Conservation Review Board hearing"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

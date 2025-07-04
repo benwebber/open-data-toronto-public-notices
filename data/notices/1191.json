@@ -1,0 +1,57 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Strachan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.63489545",
+      "longitudeCoordinate": "-79.409404048",
+      "province": "Ontario",
+      "streetAddress": "2 Strachan Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 2 Strachan Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=992"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1570680000000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto on July 16, 17 and 18, 2019, having considered an application to alter a structure designated under Part IV of the Ontario Heritage Act for 2 Strachan Avenue decided, among other things, to</p>\n<p>1. Approve the alterations to the designated heritage property at 2 Strachan Avenue (Automotive Building) in accordance with Section 33 of the Ontario Heritage Act, with such alterations substantially in accordance with plans and drawings dated May 24, 2019, prepared by NORR Architects &amp; Engineers Limited, on file with the Senior Manager, Heritage Preservation Services; and the Heritage Impact Assessment (HIA), prepared by ERA Architects dated February 28, 2019 and HIA addendum dated May 24, 2019, on file with the Senior Manager, Heritage Preservation Services, all subject to and in accordance with a Conservation Plan satisfactory to the Senior Manager, Heritage Preservation Services and subject to the following&nbsp; conditions:</p>\n<p style=\"padding-left: 30px;\">a. That prior to final Site Plan Approval for the property located at 2 Strachan Avenue (Automotive Building) the owner shall:</p>\n<p style=\"padding-left: 60px;\">1. Provide a detailed Conservation Plan prepared by a qualified heritage consultant that is substantially in accordance with the conservation strategy set out in the Heritage Impact Assessment for 2 Strachan Avenue (Automotive Building), prepared by ERA Architects dated February 28, 2019, and HIA addendum dated May 24, 2019, to the satisfaction of the Senior Manager, Heritage Preservation Services;</p>\n<p style=\"padding-left: 60px;\">2. Provide final site plan drawings substantially in accordance with the approved Conservation Plan required in Recommendation 1.a.1 above to the satisfaction of the Senior Manager, Heritage Preservation Services</p>\n<p style=\"padding-left: 60px;\">3. Register an amending Heritage Easement Agreement to update Schedule \"B\" photographs on the existing Heritage Easement Agreement registered on title for 2 Strachan Avenue (Automotive Building), Instrument No. AT2012487, dated September 12, 2008.</p>\n<p style=\"padding-left: 30px;\">b. That prior to the issuance of any permit for all or any part of the property at 2 Strachan Avenue (Automotive Building), including a heritage permit or a building permit, but excluding permits for repairs and maintenance and usual and minor works for the existing heritage building as are acceptable to the Senior Manager, Heritage Preservation Services, the owner shall:</p>\n<p style=\"padding-left: 60px;\">1. Amend the existing Heritage Easement Agreement for the property at 2 Strachan Avenue (Automotive Building) in accordance with the plans and drawings dated May 24, 2019, prepared by NORR Architects &amp; Engineers Limited and on file with the Senior Manager, Heritage Preservation Services, and subject to and in accordance with the Conservation Plan required in Recommendation 1.a.1 above, all to the satisfaction of the Senior Manager, Heritage Preservation Services including registration of such amending agreement to the satisfaction of the City Solicitor, as required in Recommendation 1.a.3 above.</p>\n<p style=\"padding-left: 60px;\">2. Provide building permit drawings, including notes and specifications for the conservation and protective measures keyed to the approved Conservation Plan required in Recommendation 1.a.1 above including a description of materials and finishes, to be prepared by the project architect and a qualified heritage consultant to the satisfaction of the Senior Manager, Heritage Preservation Services;</p>\n<p style=\"padding-left: 60px;\">3. Provide a detailed Conservation Plan, prepared by a qualified heritage consultant, &nbsp;that is consistent with the conservation strategy set out in the Heritage Impact Assessment for the Automotive Building at 2 Strachan Avenue prepared by ERA Architects, dated February 28, 2019 with HIA addendum dated May 24, 2019, to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p><strong>Appeal to the Conservation Review Board</strong>:<br />The Ontario Heritage Act states that where a Council consents to an application to alter a designated property with certain terms or conditions, or refuses the application, the owner may, within thirty days after receipt of this notice, apply to the Council for a hearing before the Conservation Review Board.</p>\n<p>The owner may request a hearing before the Conservation Review Board in this matter, by writing to the City Clerk:&nbsp; Attention Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, West, Toronto, Ontario, M5H 2N2, by 4.30 p.m. on or before November 12, 2019.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1191,
+  "otherReferenceList": [
+    {
+      "description": "2019.PB7.3 - Alterations to a Designated Heritage Property and Authority to Amend a Heritage Easement Agreement - 2 Strachan Avenue - Automotive Building",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB7.3"
+    },
+    {
+      "description": "2019.TE7.26 - Alterations to a Designated Heritage Property and Authority to Amend a Heritage Easement Agreement - 2 Strachan Avenue - Automotive Building",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE7.26"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Decision - 2 Strachan Avenue",
+  "topics": [
+    "Heritage > Decision on alteration to a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

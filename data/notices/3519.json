@@ -1,0 +1,35 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "123 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6514066729",
+      "longitudeCoordinate": "-79.3831599622",
+      "postalCode": "M5H 3M9",
+      "province": "Ontario",
+      "streetAddress": "123 Queen Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Surplus Ad_123 Queen St W",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3286"
+    }
+  ],
+  "eventList": [],
+  "noticeDate": 1657857600000,
+  "noticeDescription": "<p>NOTICE is hereby given that in accordance with the City of Toronto's real estate disposal By-law, on July 7, 2022, the long-term leasehold interest in the City-owned lands at 123 Queen Street West, being the whole of PIN 21403-0005 (LT), was declared surplus. The long-term leasehold interest has a total area of approximately 12,508.56 m2 (134,641.0 ft2)/(3.091 acres) (1.25 hectares). The City proposes that the intended manner of disposal is to be by way of entering in to a ground lease amendment and extension agreement with BSREP II Hospitality Toronto GP Inc., in its capacity as general partner of BSREP II Hospitality Toronto L.P.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Mr. Mike Saffran, Tel: 416-392-7205, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the July 28th, 2022.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3519,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

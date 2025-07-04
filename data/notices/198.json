@@ -1,0 +1,36 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Election Services",
+    "country": "Canada",
+    "emailAddress": "elections@toronto.ca",
+    "fax": "416-395-1300",
+    "locationName": " Election Services Building",
+    "phone": "416-338-1111",
+    "postalCode": "M4B 3G1",
+    "province": "Ontario",
+    "streetAddress": "89 Northline Road"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1532491200000,
+  "noticeDescription": "<p>The deadline for filing or withdrawing a nomination for the office of mayor, City councillor or school board trustee for the City of Toronto&rsquo;s October 22 municipal election is Friday, July 27, at 2 p.m.</p>\n<p>Nominations filed on July 27 must be filed between 9 a.m. and 2 p.m. at the Election Services Office at Toronto City Hall, 100 Queen St. W., First floor north. Individuals filing nominations on this date must bring all required documents and identification with them and ensure the completeness of their forms. After 2 p.m. no additional nominations or withdrawals will be accepted.</p>\n<p>To run for the office of mayor, City councillor or school board trustee, an individual must be a Canadian citizen, at least 18 years of age and a resident of the City of Toronto or an owner or tenant of land in the City of Toronto (or the spouse of an owner or tenant).</p>\n<p>When filing a nomination, an individual must provide the following:</p>\n<p>1.&nbsp; a completed nomination paper.</p>\n<p>2.&nbsp; acceptable identification showing name, signature and qualifying address within the City of Toronto or school board jurisdiction.</p>\n<p>3.&nbsp; a nomination filing fee of $200 for mayor or $100 for City councillor or school board trustee.</p>\n<p>Those filing nominations for mayor or councillor must also provide 25 endorsements of nomination from eligible City of Toronto electors. Both the nomination paper and the endorsements of nomination must be completed on the prescribed forms and have original signatures. These forms and other relevant candidate information are available on the Toronto Elections website.</p>\n<p>A list of candidates is available on the Election Services&rsquo; website.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 198,
+  "otherReferenceList": [
+    {
+      "description": "Election Services Website",
+      "url": "https://www.toronto.ca/city-government/elections/"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "title": "Municipal election nominations close at 2 p.m. this Friday",
+  "topics": [
+    "Council/Elections"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-council.png"
+  ]
+}

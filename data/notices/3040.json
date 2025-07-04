@@ -1,0 +1,62 @@
+{
+  "accessibilityDescription": "Special Assistance for Members of the Public:  City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail teycc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Shaw Street & Harbord Street Toronto Ontario",
+      "latitudeCoordinate": "43.659036513",
+      "longitudeCoordinate": "-79.421884056",
+      "majorIntersection": "Shaw Street & Harbord Street",
+      "province": "Ontario"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Shaw Street & Dewson Street Toronto Ontario",
+      "latitudeCoordinate": "43.656629936",
+      "longitudeCoordinate": "-79.420955005",
+      "majorIntersection": "Shaw Street & Dewson Street",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Reduction of Permit Parking hours on Shaw Street between Harbord Street and Dewson Street\n",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2807"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1644382800000,
+  "noticeDescription": "<p>Notice is hereby given that the Toronto and East York Community Council proposes to pass a by-law to reduce the permit parking hours of operation on Shaw Street between Harbord Street and Dewson Street from 12:01 a.m. to 10:00 a.m. and 4:00 p.m. to 6:00 p.m., 7 days a week to the new hours of 12:01 a.m. to 10:00 a.m., 7 days a week and 4:00 p.m. to 6:00 p.m., Monday to Friday.</p>\n<p>&nbsp;</p>\n<p>The meeting of the Toronto and East York Community Council on February 16, 2022 at 9:30 a.m., or shortly afterwards, will be held by electronic means and the proceedings of the Toronto and East York Community Council will be conducted publicly.</p>\n<p>&nbsp;</p>\n<p>These measures are necessary to comply with public health guidelines and prevent the spread of COVID-19.</p>\n<p>&nbsp;</p>\n<p>To obtain additional information, submit comments or address the Toronto and East York Community Council meeting on February 16, 2022, please contact the following City official no later than 12:00 p.m. on February 15, 2022.</p>\n<p>&nbsp;</p>\n<p>Ellen Devlin,</p>\n<p>Administrator, Toronto and East York Community Council,</p>\n<p>City Clerk's Office</p>\n<p>Toronto City Hall, 100 Queen Street West</p>\n<p>2nd floor, West Tower</p>\n<p>Toronto, Ontario, M5H 2N2</p>\n<p>Telephone:&nbsp; 416-392-7033; Fax: 416-392-2980</p>\n<p>E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p>Notice to People Writing or Making Presentations to the Toronto and East York Community Council:&nbsp;The City of&nbsp;Toronto Act, 2006 and the City of&nbsp;Toronto Municipal Code&nbsp;authorize the City of&nbsp;Toronto to collect any personal information in your communication or presentation to City Council or its Committees and Boards. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3040,
+  "otherReferenceList": [
+    {
+      "description": "TE31.70 - Parking Amendments - Shaw Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.TE31.70"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Proposal to Reduce Permit Parking hours on Shaw Street between Harbord Street and Dewson Street",
+  "topics": [
+    "Transportation > Intention to reduce permit parking spaces or times"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

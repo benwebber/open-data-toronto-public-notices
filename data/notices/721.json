@@ -1,0 +1,58 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "721 Eastern Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6591160221",
+      "longitudeCoordinate": "-79.3306667025",
+      "postalCode": "M4M 1E6",
+      "province": "Ontario",
+      "streetAddress": "721 Eastern Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Bylaw  - 721 Eastern Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=541"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto Preservation Board",
+  "eventList": [],
+  "noticeDate": 1559707200000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 782-2019 to designate 721 Eastern Avenue (Toronto-Danforth, Ward 14) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 721,
+  "otherReferenceList": [
+    {
+      "description": "Bylaw 782-2019 - To designate the property at 721 Eastern Avenue as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0782.pdf"
+    },
+    {
+      "description": "2019.TE3.16 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act and Authority to Enter into a Heritage Easement Agreement - 721 Eastern Avenue ",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE3.16"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and  721 Eastern Avenue  City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of Bylaw - 721 Eastern Avenue",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

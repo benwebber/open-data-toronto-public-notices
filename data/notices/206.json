@@ -1,0 +1,48 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "771 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.6712008446",
+      "longitudeCoordinate": "-79.3869076125",
+      "postalCode": "M4W 2G4",
+      "province": "Ontario",
+      "streetAddress": "771 Yonge Street"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1537243200000,
+  "noticeDescription": "<p>Take notice that Toronto City Council intends to designate the lands and building known municipally as 771 Yonge Street under Part IV, Section 29 of the Ontario Heritage Act.</p>\n<p><strong>Reasons for Designation</strong></p>\n<p>The property at 771 Yonge Street is worthy of designation under Part IV, Section 29 of the Ontario Heritage Act for its cultural heritage value, and meets Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation, under all three categories of design, associative and contextual value.</p>\n<p><strong>Description</strong></p>\n<p>Located on the southeast corner of Asquith Avenue, the property at 771 Yonge Street contains a three-storey commercial building that, according to archival records, was constructed in 1872 for property owner Elizabeth French and operated as a hotel by her husband, Joseph French. Following his death, a series of hostelries occupied the property, including the Langston House and the CPR Hotel. Among the occupants in the 20th century was Boris Volkoff&rsquo;s first dance studio in Toronto. The property at 771 Yonge Street was included on the City of Toronto Inventory of Heritage Property (now known as the Heritage Register) in 1984.</p>\n<p><strong>Statement of Cultural Heritage Value</strong></p>\n<p>The property at 771 Yonge Street has cultural heritage value for its design as an important surviving example in Yorkville of a late 1800s commercial building with the symmetry and gable roof retained from the Georgian style linked to first-generation commercial edifices in Toronto. Its late-19th century vintage is apparent in the scale and elaborate corbelled brickwork along the Yonge Street elevation.</p>\n<p>French&rsquo;s Hotel is valued for its historical association with the Village of Yorkville (1853-1883), which was an independent municipality prior to its annexation by the City of Toronto. The subject building was part of the commercial district along Yonge Street that served the brickyards, breweries and related industries that formed the basis of the community. As a hotel in operation for more than 40 years, French&rsquo;s Hotel was one of a selection of hostelries located near the key intersection of Yonge and Bloor streets where a tollgate once adjoined the boundary between Toronto and Yorkville.</p>\n<p>The property at 771 Yonge Street is also valued as the location of the first dance studio in Toronto opened by the famed Russian-born dancer, choreographer, director and teacher, Boris Volkoff (1900-1974), who was revered as the &ldquo;father of Canadian ballet.&rdquo; With premises at 771 Yonge from 1930 to 1945 and while training innumerable dancers, Volkoff founded the Volkoff Canadian Ballet as the forerunner to a professional ballet company in Canada, and worked on co-productions with the Toronto Opera Company (forerunner of today&rsquo;s Canadian Opera Company).</p>\n<p>Contextually, French&rsquo;s Hotel contributes to the character of Yonge Street, north of Bloor Street, where it reflects the evolution of the area in the late 19th century as it evolved from an incorporated village to a city neighbourhood along the important corridor known as Toronto&rsquo;s &ldquo;Main Street.&rdquo; French&rsquo;s Hotel is also historically, visually and physically linked to its surrounding on Yonge Street where it anchors the southeast corner of Asquith Avenue and, with the contiguous row of late-19th century commercial buildings on the west side of the street between Cumberland Street and Yorkville Avenue, marks the east entry into the commercial centre of the former Village of Yorkville.</p>\n<p><strong>Heritage Attributes</strong></p>\n<p>The heritage attributes of the commercial building at 771 Yonge Street are:</p>\n<p>1.&nbsp; The placement, setback and orientation of the building on the southeast corner of Yonge Street and Asquith Avenue</p>\n<p>2.&nbsp; The scale, form and massing of the three-storey building with the rectangular-shaped plan</p>\n<p>3.&nbsp; The gable roof with the parapets with brackets (north and south) and, along the west end, the corbelled brickwork with the dentils and the band courses (the brick end chimneys have been removed)</p>\n<p>4.&nbsp; The materials, with the brick cladding and the brick and stone detailing (the red brickwork has been painted)</p>\n<p>5.&nbsp; The principal (west) elevation where, above the first-floor storefront (which has been altered) the symmetrically-arranged segmental-arched window openings with the stone sills and the brick flat arches</p>\n<p>6.&nbsp; The north side elevation on Asquith Avenue, with the symmetrically-placed segmental-arched window openings in the upper stories with the brick and stone detailing (on the north and south elevations, the window openings in the attic level have been bricked in)<br />Note: the south side elevation adjoins the neighbouring building. The rear (east) wall and the two-storey east wings are not identified as heritage attributes.</p>\n<p>Notice of an objection to the proposed designation may be served on the City Clerk, Attention: Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, Toronto, Ontario, M5H 2N2, within thirty days of September 18, 2018, which is October 18, 2018. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 206,
+  "otherReferenceList": [
+    {
+      "description": "TE29.13 - Alterations to a Designated Heritage Property, Intention to Designate under Part IV, Section 29 of the Ontario Act and Authority to Enter into a Heritage Easement Agreement - 771 Yonge Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.TE29.13"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act,  R.S.O. 1990, Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Intention to Designate - 771 Yonge Street",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

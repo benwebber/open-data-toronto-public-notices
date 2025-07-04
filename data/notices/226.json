@@ -1,0 +1,55 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "276 Forest Hill Road Toronto Ontario",
+      "latitudeCoordinate": "43.6998728943",
+      "longitudeCoordinate": "-79.4157822084",
+      "province": "Ontario",
+      "streetAddress": "276 Forest Hill Road"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1534910400000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No.785-2018 to designate 276 Forest Hill Road (Alfred D. Morrow House) (St. Paul&rsquo;s, Ward 22) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 226,
+  "otherReferenceList": [
+    {
+      "description": "CC41.11 - 276 Forest Hill Road - Conservation Review Board Appeal - Designation under Part IV of the Ontario Heritage Act",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.CC41.11"
+    },
+    {
+      "description": "TE20.12 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 276 Forest Hill Road",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2016.TE20.12"
+    },
+    {
+      "description": "Bylaw 785-2018 - To designate the property at 276 Forest Hill Road (Alfred D. Morrow House) as being of cultural heritage value or interest.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0785.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 785-2018 - 276 Forest Hill Road (Alfred D. Morrow House)",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

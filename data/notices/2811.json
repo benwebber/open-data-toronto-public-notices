@@ -1,0 +1,56 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10 Dawes Road Toronto Ontario",
+      "latitudeCoordinate": "43.6878722816",
+      "longitudeCoordinate": "-79.297207835",
+      "postalCode": "M4C 5A7",
+      "province": "Ontario",
+      "streetAddress": "10 Dawes Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "18 Dawes Road Toronto Ontario",
+      "latitudeCoordinate": "43.688328271",
+      "longitudeCoordinate": "-79.297225385",
+      "postalCode": "M4C 5A7",
+      "province": "Ontario",
+      "streetAddress": "18 Dawes Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Properties",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2621"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Mike Saffran",
+    "country": "Canada",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-7205",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1636693200000,
+  "noticeDescription": "<p>NOTICE is hereby given that in accordance with the City of Toronto's real estate disposal&nbsp;By-law, on November 5, 2021, a portion of Guest Avenue adjacent to 10 and 18 Dawes Road, shown as Part 2 on the Property Survey Sketch No. PS-2021-0023, conditional on City Council approving the permanent closure of a portion of the public highway subject to the reservation of any required easements, was declared surplus. The public highway has a total area of approximately 344.2 m2 (3,704.94 ft2 ). The City proposes that the intended manner of disposal is to be by way of an invitation of an offer to purchase the public highway from the adjacent owners at 10-30 Dawes Road.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Mr. Mike Saffran, Tel: 416-392-7205, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the November 24th, 2021.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2811,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Properties ",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "13 Barberry Place Toronto Ontario",
+      "latitudeCoordinate": "43.766646326",
+      "longitudeCoordinate": "-79.384266793",
+      "postalCode": "M2K 1G9",
+      "province": "Ontario",
+      "streetAddress": "13 Barberry Place"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Property - 13 Barberry Place",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3643"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Myron Menezes",
+    "country": "Canada",
+    "locationName": "Metro Hall",
+    "phone": "416-338-3586",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street",
+    "unit": "2nd floor"
+  },
+  "eventList": [],
+  "noticeDate": 1677214800000,
+  "noticeDescription": "<p><strong>NOTICE</strong> is hereby given that in accordance with the City of Toronto's real estate disposal By-law, on February 15, 2023, a portion of the City-owned land located at 13 Barberry Place, legally described as a portion of PIN 10090-0046(LT), being part of Part Lot 1, Plan 4797, North York, Part 2, Expropriation Plan AT4797618, City of Toronto, was declared surplus. The property has a total area of approximately 215.4 m2 (2,318.55 ft2).&nbsp; The City proposes to invite an offer to purchase part of the subject land from the adjacent owner.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Mr. Myron Menezes, Tel: 416-338-3586, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the March 10th, 2023.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3876,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "NOTICE is hereby given that in accordance with the City of Toronto's real estate disposal By-law, on February 15, 2023, a portion of the City-owned land located at 13 Barberry Place",
+  "title": "Declaration of Surplus Property - 13 Barberry Place",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

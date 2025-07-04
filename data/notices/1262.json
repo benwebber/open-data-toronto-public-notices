@@ -1,0 +1,58 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "52 Boswell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6723949896",
+      "longitudeCoordinate": "-79.3980289284",
+      "postalCode": "M5R 1M4",
+      "province": "Ontario",
+      "streetAddress": "52 Boswell Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 52 Boswell Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1082"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1572321600000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto on October 2 and 3, 2019, having considered an application to alter a structure designated under Part V of the Ontario Heritage Act for 52 Boswell Avenue, decided among other things, to:</p>\n<p>1. Approve the alterations to the heritage building at 52 Boswell Avenue, in accordance with Section 42 of the Ontario Heritage Act, with such alterations substantially in accordance with the plans prepared by Farrow Partners Inc., dated March 5, 2019 (Toronto Local Appeal Body drawings regarding roof terrace); June 6, 2019 (Preliminary Project Review application drawings) and July 4, 2019 (Landscape plan), and on file with the Senior Manager, Heritage Preservation Services, and subject to the following conditions:</p>\n<p style=\"padding-left: 30px;\">a.&nbsp;Prior to the issuance of any heritage permit for the property at 52 Boswell Avenue, but excluding permits for interior work, repairs and maintenance and usual and minor works for the existing heritage building as are acceptable to the Senior Manager, Heritage Preservation Services, the applicant provide the following to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 30px;\">b. The landscape plan hereby approved shall be implemented within one year of the substantial completion of the development hereby approved or such longer period as is acceptable to the Senior Manager, Heritage Preservation Services. Any trees removed, dying, being severely damaged or becoming diseased within two years of planting shall be replaced with trees of similar size and species to those originally required to be planted.</p>\n<p style=\"padding-left: 30px;\">c. The car lift shall remain in its below-grade location at all times apart from when in use for moving a vehicle to the below grade garage and when needed above ground for maintenance purposes.&nbsp;</p>\n<p><strong>Notice of Appeal</strong></p>\n<p>The Ontario Heritage Act states that if the council refuses the permit applied for or gives the permit with terms and conditions attached the owner of the property may appeal the council decision to the Local Planning Appeal Tribunal.</p>\n<p>The owner of the property who wishes to appeal the decision of the council shall, within 30 days of the day the owner received notice of the Council&rsquo;s decision, give notice of appeal to the Local Planning Appeal Tribunal and to the Clerk of the municipality, Attention: Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd Floor West, Toronto, Ontario, M2H 2N2. Notice of appeal must be received on or before November 28, 2019.</p>\n<p>A notice of appeal shall set out the reasons for objection to the decision of the Council of the municipality and be accompanied by the fee prescribed ($300.00) under the Local Planning Appeal Act.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1262,
+  "otherReferenceList": [
+    {
+      "description": "2019.PB8.3 - Alterations to a Property Designated under Part V of the Ontario Heritage Act - 52 Boswell Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB8.3"
+    },
+    {
+      "description": "2019.TE8.18 - Alterations to a Property Designated under Part V of the Ontario Heritage Act - 52 Boswell Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE8.18"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990, Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Decision - 52 Boswell Avenue",
+  "topics": [
+    "Heritage > Decision on alteration to a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

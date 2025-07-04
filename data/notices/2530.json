@@ -1,0 +1,48 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "76 Eldon Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6925079027",
+      "longitudeCoordinate": "-79.2926728282",
+      "postalCode": "M4C 5G3",
+      "province": "Ontario",
+      "streetAddress": "76 Eldon Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2377"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1625803200000,
+  "noticeDescription": "<p>Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.</p>\n<p>A Bill for the benefitting property listed below has been submitted for the meeting of City Council being held on July 14 and 15, 2021. <a title=\"To authorize the imposition of special charges on 76 Eldon Avenue (the &quot;benefitting property&quot;). \" href=\"http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2021.CC35\" target=\"_blank\" rel=\"noopener\">Review Bill details</a>.</p>\n<p>The Bill imposes a special charge on the benefitting property as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a title=\"2013.EX33.22 - Proposed Energy and Water Efficiency Initiative for the Residential Sector\" href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22\" target=\"_blank\" rel=\"noopener\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a title=\"By-law 1105-2013 - To authorize the undertaking of energy efficiency and water conservation works on private residential property as local improvements under the Residential Retrofit Program\" href=\"https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\" target=\"_blank\" rel=\"noopener\">By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>The benefitting property is:</p>\n<p style=\"padding-left: 40px;\">-&nbsp; &nbsp;76 Eldon Avenue</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2530,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "City's Residential Retrofit Program ",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

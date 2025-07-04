@@ -1,0 +1,77 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "50 Eglinton Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.706582857",
+      "longitudeCoordinate": "-79.400667522",
+      "province": "Ontario",
+      "streetAddress": "50 Eglinton Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "90 Eglinton Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.706442574",
+      "longitudeCoordinate": "-79.401169086",
+      "postalCode": "M4R 2E4",
+      "province": "Ontario",
+      "streetAddress": "90 Eglinton Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "17 Henning Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.706638923",
+      "longitudeCoordinate": "-79.401344058",
+      "postalCode": "M4R 1X6",
+      "province": "Ontario",
+      "streetAddress": "17 Henning Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Henning Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.706656427",
+      "longitudeCoordinate": "-79.401401926",
+      "postalCode": "M4R 1X6",
+      "province": "Ontario",
+      "streetAddress": "19 Henning Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application Under the Planning Act - 50-90 Eglinton Avenue West and 17-19 Henning Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5061"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1716523200000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: left;\">The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 24 135591 NNY 08 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-law to increase the permitted height and density from the approved heights of 35 and 37-storeys, to 46 and 58-storeys.</p>\n<p>50-90 Eglinton Avenue West and 17-19 Henning Avenue</p>\n<p>Ward 8 &ndash; Eglinton-Lawrence</p>\n<p>This land is also subject to an application under the Planning Act for site plan approval (File Number: 20 126681 NNY 08 SA)</p>\n<p>Angela Zhao, Planner at 416-338-8083 or <a href=\"mailto:Angela.Zhao@toronto.ca\">Angela.Zhao@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5224,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 135591 NNY 08 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application Under the Planning Act - 50-90 Eglinton Avenue West and 17-19 Henning Avenue",
+  "topics": [
+    "Planning"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

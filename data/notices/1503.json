@@ -1,0 +1,64 @@
+{
+  "accessibilityDescription": "Special assistance for members of the public: City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-396-7287, TTY 416-338-0889 or e-mail scc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "940 Progress Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.784027819",
+      "longitudeCoordinate": "-79.2330905249",
+      "postalCode": "M1G 3T5",
+      "province": "Ontario",
+      "streetAddress": "940 Progress Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of a Proposal to Pass a By-law to Permanently Close an Untraveled Portion of Progress Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1325"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Scarborough Community Council",
+    "country": "Canada",
+    "emailAddress": "scc@toronto.ca",
+    "fax": "416-396-4301",
+    "locationName": "Scarborough Civic Centre",
+    "phone": "416-396-7287",
+    "postalCode": "M1P 4N7",
+    "province": "Ontario",
+    "streetAddress": "150 Borough Drive"
+  },
+  "decisionBody": "Scarborough Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Council Chamber, Scarborough Civic Centre",
+      "postalCode": "M1P 4N7",
+      "province": "Ontario",
+      "startDateTime": 1580913000000,
+      "streetAddress": "150 Borough Drive"
+    }
+  ],
+  "noticeDate": 1579582800000,
+  "noticeDescription": "<p>At its meeting to be held in the Scarborough Civic Centre on February 5, 2020, commencing at 9:30 a.m., the Scarborough Community Council will hear in person or by his or her counsel, agent or solicitor, any person who wishes to speak to this matter.</p>\n<p>To view a copy of the proposed by-law and plans to close the public highway, obtain additional information, submit comments or address the Scarborough Community Council meeting on February 5, 2020, please contact the Scarborough Community Council at the number below no later than 12:00 p.m. on February 4, 2020.</p>\n<p style=\"padding-left: 30px;\">Scarborough Community Council</p>\n<p style=\"padding-left: 30px;\">City Clerk's Office</p>\n<p style=\"padding-left: 30px;\">Scarborough Civic Centre, 3rd Floor,</p>\n<p style=\"padding-left: 30px;\">150 Borough Drive,</p>\n<p style=\"padding-left: 30px;\">Toronto, Ontario. M1P 4N7</p>\n<p style=\"padding-left: 30px;\">Telephone: 416-396-7287; Facsimile: 416-396-4301</p>\n<p style=\"padding-left: 30px;\">E-mail: <a href=\"mailto:scc@toronto.ca\">scc@toronto.ca</a> </p>\n<p><strong>Notice to people writing or making a presentation to the Scarborough Community Council</strong>: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>The City videotapes committee and community council meetings. If you make a presentation to a committee or community council, the City will be videotaping you and City staff may make the video tapes available to the public.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, Scarborough Civic Centre, 150 Borough Drive, Toronto Ontario M1P 4N7 or call 416-396-7287.</p>\n<p>This notice shall also constitute notice to the public of the proposed public highway closure in accordance with the requirements of the Municipal Class Environmental Assessment for Schedule A+ activities.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1503,
+  "otherReferenceList": [
+    {
+      "description": "2020.SC13.17 - Permanent Closure of the Untraveled Portion of Progress Avenue Abutting the North Limit of 940 Progress Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.SC13.17"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Notice of a Proposal to Pass a By-law to Permanently Close an Untraveled Portion of Progress Avenue Abutting the North Limit of 940 Progress Avenue to Incorporate into the Future Expansion of the Centennial College – Progress Campus, Scarborough.",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

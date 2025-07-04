@@ -1,0 +1,51 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1413 Kingston Road Toronto Ontario",
+      "latitudeCoordinate": "43.6868320232",
+      "longitudeCoordinate": "-79.2719076872",
+      "province": "Ontario",
+      "streetAddress": "1413 Kingston Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1417 Kingston Road Toronto Ontario",
+      "latitudeCoordinate": "43.6869636201",
+      "longitudeCoordinate": "-79.2716937205",
+      "province": "Ontario",
+      "streetAddress": "1417 Kingston Road"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Melanie Hale-Carter",
+    "country": "Canada",
+    "emailAddress": "Melanie.Hale-Carter@toronto.ca",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-1227",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1525838400000,
+  "noticeDescription": "<p>1.&nbsp; On April 11, 2018, a portion of Dowry Street (formerly Station St) Plan 3666 Scarborough Lying NE of Part 5 64R10799; 1 Foot Reserve Plan 3666 Scarborough Abutting East Limit of Dowry St., Plan 3666; Being Dowry St; S/T Debts in SC625164, shown as Parts 1 on Sketch No. PS-2017-107, conditional upon City Council approving the permanent closure of the said portion of Dowry Street and subject to the reservation of an easement for operation and management of Toronto Water infrastructure and all other required easements. The portion of land has a total area of approximately 306.6 m&sup2;&plusmn; (3,000 ft&sup2;&plusmn;). The City proposes to invite an offer to purchase the subject lands from Metrolinx.<br /><br /></p>\n<p>2.&nbsp; On April 18, 2018, remnant parcel that forms a part of the Agincourt GO Station ramp,<br />Part Lot 28, Concession 3, Scarborough; Part 15, Expropriation Plan 8759 (SC419077), shown as Part 5 on Reference Plan 66R-28869. The remnant parcel has a total area of approximately 89.9 m&sup2;&plusmn; (967.68 ft&sup2;&plusmn;). The City proposes to invite an offer to purchase the subject lands from Metrolinx.<br /><br /></p>\n<p>3.&nbsp; On May 1, 2018, the public lane at the rear of 1413 to 1417 Kingston Road, south of Kingston Road and west of Haig Avenue, legally described as Lane Plan 914 abutting Lots 1, 2 &amp; 7 Plan 914 and shown as Part 1 Sketch No. PS-2017-058, conditional on City Council approving the permanent closure of the public lane. The lane has a total area of approximately 107.4 m&sup2;&plusmn; (1,156.1 ft&sup2;&plusmn;). The City proposes to invite an offer to purchase the the public lane from the adjoining owners at 1413 to 1417 Kingston Road.</p>\n<p>The following City official has information about the proposed dispositions: Mrs. Melanie Hale-Carter, Tel: 416-392-1227, Fax: 416-392-1880, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 23rd of May, 2018.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 220,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Notice is hereby given that in accordance with the City of Toronto’s real estate disposal by-law, the following properties were declared surplus:",
+  "title": "Declaration of Multiple Surplus Properties\n\n",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

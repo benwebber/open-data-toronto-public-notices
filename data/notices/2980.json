@@ -1,0 +1,76 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "520 Delaware Avenue North Toronto Ontario",
+      "latitudeCoordinate": "43.6714924022",
+      "longitudeCoordinate": "-79.4325534979",
+      "postalCode": "M6H 2V2",
+      "province": "Ontario",
+      "streetAddress": "520 Delaware Avenue North"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "616 Soudan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7088329163",
+      "longitudeCoordinate": "-79.3768743585",
+      "postalCode": "M4S 1X6",
+      "province": "Ontario",
+      "streetAddress": "616 Soudan Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice_City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2747"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1640322000000,
+  "noticeDescription": "<p>Individual By-laws for each of the benefitting properties listed below have been enacted for the meeting of City Council held on December 15, 16 and 17, 2021. Review By-law details (<a href=\"http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2021.CC38\">http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2021.CC38</a>).</p>\n<p>Each of these By-laws imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013 and enacted in By-law 1105-2013 (July 19, 2013).</p>\n<p>The benefitting properties are:</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 520 Delaware Avenue</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 616 Soudan Avenue</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2980,
+  "otherReferenceList": [
+    {
+      "description": "By-law 1035-2021 - To authorize the imposition of special charges on 520 Delaware Avenue.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2021/law1035.pdf"
+    },
+    {
+      "description": "By-law 1036-2021 - To authorize the imposition of special charges on 616 Soudan Avenue",
+      "url": "http://www.toronto.ca/legdocs/bylaws/2021/law1036.pdf"
+    },
+    {
+      "description": "2013.EX33.22 - Proposed Energy and Water Efficiency Initiative for the Residential Sector",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22"
+    },
+    {
+      "description": "City Council By-law Index",
+      "url": "http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2021.CC38"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.",
+  "title": "City's Residential Retrofit Program ",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

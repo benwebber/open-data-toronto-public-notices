@@ -1,0 +1,60 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "425 Cherry Street Toronto Ontario",
+      "latitudeCoordinate": "43.652106399",
+      "longitudeCoordinate": "-79.35743473",
+      "province": "Ontario",
+      "streetAddress": "425 Cherry Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law 636-2021 - 425 Cherry Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2481"
+    }
+  ],
+  "contact": {
+    "city": "Toronto ",
+    "contactName": "Toronto Preservation Board",
+    "country": "Canada",
+    "emailAddress": "hertpb@toronto.ca",
+    "locationName": "2nd floor, West Tower, City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario ",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1630296000000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 636-2021 to designate the property at 425 Cherry Street (Ward 13 Toronto Centre) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2633,
+  "otherReferenceList": [
+    {
+      "description": "2021.PB23.4 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, Alterations to a Heritage Property and Authority to Enter into a Heritage Easement Agreement - 425 Cherry Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.PB23.4"
+    },
+    {
+      "description": "2021.TE24.13 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, Alterations to a Heritage Property and Authority to Enter into a Heritage Easement Agreement - 425 Cherry Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.TE24.13"
+    },
+    {
+      "description": "By-law 636-2021 - To designate the property at 425 Cherry Street as being of cultural heritage value or interest.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2021/law0636.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 425 Cherry Street City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 636-2021 - 425 Cherry Street ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

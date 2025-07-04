@@ -1,0 +1,62 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "923 Oxford Street Toronto Ontario",
+      "latitudeCoordinate": "43.6189258397",
+      "longitudeCoordinate": "-79.517016811",
+      "province": "Ontario",
+      "streetAddress": "923 Oxford Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Proposal to Amend the City of Toronto Municipal Code: Chapter 694, Signs, General (the \"Sign By-law\") in an Area-Specific amendment at 923 Oxford Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=516"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Planning and Housing Committee",
+    "country": "Canada",
+    "emailAddress": "phc@toronto.ca",
+    "fax": "416-392-1879",
+    "locationName": "Toronto City Hall",
+    "phone": "416-338-5089",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Planning and Housing Committee",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Committee Room One, Toronto City Hall",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1559050200000,
+      "streetAddress": "100 Queen Street West"
+    }
+  ],
+  "noticeDate": 1558065600000,
+  "noticeDescription": "<p>Notice is given that the Chief Building Official and Executive Director, Toronto Building, is reporting on a proposed amendment to Municipal Code Chapter 694, Signs, General (the \"Sign By-law\"), to amend the Sign By-law to allow for, and regulate, the display of one third party electronic ground sign at the premises municipally known as 923 Oxford Street.&nbsp;</p>\n<p>The proposed amendment seeks to:</p>\n<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Add an area-specific amendment to the Sign By-law for the premises municipally known as 923 Oxford Street to allow, in addition to the signage otherwise permitted on the premises, the erection and display of the following sign:</p>\n<p style=\"padding-left: 30px;\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One third party electronic ground sign containing one sign face, facing in a westerly direction, containing electronic static copy and measuring 14.63 metres horizontally by 4.27 metres vertically, with a total sign face area of 62.5 square metres; and, a height (highest point of the sign measured from grade) of 13.72 metres, which:</p>\n<p style=\"padding-left: 60px;\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advertises, promotes, or directs attention to businesses, goods, services, matters or activities that are not available at or related to the premises where the sign is located;</p>\n<p style=\"padding-left: 60px;\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Has an initial sign permit expiry term of ten years from the date of issuance, and is null and void on its expiry date; and,</p>\n<p style=\"padding-left: 60px;\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Will be illuminated 24 hours per day.</p>\n<p><strong>The Chief Building Official and Executive Director, Toronto Building, is recommending that the Council of the City of Toronto refuse to add the area-specific amendment to the Sign By-law for 923 Oxford Street.</strong></p>\n<p>The Planning and Housing Committee may recommend that the Council of the City of Toronto amend the Sign By-law, to amend Schedule B, Signage Master Plans and Area Specific Amendments, to add a new area specific amendment to Schedule B, Signage Master Plans and Area Specific Amendments, to allow 923 Oxford Street to contain, in addition to the signs otherwise permitted, the third party electronic ground sign.</p>\n<p>At its meeting to be held in Toronto City Hall, Committee Room 1, on May 28, 2019 commencing at 10:30 a.m., or as soon as possible thereafter, the Planning and Housing Committee of Toronto City Council will hear in person or by his or her counsel, agent or solicitor, any person who wishes to speak to the matter.</p>\n<p>To obtain or view a copy of the report outlining the proposed amendments, you may view the Planning and Housing Committee <a title=\"Area-Specific Amendment to the Sign Bylaw: 923 Oxford Street\" href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PH6.7\" target=\"_blank\" rel=\"noopener\">agenda item PH6.7</a>, as of May 21, 2019.&nbsp; To submit comments or make a presentation to the Planning and Housing Committee on May 28, 2019 please contact the Committee no later than 12:00 p.m. on May 27, 2019:</p>\n<p style=\"padding-left: 30px;\">Planning and Housing Committee</p>\n<p style=\"padding-left: 30px;\">Toronto City Hall, 100 Queen Street West</p>\n<p style=\"padding-left: 30px;\">10th Floor, West Tower</p>\n<p style=\"padding-left: 30px;\">Toronto, ON M5H 2N2</p>\n<p style=\"padding-left: 30px;\">Telephone: 416 397-4579</p>\n<p style=\"padding-left: 30px;\">E-mail: <a href=\"mailto:phc@toronto.ca\">phc@toronto.ca</a></p>\n<p>To ask questions regarding the content of the report, contact:</p>\n<p style=\"padding-left: 30px;\">Robert Bader</p>\n<p style=\"padding-left: 30px;\">Supervisor, Sign By-law Unit, Toronto Building</p>\n<p style=\"padding-left: 30px;\">Toronto City Hall, 100 Queen Street West</p>\n<p style=\"padding-left: 30px;\">Ground Floor, East Tower</p>\n<p style=\"padding-left: 30px;\">Toronto ON M5H 2N2</p>\n<p style=\"padding-left: 30px;\">Telephone: 416-392-4113&nbsp; <br />Ted Van Vliet</p>\n<p style=\"padding-left: 30px;\">Manager, Sign By-law Unit, Toronto Building</p>\n<p style=\"padding-left: 30px;\">Toronto City Hall, 100 Queen Street West</p>\n<p style=\"padding-left: 30px;\">Ground Floor, East Tower</p>\n<p style=\"padding-left: 30px;\">Toronto ON M5H 2N2</p>\n<p style=\"padding-left: 30px;\">Telephone: 416-392-4235</p>\n<p>Any comments received after the Committee meeting will be forwarded to Council.</p>\n<p>If this matter is postponed at the Committee meeting or Council meeting, or considered at a subsequent Committee or Council meeting, no additional notice will be provided other than the information on the subsequent Committee or Council agenda.&nbsp; Please contact the above City officials if you require notice in these cases.</p>\n<p><strong>Notice to people writing or making presentations at the Planning and Housing Committee</strong>:&nbsp; The City of Toronto Act, 2006, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s).&nbsp; If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website.&nbsp; The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public.</p>\n<p>Many Committee, Board and Advisory Body meetings are broadcast live over the internet for the public to view.&nbsp; If you speak at the meeting you will appear in the video broadcast.&nbsp; Video broadcasts are archived and continue to be publicly available.</p>\n<p>Questions about the collection of this information may be directed to the City Clerk&rsquo;s Office at 416-397-4579.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 712,
+  "otherReferenceList": [
+    {
+      "description": "2019.PH6.7 - Area-Specific Amendment to the Sign Bylaw: 923 Oxford Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PH6.7"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Notice of Proposal to Amend the City of Toronto Municipal Code: Chapter 694, Signs, General (the \"Sign By-law\") in an Area-Specific Amendment at 923 Oxford Street",
+  "topics": [
+    "Licensing > Proposal to amend the Municipal Code"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-license.png"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2110 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.70275561155813",
+      "longitudeCoordinate": "-79.39816873303691",
+      "postalCode": "M4S 2A5",
+      "province": "Ontario",
+      "streetAddress": "2110 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2104 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.70264866950545",
+      "longitudeCoordinate": "-79.39809128506911",
+      "postalCode": "M4S 2A5",
+      "province": "Ontario",
+      "streetAddress": "2104 Yonge Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Surplus Ad - 2104 Yonge St",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1852"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Real Estate Services",
+    "country": "Canada",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-338-9572",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1608181200000,
+  "noticeDescription": "<p>NOTICE is given that in accordance with the City&rsquo;s real estate disposal by-law, on December 10, 2020, a portion of the public lane, with stratified portions located at the rear of 2104-2110 Yonge Street, legally described as Part of Lane on Plan 585E Toronto; Being Lane Between Hillsdale Avenue West &amp; Manor Road West, designated as Part 3 on 66R-27137, shown as Parts 3 and 8 on the attached draft reference plan, were declared surplus, conditional upon City Council approving the permanent closure of the said lane. The public lane has a total area of approximately 451 m2 &plusmn; (4,854.5 ft2 &plusmn;).&nbsp; The City proposes to invite an offer to purchase part of the subject lane from the adjacent owner.</p>\n<p>The following City official has information about the proposed disposition: Mrs. Trixy Pugh, Tel: 416-392-8160, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the December 31st, 2020.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2025,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, Interim City Clerk",
+  "title": "Declaration of Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

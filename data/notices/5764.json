@@ -1,0 +1,181 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "13 Lothian Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.64458177",
+      "longitudeCoordinate": "-79.5206715784",
+      "postalCode": "M8Z 4J9",
+      "province": "Ontario",
+      "streetAddress": "13 Lothian Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "100 Wanless Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.727576717",
+      "longitudeCoordinate": "-79.398425257",
+      "postalCode": "M4N 1V9",
+      "province": "Ontario",
+      "streetAddress": "100 Wanless Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "101 Fermanagh Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6464145344",
+      "longitudeCoordinate": "-79.4476232873",
+      "postalCode": "M6R 1M1",
+      "province": "Ontario",
+      "streetAddress": "101 Fermanagh Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "123 Colonel Danforth Trail Toronto Ontario",
+      "latitudeCoordinate": "43.7772693878",
+      "longitudeCoordinate": "-79.1596702859",
+      "postalCode": "M1C 1P8",
+      "province": "Ontario",
+      "streetAddress": "123 Colonel Danforth Trail"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "207 Drewry Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7846825444",
+      "longitudeCoordinate": "-79.427015149",
+      "postalCode": "M2M 1E3",
+      "province": "Ontario",
+      "streetAddress": "207 Drewry Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "210 Ashdale Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.670730442",
+      "longitudeCoordinate": "-79.321444547",
+      "postalCode": "M4L 2Y9",
+      "province": "Ontario",
+      "streetAddress": "210 Ashdale Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "226 Maplewood Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6854991299",
+      "longitudeCoordinate": "-79.4283660899",
+      "postalCode": "M6C 1K2",
+      "province": "Ontario",
+      "streetAddress": "226 Maplewood Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "245 Annette Street Toronto Ontario",
+      "latitudeCoordinate": "43.662300405",
+      "longitudeCoordinate": "-79.471285418",
+      "postalCode": "M6P 1R2",
+      "province": "Ontario",
+      "streetAddress": "245 Annette Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "260 Carlton Street Toronto Ontario",
+      "latitudeCoordinate": "43.664821367",
+      "longitudeCoordinate": "-79.367250254",
+      "postalCode": "M5A 2L3",
+      "province": "Ontario",
+      "streetAddress": "260 Carlton Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "267 Major Street Toronto Ontario",
+      "latitudeCoordinate": "43.665387929",
+      "longitudeCoordinate": "-79.405644281",
+      "postalCode": "M5S 2L5",
+      "province": "Ontario",
+      "streetAddress": "267 Major Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "304 Springdale Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.6891291228",
+      "longitudeCoordinate": "-79.3178328094",
+      "postalCode": "M4C 2A2",
+      "province": "Ontario",
+      "streetAddress": "304 Springdale Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "347 Rouge Highlands Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7925514747",
+      "longitudeCoordinate": "-79.1384792898",
+      "postalCode": "M1C 2V5",
+      "province": "Ontario",
+      "streetAddress": "347 Rouge Highlands Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1095 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6504513752",
+      "longitudeCoordinate": "-79.5387853939",
+      "postalCode": "M9B 3M3",
+      "province": "Ontario",
+      "streetAddress": "1095 Kipling Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5640"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-8485",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1733202000000,
+  "noticeDescription": "<p><strong>City's Residential Retrofit Program</strong></p>\n<p>&nbsp;</p>\n<p><strong>PUBLIC NOTICE</strong></p>\n<p>&nbsp;</p>\n<p><strong>Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.</strong></p>\n<p>&nbsp;</p>\n<p>Individual by-laws for each of the benefitting properties listed below have been enacted for the meeting of City Council held on November 13 and 14, 2024. Review by-law details (<a href=\"https://secure.toronto.ca/council/bill-bylaw.do?meeting=2024.CC23\">https://secure.toronto.ca/council/bill-bylaw.do?meeting=2024.CC23</a>).</p>\n<p>&nbsp;</p>\n<p>Each of these by-laws imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a href=\"https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>&nbsp;</p>\n<p>The benefitting properties are:</p>\n<ul>\n<li>13 Lothian Avenue</li>\n<li>100 Wanless Avenue</li>\n<li>101 Fermanagh Avenue</li>\n<li>123 Colonel Danforth Trail</li>\n<li>207 Drewry Avenue</li>\n<li>210 Ashdale Avenue</li>\n<li>226 Maplewood Avenue</li>\n<li>245 Annette Street</li>\n<li>260 Carlton Street</li>\n<li>267 Major Street</li>\n<li>304 Springdale Boulevard</li>\n<li>347 Rouge Highlands Drive</li>\n<li>1095 Kipling Avenue</li>\n</ul>\n<p><strong>For More Information Contact</strong></p>\n<p>City Council<br /><a href=\"mailto:councilmeeting@toronto.ca\">councilmeeting@toronto.ca</a><br />Phone: 416-392-8485<br />Fax: 416-392-2980</p>\n<p>&nbsp;</p>\n<p>Toronto City Hall<br />100 Queen Street<br />Toronto, Ontario<br />M5H 2N2<br />Canada</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5764,
+  "otherReferenceList": [
+    {
+      "description": "By-law Index November 13,14, 2024",
+      "url": "https://secure.toronto.ca/council/bill-bylaw.do?meeting=2024.CC23"
+    },
+    {
+      "description": "Item - 2013.EX33.22",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22"
+    },
+    {
+      "description": "BY-LAW No. 1105-2013 - To authorize the undertaking of energy efficiency and water conservation works on private residential property as local improvements under the Residential Retrofit Program",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "City's Residential Retrofit Program ",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

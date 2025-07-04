@@ -1,0 +1,48 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "450 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.645183039",
+      "longitudeCoordinate": "-79.430121318",
+      "postalCode": "M6K 2A5",
+      "province": "Ontario",
+      "streetAddress": "450 Dufferin Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 450 Dufferin Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5548"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1731042000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO EAST YORK COMMUNITY COUNCIL</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 24 218914 STE 09 OZ</p>\n<p>Application to Amend the Official Plan to permit a 18-storey mixed-use development containing 364 square metres of employment uses, including 175 purpose-built residential rental units above.</p>\n<p>450 Dufferin Street</p>\n<p>Ward 9 &ndash; Davenport</p>\n<p>This land is also subject to an application under the Planning Act for an amendment to a zoning by-law Application Number: 22 236510 STE 09 OZ</p>\n<p>Doris Ho, Planner at 416-338-1264 or <a href=\"mailto:Doris.Ho@toronto.ca\">Doris.Ho@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5693,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 218914 STE 09 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 450 Dufferin Street",
+  "topics": [
+    "Planning > Proposal for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

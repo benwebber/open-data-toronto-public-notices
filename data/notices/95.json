@@ -1,0 +1,172 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "836 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.6714299523",
+      "longitudeCoordinate": "-79.3874922905",
+      "postalCode": "M4W 2H1",
+      "province": "Ontario",
+      "streetAddress": "836 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "838 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.6714826589",
+      "longitudeCoordinate": "-79.3875143077",
+      "postalCode": "M4W 2H1",
+      "province": "Ontario",
+      "streetAddress": "838 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "840 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.6715356461",
+      "longitudeCoordinate": "-79.387537986",
+      "postalCode": "M4W 2H1",
+      "province": "Ontario",
+      "streetAddress": "840 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "842 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.6715794799",
+      "longitudeCoordinate": "-79.3875353654",
+      "postalCode": "M4W 2H1",
+      "province": "Ontario",
+      "streetAddress": "842 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "844 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.6716414594",
+      "longitudeCoordinate": "-79.3875773934",
+      "postalCode": "M4W 2H1",
+      "province": "Ontario",
+      "streetAddress": "844 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "846 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.6716865883",
+      "longitudeCoordinate": "-79.3875823109",
+      "postalCode": "M4W 2H1",
+      "province": "Ontario",
+      "streetAddress": "846 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "848 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.6717226466",
+      "longitudeCoordinate": "-79.3875901332",
+      "postalCode": "M4W 2H1",
+      "province": "Ontario",
+      "streetAddress": "848 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "850 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.6717738072",
+      "longitudeCoordinate": "-79.3877351345",
+      "postalCode": "M4W 2H1",
+      "province": "Ontario",
+      "streetAddress": "850 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Yorkville Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6717423957",
+      "longitudeCoordinate": "-79.3878027761",
+      "postalCode": "M4W 1L1",
+      "province": "Ontario",
+      "streetAddress": "1 Yorkville Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3 Yorkville Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6716916191",
+      "longitudeCoordinate": "-79.3878304581",
+      "postalCode": "M4W 1L1",
+      "province": "Ontario",
+      "streetAddress": "3 Yorkville Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Yorkville Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6716086503",
+      "longitudeCoordinate": "-79.3880214561",
+      "postalCode": "M4W 1L1",
+      "province": "Ontario",
+      "streetAddress": "5 Yorkville Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Yorkville Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6717303592",
+      "longitudeCoordinate": "-79.3878843212",
+      "postalCode": "M4W 1L1",
+      "province": "Ontario",
+      "streetAddress": "7 Yorkville Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Yorkville Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6717053553",
+      "longitudeCoordinate": "-79.3879969424",
+      "postalCode": "M4W 1L1",
+      "province": "Ontario",
+      "streetAddress": "9 Yorkville Avenue"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1520913600000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 1405-2017 to designate 836-850 Yonge Street and 1-9 Yorkville Avenue (Toronto Centre-Rosedale, Ward 27) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 95,
+  "otherReferenceList": [
+    {
+      "description": "TE5.5 - Alterations to Heritage Properties, Intention to Designate Under Part IV, Section 29 of the Ontario Heritage Act and Authority to Enter Into Heritage Easement Agreements - 836-850 Yonge Street and 1-9 Yorkville Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2015.TE5.5"
+    },
+    {
+      "description": "By-law 1405-2017 - To designate the properties at 836-850 Yonge Street and 1-9 Yorkville Avenue as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2017/law1405.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act  R.S.O. 1990 Chapter 0.18 and  City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 1405-2017 - 836-850 Yonge Street and 1-9 Yorkville Avenue",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 St Nicholas Street Toronto Ontario",
+      "latitudeCoordinate": "43.665175644",
+      "longitudeCoordinate": "-79.385336126",
+      "postalCode": "M4Y 1W5",
+      "province": "Ontario",
+      "streetAddress": "7 St Nicholas Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Designate - 7 St. Nicholas Street ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1224"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1575867600000,
+  "noticeDescription": "<p>Take notice that Toronto City Council intends to designate the lands and building known municipally as 7 St. Nicholas Street under Part IV, Section 29 of the Ontario Heritage Act.</p>\n<p><strong>Reasons for Designation</strong></p>\n<p>The property at 7 St. Nicholas Street, is worthy of designation under Part IV, Section 29 of the Ontario Heritage Act for its cultural heritage value, and meets Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation under all three categories of design, associative and contextual value.</p>\n<p><strong>Description</strong></p>\n<p>Located on the east side of St. Nicholas Street between Wellesley Street West and St. Joseph Street, the property at 7 St. Nicholas Street, contains a three-storey, brick building, constructed as stables and storage in 1907 by William Wilson in association with his livery business. In 1974, within a year of the establishment of the City's Heritage Inventory, the property, as an entry address for 586 Yonge Street, was included on the inventory. It has been identified as contributing to the Historic Yonge Heritage Conservation District (HCD) which was approved for designation under Part V of the Ontario Heritage Act by City Council in 2016 which is currently under appeal.</p>\n<p><strong>Statement of Cultural Heritage Value</strong></p>\n<p>The William Wilson Livery Stable building has physical value as a representative of an early 20th century storage-stable facility building with its characteristic features evident in the brick construction and large second and third floor openings with the remnant of a hoist fixture for the delivery and storage of goods.</p>\n<p>The property is valued for its historical association with the late 19th century development of the Yonge Street as it emerged as an urban commercial and residential neighbourhood which has been identified within the Historic Yonge HCD. The building contributes to an understanding of the history of the development of Yonge Street as businesses as they evolved and expanded over time. It is also associated with the 1960s urban revitalization of the downtown and adaptive re-use of historic structures by the innovative counter-culture. The property is also valued for its association with Don Cullen and the establishment from 1960-1966 of the Bohemian Embassy, one of Toronto's earliest coffee-houses which was culturally significant as it provided a venue for emerging literary, comedic and musical artists, now legendary Canadian icons, including Margaret Atwood, Don Cullen, Gordon Lightfoot, Lorne Michaels, Mordecai Richler and Ian and Sylvia Tyson.</p>\n<p>Located on the east side of St. Nicholas Street, the former 1907 stables and storage building has value as it defines and maintains the historic character of the laneway which ran behind and parallel to the main street, Yonge Street. Along with the former Rawlinson storage buildings to the north at 9-29 St. Nicholas Street and the two-story stables building to the south at 5 St. Nicholas Street, these buildings, maintain the historic character of the laneway as it was lined with late 19th and early 20th century warehouses. Along with the 1870s residential row houses at 10-16 Wellesley Street and the 1870s-early 1900s commercial buildings on Yonge Street including 586 Yonge, the former 1907 stables and storage building has value as it supports the historic mix of properties that characterized the block bound by Wellesley Street West, Yonge, St. Nicholas and St. Joseph streets and it is historically, functionally, physically and visually linked to its surroundings and contributes to the cultural heritage value of the Historic Yonge HCD.</p>\n<p><strong>Heritage Attributes</strong></p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The heritage attributes of the building at 7 St. Nicholas Street are:</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The placement and orientation of the building on its property at the north-west corner of Yonge and Elm street</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The scale, form and massing of the three-storey block rectangular livery block with a flat roof</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The materials which include brick cladding</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The design of the principal (west) elevation facing St. Nicholas Street with the central large openings at the second and third floor levels, for the delivery of goods flanked by two smaller window openings. These pairs of openings are small square apertures on the second floor and long rectangular openings on the third floor level</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The remnant of a hoist above the large central openings which was used for the delivery of hay</p>\n<p>Notice of an objection to the proposed designation may be served on the City Clerk, Attention:&nbsp; Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, Toronto, Ontario, M5H 2N2, within thirty days of December 9, 2019, which is January 8, 2020. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1404,
+  "otherReferenceList": [
+    {
+      "description": "2019.CC10.9 - 10-16 Wellesley Street West, 5-7 St. Nicholas Street, and 586 Yonge Street - Request for Directions",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.CC10.9"
+    },
+    {
+      "description": "2018.TE30.9 - 10-16 Wellesley Street West, 5-7 St. Nicholas Street and 586 Yonge Street - Zoning Amendment - Refusal Report",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.TE30.9"
+    },
+    {
+      "description": "2019.PB9.4 - Request for Directions regarding 10-16 Wellesley Street West, 5-7 St. Nicholas Street, and 586 Yonge Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB9.4"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Intention to Designate - 7 St. Nicholas Street ",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

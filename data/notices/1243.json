@@ -1,0 +1,45 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "44 Marshlynn Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.70497951078674",
+      "longitudeCoordinate": "-79.50062907209849",
+      "province": "Ontario",
+      "streetAddress": "44 Marshlynn Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Properties",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1066"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Real Estate Services",
+    "country": "Canada",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-1227",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1572408000000,
+  "noticeDescription": "<p>NOTICE is given that in accordance with the City&rsquo;s real estate disposal by-law, on October 22, 2019, the green space located at 44 Marshlynn Avenue, being Part of Block A, Plan 2525 and Part of Block B, Plan M-849, and legally described as Parcel 17638 Section West York; Block B on Municipal Plan M849 North York, save and except Parts 1, 2, 3 and 4 on 66R-14428; and shown as Part 1 on Drawing No. 2811-6SK, was declared surplus. The green space has a total area of approximately 56 m2 &plusmn; (603 ft2 &plusmn;). The City proposes to invite an offer to purchase the subject land from the owner of 1780 Lawrence Avenue West by way of a land exchange that will result in a portion of land of equal size and utility being conveyed to the City.</p>\n<p>The following City official has information about the proposed disposition: Mr. Avery Carr, Tel: 416-338-3250, Fax: 416-392-1880, Metro Hall, 55 John Street, 2nd Floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the November 14th, 2019.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1243,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Declaration of Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

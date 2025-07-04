@@ -1,0 +1,61 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Gloucester Street Toronto Ontario",
+      "latitudeCoordinate": "43.666509487",
+      "longitudeCoordinate": "-79.384607039",
+      "postalCode": "M4Y 1L8",
+      "province": "Ontario",
+      "streetAddress": "7 Gloucester Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Gloucester Street Toronto Ontario",
+      "latitudeCoordinate": "43.666542723",
+      "longitudeCoordinate": "-79.384564979",
+      "postalCode": "M4Y 1L8",
+      "province": "Ontario",
+      "streetAddress": "9 Gloucester Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Gloucester Street Toronto Ontario",
+      "latitudeCoordinate": "43.666543371",
+      "longitudeCoordinate": "-79.384456991",
+      "postalCode": "M4Y 1L8",
+      "province": "Ontario",
+      "streetAddress": "11 Gloucester Street"
+    }
+  ],
+  "backgroundInformationList": [],
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1520913600000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 1401-2017 to designate 7, 9 and 11 Gloucester Street (Hugh Matheson Houses) (Toronto Centre-Rosedale, Ward 27) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 93,
+  "otherReferenceList": [
+    {
+      "description": "TE34.45 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 7-11 Gloucester Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2014.TE34.45"
+    },
+    {
+      "description": "By-law 1401-2017 - To designate the property at 7, 9 and 11 Gloucester Street (Hugh Matheson Houses) as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2017/law1401.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act  R.S.O. 1990, Chapter 0.18 and  City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 1401-2017 - 7, 9 and 11 Gloucester Street (Hugh Matheson Houses)",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

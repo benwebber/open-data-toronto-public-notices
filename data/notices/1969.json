@@ -1,0 +1,65 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "25 Bellevue Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6537755303",
+      "longitudeCoordinate": "-79.4028840192",
+      "postalCode": "M5T 2N5",
+      "province": "Ontario",
+      "streetAddress": "25 Bellevue Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Spadina Avenue & Adelaide Street West Toronto Ontario",
+      "latitudeCoordinate": "43.646740586",
+      "longitudeCoordinate": "-79.395570794",
+      "majorIntersection": "Spadina Avenue & Adelaide Street West",
+      "province": "Ontario"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "71 Front Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6454689872",
+      "longitudeCoordinate": "-79.3805510244",
+      "postalCode": "M5J 1E6",
+      "province": "Ontario",
+      "streetAddress": "71 Front Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Properties",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1796"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Real Estate Services",
+    "country": "Canada",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-338-9572",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1606280400000,
+  "noticeDescription": "<p>NOTICE is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal by-law, the following properties were declared surplus:</p>\n<p>1. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On July 28 and 29, 2020, the City-owned property at 25 Bellevue Avenue in Kensington Market, currently operated by the Toronto Parking Authority as Carpark 71 was declared surplus, with the intended manner of disposal to be way of a long-term lease to a non-profit organization to be selected through a competitive process for affordable housing purposes.</p>\n<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On November 3, 2020, the land located at 105 Spadina Avenue and 363 Adelaide Street West, being Part of Lot 7 and Lot 8 on Plan D160 and Part of Lots, 5, 7, 26 and 29, Lots 6, 27 and 28 on Plan D160, was declared surplus. The land has an area of approximately 1,245.4 sq. m.&nbsp; The intended manner of disposal is to be by way of the invitation of an offer to purchase the property from the abutting owner(s) of 101 Spadina Avenue, for incorporation into a new mixed-use development which will include a TPA underground public parking facility and a new City park.</p>\n<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On November 12, 2020, two heritage freight elevator shafts located at Union Station at 71 Front Street West, legally described as Part of Lot 9 on D-970 and Part of Lot 4 on Plan 12164, being Part of PIN 21395-0019 (LT) and part of PIN 21396-&shy;&shy;0141(LT), respectively, and designated as Parts 1 and&nbsp; 2 on attached Plan 66R-31515, were declared surplus.&nbsp; The intended manner of disposal is to be by way of an invitation of an offer to purchase the Elevator Shafts from Metrolinx.</p>\n<p>The following City official has information about the proposed dispositions: Ms. Melanie Hale-Carter, Tel: 647-458-7376, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 9th of December, 2020.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1969,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, Interim City Clerk",
+  "title": "Declaration of Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

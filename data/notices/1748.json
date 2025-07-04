@@ -1,0 +1,62 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "150 Laird Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7087085302",
+      "longitudeCoordinate": "-79.3631556512",
+      "postalCode": "M4G 3V7",
+      "province": "Ontario",
+      "streetAddress": "150 Laird Drive"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law - 150 Laird Drive ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1576"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "fax": "416-395-7337",
+    "locationName": "North York Civic Centre",
+    "phone": "416-395-7337",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1597291200000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 332-2020 to designate 150 Laird Drive (Don Valley West, Ward 15) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1748,
+  "otherReferenceList": [
+    {
+      "description": "By-law 332-2020 - To designate the property at 150 Laird Drive as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2020/law0332.pdf"
+    },
+    {
+      "description": "2015.NY10.16 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 150 Laird Drive",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2015.NY10.16"
+    },
+    {
+      "description": "2015.PB9.6 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 150 Laird Drive",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2015.PB9.6"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 150 Laird Drive, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law - 150 Laird Drive ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

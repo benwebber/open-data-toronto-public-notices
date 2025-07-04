@@ -1,0 +1,62 @@
+{
+  "accessibilityDescription": "City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-394-8101, TTY 416-338-0889 or e-mail etcc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "4208 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6609764379",
+      "longitudeCoordinate": "-79.5124493234",
+      "province": "Ontario",
+      "streetAddress": "4208 Dundas Street West"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke York Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "locationName": "Etobicoke Civic Centre",
+    "phone": "416-392-8016",
+    "postalCode": "M9C 2Y2",
+    "province": "Ontario",
+    "streetAddress": "399 The West Mall"
+  },
+  "decisionBody": "Etobicoke York Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Etobicoke Civic Centre, Council Chambers",
+      "postalCode": "M9C 2Y2",
+      "province": "Ontario",
+      "startDateTime": 1522848600000,
+      "streetAddress": "399 The West Mall"
+    }
+  ],
+  "noticeDate": 1521604800000,
+  "noticeDescription": "<p>Notice is given that the City of Toronto will consider whether to pass a by-law to authorize the naming of a proposed private highway in the Etobicoke York Community Council Area.</p>\n<p>To consider a proposal to name the proposed private highway at 4208-4212 Dundas Street West as &ldquo;Brin Drive&rdquo;.<br />The plan showing the lands to be affected may be seen in the City Clerk&rsquo;s Office, Secretariat, Etobicoke Civic Centre, 399 The West Mall, between the hours of 8:30 a.m. and 4:30 p.m. Monday to Friday. At its meeting to be held in the Council Chambers, Etobicoke Civic Centre, 399 The West Mall on April 4, 2018, at 9:30 a.m., or shortly afterwards, the Etobicoke York Community Council will hear in person or by his or her counsel, agent or solicitor, any person who claims that his or her lands will be prejudicially affected by the naming and who applies to be heard with respect to the proposed naming.</p>\n<p>Notice to People writing or making presentations to the Etobicoke York Community Council: The personal information contained in your correspondence to Toronto City Council or its committees is collected under the City of Toronto Act, 2006, and the City of Toronto Municipal Code Chapter 27 &ndash; Council Procedures, section 27-21. Any personal information will become part of the public record and may be posted on the City&rsquo;s website, unless you expressly request the removal of personal identity information. Questions about the collection of this information may be directed to the City Clerk&rsquo;s office at 416-394-8101.</p>\n<p>The City videotapes committee and community council meetings. If you make a presentation to a committee or community council, the City will be videotaping you and City staff may make the video tapes available to the public.<br />To obtain additional information, submit comments or address the Etobicoke York Community Council meeting on April 4, 2018, please contact the following City official no later than 4:30 p.m. on April 3, 2018.</p>\n<p style=\"padding-left: 30px;\">Ms. Rosemary MacKenzie<br />Administrator, Etobicoke York Community Council<br />City Clerk&rsquo;s Office<br />Etobicoke Civic Centre<br />399 The West Mall<br />Toronto, Ontario M9V 2Y2<br />Telephone: 416-394-8101; Fax: 416-394-5600<br />E-mail: <a href=\"mail%20to:\">etcc@toronto.ca</a></p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 67,
+  "otherReferenceList": [
+    {
+      "description": "EY29.27 - Naming of a Proposed Private Street at 4208-4212 Dundas Street West",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.EY29.27"
+    },
+    {
+      "description": "By-law 375-2018 - To authorize the naming of a proposed private street located at 4208-4212 Dundas Street West as Brin Drive",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0357.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Notice of meeting to consider the naming of the proposed private highway at 4208-4212 Dundas Street West as “Brin Drive”.",
+  "title": "Notice of Naming of a Public Lane - Brin Drive",
+  "topics": [
+    "Transportation > Intention to name a road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "276 Lauder Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6820529863",
+      "longitudeCoordinate": "-79.4414144848",
+      "postalCode": "M6E 3H6",
+      "province": "Ontario",
+      "streetAddress": "276 Lauder Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "756 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.664299994",
+      "longitudeCoordinate": "-79.411241573",
+      "postalCode": "M5S 2R6",
+      "province": "Ontario",
+      "streetAddress": "756 Bathurst Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Sale AD_276 Lauder Av _756 Bathurst St",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3455"
+    }
+  ],
+  "contact": {
+    "contactName": "Pavlina Stockova",
+    "emailAddress": "Pavlina.Stockova@toronto.ca"
+  },
+  "eventList": [],
+  "noticeDate": 1667275200000,
+  "noticeDescription": "<p>NOTICE is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal by-law, the following properties were declared surplus:</p>\n<p>&nbsp;</p>\n<p>1. On October 18, 2022, the City-owned parcel located at the rear of 276 Lauder Avenue, shown as Part 1 on the Property Survey Sketch No. PS-2022-019, was declared surplus. The parcel has a total area of approximately 51.0 m2 (549.0 ft2). The City proposes that the intended manner of disposal is to be by way of an invitation of an offer to purchase the parcel from the owner at 276 Lauder Avenue.</p>\n<p>&nbsp;</p>\n<p>2. On October 27, 2022 the City-owned parcel located at 756 Bathurst Street, shown as PT LT 61 PL 93 TORONTO AS IN CA775041; City of Toronto, being all of PIN 212540283, was declared surplus. The City proposes that the intended manner of disposal for this parcel to be by way of long-term lease to Blackhurst Cultural Centre for use as a cultural community centre and bookstore.</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>The following City official has information about the proposed dispositions: Mr. Owen Bartley, Tel: 416-338-1297, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the November 15, 2022.</p>\n<p>&nbsp;</p>\n<p>Dated this 1st day of November, 2022.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3687,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

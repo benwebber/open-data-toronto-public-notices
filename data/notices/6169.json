@@ -1,0 +1,59 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "123 Parkway Forest Drive Toronto Ontario",
+      "latitudeCoordinate": "43.77555918",
+      "longitudeCoordinate": "-79.341742159",
+      "postalCode": "M2J 0G1",
+      "province": "Ontario",
+      "streetAddress": "123 Parkway Forest Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "123A Parkway Forest Drive Toronto Ontario",
+      "latitudeCoordinate": "43.774802035",
+      "longitudeCoordinate": "-79.341766486",
+      "postalCode": "M2J 1L8",
+      "province": "Ontario",
+      "streetAddress": "123A Parkway Forest Drive"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 123 and 123A Parkway Forest Drive",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6070"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1743739200000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 21 195222 NNY 17 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-law proposes to permit the redevelopment of the lands at 123 and 123A Parkway Forest Drive with a 33-storey residential apartment building with 384 rental units, as well as 61 vehicular parking spaces (45 residential parking spaces and 16 visitor parking spaces) and 300 bicycle parking spaces.</p>\n<p>123 and 123A Parkway Forest Drive</p>\n<p>Ward 17 &ndash; Don Valley North</p>\n<p>Leila Mirriahi, Planner at 416-338-1327 or <a href=\"mailto:Leila.Mirriahi@toronto.ca\">Leila.Mirriahi@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6169,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "21 195222 NNY 17 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 123 and 123A Parkway Forest Drive",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment",
+    "Planning > Proposal for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

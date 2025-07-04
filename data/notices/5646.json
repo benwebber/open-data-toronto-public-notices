@@ -1,0 +1,45 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "26 Millwood Road Toronto Ontario",
+      "latitudeCoordinate": "43.699673742",
+      "longitudeCoordinate": "-79.396090316",
+      "postalCode": "M4S 1J7",
+      "province": "Ontario",
+      "streetAddress": "26 Millwood Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Designate - 26 Millwood Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5503"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1729742400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>IN THE MATTER OF THE ONTARIO HERITAGE ACT</strong></p>\n<p style=\"text-align: center;\"><strong>R.S.O. 1990, CHAPTER O.18 AND</strong></p>\n<p style=\"text-align: center;\"><strong>CITY OF TORONTO, PROVINCE OF ONTARIO</strong></p>\n<p style=\"text-align: center;\"><strong>26 MILLWOOD ROAD</strong></p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>DEEMED WITHDRAWAL OF NOTICE OF INTENTION TO DESIGNATE THE PROPERTY</strong></span></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that as Council for the City of Toronto did not pass the designating by-law, the notice of intention designate the property, including the lands, buildings and structures thereon, known municipally as 26 Millwood Road under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest is deemed withdrawn in accordance with subsection 29(9) of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended,.</p>\n<p>&nbsp;</p>\n<p>This notice is being served to the Owner of the Property, the Ontario Heritage Trust, and any Objectors and Interested Persons.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5646,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Deemed Withdrawal of Notice of Intention to Designate - 26 Millwood Road",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

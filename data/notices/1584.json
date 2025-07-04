@@ -1,0 +1,92 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "447 Adelaide Street West Toronto Ontario",
+      "latitudeCoordinate": "43.645835283",
+      "longitudeCoordinate": "-79.399093244",
+      "postalCode": "M5V 1T1",
+      "province": "Ontario",
+      "streetAddress": "447 Adelaide Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "449 Adelaide Street West Toronto Ontario",
+      "latitudeCoordinate": "43.645824521",
+      "longitudeCoordinate": "-79.399145893",
+      "postalCode": "M5V 1T1",
+      "province": "Ontario",
+      "streetAddress": "449 Adelaide Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "451 Adelaide Street West Toronto Ontario",
+      "latitudeCoordinate": "43.64581659",
+      "longitudeCoordinate": "-79.399203608",
+      "postalCode": "M5V 1T1",
+      "province": "Ontario",
+      "streetAddress": "451 Adelaide Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "453 Adelaide Street West Toronto Ontario",
+      "latitudeCoordinate": "43.645805878",
+      "longitudeCoordinate": "-79.399250755",
+      "postalCode": "M5V 1T1",
+      "province": "Ontario",
+      "streetAddress": "453 Adelaide Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law - 447-453 Adelaide Street West ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1412"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1583211600000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 115-2020 to designate 447-453 Adelaide Street West (Spadina-Fort York, Ward 10) as being of cultural heritage value or interest.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1584,
+  "otherReferenceList": [
+    {
+      "description": "2019.PB12.5 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 445, 447, 449 and 451 Adelaide Street West",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB12.5"
+    },
+    {
+      "description": "2019.TE11.7 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 445, 447, 449, 451 and 453 Adelaide Street West",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE11.7"
+    },
+    {
+      "description": "By-law 115-2020 - To designate the property at 447-453 Adelaide Street West as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2020/law0115.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 447-453 Adelaide Street West, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law - 447-453 Adelaide Street West ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

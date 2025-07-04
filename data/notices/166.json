@@ -1,0 +1,62 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1783 Bayview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.710418692",
+      "longitudeCoordinate": "-79.376695142",
+      "postalCode": "M4G 3C5",
+      "province": "Ontario",
+      "streetAddress": "1783 Bayview Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1785 Bayview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.710444508",
+      "longitudeCoordinate": "-79.376568911",
+      "postalCode": "M4G 3C5",
+      "province": "Ontario",
+      "streetAddress": "1785 Bayview Avenue"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "locationName": "North York Civic Centre",
+    "phone": "416-395-7337",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1529294400000,
+  "noticeDescription": "<p>Notice of Intention to Designate</p>\n<p>Take notice that Toronto City Council intends to designate the lands and building known municipally as 1783-1785 Bayview Avenue under Part IV, Section 29 of the Ontario Heritage Act.</p>\n<p>Reasons for Designation</p>\n<p>The property at 1783-1785 Bayview Avenue is worthy of designation under Part IV, Section 29 of the Ontario Heritage Act for its cultural heritage value, and meets Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation under all three categories of design, associative and contextual value.</p>\n<p>Description</p>\n<p>The property at 1783-1785 Bayview Avenue contains a four-unit, two-storey brick and stone-clad apartment building, which is the most northern property in a unique set of ten properties of similar design, owned and developed by Henry H. Talbot, builder and Mayor of Leaside (1938-1947) and designed by the architect W. Breden Galbraith on the east side of Bayview Avenue north of Parkhurst Boulevard and south of Eglinton Avenue East. Metrolinx declared it a Provincial Heritage Property on June 8, 2016.</p>\n<p>Statement of Cultural Heritage Value</p>\n<p>Constructed in 1936-37, the four-unit apartment building with a single entrance at 1783-1785 Bayview Avenue has design value as a representative example of a Tudor Revival variation on the Arts and Crafts, the style associated with the Garden Suburb aesthetic, featuring, paired bay windows with stone bases, a row of four double hung sash windows and a front door with a Tudor arch stone surround with a keystone and quoins. The design value of this property is amplified by its being one of the same four-unit apartment building typology with a variety of styles associated with the Arts and Crafts Style, constructed as a set on the east side of Bayview Avenue.</p>\n<p>The property is valued for its association with the Leaside Garden Suburb developed in 1912 by the Canadian National Railway and designed by the landscape architect Frederick Todd Gage. It contributes to an understanding of the development and growth of Leaside in the 1930s which integrated a variety of housing typologies addressing various income levels and household types. It demonstrates the variety of the work undertaken by Henry H. Talbot, a locally-based builder and Mayor of Leaside (1938-1947) and it reflects the work and ideas of the well-known residential designer W. Breden Galbraith.</p>\n<p>Contextually, the property at 1783-1785 Bayview Avenue is important in defining and maintaining the consistent character created with the other nine, adjacent, four-unit apartment buildings. Their 1930s period detail, reflecting the Arts and Crafts influence, contributes to and maintains the overall character of the Leaside Garden Suburb. The four-unit apartment buildings maintain not only the period and architectural quality of scale and style but they also contribute to a distinctive social quality in Leaside&rsquo;s planning and built form which provided a wide range of housing typologies.</p>\n<p>Heritage Attributes</p>\n<p>The heritage attributes of the building at 1783-1785 Bayview Avenue are:</p>\n<p>&bull; The setback, placement and orientation of the building on the east side of Bayview Avenue between Parkhurst Boulevard and Eglinton Avenue East<br />&bull; The scale, form and massing of the hipped roof, two-storey, four-unit apartment block built on a rectangular plan with two projecting bay windows with hipped roofs flanking a central entrance on the principal (west) elevation<br />&bull; The cladding of the principal (west) elevation with its variegated red brick, the stone cladding of the bays which extends up to the first floor windows<br />&bull; Material details include the stone belt courses which double as window sills, stone trim around the door, vertical brick headers over the first floor windows and wood trim beneath the broad, over-hanging eaves of the roof over the second floor windows<br />&bull; The windows on the principal (west) elevation with the bay windows at both levels featuring a row of four double-hung sash with four vertical lights over a single light, two windows in the sides of the bays and the central second storey double hung sash with six lights over one.<br />&bull; The single main entrance with its wide Tudor arch with stone quoins and a keystone framing a glazed door with a pointed head and sidelights<br />&bull; The cladding of variegated red brick on the side and rear elevations (north and south and east respectively) and the rusticated concrete block at the raised basement level</p>\n<p>Notice of an objection to the proposed designation may be served on the City Clerk, Attention: Francine Adamo, Administrator, North York Community Council, North York Civic Centre, Main floor, 5100 Yonge Street, Toronto, Ontario M2N 5V7, within thirty days of June 18, 2018, which is July 18, 2018. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 166,
+  "otherReferenceList": [
+    {
+      "description": "NY30.6 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 1783-1785 Bayview Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.NY30.6"
+    },
+    {
+      "description": "Bylaw 224-2019 - To designate the property at 1783-1785 Bayview Avenue as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0224.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act  R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Intention to Designate - 1783-1785 Bayview Avenue",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

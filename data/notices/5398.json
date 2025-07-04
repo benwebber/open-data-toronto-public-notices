@@ -1,0 +1,62 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "54 Brownlow Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.706967856",
+      "longitudeCoordinate": "-79.391353184",
+      "postalCode": "M4S 2K7",
+      "province": "Ontario",
+      "streetAddress": "54 Brownlow Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "70 Brownlow Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.707315678",
+      "longitudeCoordinate": "-79.391488575",
+      "postalCode": "M4S 2K7",
+      "province": "Ontario",
+      "streetAddress": "70 Brownlow Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 54-70 Brownlow Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5242"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1721361600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif;\"><strong>NOTICE OF APPLICATION(S)</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif;\"><strong>(Under the Planning Act)</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">The City has received the following application(s) under the Planning Act:</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Application Number: 24 163313 STE 12</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Zoning By-law Amendment application to permit the redevelopment of the subject site with a 59-storey residential tower, inclusive of a five-storey base building.</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">54-70 Brownlow Avenue</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Ward 12 &ndash; Toronto-St. Paul's</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Senior Planner, Patrick Miller at 416-338-3002 or <a href=\"mailto:Patrick.Miller@toronto.ca\">Patrick.Miller@toronto.ca</a></span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'times new roman', times, serif;\">CONTACT INFORMATION</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">City Clerk, Attention: Registrar Secretariat</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'times new roman', times, serif;\">BACKGROUND INFORMATION</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'times new roman', times, serif;\">FURTHER INFORMATION</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</span></p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5398,
+  "otherReferenceList": [
+    {
+      "description": "Application Information Centre",
+      "url": "www.toronto.ca/city-government/planning-development/application-information-centre/"
+    }
+  ],
+  "planningApplicationNumbers": [
+    "24 163313 STE 12 "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 54-70 Brownlow Avenue",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

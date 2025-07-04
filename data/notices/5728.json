@@ -1,0 +1,312 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Cole Street Toronto Ontario",
+      "latitudeCoordinate": "43.660060085",
+      "longitudeCoordinate": "-79.365911022",
+      "postalCode": "M5A 4M2",
+      "province": "Ontario",
+      "streetAddress": "1 Cole Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "25 Cole Street Toronto Ontario",
+      "latitudeCoordinate": "43.6602278863",
+      "longitudeCoordinate": "-79.3649687078",
+      "postalCode": "M5A 4M3",
+      "province": "Ontario",
+      "streetAddress": "25 Cole Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "12 Cole Street Toronto Ontario",
+      "latitudeCoordinate": "43.660378194",
+      "longitudeCoordinate": "-79.36563097",
+      "postalCode": "M5A 0A3",
+      "province": "Ontario",
+      "streetAddress": "12 Cole Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "40 Cole Street Toronto Ontario",
+      "latitudeCoordinate": "43.660534207",
+      "longitudeCoordinate": "-79.364956825",
+      "postalCode": "M5A 0A3",
+      "province": "Ontario",
+      "streetAddress": "40 Cole Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "42 Cole Street Toronto Ontario",
+      "latitudeCoordinate": "43.66063689",
+      "longitudeCoordinate": "-79.364608646",
+      "postalCode": "M5A 0A8",
+      "province": "Ontario",
+      "streetAddress": "42 Cole Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "70 Cole Street Toronto Ontario",
+      "latitudeCoordinate": "43.660839109",
+      "longitudeCoordinate": "-79.363686728",
+      "postalCode": "M5A 0A8",
+      "province": "Ontario",
+      "streetAddress": "70 Cole Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "30 Dreamers Way Toronto Ontario",
+      "latitudeCoordinate": "43.661938668",
+      "longitudeCoordinate": "-79.366108017",
+      "province": "Ontario",
+      "streetAddress": "30 Dreamers Way"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "25 Nicholas Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.659635099",
+      "longitudeCoordinate": "-79.358144058",
+      "postalCode": "M5A 0M9",
+      "province": "Ontario",
+      "streetAddress": "25 Nicholas Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55 Nicholas Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.660249133",
+      "longitudeCoordinate": "-79.358331625",
+      "postalCode": "M5A 0S3",
+      "province": "Ontario",
+      "streetAddress": "55 Nicholas Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Oak Street Toronto Ontario",
+      "latitudeCoordinate": "43.7078113638",
+      "longitudeCoordinate": "-79.5323084064",
+      "postalCode": "M5A 0A2",
+      "province": "Ontario",
+      "streetAddress": "7 Oak Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "35 Oak Street Toronto Ontario",
+      "latitudeCoordinate": "43.660885738",
+      "longitudeCoordinate": "-79.365085067",
+      "postalCode": "M5A 0A2",
+      "province": "Ontario",
+      "streetAddress": "35 Oak Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Peaceful Way Toronto Ontario",
+      "latitudeCoordinate": "43.657777265",
+      "longitudeCoordinate": "-79.362695203",
+      "postalCode": "M5A 0M3",
+      "province": "Ontario",
+      "streetAddress": "7 Peaceful Way"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Peaceful Way Toronto Ontario",
+      "latitudeCoordinate": "43.657846933",
+      "longitudeCoordinate": "-79.362715976",
+      "postalCode": "M5A 0M3",
+      "province": "Ontario",
+      "streetAddress": "9 Peaceful Way"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55 Regent Park Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.659517168",
+      "longitudeCoordinate": "-79.36111351",
+      "postalCode": "M5A 0C2",
+      "province": "Ontario",
+      "streetAddress": "55 Regent Park Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "154 Sackville Street Toronto Ontario",
+      "latitudeCoordinate": "43.657862852",
+      "longitudeCoordinate": "-79.362276465",
+      "postalCode": "M5A 0M3",
+      "province": "Ontario",
+      "streetAddress": "154 Sackville Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "156 Sackville Street Toronto Ontario",
+      "latitudeCoordinate": "43.657932529",
+      "longitudeCoordinate": "-79.362304218",
+      "postalCode": "M5A 0M3",
+      "province": "Ontario",
+      "streetAddress": "156 Sackville Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "200 Sackville Street Toronto Ontario",
+      "latitudeCoordinate": "43.659096522",
+      "longitudeCoordinate": "-79.362901531",
+      "postalCode": "M5A 0C4",
+      "province": "Ontario",
+      "streetAddress": "200 Sackville Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "225 Sackville Street Toronto Ontario",
+      "latitudeCoordinate": "43.65975544",
+      "longitudeCoordinate": "-79.362650382",
+      "postalCode": "M5A 0B9",
+      "province": "Ontario",
+      "streetAddress": "225 Sackville Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "260 Sackville Street Toronto Ontario",
+      "latitudeCoordinate": "43.661018652",
+      "longitudeCoordinate": "-79.363590691",
+      "postalCode": "M5A 0B3",
+      "province": "Ontario",
+      "streetAddress": "260 Sackville Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "378 Shuter Street Toronto Ontario",
+      "latitudeCoordinate": "43.657646065",
+      "longitudeCoordinate": "-79.362653156",
+      "postalCode": "M5A 0M3",
+      "province": "Ontario",
+      "streetAddress": "378 Shuter Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "388 Shuter Street Toronto Ontario",
+      "latitudeCoordinate": "43.657726143",
+      "longitudeCoordinate": "-79.36230816",
+      "postalCode": "M5A 0M3",
+      "province": "Ontario",
+      "streetAddress": "388 Shuter Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "170 Sumach Street Toronto Ontario",
+      "latitudeCoordinate": "43.660075328",
+      "longitudeCoordinate": "-79.360502382",
+      "postalCode": "M5A 0C3",
+      "province": "Ontario",
+      "streetAddress": "170 Sumach Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "225 Sumach Street Toronto Ontario",
+      "latitudeCoordinate": "43.661006805",
+      "longitudeCoordinate": "-79.360354855",
+      "postalCode": "M5A 0P8",
+      "province": "Ontario",
+      "streetAddress": "225 Sumach Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "53 Sutton Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.657960928",
+      "longitudeCoordinate": "-79.362777365",
+      "postalCode": "M5A 0M3",
+      "province": "Ontario",
+      "streetAddress": "53 Sutton Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "63 Sutton Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.658043719",
+      "longitudeCoordinate": "-79.362442823",
+      "postalCode": "M5A 0M3",
+      "province": "Ontario",
+      "streetAddress": "63 Sutton Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "146 Sumach Street Toronto Ontario",
+      "latitudeCoordinate": "43.658767684",
+      "longitudeCoordinate": "-79.359939809",
+      "postalCode": "M5A 0P7",
+      "province": "Ontario",
+      "streetAddress": "146 Sumach Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "20 Tubman Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.660593233",
+      "longitudeCoordinate": "-79.359348948",
+      "postalCode": "M5A 0M8",
+      "province": "Ontario",
+      "streetAddress": "20 Tubman Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice - Realignment of Permit Parking Area \"7L\" - To exclude the developments at 1 Cole Street; 25 Cole Street; 12-40 Cole Street; 42-70 Cole Street; 30 Dreamers Way; 25 Nicholas Street; 55 Nicholas Avenue; 7-35 Oak Street; 7 and 9 Peaceful Way; 55 Regent Park Blvd; 154 and 156 Sackville Street; 200 Sackville Street; 225 Sackville Street; 260 Sackville Street; 378-388 Shuter Street; 170 Sumach Street; 225 Sumach Street; 53-63 Sutton Street; 146 Sumach Street; 20 Tubman Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5585"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1732251600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>Public Notice</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Realingment of Permit Parking Area \"7L\"</strong></p>\n<p>&nbsp;</p>\n<p>Notice is hereby given that Toronto and East York Community Council proposes to pass a by-law to realign the boundary of Permit Parking area \"7L\" to exclude the following developments:</p>\n<p>&nbsp;</p>\n<p>1 Cole Street; 25 Cole Street; 12-40 Cole Street; 42-70 Cole Street; 30 Dreamers Way; 25 Nicholas Street; 55 Nicholas Avenue; 7-35 Oak Street; 7 and 9 Peaceful Way; 55 Regent Park Blvd; 154 and 156 Sackville Street; 200 Sackville Street; 225 Sackville Street; 260 Sackville Street; 378-388 Shuter Street; 170 Sumach Street; 225 Sumach Street; 53-63 Sutton Street; 146 Sumach Street; 20 Tubman Street</p>\n<p>&nbsp;</p>\n<p>The meeting of the Toronto and East York Community Council will be held on December 4, 2024 at 9:30 a.m., or shortly afterwards and will meet by video conference and in person in Committee Room 1, Toronto City Hall, 100 Queen Street West.</p>\n<p>&nbsp;</p>\n<p>Any objections regarding this proposal should be set out in writing and forwarded to the City Clerk, Attention: Administrator, Toronto and East York Community Council, City of Toronto, City Clerk&rsquo;s Office -Secretariat, City Hall, 100 Queen Street West, 2nd floor West Tower, Toronto, Ontario, M5H 2N2, or by E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>If you wish to make a presentation to the Community Council regarding this proposal, please phone 416-392-7033 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>&nbsp;by 12:00 p.m. on December 3, 2024, so that we can include your name on the list of speakers and provide you with instructions on how to participate in the meeting.</p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance for Members of the Public:</strong> City staff can arrange for special assistance with some advance notice.&nbsp; If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Notice to People Writing or Making Presentations to the Toronto and East York Community Council:</strong> The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees and Boards.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash;available to the public unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting, you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, City Hall, 100 Queen Street West, 2nd floor West Tower, Toronto, ON, M5H 2N2 or call 416-392-7033</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5728,
+  "otherReferenceList": [
+    {
+      "description": "2024.TE18.28 - Introduction of New Overnight On-Street Permit Parking - Area 7L and Exclusion of Various Addresses",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2024.TE18.28"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Public Notice - Realignment of Permit Parking Area \"7L\" - To exclude the developments at 1 Cole Street; 25 Cole Street; 12-40 Cole Street; 42-70 Cole Street; 30 Dreamers Way; 25 Nicholas Street; 55 Nicholas Avenue; 7-35 Oak Street; 7 and 9 Peaceful Way; 55 Regent Park Blvd; 154 and 156 Sackville Street; 200 Sackville Street; 225 Sackville Street; 260 Sackville Street; 378-388 Shuter Street; 170 Sumach Street; 225 Sumach Street; 53-63 Sutton Street; 146 Sumach Street; 20 Tubman Street",
+  "topics": [
+    "Transportation > Intention to reduce permit parking spaces or times"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

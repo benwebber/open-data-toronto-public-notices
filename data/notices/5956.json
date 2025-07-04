@@ -1,0 +1,56 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Railway Street Toronto Ontario",
+      "latitudeCoordinate": "43.691432457915795",
+      "longitudeCoordinate": "-79.49555344573318",
+      "province": "Ontario",
+      "streetAddress": "Railway Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Centre Street Toronto Ontario",
+      "latitudeCoordinate": "43.74441231455921",
+      "longitudeCoordinate": "-79.22118528990582",
+      "province": "Ontario",
+      "streetAddress": "Centre Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Proposal to Pass a By-law to Permanently Close the part of public Highway - Railway Street and Centre Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5832"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Scarborough Community Council",
+    "country": "Canada",
+    "emailAddress": "scc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Scarborough Civic Centre",
+    "phone": "416-396-7287",
+    "postalCode": "M1P 4N7",
+    "province": "Ontario",
+    "streetAddress": "150 Borough Drive"
+  },
+  "decisionBody": "Scarborough Community Council",
+  "eventList": [],
+  "noticeDate": 1738904400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>CITY OF TORONTO ACT, 2006, PUBLIC NOTICE</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>Scarborough Community Council Area</strong></span></p>\n<p>&nbsp;</p>\n<p>The Council of the City of Toronto proposes to pass a by-law to permanently close the following:</p>\n<p>&nbsp;</p>\n<p>Part of the public highway known as Centre Street, legally described as follows:&nbsp; <br />&nbsp;</p>\n<p>PIN 06368-0280 (LT)</p>\n<p>PART OF CENTRE STREET, REGISTERED PLAN 142, DESIGNATED AS PART 4, PLAN 66R-33040</p>\n<p>&nbsp;</p>\n<p>City of Toronto and Province of Ontario</p>\n<p>Land Titles Division of the Toronto Registry Office (No. 66)</p>\n<p>&nbsp;</p>\n<p>Part of the public highway known as Railway Street, legally described as follows:&nbsp; <br />&nbsp;</p>\n<p>PIN 06368-0227 (LT)</p>\n<p>PART OF RAILWAY STREET, REGISTERED PLAN 142, DESIGNATED AS PART 4, PLAN 66R-31577</p>\n<p>&nbsp;</p>\n<p>City of Toronto and Province of Ontario</p>\n<p>Land Titles Division of the Toronto Registry Office (No. 66)</p>\n<p>&nbsp;</p>\n<p>At its meeting to be held at the Scarborough Civic Centre on February 20, 2025 at 9:30 a.m., or shortly afterwards, the Scarborough Community Council will hear from, or by their counsel, agent or solicitor, any person who wishes to speak to this matter.</p>\n<p>&nbsp;</p>\n<p>The meeting of the Scarborough Community Council will be held with members participating in person and remotely, and the proceedings of the Scarborough Community Council will be conducted publicly.</p>\n<p>&nbsp;</p>\n<p>To obtain additional information, including to view a copy of the proposed by-law and plan to close parts of Railway Street and Centre Street please review Item SC20.7 on the Community Council's agenda at <a href=\"https://secure.toronto.ca/council/#/committees/2467/25792\">https://secure.toronto.ca/council/#/committees/2467/25792</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>To submit comments or address the Scarborough Community Council meeting on February 20, 2025 either in-person or by video conference or by phone, please contact the City Clerk's Office no later than 12:00 p.m. on February 19, 2025:</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Scarborough Community Council</p>\n<p>City Clerk's Office</p>\n<p>Telephone: 416-397-4579; Fax: 416-392-2980</p>\n<p>E-mail: <a href=\"mailto:scc@toronto.ca\">scc@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Mail: Scarborough Community Council</p>\n<p>c/o Toronto City Hall, 100 Queen Street West, 2nd Floor</p>\n<p>Toronto, Ontario M5H 2N2</p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance for Members of the Public:&nbsp;</strong> City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-397-4579, TTY 416-338-0889 or e-mail <a href=\"mailto:scc@toronto.ca\">scc@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Notice to people writing or making presentations to the Scarborough Community Council: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view.&nbsp; If you speak at the meeting you will appear in the video broadcast.&nbsp; Video broadcasts are archived and continue to be publicly available.</p>\n<p>&nbsp;</p>\n<p>This notice shall also constitute notice to the public of the proposed public highway closure in accordance with the requirements of the Municipal Class Environmental Assessment for Schedule A+ activities.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5956,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Proposal to Pass a By-law to Permanently Close the part of public Highway - Railway Street and Centre Street",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

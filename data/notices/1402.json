@@ -1,0 +1,62 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "586 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.6652702627",
+      "longitudeCoordinate": "-79.3849739541",
+      "postalCode": "M4Y 1Z3",
+      "province": "Ontario",
+      "streetAddress": "586 Yonge Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Designate - 586 Yonge Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1222"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1575867600000,
+  "noticeDescription": "<p>Take notice that Toronto City Council intends to designate the lands and building known municipally as 586 Yonge Street under Part IV, Section 29 of the Ontario Heritage Act.</p>\n<p><strong>REASONS FOR DESIGNATION</strong></p>\n<p>The property at 586 Yonge Street is worthy of designation under Part IV, Section 29 of the Ontario Heritage Act for its cultural heritage value, and meets Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation under all three categories of design, associative and contextual value.</p>\n<p><strong>Description</strong></p>\n<p>Located on the west side of Yonge Street between Wellesley Street West and St. Joseph Street, the property at 586 Yonge Street contains a two-and-a-half-storey, mixed-use commercial building constructed in the Second Empire style by Thomas McLean for his carriage making-business and residence in 1875-6. Within a year of the establishment of the City's Heritage Inventory, the property (including 7 St. Nicholas Street) was included in 1974 and has been identified as contributing to the Historic Yonge Heritage Conservation District (HCD) which was approved for designation under Part V of the Ontario Heritage Act by City Council in 2016 and is currently under appeal.</p>\n<p><strong>Statement of Cultural Heritage Value</strong></p>\n<p>The Thomas McLean Carriage Maker building is valued as a representative of a 1870s main street commercial row building type comprising a shop at the ground floor with residential accommodation above in the Second Empire Style that was popular in Toronto during this decade. The defining elements of the type remain in the glazed shop-front at grade with a separate entry to the upper levels whose elevations featuring a row of three identical rectangular windows with a mansard roof above with two dormer windows. The Second Empire style elements are present in the bell-cast curve of the mansard roof and in the details of the dormers with their semi-circular curved roofs with richly carved mouldings, and scroll brackets around semi-circular headed window openings.</p>\n<p>The property is valued for its association with Thomas McLean and his carriage making business as it represents the mid-late 19th century period in the history of Toronto when goods were still being manufactured in shops on a main street. The property also yields an understanding of the evolution of historic Yonge Street as it represents the period when the street consolidated as a commercial street with a row of shops with residential accommodation above, becoming a \"main street\" with a continuous street wall.</p>\n<p>Located on the west side of Yonge Street between Wellesley Street West and St. Joseph Street, the property at 586 Yonge Street has contextual value as it presents the two-and-a-half story scale, massing and Second Empire details of an 1870s building maintaining and supporting the historic late 19th century character of Yonge Street as it evolved into a commercial main street. Adjacent to other 1870s commercial buildings along with later 19th and early 20th-century buildings, the property is historically and visually linked to its surroundings and contributes to the cultural heritage value of the Historic Yonge HCD.</p>\n<p><strong>Heritage Attributes</strong></p>\n<p>The heritage attributes of the Thomas McLean building at 586 Yonge Street are:</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The setback, placement and orientation of the building on its property on the west side of Yonge Street between Wellesley Street West and St. Joseph Street</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The setting of the building at the edge of the public sidewalk</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The scale, form and massing of the two-and-a-half storey block, its rectangular plan and mansard roof with two dormer windows facing Yonge Street and brick fire walls</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The wood material in the dormer windows and surrounding details</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Second Empire details evident in the semi-circular roofs of the dormer windows, with their elaborate mouldings and scroll brackets and elaborate moulding on the edge of the dormer roofs and the two pairs of scroll brackets at the edges of the elevation, supporting the eaves of the mansard at the second floor</p>\n<p>Notice of an objection to the proposed designation may be served on the City Clerk, Attention:&nbsp; Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, Toronto, Ontario, M5H 2N2, within thirty days of December 9, 2019, which is January 8, 2020. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1402,
+  "otherReferenceList": [
+    {
+      "description": "2018.TE30.9 - 10-16 Wellesley Street West, 5-7 St. Nicholas Street and 586 Yonge Street - Zoning Amendment - Refusal Report",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.TE30.9"
+    },
+    {
+      "description": "2019.PB9.4 - Request for Directions regarding 10-16 Wellesley Street West, 5-7 St. Nicholas Street, and 586 Yonge Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB9.4"
+    },
+    {
+      "description": "2019.CC10.9 - 10-16 Wellesley Street West, 5-7 St. Nicholas Street, and 586 Yonge Street - Request for Directions",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.CC10.9"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Intention to Designate - 586 Yonge Street",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

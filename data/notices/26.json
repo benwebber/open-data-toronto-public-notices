@@ -1,0 +1,77 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "628 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.6695958741",
+      "longitudeCoordinate": "-79.3828170273",
+      "postalCode": "M4Y 2G3",
+      "province": "Ontario",
+      "streetAddress": "628 Church Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "634 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.6697294063",
+      "longitudeCoordinate": "-79.3828674226",
+      "postalCode": "M4Y 2G3",
+      "province": "Ontario",
+      "streetAddress": "634 Church Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "636 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.6697943149",
+      "longitudeCoordinate": "-79.3828941432",
+      "postalCode": "M4Y 2G3",
+      "province": "Ontario",
+      "streetAddress": "636 Church Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Heritage Designation for 628, 634 and 636 Church Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=23"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1515387600000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 1024-2017 to designate 628 Church Street (Mahattan Apartments), And 634 And 636 Church Street (Bernard Haldan Houses) (Toronto Centre-Rosedale, Ward 27) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 26,
+  "otherReferenceList": [
+    {
+      "description": "TE17.28 - Alterations to a Heritage Property, Intention to Designate Under Part IV, Section 29 of the Ontario Heritage Act, and Authority to Enter Into a Heritage Easement Agreement - 628, 634 and 636 Church Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2016.TE17.28"
+    },
+    {
+      "description": "By-law 1025-2017 - To designate the property at 628 Church Street (Manhattan Apartments) and 634 and 636 Church Street (Bernard Haldan Houses), as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2017/law1025.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 628 Church Street (Mahattan Apartments), and 634 and 636 Church Street (Bernard Haldan Houses) City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 1025-2017 - 628 Church Street (Mahattan Apartments), and 634 and 636 Church Street (Bernard Haldan Houses) - Heritage Designation",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

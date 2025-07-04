@@ -1,0 +1,71 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "40 Mitchell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.645178981",
+      "longitudeCoordinate": "-79.4074914016",
+      "postalCode": "M6J 1B9",
+      "province": "Ontario",
+      "streetAddress": "40 Mitchell Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "44 Mitchell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6451623436",
+      "longitudeCoordinate": "-79.4075767608",
+      "postalCode": "M6J 1B9",
+      "province": "Ontario",
+      "streetAddress": "44 Mitchell Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law 820-2021 - 40-44 Mitchell Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2562"
+    }
+  ],
+  "contact": {
+    "city": "Toronto ",
+    "contactName": "Toronto Preservation Board",
+    "country": "Canada",
+    "emailAddress": "hertpb@toronto.ca",
+    "locationName": "2nd floor, West Tower, City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario ",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1634702400000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 820-2021 to designate the property at 40-44 Mitchell Avenue (Ward 10 Spadina-Fort York) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2736,
+  "otherReferenceList": [
+    {
+      "description": "2021.PB7.5 - Inclusion on the City of Toronto's Heritage Register 40-44 and 71-75 Mitchell Avenue and 735-737 and 753-755 Richmond Street West, and Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 40-44 Mitchell Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB7.5"
+    },
+    {
+      "description": "2021.TE7.5 - Inclusion on the City of Toronto's Heritage Register 40-44 and 71-75 Mitchell Avenue and 735-737 and 753-755 Richmond Street West, and Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 40-44 Mitchell Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE7.25"
+    },
+    {
+      "description": "By-law 820-2021- Inclusion on the City of Toronto's Heritage Register 40-44 and 71-75 Mitchell Avenue and 735-737 and 753-755 Richmond Street West, and Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 40-44 Mitchell Avenue",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2021/law0820.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "In The Matter of The Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City Of Toronto, Province Of Ontario",
+  "title": "Notice Of Passing of By-Law 820-2021 - 40-44 Mitchell Avenue",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "123 Bellamy North Toronto Ontario",
+      "latitudeCoordinate": "43.7414399001",
+      "longitudeCoordinate": "-79.231653804",
+      "postalCode": "M1J 2K9",
+      "province": "Ontario",
+      "streetAddress": "123 Bellamy North"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Cancellation of Request to Amend the Zoning By-law - 123 Bellamy Road North",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5603"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Scarborough Community Council",
+  "eventList": [],
+  "noticeDate": 1732770000000,
+  "noticeDescription": "<p style=\"text-align: left;\"><span style=\"background-color: #ffff00;\"><strong>Please be advised, this Notice has been published online due to a Canada Post Labour Disruption.</strong></span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>CANCELLATION NOTICE OF PUBLIC MEETING</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Location of Application: 123 Bellamy Road North</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Request to Amend the Zoning By-law</strong></p>\n<p style=\"text-align: center;\"><strong>Application Number: 24 126134 ESC 21 OZ</strong></p>\n<p style=\"text-align: center;\"><strong>Applicant: Hazelview Developments&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p>A Notice of Public Meeting was originally sent on November 14, 2024.&nbsp; Please be advised that this application will <strong>NOT</strong> be considered by the Scarborough Community Council on December 6, 2024.</p>\n<p>&nbsp;</p>\n<p>This Public Meeting has been <strong>CANCELLED</strong>.</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5745,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 126134 ESC 21 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Cancellation of Request to Amend the Zoning By-law - 123 Bellamy Road North",
+  "topics": [
+    "Planning > Refusal of application for a Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

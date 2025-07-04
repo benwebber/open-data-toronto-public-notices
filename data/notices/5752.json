@@ -1,0 +1,44 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "375 Mount Pleasant Road Toronto Ontario",
+      "latitudeCoordinate": "43.6953978453",
+      "longitudeCoordinate": "-79.3849260481",
+      "postalCode": "M4T 2V8",
+      "province": "Ontario",
+      "streetAddress": "375 Mount Pleasant Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 375 Mount Pleasant Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5610"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1732770000000,
+  "noticeDescription": "<p style=\"text-align: left;\"><span style=\"background-color: #ffff00;\"><strong>Please be advised, this Notice has been published online due to a Canada Post Labour Disruption.</strong></span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>FUNERAL, BURIAL AND CREMATION</strong></p>\n<p style=\"text-align: center;\"><strong>SERVICES ACT, 2002</strong></p>\n<p style=\"text-align: center;\"><strong>NOTICE OF DECISION</strong></p>\n<p style=\"text-align: center;\"><strong>CITY OF TORONTO</strong></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that on November 13 and 14, 2024, Council of the City of Toronto approved the establishment of a private family mausoleum located within the Mount Pleasant Cemetery, known municipally as 375 Mount Pleasant Road, Toronto, Ontario on an existing interment right located within Plot AA in Building Permit File 23 158151 BLD 00 NB, and approved the application under the Funeral, Burial and Cremation Services Act, 2002.</p>\n<p>&nbsp;</p>\n<p>AND FURTHER TAKE NOTICE that the applicant, Registrar or any person with an interest therein may within 15 days after publication of this notice refer the decision to the Ontario Land Tribunal for a hearing.</p>\n<p>&nbsp;</p>\n<p>Further information may be obtained by contacting Frank Stirpe, Director and Deputy Chief Building Official, Toronto Building at 416-392-7601 or by e-mail at <a href=\"mailto:Frank.Stirpe@toronto.ca\">Frank.Stirpe@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5752,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "23 158151 BLD 00 NB"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Decision - 375 Mount Pleasant Road",
+  "topics": [],
+  "uniqueMapUrl": []
+}

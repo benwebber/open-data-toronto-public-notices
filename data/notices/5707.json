@@ -1,0 +1,61 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "40 Mitchell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.645170399",
+      "longitudeCoordinate": "-79.407488161",
+      "postalCode": "M6J 1B9",
+      "province": "Ontario",
+      "streetAddress": "40 Mitchell Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "44 Mitchell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.645153762",
+      "longitudeCoordinate": "-79.407573519",
+      "postalCode": "M6J 1B9",
+      "province": "Ontario",
+      "streetAddress": "44 Mitchell Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision – 40-44 Mitchell Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5564"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "registrarcco@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1731906000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>IN THE MATTER OF THE ONTARIO HERITAGE ACT</strong></p>\n<p style=\"text-align: center;\"><strong>R.S.O. 1990, CHAPTER O.18 AND</strong></p>\n<p style=\"text-align: center;\"><strong>CITY OF TORONTO, PROVINCE OF ONTARIO</strong></p>\n<p style=\"text-align: center;\"><strong>40-44 MITCHELL AVENUE</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>NOTICE OF DECISION</strong></span></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that the Council of the City of Toronto on November 13 and 14, 2024, has considered an application under Section 34(1)2 of the Ontario Heritage Act to demolish or remove or permit the demolition or removal of a building and/or structure on the Property designated under Part IV, Section 29 of the Ontario Heritage Act for the Property municipally known as 40-44 Mitchell Avenue. &nbsp;</p>\n<p>&nbsp;</p>\n<p>The Decision of Council of the City of Toronto, among other matters, regarding the application under the Ontario Heritage Act is as follows:</p>\n<p>&nbsp;</p>\n<p>City Council refuse the issuance of a demolition permit for the heritage properties at 40-44 Mitchell Avenue in accordance with Section 34(1)2 of the Ontario Heritage Act.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Notice of an appeal of the decision of City Council on the application to demolish or remove a building and/or structure on the Property may be served on the City Clerk, Attention: Registrar Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2.; Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a> within thirty (30) days of November 18, 2024, which is December 18, 2024.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the objection to the decision;</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons in support of the objection to the decision; and</p>\n<p>(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be accompanied by the fee prescribed under the Ontario Land Tribunal Act, 2021, in the amount of $1,100 for each appeal payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the Ontario Land Tribunal website at <a href=\"https://olt.gov.on.ca/appeals-process/forms\">https://olt.gov.on.ca/appeals-process/forms</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only the owner of the Property subject of the application under Section 34 of the Ontario Heritage Act may appeal the decision of Council of the City of Toronto to the Ontario Land Tribunal under Part IV, Section 34.1 of the Ontario Heritage Act. The appeal may only be made where City Council has consented to an application to demolish or remove a building and/or structure on a property with certain terms or conditions or refuses the application to demolish or remove the building and/or structure on a property.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>Further information in respect of the Decision of Council of the City of Toronto on the matter is available from the City of Toronto at:</p>\n<p>&nbsp;</p>\n<p><a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2024.TE17.13\">https://secure.toronto.ca/council/agenda-item.do?item=2024.TE17.13</a>.&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5707,
+  "otherReferenceList": [
+    {
+      "description": "2024.TE17.13 - 40-44 Mitchell Avenue - Demolition of Designated Heritage Buildings under Section 34 of the Ontario Heritage Act",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2024.TE17.13"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Decision – 40-44 Mitchell Avenue",
+  "topics": [
+    "Heritage > Decision on demolition or removal of structure"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

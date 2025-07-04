@@ -1,0 +1,53 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "582 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6449764978",
+      "longitudeCoordinate": "-79.3997470031",
+      "postalCode": "M5V 1M3",
+      "province": "Ontario",
+      "streetAddress": "582 King Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Heritage Notices - June 29 and 30, 2020",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1554"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1596772800000,
+  "noticeDescription": "<p>At its meeting on June 29 and 30, 2020:</p>\n<p>City Council adopted the following:</p>\n<p><strong>Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act</strong></p>\n<p style=\"padding-left: 30px;\">-&nbsp;&nbsp; 582 King Street West. &nbsp;<a title=\"2020.TE14.14 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 582 King Street West\" href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE14.14\" target=\"_blank\" rel=\"noopener\">See City Council decision</a>.</p>\n<p><strong>Legislative Note</strong>: The Province of Ontario has extended the March 17, 2020 Declaration of Emergency and made several subsequent Emergency Orders under the <em>Emergency Management and Civil Protection Act</em>. Pursuant to Ontario Regulation 73/20, the statutory timelines for the objection period to City Council&rsquo;s notice of intention to designate a property is currently suspended. The statutory timelines under the <em>Ontario Heritage Act</em> are intended to commence after September 11, 2020, pursuant to Ontario Regulation 106/20 under the <em>Emergency Management and Civil Protection Act</em>, subject to any further amendments.&nbsp; Unless the regulation is otherwise amended, the objection period to the notice of intention to designate a property will therefore commence after September 11, 2020, at which the time, the City will post and serve a notice of intention to designate a property pursuant to the <em>Ontario Heritage Act</em>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1727,
+  "otherReferenceList": [
+    {
+      "description": "2020.TE14.14 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 582 King Street West",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE14.14"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Heritage Notices - June 29 and 30, 2020",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

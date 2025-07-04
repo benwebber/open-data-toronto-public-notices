@@ -1,0 +1,90 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.7979968112",
+      "longitudeCoordinate": "-79.4192835578",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "7 Steeles Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.7980228682",
+      "longitudeCoordinate": "-79.4190883464",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "9 Steeles Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.7980547923",
+      "longitudeCoordinate": "-79.4189433551",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "11 Steeles Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "13 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.798078107",
+      "longitudeCoordinate": "-79.418795107",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "13 Steeles Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.798109696",
+      "longitudeCoordinate": "-79.418649993",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "15 Steeles Avenue East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application Under the Planning Act - 7, 9, 11, 13 and 15 Steeles Avenue East ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4924"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "fax": "416-392-1879",
+    "locationName": "North York Civic Centre",
+    "phone": "416-392-4666",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1712894400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application No.: 23 167527 NNY 18 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-law The applicant is proposing a 50-storey mixed use building, containing 683 residential dwelling units and 171 square metres of retail space, for a density of 18.93 times the area of the lot. A total of 123 vehicle parking spaces and 513 bicycle parking spaces are proposed.</p>\n<p>7, 9, 11, 13 and 15 Steeles Avenue East</p>\n<p>Ward: 18 &ndash; Willowdale</p>\n<p>Senior Planner, Diana DiGirolamo at (416)-392-4358 or <a href=\"mailto:Diana.Digirolamo@toronto.ca\">Diana.Digirolamo@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5087,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "23 167527 NNY 18 OZ "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application Under the Planning Act - 7, 9, 11, 13 and 15 Steeles Avenue East ",
+  "topics": [
+    "Planning"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1032 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6440983215",
+      "longitudeCoordinate": "-79.4202409895",
+      "province": "Ontario",
+      "streetAddress": "1032 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1034 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6441485648",
+      "longitudeCoordinate": "-79.4202799823",
+      "province": "Ontario",
+      "streetAddress": "1034 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1036 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.644161462",
+      "longitudeCoordinate": "-79.4203470358",
+      "province": "Ontario",
+      "streetAddress": "1036 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1038 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6440869496",
+      "longitudeCoordinate": "-79.4203731098",
+      "province": "Ontario",
+      "streetAddress": "1038 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1040 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.644067769",
+      "longitudeCoordinate": "-79.420418207",
+      "province": "Ontario",
+      "streetAddress": "1040 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1042 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6440702402",
+      "longitudeCoordinate": "-79.4204654864",
+      "province": "Ontario",
+      "streetAddress": "1042 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1044 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6440225446",
+      "longitudeCoordinate": "-79.4205109993",
+      "province": "Ontario",
+      "streetAddress": "1044 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1046 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6440010292",
+      "longitudeCoordinate": "-79.4206049928",
+      "province": "Ontario",
+      "streetAddress": "1046 Queen Street West"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1515387600000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 1215-2017 to designate 1032-1034 Queen Street West (The Robert Vogan Block) And 1036, 1038, 1040, 1042, 1044 And 1046 Queen Street West (The Samuel S. Mutton Block), (Trinity-Spadina, Ward 19) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 45,
+  "otherReferenceList": [
+    {
+      "description": "MM27.46 - 1032 - 1034 Queen Street West and 1036, 1038, 1040, 1042 1044 and 1046 Queen Street West - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - by Councillor Mike Layton, seconded by Councillor Gord Perks",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2017.MM27.46"
+    },
+    {
+      "description": "By-law 2015-2017 - To designate the properties at 1032-1034 Queen Street West (the Robert Vogan Block) and 1036, 1038, 1040, 1042, 1044 and 1046 Queen Street West (the Samuel S. Mutton Block) as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2017/law1215.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 1032-1034 Queen Street West (The Robert Vogan Block) and 1036, 1038, 1040, 1042, 1044 and 1046 Queen Street West (The Samuel S. Mutton Block) City Of Toronto, Province Of Ontario",
+  "title": "Notice of Passing By-law 1215-2017 - 1032-1034 Queen Street West (The Robert Vogan Block) and 1036, 1038, 1040, 1042, 1044 and 1046 Queen Street West (The Samuel S. Mutton Block)",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

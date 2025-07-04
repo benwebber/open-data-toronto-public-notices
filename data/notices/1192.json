@@ -1,0 +1,58 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2896 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.665626128",
+      "longitudeCoordinate": "-79.4661490606",
+      "postalCode": "M6P 1Y8",
+      "province": "Ontario",
+      "streetAddress": "2896 Dundas Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 2896 Dundas Street West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=993"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1570680000000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto on July 16, 17 and 18, 2019, having considered an application to alter a structure designated under Part IV of the Ontario Heritage Act for 2896 Dundas Street West decided, among other things, to</p>\n<p>1. Approve the alterations to the heritage building at 2896 Dundas Street West, in accordance with Section 33 of the Ontario Heritage Act, to allow for the construction of a new entrance to the existing building on lands known municipally as 2896 Dundas Street West, with such alterations substantially in accordance with the plans and drawings prepared by Culmone &amp; Associates Ltd., dated February 20 and April 26, 2019, and on file with the Senior Manager, Heritage Preservation Services, and the letter prepared by Chris Hall of The Ventin Group Ltd. dated April 26, 2019 and subject to the following additional conditions:</p>\n<p style=\"padding-left: 30px;\">a. That prior to the issuance of any permit for all or any part of the property at 2896 Dundas Street West, including a heritage permit or a building permit, but excluding permits for repairs and maintenance and usual and minor works for the existing heritage building as are acceptable to the Senior Manager, Heritage Preservation Services, the owner shall:</p>\n<p style=\"padding-left: 60px;\">1. Provide full building permit drawings, including notes and specifications for the conservation and protective measures keyed to the approved plans and drawings prepared by Culmone &amp; Associates Ltd., dated February 20 and April 26, 2019, and on file with the Senior Manager, Heritage Preservation Services, and the letter prepared by Chris Hall of The Ventin Group Ltd dated April 26, 2019&nbsp; including a description of materials and finishes, to be prepared by the project architect and a qualified heritage consultant to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p><strong>Appeal to the Conservation Review Board</strong>:The Ontario Heritage Act states that where a Council consents to an application to alter a designated property with certain terms or conditions, or refuses the application, the owner may, within thirty days after receipt of this notice, apply to the Council for a hearing before the Conservation Review Board.</p>\n<p>The owner may request a hearing before the Conservation Review Board in this matter, by writing to the City Clerk:&nbsp; Attention Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, West, Toronto, Ontario, M5H 2N2, by 4.30 p.m. on or before November 12, 2019.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1192,
+  "otherReferenceList": [
+    {
+      "description": "2018.EY28.9 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 2896 Dundas Street West",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.EY28.9"
+    },
+    {
+      "description": "2019.TE7.23 - Alterations to a Designated Heritage Property - 2896 Dundas Street West",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE7.23"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Decision - 2896 Dundas Street West",
+  "topics": [
+    "Heritage > Decision on alteration to a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

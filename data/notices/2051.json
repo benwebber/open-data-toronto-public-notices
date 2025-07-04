@@ -1,0 +1,102 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3 Mutual Street Toronto Ontario",
+      "latitudeCoordinate": "43.653857798",
+      "longitudeCoordinate": "-79.374192147",
+      "postalCode": "M5B 2A7",
+      "province": "Ontario",
+      "streetAddress": "3 Mutual Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "98 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6537168756",
+      "longitudeCoordinate": "-79.3739933056",
+      "postalCode": "M5C 1S6",
+      "province": "Ontario",
+      "streetAddress": "98 Queen Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "100 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6538007473",
+      "longitudeCoordinate": "-79.3739558246",
+      "postalCode": "M5C 1S6",
+      "province": "Ontario",
+      "streetAddress": "100 Queen Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "102 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6537607446",
+      "longitudeCoordinate": "-79.3738637961",
+      "postalCode": "M5C 1S6",
+      "province": "Ontario",
+      "streetAddress": "102 Queen Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "104 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.653827226",
+      "longitudeCoordinate": "-79.3738351419",
+      "postalCode": "M5C 1S6",
+      "province": "Ontario",
+      "streetAddress": "104 Queen Street East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law 1138-2020",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1879"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1608613200000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 1138-2020 to designate 3 Mutual Street, 98, 100, 102 and 104 Queen Street East (Toronto Centre, Ward 13) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2051,
+  "otherReferenceList": [
+    {
+      "description": "2020.TE18.10 - Inclusion on the City of Toronto's Heritage Register, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, Alterations to a Heritage Property and Authority to Enter into a Heritage Easement Agreement - 3 Mutual Street, 98, 100, 102 and 104 Queen Street East",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE18.10"
+    },
+    {
+      "description": "2020.PB16.7 - Inclusion on the City of Toronto's Heritage Register, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, Alterations to a Heritage Property and Authority to Enter into a Heritage Easement Agreement - 3 Mutual Street, 98, 100, 102 and 104 Queen Street East",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.PB16.7"
+    },
+    {
+      "description": "2020.TE18.7 - 90 - 104 Queen Street East and 3 Mutual Street - Zoning Amendment Application and Rental Housing Demolition Applications - Final Report",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE18.7"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, Interim City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 3 Mutual Street, 98, 100, 102 and 104 Queen Street East, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 1138-2020 - 3 Mutual Street, 98, 100, 102 and 104 Queen Street East ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

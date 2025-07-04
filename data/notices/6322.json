@@ -1,0 +1,46 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "King Street East & Sackville Street Toronto Ontario",
+      "latitudeCoordinate": "43.654426476",
+      "longitudeCoordinate": "-79.360321788",
+      "majorIntersection": "King Street East & Sackville Street",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice - Removal of Permit Parking Spaces on King Street East",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6230"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Infrastructure and Environment Committee ",
+    "country": "Canada",
+    "emailAddress": "iec@toronto.ca",
+    "fax": "416-392-1879",
+    "locationName": "Toronto City Hall, 10th Floor, West Tower",
+    "phone": "416-392-4666",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Infrastructure and Environment Committee",
+  "eventList": [],
+  "noticeDate": 1749009600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>City of Toronto Act, 2006 Public Notice</strong><br /><strong>Removal of Permit Parking Spaces on King Street East</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: left;\">Notice is hereby given that the Infrastructure and Environment Committee proposes to have City Council to pass a by-law to install a traffic signal (Intersection Pedestrian Signal) and replace the existing Pedestrian Crossover at the intersection of King Street East and Sackville Street. Installation of a traffic signal will require removal of parking spaces up to 30.5 metres from the intersection on King Street East, which will result in the removal of approximately six (6) permit parking spaces &ndash; three (3) spaces on the north side and three (3) spaces on the south side of King Street East.</p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">At its meeting to be held virtually and in-person on June 11, 2025 at 9:30 a.m. or as soon as possible thereafter, the Infrastructure and Environment Committee of Toronto City Council will hear in person by video conference, or by his or her counsel, agent or solicitor, any person who wishes to speak to the matter.</p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p>To submit comments or make a presentation to the Infrastructure and Environment Committee on June 11, 2025, please contact the Committee no later than 12:00 p.m. on June 10, 2025:</p>\n<p>&nbsp;</p>\n<p style=\"padding-left: 40px;\">Infrastructure and Environment Committee <br />Toronto City Hall <br />100 Queen Street West, 10th Floor, West Tower <br />Toronto, ON M5H 2N2 <br />Telephone: 416-392-4666 <br />Fax: 416-392-1879 <br />Email: <a href=\"mailto:iec@toronto.ca\">iec@toronto.ca</a>&nbsp;</p>\n<p style=\"padding-left: 40px;\">&nbsp;</p>\n<p>Any comments received after the Committee meeting will be forwarded to Council.</p>\n<p>&nbsp;</p>\n<p>While the report sets out proposed changes, the Committee and/or City Council may make amendments to the recommendations set out in the report.</p>\n<p>&nbsp;</p>\n<p>If this matter is postponed at the Committee meeting or Council meeting or considered at a subsequent Committee or Council meeting, no additional notice will be provided other than the information on the subsequent Committee or Council agenda.</p>\n<p>&nbsp;</p>\n<p>The Infrastructure and Environment Committee will make its final recommendations on June 11, 2025 which will be forwarded to City Council at its meeting on June 25, 26, and 27, 2025.</p>\n<p>&nbsp;</p>\n<p><strong>Notice to people writing or making presentations to the General Government Committee</strong>: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting, you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>&nbsp;</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk&rsquo;s Office, City Hall, 100 Queen Street West, Toronto ON M5H 2N2 or by calling 416-392-4666.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6322,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "title": "Public Notice - Removal of Permit Parking Spaces on King Street East",
+  "topics": [
+    "Transportation > Intention to reduce permit parking spaces or times"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

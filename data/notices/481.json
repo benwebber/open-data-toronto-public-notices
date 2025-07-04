@@ -1,0 +1,68 @@
+{
+  "accessibilityDescription": "City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail teycc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Gladstone Avenue & Argyle Street Toronto Ontario",
+      "latitudeCoordinate": "43.64613148522344",
+      "longitudeCoordinate": "-79.42785933717232",
+      "majorIntersection": "Gladstone Avenue & Argyle Street",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Naming a Public Lane - Antonio Lopes Lane",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=301"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Toronto City Hall, Committee Room 1",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1553002200000,
+      "streetAddress": "100 Queen Street West"
+    }
+  ],
+  "noticeDate": 1552363200000,
+  "noticeDescription": "<p>Notice is given that the City of Toronto will consider whether to pass by-laws to authorize the naming of public highways in the Toronto and East York Community Council Area.</p>\n<p>To consider a proposal to name a public lane located east of Gladstone Avenue, extending between Argyle Street and Cross Street as &ldquo;Antonio Lopes Lane\".</p>\n<p>The plan showing the lands to be affected may be seen in the City Clerk's Office, Secretariat, 2nd Floor, West Tower, Toronto City Hall, 100 Queen Street West, between the hours of 8:30 a.m. and 4:30 p.m. Monday to Friday. At its meeting to be held in Committee Room 1, 2nd floor, Toronto City Hall, 100 Queen Street West, on March 19, 2019, at 9:30 a.m., or shortly afterwards, the Toronto and East York Community Council will hear in person or by his or her counsel, agent or solicitor, any person who claims that his or her lands will be prejudicially affected by the naming and who applies to be heard with respect to the proposed naming.</p>\n<p><strong>Notice to People writing or making presentations to the Toronto and East York Community Council:</strong> The personal information contained in your correspondence to Toronto City Council or its committees is collected under the City of Toronto Act, 2006, and the City of Toronto Municipal Code Chapter 27 &ndash; Council Procedures, section 27-21. Any personal information will become part of the public record and may be posted on the City's website, unless you expressly request the removal of personal identity information. Questions about the collection of this information may be directed to the City Clerk's office at 416-392-7033.</p>\n<p>The City videotapes committee and community council meetings. If you make a presentation to a committee or community council, the City will be videotaping you and City staff may make the video tapes available to the public.</p>\n<p>To obtain additional information, submit comments or address the Toronto and East York Community Council meeting on March 19, 2019, please contact the Toronto and East York Community Council no later than 12:00 p.m. on March 18, 2019.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 481,
+  "otherReferenceList": [
+    {
+      "description": "TE4.1 - Naming of an Existing Public Lane Located East of Gladstone Avenue, Extending Between Argyle Street and Cross Street.  ",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE4.1"
+    },
+    {
+      "description": "Bylaw 486-2019 - To permanently close part of the public highway known as Perth Avenue.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0486.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "City of Toronto Act, 2006 – Public Notice - Toronto and East York Community Council Area",
+  "title": "Notice of Naming a Public Lane - Antonio Lopes Lane",
+  "topics": [
+    "Transportation > Intention to name a road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

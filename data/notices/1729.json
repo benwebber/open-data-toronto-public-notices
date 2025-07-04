@@ -1,0 +1,54 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 St Nicholas Street Toronto Ontario",
+      "latitudeCoordinate": "43.66511482",
+      "longitudeCoordinate": "-79.385372",
+      "postalCode": "M4Y 1W5",
+      "province": "Ontario",
+      "streetAddress": "5 St Nicholas Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Withdrawal of Intention to Designate – 5 St Nicholas Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1556"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1596772800000,
+  "noticeDescription": "<p><strong>WHEREAS</strong> by adoption of Item TE14.13 at its meeting held on May 28, 2020, City of Toronto Council withdrew the Intention to Designate the property municipally known as 5 St. Nicholas Street, in the City of Toronto under Part IV, Section 29 of the <em>Ontario Heritage Act, R.S.O. 1990</em> and directed the City Clerk to serve a notice of withdrawal of the Intention to Designate on the owner of 5 St. Nicholas Street and the Trust, and to cause the notice to be posted on the City of Toronto's website in accordance with Chapter 162 Notice, Public of the Toronto Municipal Code;</p>\n<p><strong>NOW THEREFORE, NOTICE IS HEREBY GIVEN</strong> that the City of Toronto withdraws its Intention to Designate the property municipally known as 5 St. Nicholas Street, in the City of Toronto as a property of cultural heritage value or interest in accordance with section 29 of the Ontario Heritage Act, R.S.O. 1990.</p>\n<p><strong>ADDITIONAL INFORMATION</strong> &ndash; The specific reasons for withdrawal of the designation of this property are available on-line in the Minutes of the Meeting of City Council of May 28, 2020.&nbsp; It can also be <a title=\"2020.TE14.13 - 5 St. Nicholas Street - Demolition of a Heritage Property Subject to an Intention to Designate under Part IV of the Ontario Heritage Act\" href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE14.13\" target=\"_blank\" rel=\"noopener\">accessed online</a>.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1729,
+  "otherReferenceList": [
+    {
+      "description": "2020.TE14.13 - 5 St. Nicholas Street - Demolition of a Heritage Property Subject to an Intention to Designate under Part IV of the Ontario Heritage Act ",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE14.13"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Pursuant to Section 29 of the Ontario Heritage Act, R.S.O. 1990 ",
+  "title": "Notice of Withdrawal of Intention to Designate – 5 St Nicholas Street",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

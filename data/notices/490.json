@@ -1,0 +1,67 @@
+{
+  "accessibilityDescription": "City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail teycc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Perth Road & Sterling Road Toronto Ontario",
+      "latitudeCoordinate": "43.655203012",
+      "longitudeCoordinate": "-79.446344736",
+      "majorIntersection": "Perth Road & Sterling Road",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Permanent Closure of the Existing Portion of Perth Avenue Extending Easterly to Sterling Road and the Proposed Creation of a New Extension of Perth Avenue, Extending Easterly from the South End of Perth Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=310"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Toronto City Hall, Committee Room 1",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1552406400000,
+      "streetAddress": "100 Queen Street West"
+    }
+  ],
+  "noticeDate": 1552363200000,
+  "noticeDescription": "<p>The Toronto and East York Community Council of the City of Toronto proposes to pass a by-law to permanently close the existing portion of Perth Avenue extending easterly to Sterling Road, designated as Part 1 on Plan 66R-30540, and the proposed creation of a new extension of Perth Avenue, extending easterly from the south end of Perth Avenue, City of Toronto.</p>\n<p>At its meeting to be held in the Toronto City Hall on March 19, 2019, commencing at</p>\n<p>9:30 a.m., the Toronto and East York Community Council will hear in person or by his or her counsel, agent or solicitor, any person who wishes to speak to this matter.</p>\n<p>To view a copy of the proposed by-law and plan to close the public highway, obtain additional information, submit comments or address the Toronto and East York Community Council meeting on March 19, 2019, please contact the Toronto and East York Community Council no later than 12:00 p.m. on March 18, 2019.</p>\n<p><strong>Members of Council and Staff:</strong> Please keep this agenda and the accompanying material until the City Council meeting dealing with these matters has ended.</p>\n<p><strong>Closed Meeting Requirements:</strong> If the Toronto and East York Community Council wants to meet in closed session (privately), a member of the committee must make a motion to do so and give the reason why the Committee has to meet privately. (City of Toronto Act, 2006).</p>\n<p><strong>Notice to people writing or making presentations to the Toronto and East York Community Council</strong>: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast.&nbsp; Video broadcasts are archived and continue to be publicly available.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, City Hall, 100 Queen Street West, Toronto ON M5H 2N2 or by calling 416-392-7033.</p>\n<p>This notice shall also constitute notice to the public of the proposed public highway closure in accordance with the requirements of the Municipal Class Environmental Assessment for Schedule A+ activities.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 490,
+  "otherReferenceList": [
+    {
+      "description": "TE4.10 - Permanent Closure of the Existing Portion of Perth Avenue Extending Easterly to Sterling Road and the Proposed Creation of a New Extension of Perth Avenue, Extending Easterly from the South End of Perth Avenue ",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE4.10"
+    },
+    {
+      "description": "Bylaw 486-2019 - To permanently close part of the public highway known as Perth Avenue.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0486.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Notice of Permanent Closure of a Public Lane at Perth Avenue extending easterly to Sterling Road",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

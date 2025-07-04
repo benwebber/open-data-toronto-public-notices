@@ -1,0 +1,56 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "350 Adelaide Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6474234514",
+      "longitudeCoordinate": "-79.3934513315",
+      "postalCode": "M5V 1R7",
+      "province": "Ontario",
+      "streetAddress": "350 Adelaide Street West"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1520312400000,
+  "noticeDescription": "<p>Take notice that Toronto City Council intends to designate the lands and building known municipally as 350 Adelaide Street West under Part IV, Section 29 of the Ontario Heritage Act</p>\n<p>Reasons for Designation</p>\n<p>The property at 350 Adelaide Street West (Hollinger Building) is worthy of designation under Part IV, Section 29 of the Ontario Heritage Act for its cultural heritage value, and meets Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation under all three categories of design, associative and contextual value.</p>\n<p>Description</p>\n<p>The property at 350 Adelaide Street West contains the Hollinger Building, completed in 1941, a two storey, store and warehouse building with a raised basement and brick cladding. The property is located in the King-Spadina area.</p>\n<p>Statement of Cultural Heritage Value</p>\n<p>The Hollinger building at 350 Adelaide Street West has design value as a fine representative of a mid-century commercial warehouse building in the Style Moderne style. The combination of traditional materials such as yellow brick and stone with modern materials such as structural glass brick and alumite along with the composition and detailing of the principal elevation on Adelaide Street displays a high degree of artistic merit.</p>\n<p>The Hollinger building has historic value as it is associated with the King-Spadina neighbourhood&rsquo;s history as a commercial and industrial district which supported a range of commercial interests including small family-run businesses. Originally associated with the fur and garment industry, it has been occupied by a variety of businesses including those of the Kirshenbaum family who as Kern Stationers occupied the building for over 50 years until the property was sold for redevelopment. The building also has value as it demonstrates the work of the architect Benjamin Swartz who was well-known for his factory and residential commissions but is especially remembered as the architect of the Royal Theatre (originally known as the Pylon) on College Street.</p>\n<p>Situated on the north side of Adelaide Street between Peter Street and Spadina Avenue, the building has contextual value as is maintains a mid-century low-rise commercial warehouse building character which is part of the diverse historic built form of the neighbourhood. As part of the continuing evolving character of the King-Spadina neighbourhood it is physically, functionally, visually and historically linked to its surroundings.</p>\n<p>Heritage Attributes</p>\n<p>The heritage attributes of the Hollinger Building are:</p>\n<p>1.&nbsp; The setback, placement and orientation of the building on the north side of Adelaide Street West between Peter Street and Spadina Avenue<br />2.&nbsp; The scale, form and massing of the two-storey store and warehouse building with a raised basement and a flat roof<br />3.&nbsp; The principal (south) elevation with its brick, glass brick, stone and alumite cladding<br />4.&nbsp; The yellow brick cladding of the west, north and east elevations<br />5.&nbsp; The yellow brick details on the south and west elevations the band of vertical headers above the second floor windows on the south fa&ccedil;ade and the 6.&nbsp; vertical headers above the windows on the west elevation<br />7.&nbsp; The arrangement of openings on the south elevation with the recessed entry and recessed stair window above located towards the east and the large window openings of the basement, first and second floors located towards the west side of the elevation<br />8.&nbsp; The pattern of window mullions in the transom lights above the fixed glass panels in the windows on the south elevation at the first and second floors<br />9.&nbsp; The arrangement of window openings in a grid with and the pattern of mullions in the windows on the west elevation<br />10.&nbsp; The stone details including the decorative tooled stone cladding on the south elevation at the basement and first floor levels including the entry recess, the stone cornice between the first and second floors, the stone sills on the south and west elevations and the decorative square panel with the reliefs of stone circles&rsquo; centred above the entry and stair openings<br />11.&nbsp; The structural glass brick in the window opening for the stair<br />12.&nbsp; The fluted alumite band currently covered with panels that appear in the architects drawings and were located between the basement and ground floors and the alumite canopy (as shown on the architect&rsquo;s drawings if it survives beneath the current vinyl canopy)<br />13.&nbsp; The terrazzo floor at the recessed entrance<br />Notice of an objection to the proposed designation may be served on the City Clerk, Attention: Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, Toronto, Ontario, M5H 2N2, within thirty days of March 6, 2018, which is April 5, 2018. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 86,
+  "otherReferenceList": [
+    {
+      "description": "TE27.20 - Alterations to Designated Heritage Properties, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act and Authority to Enter into a Heritage Easement Agreement - 350 and 352 Adelaide Street West and 118 Peter Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2017.TE27.20"
+    },
+    {
+      "description": "By-law 1232-2017 - To provide for the entering into of a heritage easement agreement for the conservation of the property known municipally as 350 and 352 Adelaide Street West and 118 Peter Street",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2017/law1232.pdf"
+    },
+    {
+      "description": "By-law 492-2018 - To designate the properties at 350 and 352 Adelaide Street West and 118 Peter Street as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0492.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act  R.S.O. 1990, Chapter 0.18 and  City of Toronto, Province of Ontario",
+  "title": "Notice of Intention to Designate - 350 Adelaide Street West (Hollinger Building)",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

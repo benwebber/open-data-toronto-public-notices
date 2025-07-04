@@ -1,0 +1,49 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "clerk@toronto.ca",
+    "locationName": "Toronto City Hall, 12W",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1525838400000,
+  "noticeDescription": "<p>Notice is hereby given that at its meeting of May 23, 24 and 25, 2018 the Council of the City of Toronto intends to enact a City Council composition by-law.</p>\n<p>At its meeting on November 8 and 9, 2016, City Council considered Item EX18.2, Follow-up Report on the Toronto Ward Boundary Review, on new ward boundary options and selected a 47-ward boundary option. City Council directed that the composition of City Council be one Councillor per ward pursuant to the ward boundary structure approved and instructed the City Solicitor to submit a bill to implement any change to the composition of City Council after the expiration of the appeal period, or at the conclusion of any appeals of the ward boundary by-law.</p>\n<p>Appeals of the ward boundary by-law were concluded on December 15, 2017 by the issuance of a decision from the Ontario Municipal Board confirming that the number of wards in the City of Toronto shall be forty-seven.</p>\n<p>As per City Council&rsquo;s previous direction, this City Council composition by-law will be enacted as a stand-alone housekeeping matter.</p>\n<p>City Council&rsquo;s previous decision can be viewed <a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2016.EX18.2\">online</a>.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 170,
+  "otherReferenceList": [
+    {
+      "description": "EX18.2 - Follow-up Report on the Toronto Ward Boundary Review",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2016.EX18.2"
+    },
+    {
+      "description": "By-law 267-2017 - A By-law to re-divide the City of Toronto's Ward Boundaries",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2017/law0267.pdf"
+    },
+    {
+      "description": "By-law 464-2017 - To amend By-law 267-2017, being a by-law to re-divide the City of Toronto's Ward Boundaries, to correct certain minor errors",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2017/law0464.pdf"
+    },
+    {
+      "description": "By-law 598-2018 - To confirm the composition of Council",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0598.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Notice is hereby given that at its meeting of May 23, 24 and 25, 2018 the Council of the City of Toronto intends to enact a City Council composition by-law.",
+  "title": "Council Composition By-law",
+  "topics": [
+    "Council/Elections > Changes to the composition of Council"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-council.png"
+  ]
+}

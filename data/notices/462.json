@@ -1,0 +1,68 @@
+{
+  "accessibilityDescription": "City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-394-8101, TTY 416-338-0889 or e-mail etcc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5365 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.63518637",
+      "longitudeCoordinate": "-79.540453693",
+      "postalCode": "M9B 1B1",
+      "province": "Ontario",
+      "streetAddress": "5365 Dundas Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Naming a Proposed Private Street - Samuel Wood Way",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=282"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke York Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "locationName": "Etobicoke Civic Centre",
+    "phone": "416-392-8016",
+    "postalCode": "M9C 2Y2",
+    "province": "Ontario",
+    "streetAddress": "399 The West Mall"
+  },
+  "decisionBody": "Etobicoke York Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Etobicoke Civic Centre",
+      "postalCode": "M9C 2Y2",
+      "province": "Ontario",
+      "startDateTime": 1553002200000,
+      "streetAddress": "399 The West Mall"
+    }
+  ],
+  "noticeDate": 1552021200000,
+  "noticeDescription": "<p>To consider a proposal to name the proposed private street at 5365 Dundas Street West as \"Samuel Wood Way\"</p>\n<p>The plan showing the lands to be affected may be seen in the City Clerk's Office, Secretariat, Etobicoke Civic Centre, 399 The West Mall, between the hours of 8:30 a.m. and 4:30 p.m. Monday to Friday. At its meeting to be held in the Council Chambers, Etobicoke Civic Centre, 399 The West Mall on March 19, 2019 at 9:30 a.m., or shortly afterwards, the Etobicoke York Community Council will hear in person or by his or her counsel, agent or solicitor, any person who claims that his or her lands will be prejudicially affected by the naming and who applies to be heard with respect to the proposed naming.</p>\n<p><strong>Notice to people writing or making presentations to the Etobicoke York Community Council:</strong> The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view.&nbsp; If you speak at the meeting you will appear in the video broadcast.&nbsp; Video broadcasts are archived and continue to be publicly available.</p>\n<p>To obtain additional information, submit comments or address the Etobicoke York Community Council meeting on March 19, 2019, please contact the following City official no later than 4:30 p.m. on March 18, 2019.</p>\n<p style=\"padding-left: 30px;\">Ms. Rosemary MacKenzie</p>\n<p style=\"padding-left: 30px;\">Administrator, Etobicoke York Community Council</p>\n<p style=\"padding-left: 30px;\">City Clerk&rsquo;s Office</p>\n<p style=\"padding-left: 30px;\">Etobicoke Civic Centre</p>\n<p style=\"padding-left: 30px;\">399 The West Mall</p>\n<p style=\"padding-left: 30px;\">Toronto, Ontario M9C 2Y2</p>\n<p style=\"padding-left: 30px;\">Telephone: 416-394-8101; Fax: 416-394-5600</p>\n<p style=\"padding-left: 30px;\">E-mail: <a href=\"mailto:etcc@toronto.ca\">etcc@toronto.ca</a> </p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 462,
+  "otherReferenceList": [
+    {
+      "description": "EY4.7 -  Naming of a Proposed Private Street at 5365 Dundas Street West (Phase 2)  ",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.EY4.7"
+    },
+    {
+      "description": "Bylaw 399-2019 - To authorize the naming of a proposed private street located at 5365 Dundas Street West as Samuel Wood Way.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0399.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "City of Toronto Act, 2006 - Public Notice  Etobicoke York Community Council Area",
+  "title": "Notice of Naming of a Proposed Private Street - Samuel Wood Way",
+  "topics": [
+    "Transportation > Intention to name a road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

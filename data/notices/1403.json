@@ -1,0 +1,62 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 St Nicholas Street Toronto Ontario",
+      "latitudeCoordinate": "43.66511482",
+      "longitudeCoordinate": "-79.385372",
+      "postalCode": "M4Y 1W5",
+      "province": "Ontario",
+      "streetAddress": "5 St Nicholas Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Designate - 5 St. Nicholas Street ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1223"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1575867600000,
+  "noticeDescription": "<p>Take notice that Toronto City Council intends to designate the lands and building known municipally as 5 St. Nicholas Street under Part IV, Section 29 of the Ontario Heritage Act.</p>\n<p><strong>Reasons for Designation</strong></p>\n<p>The property at 5 St. Nicholas Street is worthy of designation under Part IV, Section 29 of the Ontario Heritage Act for its cultural heritage value, and meets Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation under the two categories of associative and contextual value.</p>\n<p><strong>Description</strong></p>\n<p>Located on the east side of St. Nicholas Street between Wellesley Street West and St. Joseph Street, the property at 5 St. Nicholas Street, contains a two-storey, brick building, initially constructed in 1896 by the Provident Investment and Mortgage Guarantee Co. for stables and storage and subsequently owned and occupied for many years by Joseph and Emma Limon, cabinet-makers. The property has been identified as contributing to the Historic Yonge Heritage Conservation District which was approved for designation under Part V of the Ontario Heritage Act by City Council in 2016 and is currently under appeal.</p>\n<p><strong>Statement of Cultural Heritage Value</strong></p>\n<p>The property is valued for its historical association with the late 19th century development of the Yonge Street as it emerged as an urban commercial and residential neighbourhood which has been identified within the Historic Yonge Historic Conservation District. The building contributes to an understanding of the history of the development of Yonge Street as businesses as they evolved and expanded over time with laneway buildings and functions supporting the main street businesses. It is also associated with the 1960s urban revitalization of the downtown and adaptive re-use of historic structures.</p>\n<p>Located on the east side of St. Nicholas Street, the former 1896 stables and storage building has value as it defines and maintains the historic character of the original laneway which ran behind and parallel to the main street, Yonge Street. Along with the former stables and storage buildings at 7 St. Nicholas Street and the former Rawlinson storage buildings to the north at 9-29 St. Nicholas Street, the two-story stables building at 5 St. Nicholas Street, maintains the historic character of the laneway as it was lined with late 19th and early 20th century warehouses. Along with the 1870s residential row houses at 10-16 Wellesley Street and the 1870s-early 1900s commercial buildings on Yonge Street including 586 Yonge, the former stables and storage building has value as it supports the historic mix of properties that characterized the block bound by Wellesley Street West, Yonge, St. Nicholas and St. Joseph streets and it is historically, functionally, physically and visually linked to its surroundings and contributes to the cultural heritage value of the Historic Yonge HCD.</p>\n<p><strong>Heritage Attributes</strong></p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The heritage attributes of the former stables and storage building at 5 St. Nicholas Street are:</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The placement and orientation of the building on its property on the east side of St. Nicholas Street</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The scale, form and massing of the two storey block</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The materials which include the original brick cladding</p>\n<p>Notice of an objection to the proposed designation may be served on the City Clerk, Attention:&nbsp; Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, Toronto, Ontario, M5H 2N2, within thirty days of December 9, 2019, which is January 8, 2020. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1403,
+  "otherReferenceList": [
+    {
+      "description": "2019.CC10.9 - 10-16 Wellesley Street West, 5-7 St. Nicholas Street, and 586 Yonge Street - Request for Directions",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.CC10.9"
+    },
+    {
+      "description": "2018.TE30.9 - 10-16 Wellesley Street West, 5-7 St. Nicholas Street and 586 Yonge Street - Zoning Amendment - Refusal Report",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.TE30.9"
+    },
+    {
+      "description": "2019.PB9.4 - Request for Directions regarding 10-16 Wellesley Street West, 5-7 St. Nicholas Street, and 586 Yonge Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB9.4"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Intention to Designate - 5 St. Nicholas Street ",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

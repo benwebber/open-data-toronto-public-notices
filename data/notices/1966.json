@@ -1,0 +1,66 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "260 King Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6519446563",
+      "longitudeCoordinate": "-79.3664486025",
+      "postalCode": "M5A 4L5",
+      "province": "Ontario",
+      "streetAddress": "260 King Street East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law - 260 King Street East ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1793"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1606194000000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 929-2020 to designate 260 King Street East (Toronto Centre, Ward 13) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1966,
+  "otherReferenceList": [
+    {
+      "description": "By-law 929-2020 - To amend By-law 855-88, being a by-law to designate the property at 260 King Street East as being of cultural heritage value or interest, to include the building on the property with the entrance addresses of 254, 256 and 266 King Street East, 427 and 435 Adelaide Street East, and 157 Princess Street, and to revise the legal description.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2020/law0929.pdf"
+    },
+    {
+      "description": "2017.TE23.22 - Amendment of Designating By-law - 260 King Street East (including the entrance addresses at 254, 256 and 266 King Street East, 427 and 435 Adelaide Street East, and 157 Princess Street)",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2017.TE23.22"
+    },
+    {
+      "description": "2018.PB31.7 - 260 King Street East (including the entrance addresses at 254, 256 and 266 King Street East, 427 and 435 Adelaide Street East, and 157 Princess Street) - Upcoming Report",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.PB31.7"
+    },
+    {
+      "description": "2017.PB21.4 - Amendment of Designating By-law - 260 King Street East (including the entrance addresses at 254, 256 and 266 King Street East, 427 and 435 Adelaide Street East, and 157 Princess Street)",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2017.PB21.4"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, Interim City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 260 King Street East, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 929-2020 – 260 King Street East",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

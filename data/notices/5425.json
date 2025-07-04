@@ -1,0 +1,51 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "64 Woodlawn Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.68358742",
+      "longitudeCoordinate": "-79.395203624",
+      "postalCode": "M4V 1G7",
+      "province": "Ontario",
+      "streetAddress": "64 Woodlawn Avenue West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 64 Woodlawn Avenue West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5283"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1722225600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>IN THE MATTER OF THE ONTARIO HERITAGE ACT</strong></p>\n<p style=\"text-align: center;\"><strong>R.S.O. 1990, CHAPTER O.18 AND</strong></p>\n<p style=\"text-align: center;\"><strong>CITY OF TORONTO, PROVINCE OF ONTARIO</strong></p>\n<p style=\"text-align: center;\"><strong>64 WOODLAWN AVENUE WEST</strong></p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>WITHDRAWAL OF PROPOSED AMENDMENT</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>TO DESIGNATION BY-LAW 606-2018</strong></span></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that Council for the City of Toronto intends to withdraw the notice of proposed amendment to the Designation By-law 606-2018 being a by-law designating the Property known municipally as 64 Woodlawn Avenue West under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest.</p>\n<p>&nbsp;</p>\n<p>Further information in respect of the Withdrawal of the Proposed Amendment to the Designation By-law is available from the City of Toronto at:</p>\n<p>&nbsp;</p>\n<p><a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2024.CC20.30\">https://secure.toronto.ca/council/agenda-item.do?item=2024.CC20.30</a>.&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5425,
+  "otherReferenceList": [
+    {
+      "description": "2024.CC20.30 - 64 Woodlawn Avenue West - Withdrawal of Proposed Amendment to Designating By-law under Part IV, Section 30.1 of the Ontario Heritage Act",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2024.CC20.30"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Decision - 64 Woodlawn Avenue West ",
+  "topics": [
+    "Heritage > Amendment to the designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

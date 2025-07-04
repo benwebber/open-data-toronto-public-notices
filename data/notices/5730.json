@@ -1,0 +1,52 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Sheppard Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.78554192052006",
+      "longitudeCoordinate": "-79.27851222883594",
+      "province": "Ontario",
+      "streetAddress": "Sheppard Avenue East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": " Notice of Proposal to Pass a By-law to Permanently Close the Part of the Public Highway - Agincourt Drive",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5587"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Scarborough Community Council",
+    "country": "Canada",
+    "emailAddress": "scc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Scarborough Civic Centre",
+    "phone": "416-396-7287",
+    "postalCode": "M1P 4N7",
+    "province": "Ontario",
+    "streetAddress": "150 Borough Drive"
+  },
+  "decisionBody": "Scarborough Community Council",
+  "eventList": [],
+  "noticeDate": 1732510800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>CITY OF TORONTO ACT, 2006, PUBLIC NOTICE</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">Scarborough Community Council Area</span></strong></p>\n<p>&nbsp;</p>\n<p>The Council of the City of Toronto proposes to pass a by-law to permanently close the following:</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>1.&nbsp;&nbsp;&nbsp; Part of the public highway known as Agincourt Drive, located from Sheppard Avenue East to approximately 30m north of Sheppard Avenue East, and described as follows:</p>\n<p>&nbsp;</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PART OF PIN 06098-0074 (LT)</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PART OF AGINCOURT DRIVE (FORMERLY FIRST AVENUE)</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; REGISTERED PLAN 1909</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DESIGNATED AS PARTS 1 AND 2, PLAN 66R-33288</p>\n<p>&nbsp;</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; City of Toronto Province of Ontario</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Land Titles Division of the Toronto Registry Office (No. 66)</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>At its meeting to be held in the Council Chamber, Scarborough Civic Centre, 150 Borough Drive on December 6, 2024, at 9:30 a.m., or shortly afterwards, the Scarborough Community Council will hear from, or by their counsel, agent or solicitor, any person who wishes to speak to this matter.</p>\n<p>The meeting of the Scarborough Community Council will be held with members participating in person and remotely, and the proceedings of the Scarborough Community Council will be conducted publicly.</p>\n<p>&nbsp;</p>\n<p>To obtain additional information, including to view a copy of the proposed by-law and plan to close parts of Agincourt Drive, north of Sheppard Avenue East please review Item SC18.11 on the Community Council's agenda at <a href=\"https://secure.toronto.ca/council/#/committees/2467/24546\">https://secure.toronto.ca/council/#/committees/2467/24546</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>To submit comments or address the Scarborough Community Council meeting on December 6, 2024, either in-person or by video conference or by phone, please contact the City Clerk's Office no later than 12:00 p.m. on December 5, 2024:</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Scarborough Community Council</p>\n<p>City Clerk's Office</p>\n<p>Telephone: 416-397-4579; Fax: 416-392-2980</p>\n<p>E-mail: <a href=\"mailto:scc@toronto.ca\">scc@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Mail: Scarborough Community Council</p>\n<p>c/o Toronto City Hall, 100 Queen Street West, 2nd Floor Toronto, Ontario M5H 2N2</p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance for Members of the Public:</strong> City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-397-4579, TTY 416-338-0889 or e-mail <a href=\"mailto:scc@toronto.ca\">scc@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Notice to people writing or making presentations to the Scarborough Community Council: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>This notice shall also constitute notice to the public of the proposed public highway closure in accordance with the requirements of the Municipal Class Environmental Assessment.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5730,
+  "otherReferenceList": [
+    {
+      "description": "2024.SC18.11 - Permanent Road Closure - Agincourt Drive, north of Sheppard Avenue East and Road Dedication - Sheppard Avenue East, east of Reidmount Avenue",
+      "url": "https://secure.toronto.ca/council/#/committees/2467/24546"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Proposal to Pass a By-law to Permanently Close the Part of the Public Highway - Agincourt Drive ",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

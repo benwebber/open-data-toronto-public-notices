@@ -1,0 +1,69 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3 Osler Street Toronto Ontario",
+      "latitudeCoordinate": "43.664950819",
+      "longitudeCoordinate": "-79.4565379259",
+      "postalCode": "M6P 4A1",
+      "province": "Ontario",
+      "streetAddress": "3 Osler Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1664 Dupont Street Toronto Ontario",
+      "latitudeCoordinate": "43.664856499",
+      "longitudeCoordinate": "-79.456436455",
+      "postalCode": "M6P 3T2",
+      "province": "Ontario",
+      "streetAddress": "1664 Dupont Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1650 Dupont Street Toronto Ontario",
+      "latitudeCoordinate": "43.664921417",
+      "longitudeCoordinate": "-79.45609918",
+      "postalCode": "M6P 3T2",
+      "province": "Ontario",
+      "streetAddress": "1650 Dupont Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - 1650-1664 Dupont Street and 3 Osler Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4962"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1714104000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 23 183066 STE 09 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-law to permit a ten-storey, mixed use building with 186 dwelling units and 418 square metres of ground floor retail. The proposal also seeks to redesignate a portion of the lands from Neighbourhoods to Mixed Use Areas.</p>\n<p>1650-1664 Dupont Street and 3 Osler Street</p>\n<p>Ward 9 &ndash; Davenport</p>\n<p>Planner, Melanie Schneider at 416-397-7569 or <a href=\"mailto:Melanie.Schneider@toronto.ca\">Melanie.Schneider@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5125,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "23 183066 STE 09 OZ "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - 1650-1664 Dupont Street and 3 Osler Street",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

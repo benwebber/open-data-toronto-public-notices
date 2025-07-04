@@ -1,0 +1,88 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "321 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6462003824",
+      "longitudeCoordinate": "-79.390847626",
+      "postalCode": "M5V 1J5",
+      "province": "Ontario",
+      "streetAddress": "321 King Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "323 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6461322309",
+      "longitudeCoordinate": "-79.3909875255",
+      "postalCode": "M5V 1J5",
+      "province": "Ontario",
+      "streetAddress": "323 King Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "325 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6461472109",
+      "longitudeCoordinate": "-79.3910267053",
+      "postalCode": "M5V 1J5",
+      "province": "Ontario",
+      "streetAddress": "325 King Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "327 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6461649024",
+      "longitudeCoordinate": "-79.3911425839",
+      "postalCode": "M5V 1J5",
+      "province": "Ontario",
+      "streetAddress": "327 King Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 321-327 (333) King Street West ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=996"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1570766400000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto on June 18, 2019, having considered an application to demolish a structure designated under Part IV of the Ontario Heritage Act 321-327 (333) King Street West decided, among other things, to</p>\n<p style=\"padding-left: 30px;\">1. Approve the demolition of the designated heritage building at 327 (333) King Street West in accordance with Section 34 of the Ontario Heritage Act, as part of a revised conservation strategy for the site which includes 321-325 King Street West and arising from an amendment to a City Council-approved Ontario Municipal Board settlement (Case No. PL110554), with such alterations substantially in accordance with plans and drawings dated November 27, 2018, prepared by IBI Group Architects and the Heritage Impact Assessment dated January 11, 2019 prepared by Philip Goldsmith Architect, both on file with the Senior Manager, Heritage Preservation Services, all subject to and in accordance with a Conservation Plan satisfactory to the Senior Manager, Heritage Preservation Services and subject to the following additional conditions:&nbsp;</p>\n<p style=\"padding-left: 60px;\">a. prior to issuance of a Local Planning Appeals Tribunal Order in connection with the Zoning By-law Amendment appeal, the owner shall:</p>\n<p style=\"padding-left: 90px;\">1. Provide a detailed Conservation Plan prepared by a qualified heritage consultant that is substantially in accordance with the conservation strategy set out in the Heritage Impact Assessment for 321-327 (333) King Street West, prepared by Philip Goldsmith Architect dated January 11, 2019, to the satisfaction of the Senior Manager, Heritage Preservation Services;</p>\n<p style=\"padding-left: 90px;\">2. Register an amending Heritage Easement Agreement which removes reference to the property at 327 (333) King Street West, updates the current Schedule B photographs and Reasons for Identification and references the plans and drawings dated November 27, 2018, prepared by IBI Group Architects and the Heritage Impact Assessment dated January 11, 2019 prepared by Philip Goldsmith Architect, and the Conservation Plan required in 1.a.1 of this report, all on file with the Senior Manager, Heritage Preservation Services;</p>\n<p style=\"padding-left: 90px;\">3. Enter into and register on the properties at 321-325 King Street West one or more agreements with the City pursuant to Section 37 of the Planning Act, all to the satisfaction of the City Solicitor and the Senior Manager, Heritage Preservation Services, with such facilities, services and matters to be set forth in the related site specific Zoning By-law Amendment giving rise to the proposed alterations, including amongst other matters, securing the preparation and thereafter the implementation of a Heritage Lighting Plan, a Signage Plan, an Interpretation Plan and requiring a letter of credit to secure all work included in the approved Conservation Plan and approved Interpretation Plan, including provision for upwards indexing, all to the satisfaction of&nbsp; the Senior Manager, Heritage Preservation Services;</p>\n<p style=\"padding-left: 90px;\">4. Provide for the withdrawal of the appeal of the King Spadina Heritage Conservation District plan which was approved by Council for intent to designate under Part V of the Ontario Heritage Act.&nbsp;</p>\n<p style=\"padding-left: 60px;\">b. Prior to Final Site Plan approval in connection with the Zoning By-law Amendment appeal for the properties at 321-327 (333) King Street West, the owner shall:</p>\n<p style=\"padding-left: 90px;\">1. Provide final site plan drawings including drawings related to the approved Conservation Plan required in Recommendation 1.a.2 to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 90px;\">2. Provide an Interpretation Plan for the properties at 321-325 King Street West and a Commemoration Plan for 327 (333) King Street West to the satisfaction of the Senior Manager, Heritage Preservation Services and thereafter shall implement such Plans to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 90px;\">3. Provide a Heritage Lighting Plan that describes how the heritage properties will be sensitively illuminated to enhance their heritage character to the satisfaction of the Senior Manager, Heritage Preservation Services, and thereafter shall implement such Plans to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 90px;\">4. Submit a Signage Plan for the proposed development to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 60px;\">c. prior to the issuance of any permit for all or any part of the properties at 321-327 (333) King Street West, including a heritage permit, a building permit or a demolition permit, but excluding permits for repairs and maintenance and usual and minor works for the existing heritage buildings as are acceptable to the Senior Manager, Heritage Preservation Services, the owner shall:</p>\n<p style=\"padding-left: 90px;\">1. Obtain final approval for the necessary by-law amendments required for the alterations to the properties at 321-327 (333) King Street West, such amendments to have been enacted by City Council in connection with an LPAT Order and to have come into effect in a form and with content acceptable to City Council as determined by the Director, Urban Design, City Planning, in consultation with the Senior Manager, Heritage Preservation Services;</p>\n<p style=\"padding-left: 90px;\">2. Provide building permit drawings, including notes and specifications for the conservation and protective measures keyed to the approved Conservation Plan required in Recommendation 1.a.2 above including a description of materials and finishes, to be prepared by the project architect and a qualified heritage consultant to the satisfaction of the Senior Manager, Heritage Preservation Services;</p>\n<p style=\"padding-left: 90px;\">3. Provide a Letter of Credit, including provision for upwards indexing in a form and amount and from a bank satisfactory to the Senior Manager, Heritage Preservation Services to secure all work included in the approved Conservation Plan, Heritage Lighting Plan, Landscape Plan, and Interpretation Plan.</p>\n<p style=\"padding-left: 60px;\">d. prior to the release of the Letter of Credit required in Part 1.c.3. above the owner shall:</p>\n<p style=\"padding-left: 90px;\">1.&nbsp; Provide a letter of substantial completion prepared and signed by a qualified heritage consultant confirming that the required conservation work, required heritage lighting work, and the required interpretive work</p>\n<p>has been completed in accordance with the Conservation Plan, Lighting Plan and Interpretation Plan and that an appropriate standard of conservation has been maintained, all to the satisfaction of the Senior Manager, Heritage Preservation Services;</p>\n<p style=\"padding-left: 90px;\">2. Provide replacement Heritage Easement Agreement photographs to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 30px;\">2. City Council Repeal By-law No. 500-2015 under Section 32 of the Ontario Heritage Act</p>\n<p><strong>Appeal to the Local Planning Appeal Tribunal</strong></p>\n<p>The Ontario Heritage Act states that if a Council of a municipality consents to an application to demolish a designated heritage property subject to certain terms or conditions or refuses the application, the owner may, within thirty days of the day the owner received notice of Council&rsquo;s decision, give notice of appeal to the Local Planning Appeal Tribunal and to the Clerk of the municipality: Attention Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2. Notice of appeal must be received on or before November 12, 2019</p>\n<p>A notice of appeal shall set out the reasons for objection to the decision of Council and be accompanied by the fee prescribed ($300.00) under the Local Planning Appeal Tribunal.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1194,
+  "otherReferenceList": [
+    {
+      "description": "2019.TE6.3 - 321-333 King Street West - Zoning Amendment Application - Revised Request for Direction and Rental Housing Demolition Application Report",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE6.3"
+    },
+    {
+      "description": "By-law No. 500-2015 - To designate the property at 327 (333) King Street West (Gardner Boyd Buildings) as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2015/law0500.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990, Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Decision - 321-327 (333) King Street West ",
+  "topics": [
+    "Heritage > Decision on demolition or removal of structure"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

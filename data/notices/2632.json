@@ -1,0 +1,61 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "260 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.6563509539",
+      "longitudeCoordinate": "-79.3772989248",
+      "postalCode": "M5B 1Z2",
+      "province": "Ontario",
+      "streetAddress": "260 Church Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law 635-2021 - 260 Church Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2480"
+    }
+  ],
+  "contact": {
+    "city": "Toronto ",
+    "contactName": "Toronto Preservation Board",
+    "country": "Canada",
+    "emailAddress": "hertpb@toronto.ca",
+    "locationName": "2nd floor, West Tower, City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario ",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1630296000000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 635-2021 to designate the property at 260 Church Street (Ward 13 Toronto Centre) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2632,
+  "otherReferenceList": [
+    {
+      "description": "2021.PB22.2 - Inclusion on the City of Toronto's Heritage Register, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, Alterations to a Heritage Property, and Authority to Enter into a Heritage Easement Agreement - 260 Church Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.PB22.2"
+    },
+    {
+      "description": "2021.TE24.12 - Inclusion on the City of Toronto's Heritage Register, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, Alterations to a Heritage Property, and Authority to Enter into a Heritage Easement Agreement - 260 Church Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.TE24.12"
+    },
+    {
+      "description": "By-law 635-2021 - To designate the property at 260 Church Street as being of cultural heritage value or interest.",
+      "url": "Inclusion on the City of Toronto's Heritage Register, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, Alterations to a Heritage Property, and Authority to Enter into a Heritage Easement Agreement - 260 Church Street"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 260 Church Street City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 635-2021 - 260 Church Street ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

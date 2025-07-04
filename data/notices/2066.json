@@ -1,0 +1,62 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [
+    {
+      "description": "Public Presentations on the 2021 Capital and Operating Budgets",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1913"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Budget Committee",
+    "country": "Canada",
+    "emailAddress": "buc@toronto.ca",
+    "fax": "416-392-1879",
+    "locationName": "Toronto City Hall, 10th Floor, West Tower",
+    "phone": "416-392-4666",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Budget Committee",
+  "eventList": [],
+  "noticeDate": 1610600400000,
+  "noticeDescription": "<p>Meetings of the Budget Committee to hear Public Presentations on the 2021 Capital and Operating Budgets have been scheduled as follows:</p>\n<p>Monday, January 25, 2021:</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9:30 a.m. to 12:30 p.m.;</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1:30 p.m. to 4:30 p.m.; and</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6:00 p.m. onwards.</p>\n<p>Tuesday, January 26, 2021:</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9:30 a.m. to 12:30 p.m.;</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1:30 p.m. to 4:30 p.m.; and</p>\n<p>&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6:00 p.m. onwards</p>\n<p>These meetings will be held by electronic means and the proceedings of the Committee will be conducted publicly.</p>\n<p>These measures are necessary to comply with physical distancing requirements and as civic buildings are closed to the public.</p>\n<p>The video conference details will be made available to participants closer to the meeting date and the meetings will be broadcast live online at http://www.youtube.com/TorontoCityCouncilLive</p>\n<p><strong>To provide comments or make a presentation to the Budget Committee:</strong></p>\n<p>The public may submit written comments or register to speak to the Committee on any item on the agenda.</p>\n<p>Written comments may be submitted by writing to <a href=\"mailto:buc@toronto.ca\">buc@toronto.ca</a> </p>\n<p>To speak to the Committee, please register by e-mail to <a href=\"mailto:buc@toronto.ca\">buc@toronto.ca</a> or by phone at 416-392-4666. Registered speakers will be provided with instructions on connecting to the meeting.</p>\n<p>For further information or assistance, please contact Matthew Green, Administrator, at 416-392-4666 or e-mail <a href=\"mailto:Matthew.Green@toronto.ca\">Matthew.Green@toronto.ca</a></p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2066,
+  "otherReferenceList": [
+    {
+      "description": "Budget Committee - Public Presentations on the 2021 Budget - Monday, January 25, 2021, 9:30am",
+      "url": "http://app.toronto.ca/tmmis/decisionBodyProfile.do?function=doPrepare&meetingId=19790"
+    },
+    {
+      "description": "Budget Committee - Public Presentations on the 2021 Budget - Monday, January 25, 2021, 1:30pm",
+      "url": "http://app.toronto.ca/tmmis/decisionBodyProfile.do?function=doPrepare&meetingId=20251"
+    },
+    {
+      "description": "Budget Committee - Public Presentations on the 2021 Budget - Monday, January 25, 2021, 6:00pm",
+      "url": "http://app.toronto.ca/tmmis/decisionBodyProfile.do?function=doPrepare&meetingId=20252"
+    },
+    {
+      "description": "Budget Committee - Public Presentations on the 2021 Budget - Tuesday, January 26, 2021, 9:30am",
+      "url": "http://app.toronto.ca/tmmis/decisionBodyProfile.do?function=doPrepare&meetingId=19791"
+    },
+    {
+      "description": "Budget Committee - Public Presentations on the 2021 Budget - Tuesday, January 26, 2021, 1:30pm",
+      "url": "http://app.toronto.ca/tmmis/decisionBodyProfile.do?function=doPrepare&meetingId=20253"
+    },
+    {
+      "description": "Budget Committee - Public Presentations on the 2021 Budget - Tuesday, January 26, 2021, 6:00pm",
+      "url": "http://app.toronto.ca/tmmis/decisionBodyProfile.do?function=doPrepare&meetingId=20254"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, Interim City Clerk",
+  "title": "Budget Committee - Public Presentations on the 2021 Capital and Operating Budgets",
+  "topics": [
+    "Meetings > Notice of meeting"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-meeting.png"
+  ]
+}

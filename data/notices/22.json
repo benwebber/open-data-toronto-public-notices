@@ -1,0 +1,62 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2430 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.7102950314",
+      "longitudeCoordinate": "-79.3995115147",
+      "postalCode": "M4P 2H4",
+      "province": "Ontario",
+      "streetAddress": "2430 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2434 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.7104037136",
+      "longitudeCoordinate": "-79.3995825009",
+      "postalCode": "M4P 2H4",
+      "province": "Ontario",
+      "streetAddress": "2434 Yonge Street"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "clerk@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1515042000000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 1386-2017 to designate 2430 and 2434 Yonge Street (including the entrance address at 2436 Yonge Street) (Eglinton-Lawrence &ndash; Ward 16) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 22,
+  "otherReferenceList": [
+    {
+      "description": "Item MM31.37 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 2430 and 2434 Yonge Street ",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2017.MM31.37"
+    },
+    {
+      "description": "By-law 1386-2017 - To designate the property at 2430 and 2434 Yonge Street (including the entrance address at 2436 Yonge Street) as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2017/law1386.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario and  2430 and 2434 Yonge Street (Including the Entrance Address at 2436 Yonge Street)",
+  "title": "Notice of Passing of By-law - 2430 and 2434 Yonge Street",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

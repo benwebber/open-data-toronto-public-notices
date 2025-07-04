@@ -1,0 +1,58 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "32 Eastern Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.65355156",
+      "longitudeCoordinate": "-79.359673017",
+      "postalCode": "M5A 1H5",
+      "province": "Ontario",
+      "streetAddress": "32 Eastern Avenue"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Committee Room One, Toronto City Hall",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1568640600000,
+      "streetAddress": "100 Queen Street West"
+    }
+  ],
+  "noticeDate": 1567742400000,
+  "noticeDescription": "<p>Notice is hereby given that the Toronto and East York Community Council will consider a proposal to pass a by-law to realign the boundary of Permit Parking area \"7C\" to exclude the development address of 18-32 Eastern Avenue on September 16, 2019 at 9:30 a.m. or shortly afterwards, in Committee Room 1, Second Floor, City Hall, 100 Queen Street West.</p>\n<p>Any objections regarding this proposal should be set out in writing and forwarded to the City Clerk, Attention: Ellen Devlin, Toronto and East York Community Council, City of Toronto, Secretariat Division, City Hall, 100 Queen Street W, 2nd floor, West Tower, Toronto, Ontario, M5H 2N2, or by email: teycc@toronto.ca.</p>\n<p>If you wish to make a presentation to the Community Council regarding this proposal, please phone 416-392-7033 or email teycc@toronto.ca by 12 noon on September 13, 2019, so that we can include your name on the list of speakers. We limit presentations to no longer than five minutes.</p>\n<p>The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, City Hall, 100 Queen Street West, Toronto ON M5H 2N2 or call 416-392-7033.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1091,
+  "otherReferenceList": [
+    {
+      "description": "2019.TE8.13 - Realignment of Permit Parking Area 7C to exclude the development located at 18-32 Eastern Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE8.44"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Notice of a Proposal to Realign Permit Parking Area \"7C\"",
+  "topics": [
+    "Transportation > Intention to reduce permit parking spaces or times"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

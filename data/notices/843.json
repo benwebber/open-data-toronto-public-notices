@@ -1,0 +1,64 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1785 Bayview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.710444508",
+      "longitudeCoordinate": "-79.376568911",
+      "postalCode": "M4G 3C5",
+      "province": "Ontario",
+      "streetAddress": "1785 Bayview Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1783 Bayview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.710418692",
+      "longitudeCoordinate": "-79.376695142",
+      "postalCode": "M4G 3C5",
+      "province": "Ontario",
+      "streetAddress": "1783 Bayview Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing - 1783-1785 Bayview Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=643"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "fax": "416-395-7337",
+    "locationName": "North York Civic Centre",
+    "phone": "416-395-0480",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1562299200000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 948-2019 to designate the property at 1783-1785 Bayview Avenue (Don Valley West - Ward 15) as being of cultural heritage value or interest.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 843,
+  "otherReferenceList": [
+    {
+      "description": "By-law 948-2019 - To amend By-law 224-2019 designating the property at 1783-1785 Bayview Avenue as being of cultural heritage value or interest.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0948.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Passing - 1783-1785 Bayview Avenue",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

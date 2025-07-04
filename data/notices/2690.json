@@ -1,0 +1,49 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "144 Presley Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7096569606",
+      "longitudeCoordinate": "-79.2884799235",
+      "postalCode": "M1L 3R1",
+      "province": "Ontario",
+      "streetAddress": "144 Presley Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice Energy Retrofit Bills Notice 144 Presley Ave",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2517"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1632456000000,
+  "noticeDescription": "<p>A Bill for the benefitting property listed below has been submitted for the meeting of City Council being held on October 1 and 4, 2021. <a title=\"Bill details for the benefitting property\" href=\"http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2021.CC36\">Review Bill details</a></p>\n<p>&nbsp;</p>\n<p>The Bill imposes a special charge on the benefitting property as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by Executive Committee Item <a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22\">EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in B<a href=\"http://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">y-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>&nbsp;</p>\n<p>The benefitting property is:</p>\n<p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 144 Presley Avenue</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2690,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program",
+  "title": "City's Residential Retrofit Program",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

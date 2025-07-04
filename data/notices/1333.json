@@ -1,0 +1,41 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "440 Maple Leaf Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7147814739",
+      "longitudeCoordinate": "-79.4803317479",
+      "postalCode": "M6L 1P8",
+      "province": "Ontario",
+      "streetAddress": "440 Maple Leaf Drive"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Properties",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1151"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Mr. Rafael Gutierrez",
+    "country": "Canada",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-338-2995",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street, 2nd Floor"
+  },
+  "eventList": [],
+  "noticeDate": 1573794000000,
+  "noticeDescription": "<p>NOTICE is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal by-law, the following properties were declared surplus:</p>\n<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On November 6, 2019 a portion of Progress Avenue, shown as Part 1 on Sketch No. PS-2018-093, being part of PIN 06181-0553, legally described as PT LT 18 CON 2 SCARBOROUGH PT 1 64R2534, PTS 2 &amp; 3 64R1352 (FORMERLY CARMELITE DR), PART OF LOT 18 CONCESSION 2 AS IN SC571937 EXCEPT PT 4 64R14726, PT 3 SC450402, BEING PROGRESS COURT; TORONTO; CITY OF TORONTO, was declared surplus, conditional upon City Council approving the permanent closure of the said lane and subject to required easements. The public lane has a total area of approximately 1,203.4 m2 &plusmn; (12,953 ft2 &plusmn;). The City proposes to invite an offer to purchase the property from the abutting owner of 940 Progress Avenue.</p>\n<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On November 5, 2019, vacant land described as Lane as in Plan of Subdivision 3784, a former public highway closed by By-Law 15000 of the former Corporation of the Township of North York registered as Instrument No. NY342318, being part of PIN. No. 10273-0183, also shown as Part 1 on Property Sketch No. PS-2012-045, was declared surplus. The vacant land has a total area of approximately 262.8 m2 &plusmn; (2,829 ft2 &plusmn;). The City proposes to invite an offer to purchase the property from the abutting owner of 440 Maple Leaf Dr.</p>\n<p>The following City official has information about the proposed disposition: Mr. Rafael Gutierrez, Tel: 416-338-2995, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the November 29, 2019.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1333,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "title": "Declaration of Surplus Properties",
+  "topics": [],
+  "uniqueMapUrl": []
+}

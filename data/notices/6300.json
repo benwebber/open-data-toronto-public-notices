@@ -1,0 +1,47 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1350 Sheppard Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.74548426804069 ",
+      "longitudeCoordinate": "-79.48490223223561",
+      "province": "Ontario",
+      "streetAddress": "1350 Sheppard Avenue West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 1350 Sheppard Avenue West (William Baker/Arbo District Phase 1)",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6203"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1747368000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 25 124861 NNY 06 OZ</p>\n<p>Application to amend Zoning By-law Number 1082-2022 to increase the maximum unit count from 1,400 units to 1,700 units, to reduce the minimum size of 2-bedroom and 3-bedroom units and to amend the performance standard relating to the timing of services at 1350 Sheppard Avenue West.&nbsp; The zoning by-law amendment proposal also includes some technical modifications to Schedule A of Zoning By-law 1082-2022.</p>\n<p>1350 Sheppard Avenue West (William Baker/Arbo District Phase 1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>Ward 6 &ndash; York Centre</p>\n<p>This land is also subject to an application under the Planning Act for approval of a plan of subdivision, Application Number: 21 119572 NNY 06 SB</p>\n<p>Perry Korouyenis, Planner at (416) 395-7110 or <a href=\"mailto:Perry.Korouyenis@toronto.ca\">Perry.Korouyenis@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.<br /><br /></p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6300,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 124861 NNY 06 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 1350 Sheppard Avenue West (William Baker/Arbo District Phase 1)\n",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

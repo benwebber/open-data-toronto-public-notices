@@ -1,0 +1,52 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "115 Bond Street Toronto Ontario",
+      "latitudeCoordinate": "43.6573241454",
+      "longitudeCoordinate": "-79.3784835918",
+      "postalCode": "M5B 1Y2",
+      "province": "Ontario",
+      "streetAddress": "115 Bond Street"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "clerk@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1536120000000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No.807-2018 to designate 115 Bond Street (Saint George&rsquo;s Greek Orthodox Church formerly, formerly known as the Holy Blossom Synagogue) (Toronto Centre-Rosedale, Ward 27) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 208,
+  "otherReferenceList": [
+    {
+      "description": "TE21.11 - Amendment of Designating By-law - 115 Bond Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2017.TE21.11"
+    },
+    {
+      "description": "Bylaw 807-2018 - To amend former City of Toronto By-law 637-76 being a by-law to designate the property at 115 Bond Street (Saint George's Greek Orthodox Church, formerly known as the Holy Blossom Synagogue) under Part IV of the Ontario Heritage Act, by revising the reasons for designation to describe the property's cultural heritage value and heritage attributes.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0807.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act  R.S.O. 1990, Chapter 0.18 and 115 Bond Street (Saint George’s Greek Orthodox Church formerly, formerly known as the Holy Blossom Synagogue), City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 807-2018 - 115 Bond Street",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

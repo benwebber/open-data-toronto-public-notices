@@ -1,0 +1,103 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "517 Richmond Street East Toronto Ontario",
+      "latitudeCoordinate": "43.654196176",
+      "longitudeCoordinate": "-79.364664777",
+      "postalCode": "M5A 1R4",
+      "province": "Ontario",
+      "streetAddress": "517 Richmond Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "523 Richmond Street East Toronto Ontario",
+      "latitudeCoordinate": "43.654149993",
+      "longitudeCoordinate": "-79.364473889",
+      "postalCode": "M5A 1R4",
+      "province": "Ontario",
+      "streetAddress": "523 Richmond Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "97 Berkley Street Toronto Ontario",
+      "latitudeCoordinate": "43.653711909200226",
+      "longitudeCoordinate": "-79.36481769100513",
+      "postalCode": "M5A 2W8",
+      "province": "Ontario",
+      "streetAddress": "97 Berkley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "105 Berkeley Street Toronto Ontario",
+      "latitudeCoordinate": "43.654007395",
+      "longitudeCoordinate": "-79.36458126",
+      "postalCode": "M5A 2W8",
+      "province": "Ontario",
+      "streetAddress": "105 Berkeley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "111 Berkeley Street Toronto Ontario",
+      "latitudeCoordinate": "43.65406448",
+      "longitudeCoordinate": "-79.364975106",
+      "postalCode": "M5A 2W8",
+      "province": "Ontario",
+      "streetAddress": "111 Berkeley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "115 Berkeley Street Toronto Ontario",
+      "latitudeCoordinate": "43.654169756",
+      "longitudeCoordinate": "-79.365066676",
+      "postalCode": "M5A 2W8",
+      "province": "Ontario",
+      "streetAddress": "115 Berkeley Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Zoning By-Law 471-2025 - 517-523 Richmond St E  97-115 Berkeley St",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6219"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1748491200000,
+  "noticeDescription": "<p><strong><span style=\"font-size: 14.0pt;\">NOTICE OF PASSING OF ZONING BY-LAW 471-2025</span></strong></p>\n<p><strong>(Under the Planning Act)</strong></p>\n<p><strong>&nbsp;</strong></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 12.0pt;\">TAKE NOTICE that the City of Toronto passed Zoning By-law 471-2025 on May 22, 2025, with respect to the lands known as 517 and 523 Richmond Street East, and 97, 105, 111, and 115 Berkeley Street.</span></p>\n<p>&nbsp;</p>\n<p>An explanation of the purpose and effect of the Zoning By-law, and a map showing the location of the lands to which the amendment applies, are attached. The amendment was processed under file number: 23 238365 STE 13 OZ</p>\n<p>&nbsp;</p>\n<p>A statutory public meeting was held on September 25, 2024, and the Toronto and East York Community Council and Toronto City Council considered two oral and two written submissions in making the decision. Please see item 2024.TE16.4 at <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2024.TE16.4\">https://secure.toronto.ca/council/agenda-item.do?item=2024.TE16.4</a>. &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal to the Ontario Land Tribunal in respect to all or part of this Zoning By-law may be made by filing a notice of appeal with the City Clerk, <strong>Attention: Raneisha Hemmings</strong>, Registrar Secretariat, 100 Queen Street West, 2<sup>nd</sup> Floor West, Toronto, ON, M5H 2N2, no later than 4:30 p.m. on <strong>June 18, 2025</strong>. If delivering in-person, drop off at the Registry Services Counter, Toronto City Hall. The filing of a notice of appeal after 4:30 p.m., in person or electronically, will be deemed to have been received the next business day.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p style=\"margin-left: 36.0pt; text-indent: -36.0pt; tab-stops: -72.0pt;\">(1)&nbsp; &nbsp; &nbsp; &nbsp;set out the reasons for the appeal; and</p>\n<p style=\"margin-left: 36.0pt; text-indent: -36.0pt; tab-stops: -72.0pt;\">(2)&nbsp; &nbsp; &nbsp; &nbsp;be accompanied by the fee prescribed under the Ontario Land Tribunal in the amount of $1,100.00 for each application appealed payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p style=\"margin-left: 36.0pt; text-indent: -36.0pt; tab-stops: -72.0pt;\"><strong>&nbsp;</strong></p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the OLT website at www.olt.gov.on.ca.</p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only an applicant, a specified person or public body as defined in the <em>Planning Act</em> that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, the registered owner of any land to which the by-law would apply that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, and the Minister may appeal the by-law to the Ontario Land Tribunal.&nbsp;</p>\n<p>&nbsp;</p>\n<p>No person or public body shall be added as a party to the hearing of the appeal unless, before the by-law was passed, the person or public body made oral submissions at a public meeting or written submissions to the Council, or in the opinion of the Ontario Land Tribunal, there are reasonable grounds to add the person or public body as a party.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application may be obtained by contacting <strong>Tiffany Ly</strong> at 416-338-4788 or by email at <a href=\"mailto:Tiffany.Ly@toronto.ca\">Tiffany.Ly@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6313,
+  "otherReferenceList": [
+    {
+      "description": "TE16.4 - 517-523 Richmond Street East and 97-115 Berkeley Street - Zoning By-law Amendment Application - Decision Report - Approval",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2024.TE16.4"
+    }
+  ],
+  "planningApplicationNumbers": [
+    "23 238365 STE 13 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Passing of Zoning By-Law 471-2025 - 517-523 Richmond St E  97-115 Berkeley St  ",
+  "topics": [
+    "Planning > Adoption of Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

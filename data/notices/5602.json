@@ -1,0 +1,48 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1045 The Queensway Toronto Ontario",
+      "latitudeCoordinate": "43.622418463",
+      "longitudeCoordinate": "-79.518102362",
+      "postalCode": "M8Z 1R1",
+      "province": "Ontario",
+      "streetAddress": "1045 The Queensway"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 1188-2022 - 1045 The Queensway",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5463"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1728014400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF INTENTION TO REMOVE A HOLDING SYMBOL (H) FROM ZONING BY-LAW 1188-2022(OLT)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application under Section 36 of the <em>Planning Act</em>:</p>\n<p>&nbsp;</p>\n<p><strong>Application Number:</strong> 22 234461 WET 03 OZ</p>\n<p><strong>Location of Application:</strong> 1045 The Queensway</p>\n<p><strong>Ward:</strong> Ward 03 - Etobicoke-Lakeshore</p>\n<p><strong>Contact:</strong> Alyssa Hawley, Assistant Planner at 416-394-8294, by email at <a href=\"mailto:Alyssa.Hawley@toronto.ca\">Alyssa.Hawley@toronto.ca</a>, or by address at 2 Civic Centre Court, Toronto, ON M9C 5A3</p>\n<p>&nbsp;</p>\n<p><strong>DESCRIPTION</strong></p>\n<p>&nbsp;</p>\n<p>The application to amend Zoning By-law 1188-2022(OLT) to remove the holding symbol (H) to permit a 12-storey mixed-use building containing 321 dwelling units and a total gross floor area of 23,005 square metres. The proposed development includes 715 square metres of retail space at grade, four live-work units and three levels of underground parking containing 214 parking spaces. The submitted proposal addresses the conditions under the Holding Provision of the site-specific zoning that was approved by Ontario Land Tribunal as per the final Order issued dated July 25, 2022. The \"H\" provision was imposed to enable the applicant to provide additional information related to site servicing, provide a satisfactory Transportation Impact Study and Parking Utilization Study, enter into necessary infrastructure agreements, provide satisfactory landscape plans and a Pedestrian Level Wind Study, along with undertaking a peer review of the submitted noise and odour assessments. The area where the holding symbol (H) is to be removed is noted on the map below.</p>\n<p>&nbsp;</p>\n<p>Detailed information regarding the above-listed proposal, including background information and materials may be made available for public inspection by contacting the Assistant Planner noted above or by visiting the City of Toronto&rsquo;s Application Information Centre.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>MAKE YOUR VIEWS KNOWN</strong></p>\n<p>&nbsp;</p>\n<p>You may send written comments by mail or email to the Assistant Planner noted above. Your written comments must be submitted no later than <strong>November 1, 2024</strong>, to be considered by the Chief Planner and Executive Director, City Planning or designate. A decision by the Chief Planner and Executive Director, City Planning or designate as to whether to remove the holding symbol (H) will occur no earlier than <strong>November 19, 2024</strong>.</p>\n<p>&nbsp;</p>\n<p><strong>Notice to people writing to the City:</strong> The <em>City of Toronto Act, 2006,</em> the <em>Planning Act,</em> and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication to the City.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s).&nbsp; If you are submitting letters, e-mails, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5602,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "22 234461 WET 03 OZ "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 1188-2022 - 1045 The Queensway",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment",
+    "Planning > Intention to remove a Holding Symbol"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

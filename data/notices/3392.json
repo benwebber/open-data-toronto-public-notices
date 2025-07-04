@@ -1,0 +1,70 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "30 Fernwood Park Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6706232919",
+      "longitudeCoordinate": "-79.2885295337",
+      "postalCode": "M4E 3G1",
+      "province": "Ontario",
+      "streetAddress": "30 Fernwood Park Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "69 Alcina Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.679305434",
+      "longitudeCoordinate": "-79.420169128",
+      "postalCode": "M6G 2E7",
+      "province": "Ontario",
+      "streetAddress": "69 Alcina Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "91 Barker Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6933439098",
+      "longitudeCoordinate": "-79.3196225583",
+      "postalCode": "M4C 2N7",
+      "province": "Ontario",
+      "streetAddress": "91 Barker Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3159"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1654833600000,
+  "noticeDescription": "<p>Individual Bills for each of the benefitting properties listed below have been submitted for the meeting of City Council being held on June 15 and 16, 2022. Review Bill details (<a href=\"http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2022.CC45\">http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2022.CC45</a>).</p>\n<p>&nbsp;</p>\n<p>Each of these bills imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a href=\"http://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>The benefitting properties are:</p>\n<ul>\n<li>30 Fernwood Park Avenue</li>\n<li>69 Alcina Avenue</li>\n<li>91 Barker Avenue</li>\n</ul>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3392,
+  "otherReferenceList": [
+    {
+      "description": "City Council Bills Index",
+      "url": "http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2022.CC45"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program",
+  "title": "City's Residential Retrofit Program",
+  "topics": [],
+  "uniqueMapUrl": []
+}

@@ -1,0 +1,59 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Thelma Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.68937575",
+      "longitudeCoordinate": "-79.412320049",
+      "postalCode": "M4V 1X8",
+      "province": "Ontario",
+      "streetAddress": "1 Thelma Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Thelma Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.689474923",
+      "longitudeCoordinate": "-79.411842333",
+      "postalCode": "M4V 1X8",
+      "province": "Ontario",
+      "streetAddress": "19 Thelma Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 1-19 Thelma Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5300"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1723780800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif;\"><strong>NOTICE OF APPLICATION(S)</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif;\"><strong>(Under the Planning Act)</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">The City has received the following application(s) under the Planning Act:</span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Application Number: 24 181288 STE 12 OZ</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Application to Amend the Official Plan and Zoning By-law to permit a seven-storey (27.0 metres, plus mechanical and amenity space), 5,900 square metre, 24-unit residential building, with 36 bicycle parking spaces and 55 vehicle parking spaces.</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">1-19 Thelma Avenue</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Ward 12 &ndash; Toronto-St. Paul's</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Planner, Catherine Jung at 416-338-3735 or <a href=\"mailto:Catherine.Jung@toronto.ca\">Catherine.Jung@toronto.ca</a></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>CONTACT INFORMATION</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">City Clerk, Attention: Registrar Secretariat</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>BACKGROUND INFORMATION</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>FURTHER INFORMATION</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</span></p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5443,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 181288 STE 12 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 1-19 Thelma Avenue",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment",
+    "Planning > Proposal for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "310 Front Street West Toronto Ontario",
+      "latitudeCoordinate": "43.644027088",
+      "longitudeCoordinate": "-79.3908262132",
+      "postalCode": "M5V 3B5",
+      "province": "Ontario",
+      "streetAddress": "310 Front Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "330 Front Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6439544156",
+      "longitudeCoordinate": "-79.3911925286",
+      "postalCode": "M5V 3B7",
+      "province": "Ontario",
+      "streetAddress": "330 Front Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 310-330 Front Street West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5600"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1732856400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO EAST YORK COMMUNITY COUNCIL</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 24 224606 STE 10 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-law to demolish the existing office buildings at the southeast and southwest corners of the site and construct two new buildings with retail uses at grade and residential units above. The Official Plan Amendment proposes to reduce the required ratio of two-bedroom units from 15 percent to five percent of the total number of units.&nbsp;&nbsp;&nbsp;</p>\n<p>310-330 Front Street West&nbsp;&nbsp;</p>\n<p>Ward 10 &ndash; Spadina-Fort York</p>\n<p>Joanna Kimont, Senior Planner at 416-392-7216 or <a href=\"mailto:Joanna.Kimont@toronto.ca\">Joanna.Kimont@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5742,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 224606 STE 10 OZ\t"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 310-330 Front Street West   ",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment",
+    "Planning > Proposal for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

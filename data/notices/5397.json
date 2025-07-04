@@ -1,0 +1,53 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2485 Eglinton Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.691348241",
+      "longitudeCoordinate": "-79.468343438",
+      "postalCode": "M6M 1S8",
+      "province": "Ontario",
+      "streetAddress": "2485 Eglinton Avenue West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 2485 Eglinton Ave West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5241"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1721361600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 14pt;\"><strong>NOTICE OF APPLICATION(S)</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif;\"><strong>(Under the Planning Act)</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">The City has received the following application(s) under the Planning Act:</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>ETOBICOKE YORK COMMUNITY COUNCIL</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Application Number: 24 121747 WET 05 OZ</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Application to Amend the Official Plan and Zoning By-law to permit a new 45-storey mixed-use building with 500 residential units and a total gross floor area of 31,327 square metres, with a two-storey underground parking structure.</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">2485 Eglinton Ave West</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Ward 5 &ndash; York South-Weston</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Planner, Ira Banks at 416-394-8878 or <a href=\"mailto:Ira.Banks@toronto.ca\">Ira.Banks@toronto.ca</a></span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'times new roman', times, serif;\">CONTACT INFORMATION</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">City Clerk, Attention: Registrar Secretariat</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'times new roman', times, serif;\">BACKGROUND INFORMATION</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'times new roman', times, serif;\">FURTHER INFORMATION</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</span></p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5397,
+  "otherReferenceList": [
+    {
+      "description": "Application Information Centre",
+      "url": "www.toronto.ca/city-government/planning-development/application-information-centre/"
+    }
+  ],
+  "planningApplicationNumbers": [
+    "24 121747 WET 05 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 2485 Eglinton Ave West",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment",
+    "Planning > Proposal for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

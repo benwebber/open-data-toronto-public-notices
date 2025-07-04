@@ -1,0 +1,54 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "710 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.6681919577",
+      "longitudeCoordinate": "-79.3862092089",
+      "postalCode": "M4Y 2B3",
+      "province": "Ontario",
+      "streetAddress": "710 Yonge Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing - 710 Yonge Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=682"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1563940800000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 943-2019 to designate 710 Yonge Street (Toronto Centre, Ward 13) as being of cultural heritage value or interest.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 882,
+  "otherReferenceList": [
+    {
+      "description": "Bylaw 943-2019 - To designate the property at 710 Yonge Street as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0943.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and  710 Yonge Street, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing - 710 Yonge Street",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

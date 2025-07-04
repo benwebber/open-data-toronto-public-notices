@@ -1,0 +1,70 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2079 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.70279916",
+      "longitudeCoordinate": "-79.39717754",
+      "postalCode": "M4S 2A4",
+      "province": "Ontario",
+      "streetAddress": "2079 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Hillsdale Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.703291427",
+      "longitudeCoordinate": "-79.397069369",
+      "postalCode": "M4S 1T4",
+      "province": "Ontario",
+      "streetAddress": "9 Hillsdale Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "12 Manor Road East Toronto Ontario",
+      "latitudeCoordinate": "43.702843389",
+      "longitudeCoordinate": "-79.396819002",
+      "postalCode": "M4S 1P8",
+      "province": "Ontario",
+      "streetAddress": "12 Manor Road East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application Under the Planning Act - 2079-2111 Yonge Street, 9-11, 21 and 31 Hillsdale Avenue East and 12-18 Manor Road East",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4872"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1711598400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 23 200789 STE 12 OZ</p>\n<p>Applications to Amend the Official Plan and Zoning By-law to permit a 29-storey mixed-use building including 1,671 square metres of ground floor retail space, 486 residential units, and 31 rental replacement units.</p>\n<p>2079-2111 Yonge Street, 9-11, 21, 31 Hillsdale Avenue East and 12-18 Manor Road East</p>\n<p>Ward 12 &ndash; Toronto-St. Paul's</p>\n<p>Planner, Kai Zhou at 416-338-0810 or Kai.Zhou@toronto.ca.</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5035,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "23 200789 STE 12 OZ "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application Under the Planning Act - 2079-2111 Yonge Street, 9-11, 21 and 31 Hillsdale Avenue East and 12-18 Manor Road East",
+  "topics": [
+    "Planning"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2655 Lawrence Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.7512006335",
+      "longitudeCoordinate": "-79.262833115",
+      "postalCode": "M1P 2S2",
+      "province": "Ontario",
+      "streetAddress": "2655 Lawrence Avenue East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Cancellation of Request to Amend the Zoning By-law - 2655 Lawrence Avenue East",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5825"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1738818000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>CANCELLATION NOTICE OF PUBLIC MEETING</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Location of Application: 2655 Lawrence Avenue East &nbsp;</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Request to Amend the Zoning By-law</strong></p>\n<p style=\"text-align: center;\"><strong>Application Number: 08 153889 ESC 37 OZ</strong></p>\n<p style=\"text-align: center;\"><strong>Applicant: Andrew Shields</strong></p>\n<p>&nbsp;</p>\n<p>A Notice of Public Meeting was originally sent to you on January 22, 2025.&nbsp; Please be advised that a Public Meeting for this application was scheduled in error.</p>\n<p>&nbsp;</p>\n<p>This Public Meeting has been <strong>CANCELLED</strong>. You will be notified of the date, time and location of the Public Meeting on this application prior to any decision to amend the Zoning By-law.</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5949,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "08 153889 ESC 37 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Cancellation of Request to Amend the Zoning By-law - 2655 Lawrence Avenue East  ",
+  "topics": [
+    "Planning > Refusal of application for a Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

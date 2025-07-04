@@ -1,0 +1,45 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "33 Gerrard Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6593908351",
+      "longitudeCoordinate": "-79.3800856351",
+      "province": "Ontario",
+      "streetAddress": "33 Gerrard Street East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Properties ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=862"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Real Estate Services",
+    "country": "Canada",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-1227",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1567137600000,
+  "noticeDescription": "<p>NOTICE is given that in accordance with the City&rsquo;s real estate disposal by-law, on August 22, 2019, a City-owned parcel of stratified fee simple air space above a portion of Walton Street, located adjacent to, and on the southern edge of the northwest corner of 33 Gerrard Street West, Toronto, Ontario designated as Part 1 on Plan 66R-30808. The portion of property has a total area of approximately 6.18 m2 &plusmn; (66.41 ft2 &plusmn;).&nbsp; The intended manner of disposal is to be by invitation of an offer to purchase from the adjacent property owner.</p>\n<p>The following City official has information about the proposed disposition: Mr. Owen Bartley, Tel: 416-338-1297, Fax: 416-392-1880, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 13th day of September, 2019.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1062,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Declaration of Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

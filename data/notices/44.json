@@ -1,0 +1,48 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "68 Baby Point Road Toronto Ontario",
+      "latitudeCoordinate": "43.6570645867",
+      "longitudeCoordinate": "-79.4948458552",
+      "postalCode": "M6S 2G3",
+      "province": "Ontario",
+      "streetAddress": "68 Baby Point Road"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1519102800000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto on January 31 and February 1, 2018, having considered an application to alter a structure designated under Part IV of the Ontario Heritage Act for 68 Baby Point Road, decided among other things, to:</p>\n<p>1. Approve the alterations to the heritage property at 68 Baby Point Road in accordance with Section 33 of the Ontario Heritage Act, to modify the existing east elevation with such alterations substantially in accordance with elevation drawings prepared by Goldsmith Borgal and Company Ltd., Architects (dated November 29, 2017) and on file with the Senior Manager, Heritage Preservation Services (HPS) satisfactory to the Senior Manager, HPS and subject to the provision of building permit drawings, including notes and specifications for the conservation and protective measures including a description of materials and finishes to be prepared by the project architect and qualified heritage consultant to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p><strong>Appeal to the Conservation Review Board:</strong></p>\n<p>The Ontario Heritage Act states that where a Council consents to an application to alter a designated property with certain terms or conditions, or refuses the application, the owner may, within thirty days after receipt of this notice, apply to the Council for a hearing before the Conservation Review Board.</p>\n<p>The owner may request a hearing before the Conservation Review Board in this matter, by writing to the City Clerk, Attention Rosemary MacKenzie, Administrator, Etobicoke York Community Council, Etobicoke Civic Centre, Main floor, 399 The West Mall, Toronto, Ontario, M9C 2Y2, by 4.30 p.m. on or before March 22, 2018.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 44,
+  "otherReferenceList": [
+    {
+      "description": "EY27.8 - Alterations to a Designated Heritage Property - 68 Baby Point Road",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.EY27.8"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990, Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Decision - 68 Baby Point Road",
+  "topics": [
+    "Heritage > Decision on alteration to a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

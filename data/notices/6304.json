@@ -1,0 +1,89 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Romar Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.706436949",
+      "longitudeCoordinate": "-79.441215791",
+      "postalCode": "M6B 1R7",
+      "province": "Ontario",
+      "streetAddress": "15 Romar Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Romar Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7065434",
+      "longitudeCoordinate": "-79.440925366",
+      "postalCode": "M6B 1R7",
+      "province": "Ontario",
+      "streetAddress": "19 Romar Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "18 Benner Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.706050788",
+      "longitudeCoordinate": "-79.44055973",
+      "postalCode": "M6B 3G9",
+      "province": "Ontario",
+      "streetAddress": "18 Benner Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "22 Benner Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.706261968",
+      "longitudeCoordinate": "-79.440641059",
+      "postalCode": "M6B 3G9",
+      "province": "Ontario",
+      "streetAddress": "22 Benner Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "8 Stayner Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.706039778",
+      "longitudeCoordinate": "-79.440984017",
+      "postalCode": "M6B 1N4",
+      "province": "Ontario",
+      "streetAddress": "8 Stayner Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 15-19 Romar Crescent, 18-22 Benner Avenue and 8 Stayner Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6208"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1747972800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 25 141826 NNY 08 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-law to permit 40 and 38-storey residential towers above a shared five-storey podium including 966 dwelling units, 229 parking spaces, and 655 bicycle parking spaces.</p>\n<p>15-19 Romar Crescent, 18-22 Benner Avenue and 8 Stayner Avenue</p>\n<p>Ward 8 &ndash; Eglinton-Lawrence</p>\n<p>This land is also subject to an application under the Planning Act for rental housing demolition, Application Number: 25 141867 NNY 08 RH.</p>\n<p>Kayla Sintz, Planner at 416-394-8238 or <a href=\"mailto:Kayla.Sintz@toronto.ca\">Kayla.Sintz@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6304,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 141826 NNY 08 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 15-19 Romar Crescent, 18-22 Benner Avenue and 8 Stayner Avenue\n",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "41 Fraser Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.637041969",
+      "longitudeCoordinate": "-79.423605693",
+      "postalCode": "M6K 1Y7",
+      "province": "Ontario",
+      "streetAddress": "41 Fraser Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "47 Fraser Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.637189332",
+      "longitudeCoordinate": "-79.423665069",
+      "postalCode": "M6K 1Y7",
+      "province": "Ontario",
+      "streetAddress": "47 Fraser Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "135 Liberty Street Toronto Ontario",
+      "latitudeCoordinate": "43.63754998",
+      "longitudeCoordinate": "-79.423653522",
+      "postalCode": "M6K 1A7",
+      "province": "Ontario",
+      "streetAddress": "135 Liberty Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law 46-2021 ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1954"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1614229200000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 46-2021 to designate 41 Fraser Avenue (including the entry addresses at 39, 49, 49A, 53, 53 A Fraser Avenue and 38 and 42 Pardee Avenue), 47 Fraser Avenue (including the entry address at 47A Fraser Avenue) and 135 Liberty Street (Spadina-Fort York, Ward 10) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2107,
+  "otherReferenceList": [
+    {
+      "description": "2020.PB18.4 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 41 and 47 Fraser Avenue and 135 Liberty Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.PB18.4"
+    },
+    {
+      "description": "2020.TE20.9 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 41 and 47 Fraser Avenue and 135 Liberty Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE20.9"
+    },
+    {
+      "description": "2020.TE21.13 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 41 and 47 Fraser Avenue and 135 Liberty Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE21.13"
+    },
+    {
+      "description": "By-law 46-2021 - To designate the property at 41 Fraser Avenue (including the entry addresses at 39, 49, 49A, 53, 53 A Fraser Avenue and 38 and 42 Pardee Avenue), 47 Fraser Avenue (including the entry address at 47A Fraser Avenue) and 135 Liberty Street as being of cultural heritage value or interest.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2021/law0046.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, Interim City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 41 Fraser Avenue (including the entry addresses at 39, 49, 49A, 53, 53 A Fraser Avenue and 38 and 42 Pardee Avenue), 47 Fraser Avenue (including the entry address at 47A Fraser Avenue) and 135 Liberty Street, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 46-2021 41 Fraser Avenue (including the entry addresses at 39, 49, 49A, 53, 53 A Fraser Avenue and 38 and 42 Pardee Avenue), 47 Fraser Avenue (including the entry address at 47A Fraser Avenue) and 135 Liberty Street ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

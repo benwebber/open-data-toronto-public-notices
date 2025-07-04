@@ -1,0 +1,54 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3450 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.725953265",
+      "longitudeCoordinate": "-79.459189933",
+      "postalCode": "M6A 2V1",
+      "province": "Ontario",
+      "streetAddress": "3450 Dufferin Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice - Proposal to Name a Private Street Located at 3450 Dufferin Street as “York Heights Terrace\"",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3810"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "fax": "416-392-1879",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-4666",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1683172800000,
+  "noticeDescription": "<p>CITY OF TORONTO ACT, 2006 - PUBLIC NOTICE</p>\n<p>NORTH YORK COMMUNITY COUNCIL AREA</p>\n<p>&nbsp;</p>\n<p>To consider a proposal to name a proposed private street at 3450 Dufferin Street as &ldquo;York Heights Terrace\".</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>The plan showing the lands to be affected may be seen on the North York Community Council agenda online at toronto.ca/council. The North York Community Council will hear in person or by his or her counsel, agent or solicitor, any person who claims that his or her lands will be prejudicially affected by the naming and who applies to be heard with respect to the proposed naming.</p>\n<p>&nbsp;</p>\n<p>Special Assistance for Members of the Public: City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-4666, TTY 416-338-0889 or e-mail <a href=\"mailto:nycc@toronto.ca\">nycc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Notice to people writing or making presentations to the North York Community Council: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>&nbsp;</p>\n<p>To obtain additional information, submit comments or address the North York Community Council meeting on May 16, 2023, please contact the following City official no later than 4:30 p.m. on May 15, 2023.</p>\n<p>&nbsp;</p>\n<p>Mr. Matthew Green</p>\n<p>Administrator, North York Community Council</p>\n<p>City Clerk&rsquo;s Office</p>\n<p>Toronto City Hall</p>\n<p>100 Queen Street West</p>\n<p>Toronto, ON M5H 2N2</p>\n<p>Telephone: 416-392-4666; Fax: 416-392-1879</p>\n<p>E-mail: <a href=\"mailto:nycc@toronto.ca\">nycc@toronto.ca</a>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4034,
+  "otherReferenceList": [
+    {
+      "description": "2023.NY5.8 - 3450 Dufferin Street - Naming of a Proposed Private Street for a Development",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2023.NY5.8"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "NOTICE IS GIVEN THAT THE CITY OF TORONTO WILL CONSIDER WHETHER TO PASS A BY-LAW TO AUTHORIZE THE NAMING OF A PROPOSED PRIVATE STREET IN THE NORTH YORK COMMUNITY COUNCIL AREA",
+  "title": "Public Notice - Proposal to Name a Private Street Located at 3450 Dufferin Street as “York Heights Terrace\" ",
+  "topics": [
+    "Transportation > Intention to name a road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

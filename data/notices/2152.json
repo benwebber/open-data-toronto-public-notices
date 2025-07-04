@@ -1,0 +1,58 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "351 Lake Shore Boulevard East Toronto Ontario",
+      "latitudeCoordinate": "43.6479744652",
+      "longitudeCoordinate": "-79.3596883384",
+      "postalCode": "M5A 0T7",
+      "province": "Ontario",
+      "streetAddress": "351 Lake Shore Boulevard East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law - 351 Lake Shore Boulevard East",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1999"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1616558400000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 183-2021 to designate 351 Lake Shore Boulevard East (Spadina-Fort York, Ward 10) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2152,
+  "otherReferenceList": [
+    {
+      "description": "By-law 183-2021 - To designate the property at 351 Lake Shore Boulevard East as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2021/law0183.pdf"
+    },
+    {
+      "description": "2016.TE14.12 - Intention to Designate Under Part IV, Section 29 of the Ontario Heritage Act - 351 Lake Shore Boulevard East",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2016.TE14.12"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, Interim City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 351 Lake Shore Boulevard East, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law - 351 Lake Shore Boulevard East ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

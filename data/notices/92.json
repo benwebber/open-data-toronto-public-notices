@@ -1,0 +1,52 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1433 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.6822015066",
+      "longitudeCoordinate": "-79.4175569944",
+      "postalCode": "M5R 3J2",
+      "province": "Ontario",
+      "streetAddress": "1433 Bathurst Street"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1520571600000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 1367-2017 to designate 1433 Bathurst Street (Wychwood Library) (St. Paul&rsquo;s, Ward 21) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 92,
+  "otherReferenceList": [
+    {
+      "description": "TE23.19 - Alterations to a Heritage Property, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act and Authority to Enter into a Heritage Easement Agreement - 1433 Bathurst Street (Wychwood Library)",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2017.TE23.19"
+    },
+    {
+      "description": "By-law 1367-2017 - To designate the property at 1433 Bathurst Street (Wychwood Library) as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2017/law1367.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act  R.S.O. 1990, Chapter 0.18 and City of Toronto, Province of Ontario.",
+  "title": "Notice of Passing of By-law 1367-2017 - 1433 Bathurst Street (Wychwood Library)",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

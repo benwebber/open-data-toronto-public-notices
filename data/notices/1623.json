@@ -1,0 +1,54 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "158 Sterling Road Toronto Ontario",
+      "latitudeCoordinate": "43.6545981285",
+      "longitudeCoordinate": "-79.4459660382",
+      "postalCode": "M6R 2B7",
+      "province": "Ontario",
+      "streetAddress": "158 Sterling Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Partial Repeal And Amendment Of Designating By-Law 969-2005 - 158 Sterling Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1468"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1584676800000,
+  "noticeDescription": "<p>Take notice that Toronto City Council intends to partially repeal and amend City of Toronto By-law 969-2005 (the \"By-law\") which designates the property at 158 Sterling Road (the \"Property\") under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18 (the \"Act\") so that the By-law will no longer apply to a portion of the Property such that the legal description for the properties located at 20 Perth Avenue and 150,150R and 164 Sterling Road will be removed from the By-law.&nbsp; Furthermore, Toronto City Council intends to amend the Reasons for Designation to update the cultural heritage values and attributes in accordance with Ontario Regulation 9/06 of the Act.</p>\n<p><strong>Reasons for the Partial Repeal</strong></p>\n<p>City of Toronto By-law 969-2005 was enacted on November 24, 2005.&nbsp; The By-law designates the property at 158 Sterling Road under Part IV, Section 29 of the Act.&nbsp; The property contains the heritage building known as the Northern Aluminum Company Building (the \"Heritage Building\"). The legal description currently includes the neighbouring properties municipally known as 20 Perth Avenue and 150,150R and 164 Sterling Road.</p>\n<p>The property at 158 Sterling Road was legally severed into three parcels: the first parcel identified as 158 Sterling Road; the second parcel identified as 150, 150R and 164 Sterling Road; and the third parcel as 20 Perth Avenue by notice of decision issued October 13, 2015 and June 15, 2016. Following the severances, the heritage designation remained on title for all three properties. Therefore, it is necessary to partially repeal the By-law to remove the properties located at 20 Perth Avenue and 150,150R and 164 Sterling Road, which do not contain the Heritage Building.&nbsp;</p>\n<p><strong>Amendment of the Designating By-law</strong></p>\n<p>By-law 969-2005 requires an amendment to revise the Reasons for Designation to update the cultural heritage values and attributes of the Property in accordance with Ontario Regulation 9/06 of the Act.</p>\n<p><strong>Notice of an objection to the proposed partial repeal and amendment of the designating by-law</strong> may be served on the City Clerk, Attention: Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, Toronto, ON M5H 2N2, within thirty days of the publication of this notice on the City's website, which is April 20, 2020. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1623,
+  "otherReferenceList": [
+    {
+      "description": "By-law 969-2005 - To designate the property at 158 Sterling Road (Northern Aluminium Company Building) as being of cultural heritage value or interest.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2005/law0969.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 158 Sterling Avenue, City Of Toronto, Province Of Ontario",
+  "title": "Partial Repeal And Amendment Of Designating By-Law - 158 Sterling Avenue",
+  "topics": [
+    "Heritage > Amendment to the designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

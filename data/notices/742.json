@@ -1,0 +1,98 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "6 Torrens Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6905393335",
+      "longitudeCoordinate": "-79.3546673758",
+      "postalCode": "M4K 2H8",
+      "province": "Ontario",
+      "streetAddress": "6 Torrens Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "29 Newman Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6940088892",
+      "longitudeCoordinate": "-79.2992054819",
+      "postalCode": "M4C 5A5",
+      "province": "Ontario",
+      "streetAddress": "29 Newman Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "240 Christie Street Toronto Ontario",
+      "latitudeCoordinate": "43.6702556743",
+      "longitudeCoordinate": "-79.4212917889",
+      "postalCode": "M6G 3B8",
+      "province": "Ontario",
+      "streetAddress": "240 Christie Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "263 Dewhurst Boulevard North Toronto Ontario",
+      "latitudeCoordinate": "43.6880984386",
+      "longitudeCoordinate": "-79.342146758",
+      "postalCode": "M4J 3K9",
+      "province": "Ontario",
+      "streetAddress": "263 Dewhurst Boulevard North"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "346 Rusholme Road Toronto Ontario",
+      "latitudeCoordinate": "43.6595693946",
+      "longitudeCoordinate": "-79.4308817887",
+      "postalCode": "M6H 2Z5",
+      "province": "Ontario",
+      "streetAddress": "346 Rusholme Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3275 Sheppard Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.777606492",
+      "longitudeCoordinate": "-79.309972892",
+      "postalCode": "M1T 3P1",
+      "province": "Ontario",
+      "streetAddress": "3275 Sheppard Avenue East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=562"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1560398400000,
+  "noticeDescription": "<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Individual bills for each of the benefitting properties listed below have been submitted for the meeting of City Council being held on June 18 and 19, 2019. Review <a href=\"http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2019.CC8%20\">bill details</a>.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Each of these bills imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a title=\"Retrofit \" href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a href=\"https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">By-law 1105-2013 (July 19, 2013)</a>.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">The benefitting properties are:</span></p>\n<ul>\n<li>\n<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">6 Torrens Avenue</span></p>\n</li>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">29 Newman Avenue</span></li>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">240 Christie Street</span></li>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">263 Dewhurst Boulevard</span></li>\n<li><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">346 Rusholme Road</span></li>\n<li><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">3275 Sheppard Avenue East&nbsp;&nbsp;</span></li>\n</ul>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 742,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "City's Residential Retrofit Program ",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

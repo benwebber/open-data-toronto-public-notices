@@ -1,0 +1,51 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "300 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6470541772",
+      "longitudeCoordinate": "-79.3893227131",
+      "province": "Ontario",
+      "streetAddress": "300 King Street West"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1517374800000,
+  "noticeDescription": "<p>Take notice that City Council intends to amend former City of Toronto By-law 56-2015, a by-law designating the property at 300 King Street West (Princess of Wales Theatre) as being of cultural heritage value or interest, in order to correct the legal description in the By-law, in accordance with Section 30.1(3) of the Ontario Heritage Act.</p>\n<p>City Council approved plans to permit two tall buildings at 260-270 King Street West and 274-322 King Street West, known as the Mirvish + Gehry Project. The design of the approved West Tower of the Mirvish + Gehry Project includes portions which extend over 300 King Street West (Princess of Wales Theatre), above a height of approximately 33.5 metres.</p>\n<p>In order to ensure there is no uncertainty in respect of matters of legal title, a correction to the legal description is required in order to exclude the area of the portion of the West Tower extending over 300 King Street West from the application of the Designating By-law.</p>\n<p>Notice of an objection to the amendment of the designating by-law may be served on the City Clerk, Attention: Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, Toronto, Ontario, M5H 2N2, within thirty days of January 31, 2018, which is March 2, 2018. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 49,
+  "otherReferenceList": [
+    {
+      "description": "MM35.29 - Correcting the Legal Description for Designating By-law 56-2015 for 300 King Street West (The Princess of Wales Theatre) - by Councillor Joe Cressy, seconded by Councillor Gord Perks",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2017.MM35.29"
+    },
+    {
+      "description": "By-law 56-2015 - To designate the property at 300 King Street West (Princess of Wales Theatre) as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2015/law0056.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 City of Toronto, Province of Ontario 300 King Street West",
+  "title": "Amendment of Designating By-law - 300 King Street West (Princess of Wales Theatre)",
+  "topics": [
+    "Heritage > Amendment to the designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

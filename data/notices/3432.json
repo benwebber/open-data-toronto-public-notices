@@ -1,0 +1,58 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "127 King Street Toronto Ontario",
+      "latitudeCoordinate": "43.70626396598502",
+      "longitudeCoordinate": "-79.51434228659983",
+      "postalCode": "M9N 1L6",
+      "province": "Ontario",
+      "streetAddress": "127 King Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice - Etobicoke York Community Council Area\n",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3199"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke York Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "fax": "416-394-5600",
+    "locationName": "Etobicoke Civic Centre",
+    "phone": "416-392-8016",
+    "postalCode": "M9C 2Y2",
+    "province": "Ontario",
+    "streetAddress": "399 The West Mall"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1655438400000,
+  "noticeDescription": "<p>The Council of the City of Toronto proposes to pass a by-law to permanently close part of an untraveled public lane described as Part of PIN 10328-0306 (LT); Part of Lane on Registered Plan 182, City of Toronto and designated as Part 2 on Reference Plan 66R-32634.</p>\n<p>&nbsp;</p>\n<p>At its meeting to be held in the Council Chamber, Etobicoke Civic Centre, 399 The West Mall on June 27, 2022 at 9:30 a.m., or shortly afterwards, the Etobicoke York Community Council will hear from, or by their counsel, agent or solicitor, any person who wishes to speak to this matter.</p>\n<p>&nbsp;</p>\n<p>The meeting of the Etobicoke York Community Council will be held with members participating in person and remotely, and the proceedings of the Etobicoke York Community Council will be conducted publicly.</p>\n<p>&nbsp;</p>\n<p>To obtain additional information, including to view a copy of the proposed by-law and plan to close part of the untraveled public lane behind 127 King Street please review Item <a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.EY33.32\">EY33.32</a> on the Community Council's agenda at <a href=\"http://app.toronto.ca/tmmis/decisionBodyProfile.do?function=doPrepare&amp;decisionBodyId=1922#Meeting-2022.EY33\">http://app.toronto.ca/tmmis/decisionBodyProfile.do?function=doPrepare&amp;decisionBodyId=1922#Meeting-2022.EY33</a>.</p>\n<p>&nbsp;</p>\n<p>To submit comments or address the Etobicoke York Community Council meeting on June 27, 2022 either in-person or by video conference or by phone, please contact the City Clerk's Office no later than 12:00 p.m. on June 24, 2022:</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Administrator, Etobicoke York Community Council</p>\n<p>City Clerk's Office</p>\n<p>Telephone: 416-394-8101; Fax: 416-392-2980</p>\n<p>E-mail: <a href=\"mailto:etcc@toronto.ca\">etcc@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p>Mail: Etobicoke York Community Council</p>\n<p>c/o Toronto City Hall, 100 Queen Street West, 2nd Floor</p>\n<p>Toronto, Ontario M5H 2N2</p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance for Members of the Public:&nbsp;</strong> City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-394-8101, TTY 416-338-0889 or e-mail <a href=\"mailto:etcc@toronto.ca\">etcc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>Notice to people writing or making presentations to the Etobicoke York Community Council:</strong> The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view.&nbsp; If you speak at the meeting you will appear in the video broadcast.&nbsp; Video broadcasts are archived and continue to be publicly available.</p>\n<p>&nbsp;</p>\n<p>This notice shall also constitute notice to the public of the proposed public highway closure in accordance with the requirements of the Municipal Class Environmental Assessment for Schedule A+ activities.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3432,
+  "otherReferenceList": [
+    {
+      "description": "Permanent Closure of a Portion of the Untraveled Laneway at the Rear of 127 King Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.EY33.32"
+    },
+    {
+      "description": "Agenda",
+      "url": "http://app.toronto.ca/tmmis/decisionBodyProfile.do?function=doPrepare&decisionBodyId=1922#Meeting-2022.EY33"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "The Council of the City of Toronto proposes to pass a by-law to permanently close part of an untraveled public lane described as Part of PIN 10328-0306 (LT); Part of Lane on Registered Plan 182, City of Toronto and designated as Part 2 on Reference Plan 66R-32634",
+  "title": "Public Notice - Etobicoke York Community Council Area - 127 King Street\n",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "96 Spadina Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6463830653",
+      "longitudeCoordinate": "-79.39573682",
+      "postalCode": "M5V 2J6",
+      "province": "Ontario",
+      "streetAddress": "96 Spadina Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law - 96 Spadina Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1417"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1583211600000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 75-2020 to designate 96 Spadina Avenue (Spadina-Fort York, Ward 10) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1591,
+  "otherReferenceList": [
+    {
+      "description": "By-law 75-2020 - to designate 96 Spadina Avenue (Spadina-Fort York, Ward 10) as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2020/law0075.pdf"
+    },
+    {
+      "description": "2019.TE9.10 - Alterations to Designated Heritage Properties, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act and Authority to Enter into a Heritage Easement Agreement - 96 Spadina Avenue and 379 and 383 Adelaide Street West",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE9.10"
+    },
+    {
+      "description": "2019.PB9.2 - Alterations to Designated Heritage Properties, Intention to Designate\nunder Part IV, Section 29 of the Ontario Heritage Act and Authority to\nEnter into a Heritage Easement Agreement - 96 Spadina Avenue and\n379 and 383 Adelaide Street West",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB9.2"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 96 Spadina Avenue, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing - 96 Spadina Avenue",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

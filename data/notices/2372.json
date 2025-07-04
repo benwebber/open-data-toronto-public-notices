@@ -1,0 +1,45 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "877 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.6742575396",
+      "longitudeCoordinate": "-79.3879758335",
+      "postalCode": "M4W 3M2",
+      "province": "Ontario",
+      "streetAddress": "877 Yonge Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Properties",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2220"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Mark MacSorley",
+    "country": "Canada",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-3891",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1621483200000,
+  "noticeDescription": "<p>NOTICE is given that in accordance with the City&rsquo;s real estate disposal by-law, on May 14, 2021, a portion (floors 2-15 and a portion of the ground and basement levels) of City property located at 877 Yonge Street, legally described as LT 4-5 PL 235E Toronto; PT LT 1, B, C, D, E PL 241 Toronto; PT Yorkville Park Dr PL 241 Toronto (formerly lane PL 104) (AKA Gibson's Lane, 20 FT Public HWY running Ely from Yonge St) closed by EM38683 as in CA693267; S/T CA576802; City of Toronto, was declared surplus,. The Property has a total area of approximately 15,933 m2 &plusmn; (171,498 ft2 &plusmn;).&nbsp; The City proposes to enter into a long term lease (21 years or more), with a non-profit operator who will manage the affordable housing program and provide support services.&nbsp;&nbsp;&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Mr. Mark MacSorley, Tel: 416-392-3891, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the June 3rd, 2021.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2372,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Properties ",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

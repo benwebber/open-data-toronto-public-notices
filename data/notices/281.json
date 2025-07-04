@@ -1,0 +1,80 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [
+    {
+      "description": "Changes to the Governance Structure and Community Council Boundaries Amendments to Toronto Municipal Code, Chapter 27, Council Procedures ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=227"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Toronto City Hall, Council Chamber",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1544020200000,
+      "streetAddress": "100 Queen Street West"
+    }
+  ],
+  "noticeDate": 1543381200000,
+  "noticeDescription": "<p>At its meeting in the Council Chamber, City Hall, 100 Queen Street West, Toronto, on December 5, 2018, City Council will consider Item CC1.1 which contains recommendations which may result in amendments to the Toronto Municipal Code, Chapter 27, Council Procedures.</p>\n<p>It is proposed that the by-law be adopted at the Council meeting to be held on December 5, 2018 or at a subsequent meeting.</p>\n<p>If approved by City Council, the proposed amendments will:</p>\n<p>1. Amend the Governance Structure of City Council's Committees, including related amendments on member appointment</p>\n<p>2. Adopt new Community Council boundaries</p>\n<p>While the report sets out proposed changes, City Council may make amendments that differ from the recommendations set out in the report.</p>\n<p><a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.CC1.1\" target=\"_blank\" rel=\"noopener\"><strong>Item CC1.1 -&nbsp;Recalibrating City Council's Governance System for 26 Members</strong></a> can be found on the City&rsquo;s Website. For further information or to submit comments to City Council, please contact the City Council team at the email, phone or address listed below:</p>\n<p>City Council</p>\n<p>City Clerk&rsquo;s Office</p>\n<p>12 West, Toronto City Hall</p>\n<p>100 Queen Street West</p>\n<p>Toronto, ON M5H 2N2</p>\n<p>Phone: 416-392-7032</p>\n<p>Email: councilmeeting@toronto.ca</p>\n<p>Notice to People Writing to City Council:</p>\n<p>The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk&rsquo;s Office, City Hall, 100 Queen Street West, Toronto ON M5H 2N2 or by calling 416-392-7032.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 281,
+  "otherReferenceList": [
+    {
+      "description": "CC1.1 - Recalibrating City Council's Governance System for 26 Members",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.CC1.1"
+    },
+    {
+      "description": "Bylaw 3-2019 - To amend City of Toronto Municipal Code Chapter 27, Council Procedures, to change Committee and Community Councils to reflect the reduction in Council size",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0003.pdf"
+    },
+    {
+      "description": "Bylaw 17-2019 - To amend various chapters in the City of Toronto Municipal Code and other City by-laws to make changes necessary to reflect organizational changes and changes in titles of certain City officials.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0017.pdf"
+    },
+    {
+      "description": "Bylaw 255-2019 - To amend various chapters in the City of Toronto Municipal Code to reflect necessary changes to committees, agencies and boards and ward references",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0255.pdf"
+    },
+    {
+      "description": "Bylaw 263-2019 - To amend City of Toronto Municipal Code Chapter 103, Heritage, to make changes to the composition of the Heritage Toronto Board, Toronto Preservation Board and Community Preservation Panels, and committee references, and to update the Code Chapter",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0263.pdf"
+    },
+    {
+      "description": "Bylaw 368-2019 - To amend City of Toronto Municipal Code Chapter 27, Council Procedures, to update committee names.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0368.pdf"
+    },
+    {
+      "description": "Bylaw 456-2019 - To amend further By-law 1428-2017, to change the composition of the York Employees' Pension Fund Committee to reflect the reduction in Council size",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0456.pdf"
+    },
+    {
+      "description": "Bylaw 581-2019 - To amend City of Toronto Municipal Code Chapter 215, CreateTO, to make a technical amendment to the CreateTO Board membership",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0581.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Amendments to Toronto Municipal Code, Chapter 27, Council Procedures",
+  "title": "Changes to the Governance Structure and Community Council Boundaries \n",
+  "topics": [
+    "Council/Elections"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-council.png"
+  ]
+}

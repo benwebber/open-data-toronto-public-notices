@@ -1,0 +1,57 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Sudbury Hall Drive Toronto Ontario",
+      "latitudeCoordinate": "43.800960482",
+      "longitudeCoordinate": "-79.178175489",
+      "postalCode": "M1B 3H5",
+      "province": "Ontario",
+      "streetAddress": "1 Sudbury Hall Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Sudbury Hall Drive Toronto Ontario",
+      "latitudeCoordinate": "43.8004493937",
+      "longitudeCoordinate": "-79.1782456055",
+      "postalCode": "M1B 3H5",
+      "province": "Ontario",
+      "streetAddress": "15 Sudbury Hall Drive"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Property - 1, 7 & 15 Sudbury Hall Drive",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4853"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Pavlina Stockova",
+    "country": "Canada",
+    "emailAddress": "pavlina.stockova@toronto.ca",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-4829",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1711080000000,
+  "noticeDescription": "<p><strong>NOTICE</strong> is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal By-law, on March 14, 2024 the public highway abutting 1, 7 &amp; 15 Sudbury Hall Drive, legally described as 3Part Lot 13 Block F Pl 279 &nbsp;designated as Parts 1 and 2 on Plan 66R-3354, City of Toronto, being Part of PIN 06193-0761 (LT): and Road Allowance Between Lots 6 &amp; 7 Concession 2, Scarborough &nbsp;Toronto, City of Toronto, designated as Part 3 on Plan 66R-33354, being PIN 06193-0929 (LT), was declared surplus conditional on City Council approving the permanent closure of the highway and subject to the reservation of an easement for storm and sanitary sewer.</p>\n<p>&nbsp;</p>\n<p>The property has a total area of approximately 179.3 m2 (1,930 ft2).&nbsp; The City proposes that the intended manner of disposal is to be by way of inviting an offer to purchase from 1020969 Ontario Limited and Bonnydon.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Ms. Winnie Lam, Property Office, Tel: 437-991-8040, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until April 5, 2024.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5011,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property - 1, 7 & 15 Sudbury Hall Drive",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

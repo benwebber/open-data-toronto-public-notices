@@ -1,0 +1,44 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Roselawn Avenue & Duplex Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.710545014",
+      "longitudeCoordinate": "-79.401073247",
+      "majorIntersection": "Roselawn Avenue & Duplex Avenue",
+      "province": "Ontario"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Roselawn Avenue & Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.710912313",
+      "longitudeCoordinate": "-79.39928823",
+      "majorIntersection": "Roselawn Avenue & Yonge Street",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Removal of Permit Parking Spaces on Roselawn Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3931"
+    }
+  ],
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1686196800000,
+  "noticeDescription": "<p>Notice is hereby given that the North York Community Council proposes to have City Council to pass a by-law to remove 10 permit parking spaces on Roselawn Avenue, between Yonge Street and Duplex Avenue. &nbsp;</p>\n<p>&nbsp;</p>\n<p>Any objections regarding this proposal should be set out in writing and forwarded to the City Clerk, Attention: Matthew Green, North York Community Council, City of Toronto, Secretariat Division, City Hall, 100 Queen Street W, 10th floor west tower, Toronto, Ontario, M5H 2N2, or by E-mail: <a href=\"mailto:nycc@toronto.ca\">nycc@toronto.ca</a>. Written objections received by the required date will be scheduled for deputations at the next North York Community Council meeting. If the Clerk receives no objections by the 20th day of June 2023, the City will proceed with its proposed action.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4141,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Proposal to Remove Permit Parking spaces on Roselawn Avenue",
+  "topics": [
+    "Transportation > Intention to terminate permit parking on a road"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

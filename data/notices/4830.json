@@ -1,0 +1,67 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1141 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.659255095",
+      "longitudeCoordinate": "-79.436443649",
+      "postalCode": "M6H 1M9",
+      "province": "Ontario",
+      "streetAddress": "1141 Bloor Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "980 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.658829881",
+      "longitudeCoordinate": "-79.435444718",
+      "postalCode": "M6H 4B4",
+      "province": "Ontario",
+      "streetAddress": "980 Dufferin Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "90 Croatia Street Toronto Ontario",
+      "latitudeCoordinate": "43.658125587",
+      "longitudeCoordinate": "-79.437725686",
+      "province": "Ontario",
+      "streetAddress": "90 Croatia Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application Under the Planning Act - 23 226738 STE 09 OZ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4667"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1706245200000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 23 226738 STE 09 OZ</p>\n<p>Application to Amend the Official Plan to correctly identify the floor space area of the two lower floors of the community hub, inclusive of childcare facility, that had been incorrectly secured in SASP 581.</p>\n<p>1141 Bloor Street West, 980 Dufferin Street and 90 Croatia Street</p>\n<p>Ward 9 &ndash; Davenport</p>\n<p>Kirk Hatcher, Planner at 416-392-0481 or at <a href=\"mailto:Kirk.Hatcher@toronto.ca\">Kirk.Hatcher@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4830,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "23 226738 STE 09 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application Under the Planning Act - 1141 Bloor Street West, 980 Dufferin Street and 90 Croatia Street",
+  "topics": [
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

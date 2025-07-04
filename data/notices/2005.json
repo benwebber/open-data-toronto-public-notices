@@ -1,0 +1,58 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "33 Avenue Road Toronto Ontario",
+      "latitudeCoordinate": "43.6707414098",
+      "longitudeCoordinate": "-79.394568222",
+      "postalCode": "M5R 2G3",
+      "province": "Ontario",
+      "streetAddress": "33 Avenue Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 33 Avenue Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1841"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1607576400000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto on November 26, 2020, having considered an application to demolish a structure designated under Part IV of the Ontario Heritage Act for 33 Avenue Road, decided among other things, to</p>\n<p>1. Approve the request to demolish the designated heritage property at&nbsp;33 Avenue Road&nbsp;in accordance with Section 34 of the Ontario Heritage Act, subject to the following conditions:</p>\n<p style=\"padding-left: 30px;\">a. prior to the issuance of a demolition permit;&nbsp;</p>\n<p style=\"padding-left: 60px;\">i. the owner shall provide a comprehensive Interpretation Plan that addresses the significant themes and values contained in the City's designation By-law for the subject property, including but not limited to arranging for a heritage plaque on the subject property within the public view through the Heritage Toronto Plaques and Markers Program that commemorates the lost heritage resource and the commemoration of the 1968 York Square development by Diamond and Myers,&nbsp;to the satisfaction of the Senior Manager, Heritage Planning and thereafter shall implement such Plan to the satisfaction of the Senior Manager, Heritage Planning;</p>\n<p style=\"padding-left: 60px;\">ii. the related site specific Zoning By-law Amendment giving rise to the proposed demolition have been enacted by the City Council and have come into full force and effect in a form and with content acceptable to the City Council, as determined by the Chief Planner and Executive Director, City Planning, in consultation with the Senior Manager, Heritage Planning;</p>\n<p style=\"padding-left: 60px;\">iii.&nbsp;provide a Letter of Credit, including provision for upwards indexing, in a form and amount and from a bank satisfactory to the Senior Manager, Heritage Planning to secure all work included in the approved Interpretation Plan&nbsp;required in&nbsp;Part 1.a.i. above; and</p>\n<p style=\"padding-left: 60px;\">iv. provide full documentation of the designated heritage property including comprehensive photo-documentation and measured drawings keyed to an existing site plan and elevations, to the satisfaction of the Senior Manager, Heritage Planning; and</p>\n<p style=\"padding-left: 30px;\">b. prior to the release of the Letter of Credit required in&nbsp;Part 1.a.iii. above, the owner shall:</p>\n<p style=\"padding-left: 60px;\">i. provide a letter of substantial completion prepared and signed by a qualified heritage consultant confirming that the required interpretive work has been completed in accordance with the approved Interpretation Plan to the satisfaction of the Senior Manager, Heritage Planning.</p>\n<p><strong>Appeal to the Local Planning Appeal Tribunal</strong></p>\n<p>The Ontario Heritage Act states that if a Council of a municipality consents to an application to demolish a designated heritage property subject to certain terms or conditions or refuses the application, the owner may, within thirty days of the day the owner received notice of Council&rsquo;s decision, give notice of appeal to the Local Planning Appeal Tribunal and to the Clerk of the municipality: Attention Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2. Notice of appeal must be received on or before January 11, 2021.</p>\n<p>A notice of appeal shall set out the reasons for objection to the decision of Council and be accompanied by the fee prescribed ($400.00) under the Local Planning Appeal Tribunal.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2005,
+  "otherReferenceList": [
+    {
+      "description": "2020.PB18.5 - Demolition of a Property Designated under Part IV, Section 29 of the Ontario Heritage Act - 33 Avenue Road",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.PB18.5"
+    },
+    {
+      "description": "2020.TE20.11 - Demolition of a Property Designated under Part IV, Section 29 of the Ontario Heritage Act - 33 Avenue Road",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE20.11"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, Interim City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 33 Avenue Road, City of Toronto, Province of Ontario",
+  "title": "Notice of Decision - 33 Avenue Road",
+  "topics": [
+    "Heritage > Decision on demolition or removal of structure"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

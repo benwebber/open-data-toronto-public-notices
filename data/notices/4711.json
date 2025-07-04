@@ -1,0 +1,212 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "47 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.670424614",
+      "longitudeCoordinate": "-79.378321367",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "47 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "49 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.670433099",
+      "longitudeCoordinate": "-79.378414788",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "49 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "51 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.67052623",
+      "longitudeCoordinate": "-79.378373328",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "51 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "53 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.670562311",
+      "longitudeCoordinate": "-79.378481398",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "53 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.670617498",
+      "longitudeCoordinate": "-79.378507735",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "55 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "57 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.670671157",
+      "longitudeCoordinate": "-79.37843037",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "57 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "59 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.670690366",
+      "longitudeCoordinate": "-79.37849201",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "59 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "63 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.670830987",
+      "longitudeCoordinate": "-79.378605311",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "63 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "65 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.670885093",
+      "longitudeCoordinate": "-79.378525526",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "65 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Selby Street Toronto Ontario",
+      "latitudeCoordinate": "43.670914484",
+      "longitudeCoordinate": "-79.378075201",
+      "postalCode": "M4Y 1W3",
+      "province": "Ontario",
+      "streetAddress": "1 Selby Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3 Selby Street Toronto Ontario",
+      "latitudeCoordinate": "43.670933412",
+      "longitudeCoordinate": "-79.377987627",
+      "postalCode": "M4Y 1W3",
+      "province": "Ontario",
+      "streetAddress": "3 Selby Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Selby Street Toronto Ontario",
+      "latitudeCoordinate": "43.670960289",
+      "longitudeCoordinate": "-79.377805593",
+      "postalCode": "M4Y 1W3",
+      "province": "Ontario",
+      "streetAddress": "7 Selby Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Selby Street Toronto Ontario",
+      "latitudeCoordinate": "43.670984176",
+      "longitudeCoordinate": "-79.377759117",
+      "postalCode": "M4Y 1W3",
+      "province": "Ontario",
+      "streetAddress": "9 Selby Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Selby Street Toronto Ontario",
+      "latitudeCoordinate": "43.670988429",
+      "longitudeCoordinate": "-79.377659221",
+      "postalCode": "M4Y 1W3",
+      "province": "Ontario",
+      "streetAddress": "11 Selby Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Linden Street Toronto Ontario",
+      "latitudeCoordinate": "43.670463075",
+      "longitudeCoordinate": "-79.3781737124",
+      "postalCode": "M4Y 1V6",
+      "province": "Ontario",
+      "streetAddress": "2 Linden Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 Linden Street Toronto Ontario",
+      "latitudeCoordinate": "43.670605309",
+      "longitudeCoordinate": "-79.37772964",
+      "postalCode": "M4Y 1V6",
+      "province": "Ontario",
+      "streetAddress": "16 Linden Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "18 Linden Street Toronto Ontario",
+      "latitudeCoordinate": "43.670689689",
+      "longitudeCoordinate": "-79.377661957",
+      "postalCode": "M4Y 1V6",
+      "province": "Ontario",
+      "streetAddress": "18 Linden Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 47, 49, 51, 53, 55, 57, 59, 63 AND 65 Huntley Street,1, 3, 7, 9 and 11 Selby Street, 16 and 18 Linden Street and 2 Linden Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4548"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1703048400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>IN THE MATTER OF THE ONTARIO HERITAGE ACT</strong></p>\n<p style=\"text-align: center;\"><strong>R.S.O. 1990, CHAPTER O.18 AND</strong></p>\n<p style=\"text-align: center;\"><strong>CITY OF TORONTO, PROVINCE OF ONTARIO</strong></p>\n<p style=\"text-align: center;\"><strong>47, 49, 51, 53, 55, 57, 59, 63 AND 65 HUNTLEY STREET</strong></p>\n<p style=\"text-align: center;\"><strong>1, 3, 7, 9 AND 11 SELBY STREET</strong></p>\n<p style=\"text-align: center;\"><strong>16 AND 18 LINDEN STREET</strong></p>\n<p style=\"text-align: center;\"><strong>2 LINDEN STREET</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>NOTICE OF DECISION</strong></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that the Council of the City of Toronto on December 13, 14 and 15, 2023, &nbsp;has considered an application under Section 33 of the Ontario Heritage Act to alter a building and/or structure on a Property designated under Part IV, Section 29 of the Ontario Heritage Act for the Property municipally known as 47, 49, 51, 53, 55, 57, 59, 63, 65 Huntley Street and 1, 3, 7, 9 and 11 Selby Street and 16 and 18 Linden Street.</p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that the Council of the City of Toronto on December 13, 14 and 15, 2023, has considered an application under Section 34(1) 2 of the Ontario Heritage Act to demolish or remove or permit the demolition or removal of a building and/or structure on the Property designated under Part IV, Section 29 of the Ontario Heritage Act for the Property municipally known as 2 Linden Street. &nbsp;</p>\n<p>&nbsp;</p>\n<p>The decision of City Council, among other matters, regarding the application under the Ontario Heritage Act is as follows:</p>\n<p>&nbsp;</p>\n<p>1. City Council approve:</p>\n<p>&nbsp;</p>\n<p>a. the alterations to the heritage properties at 47, 49, 51, 53, 55, 57, 59, 63, 65 Huntley Street; 1, 3, 7, 9, 11 Selby Street and 16, 18 Linden Street, in accordance with Section 33 of the Ontario Heritage Act to allow for the construction of two new&nbsp; tall buildings on the subject lands with such alterations substantially in accordance with the plans and drawings dated October 24, 2023 prepared by Arcadis/IBI Group Architects and the Heritage Impact Assessment dated November 14, 2023 prepared by ERA Architects Inc., both on file with the Senior Manager, Heritage Planning, all subject to and in accordance with the Conservation Plan satisfactory to the Senior Manager, Heritage Planning and subject to conditions as set out below.</p>\n<p>&nbsp;</p>\n<p>b. the demolition of the existing building on the designated heritage property at 2 Linden Street, in accordance with Section 34(1) 2 of the Ontario Heritage Act to allow for the construction of a new public park in connection with the approval of two new tall buildings on the subject lands substantially in accordance with the plans and drawings dated October 24, 2023 prepared by Arcadis/IBI Group Architects and the Heritage Impact Assessment dated November 14, 2023 prepared by ERA Architects Inc., both on file with the Senior Manager, Heritage Planning, all subject to, and in accordance with, the Conservation Plan satisfactory to the Senior Manager, Heritage Planning, and subject to conditions as set out below.</p>\n<p>&nbsp;</p>\n<p>2. City Council direct that its consent to the application to alter the designated properties at 47, 49, 51, 53, 55, 57, 59, 63, 65 Huntley Street; 1, 3, 7, 9, 11 Selby Street and 16, 18 Linden Street under Part IV, Section 33 of the Ontario Heritage Act and its consent to the demolition of a heritage building of the designated heritage property at 2 Linden Street, under Part IV, Section 34(1) 2 of the Ontario Heritage Act are also subject to the following conditions:</p>\n<p>&nbsp;</p>\n<p style=\"padding-left: 40px;\">a. prior to any Ontario Land Tribunal Order issued in connection with the related Official Plan Amendment and Zoning By-law Amendment appeal, the owner shall:</p>\n<p>&nbsp;</p>\n<p style=\"padding-left: 80px;\">1. Enter into a Heritage Easement Agreement with the City for the properties at 47, 49, 51, 53, 55, 57, 59, 63, 65 Huntley Street; 1, 3, 7, 9, 11 Selby Street and 16, 18 Linden Street substantially in accordance with the plans and drawings dated October 24, 2023 prepared by Arcadis/IBI Group Architects and the Heritage Impact Assessment dated November 14, 2023 prepared by ERA Architects Inc., subject to and in accordance with the Conservation Plan required in Recommendation 2. a. 2 below, to the satisfaction of the Senior Manager, Heritage Planning, including execution of such agreement to the satisfaction of the City Solicitor.</p>\n<p>&nbsp;</p>\n<p style=\"padding-left: 80px;\">2. Provide a detailed Conservation Plan, prepared by a qualified heritage consultant that is consistent with the conservation strategy set out in the Heritage Impact Assessment for 47, 49, 51, 53, 55, 57, 59, 63, 65 Huntley Street; 1, 3, 7, 9, 11 Selby Street and 16, 18 Linden Street dated August 16, 2023 prepared by ERA Architects Inc., to the satisfaction of the Senior Manager, Heritage Planning.</p>\n<p>&nbsp;</p>\n<p style=\"padding-left: 40px;\">b. That prior to Site Plan approval for the proposed Official Plan Amendment and Zoning By-law Amendment by City Council for the properties located at 47, 49, 51, 53, 55, 57, 59, 63, 65 Huntley Street; 1, 3, 7, 9, 11 Selby Street and 2,16 and 18 Linden Street, the owner shall:</p>\n<p>&nbsp;</p>\n<p style=\"padding-left: 80px;\">1. Provide final Site Plan drawings substantially in accordance with the approved Conservation Plan required in Recommendation 2.a.2 to the satisfaction of the Senior Manager, Heritage Planning.</p>\n<p>&nbsp;</p>\n<p style=\"padding-left: 80px;\">2. Have obtained final approval for the necessary Official Plan Amendment and Zoning By-law Amendment required for the subject property, such Amendments to have come into full force and effect.</p>\n<p>&nbsp;</p>\n<p style=\"padding-left: 80px;\">3. Provide a detailed Landscape Plan for the properties located at 47, 49, 51, 53, 55, 57, 59, 63, 65 Huntley Street; 1, 3, 7, 9, 11 Selby Street and 16 and 18 Linden Street, satisfactory to the Senior Manager, Heritage Planning.</p>\n<p style=\"padding-left: 80px;\">&nbsp;</p>\n<p style=\"padding-left: 80px;\">4. Provide a Heritage Lighting Plan that describes how the exterior of the properties located at 47, 49, 51, 53, 55, 57, 59, 63, 65 Huntley Street; 1, 3, 7, 9, 11 Selby Street and 16 and 18 Linden Street will be sensitively illuminated to enhance its heritage character to the satisfaction of the Senior Manager, Heritage Planning and thereafter shall implement such Plan to the satisfaction of the Senior Manager, Heritage Planning.</p>\n<p style=\"padding-left: 80px;\">&nbsp;</p>\n<p style=\"padding-left: 80px;\">5. Provide an Interpretation Plan for the properties located at 47, 49, 51, 53, 55, 57, 59, 63, 65 Huntley Street; 1, 3, 7, 9, 11 Selby Street and 16 and 18 Linden Street, including research into and representation of unique associative values for each heritage property in addition to significant area themes, to the satisfaction of the Senior Manager, Heritage Planning and thereafter shall implement such Plan to the satisfaction of the Senior Manager, Heritage Planning.</p>\n<p>&nbsp;</p>\n<p style=\"padding-left: 40px;\">c. That prior to the issuance of any permit for all or any part of the properties at 47, 49, 51, 53, 55, 57, 59, 63, 65 Huntley Street; 1, 3, 7, 9, 11 Selby Street and 2, 16 and 18 Linden Street, including a heritage permit or a building permit, but excluding permits for repairs and maintenance and usual and minor works for the existing heritage building, as are acceptable to the Senior Manager, Heritage Planning, the owner of the subject property shall:</p>\n<p>&nbsp;</p>\n<p style=\"padding-left: 80px;\">1. Have entered into a Heritage Easement Agreement with the City required in Recommendation 2.a.1 above.</p>\n<p style=\"padding-left: 80px;\">&nbsp;</p>\n<p style=\"padding-left: 80px;\">2. Have obtained final approval for the necessary Official Plan Amendment and Zoning By-law Amendment, and such Amendments to have come into full force and effect.</p>\n<p style=\"padding-left: 80px;\">&nbsp;</p>\n<p style=\"padding-left: 80px;\">3. Provide building permit drawings, including notes and specifications for the conservation and protective measures keyed to the approved Conservation Plan required in Recommendation 2.a.2 including a description of materials and finishes, to be prepared by the project architect and a qualified heritage consultant to the satisfaction of the Senior Manager, Heritage Planning.</p>\n<p style=\"padding-left: 80px;\">&nbsp;</p>\n<p style=\"padding-left: 80px;\">4. Provide a Letter of Credit, including provision for upwards indexing, in a form and amount and from a bank satisfactory to the Senior Manager, Heritage Planning to secure all work included in the approved Conservation Plan and Interpretation Plan.</p>\n<p style=\"padding-left: 80px;\">&nbsp;</p>\n<p style=\"padding-left: 80px;\">5. Provide full documentation of the existing heritage building at 2 Linden Street including two (2) printed sets of archival quality 8&rdquo; x 10&rdquo; colour photographs with borders in a glossy or semi-gloss finish and one (1) digital set on a flash drive in tiff format and 600 dpi resolution keyed to a location map, elevations and measured drawings, and copies of all existing interior floor plans and original drawings as may be available, to the satisfaction of the Senior Manager, Heritage Planning; and</p>\n<p style=\"padding-left: 80px;\">&nbsp;</p>\n<p>d. That prior to the release of the Letter of Credit required in Recommendation 2.c.4 above, the owner shall:</p>\n<p style=\"padding-left: 40px;\">1. Provide a letter of substantial completion prepared and signed by a qualified heritage consultant confirming that the required conservation work and the required interpretive work has been completed in accordance with the Conservation Plan and Interpretation Plan and that an appropriate standard of conservation has been maintained, all to the satisfaction of the Senior Manager, Heritage Planning.</p>\n<p style=\"padding-left: 40px;\">&nbsp;</p>\n<p style=\"padding-left: 40px;\">2. Provide replacement Heritage Easement Agreement photographs to the satisfaction of the Senior Manager, Heritage Planning.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Notice of an appeal of the decision of City Council on the application to alter the Property or the application to demolish or remove a building and/or structure on the Property may be served on City Clerk, Attention: Registrar Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2.; Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a> within thirty days of December 20, 2023, which is January 19, 2024.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal of the decision of City Council on the application to alter the Property under section 33 of the Ontario Heritage Act must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the objection to the decision; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons in support of the objection to the decision.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal of the decision of City Council on the application to demolish or remove a building and/or structure on the Property under section 34 of the Ontario Heritage Act must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the objection to the decision;</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons in support of the objection to the decision; and</p>\n<p>(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be accompanied by the fee prescribed under the Ontario Land Tribunal Act, 2021, in the amount of $1,100 for each appeal payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the Ontario Land Tribunal website at <a href=\"https://olt.gov.on.ca/appeals-process/forms\">https://olt.gov.on.ca/appeals-process/forms</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only the owner of the Property may appeal the decision of Council of the City of Toronto to the Ontario Land Tribunal under Part IV, Section 33 of the Ontario Heritage Act, and only where City Council has consented to an application to alter a property with certain terms or conditions or refuses the application to alter a property.</p>\n<p>&nbsp;</p>\n<p>Only the owner of the Property may appeal the decision of Council of the City of Toronto to the Ontario Land Tribunal under Part IV, Section 34.1 of the Ontario Heritage Act, and only where City Council has consented to an application to demolish or remove a building and/or structure on a property with certain terms or conditions or refuses the application to demolish or remove the building and/or structure on a property.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>Further information in respect of the Decision of Council of the City of Toronto on the matter is available from the City of Toronto at:</p>\n<p>&nbsp;</p>\n<p><a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2023.CC13.26\">https://secure.toronto.ca/council/agenda-item.do?item=2023.CC13.26</a>&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4711,
+  "otherReferenceList": [
+    {
+      "description": "CC13.26 - 47, 49, 51, 53, 55, 57, 59, 63, 65 Huntley Street; 1, 3, 7, 9, 11 Selby Street; 16, 18 Linden Street - Alterations to Designated Heritage Properties; 47 Huntley Street (2 Linden Street) - Demolition on a Heritage Property; Authority to Enter into a Heritage Easement Agreement\n",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2023.CC13.26"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Decision - 47, 49, 51, 53, 55, 57, 59, 63 and 65 Huntley Street,1, 3, 7, 9 and 11 Selby Street, 16 and 18 Linden Street and 2 Linden Street",
+  "topics": [
+    "Heritage > Decision on alteration to a heritage property",
+    "Heritage > Decision on demolition or removal of structure"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

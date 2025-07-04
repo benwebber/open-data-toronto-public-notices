@@ -1,0 +1,59 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2323 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.7083133798",
+      "longitudeCoordinate": "-79.3982701248",
+      "postalCode": "M4P 2C9",
+      "province": "Ontario",
+      "streetAddress": "2323 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2329 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.7085302432",
+      "longitudeCoordinate": "-79.3982872542",
+      "postalCode": "M4P 2C8",
+      "province": "Ontario",
+      "streetAddress": "2329 Yonge Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 2323-2329 Yonge St",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5285"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1722571200000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong><span style=\"font-family: 'times new roman', times, serif;\">NOTICE OF APPLICATION(S)</span></strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"font-family: 'times new roman', times, serif;\">(Under the Planning Act)</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">The City has received the following application(s) under the Planning Act:</span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'times new roman', times, serif;\">TORONTO AND EAST YORK COMMUNITY COUNCIL</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Application Number: 24 166703 STE 12 OZ</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Application to Amend the Official Plan and Zoning By-law to permit a 58-storey mixed-use building including 998 square metres of retail space and 750 residential units.</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">2323-2329 Yonge St</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Ward 12 &ndash; Toronto-St. Paul's</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Kai Zhou at 416-338-0810 or <a href=\"mailto:Kai.Zhou@toronto.ca\">Kai.Zhou@toronto.ca</a></span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'times new roman', times, serif;\">CONTACT INFORMATION</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">City Clerk, Attention: Registrar Secretariat</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'times new roman', times, serif;\">BACKGROUND INFORMATION</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'times new roman', times, serif;\">FURTHER INFORMATION</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</span></p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5428,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 166703 STE 12 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 2323-2329 Yonge St ",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment",
+    "Planning > Proposal for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

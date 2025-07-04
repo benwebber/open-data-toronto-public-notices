@@ -1,0 +1,48 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55 Eglinton Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.70690691",
+      "longitudeCoordinate": "-79.396077819",
+      "postalCode": "M4P 1G8",
+      "province": "Ontario",
+      "streetAddress": "55 Eglinton Avenue East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Cancellation of Public Meeting - 55 Eglinton Avenue East",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6290"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street West"
+  },
+  "eventList": [],
+  "noticeDate": 1750046400000,
+  "noticeDescription": "<p style=\"margin-right: 0.9pt; text-align: center;\"><span style=\"font-size: 18pt;\"><strong>CANCELLATION NOTICE OF PUBLIC MEETING </strong></span></p>\n<p style=\"margin-right: .9pt; tab-stops: 36.0pt;\"><span style=\"font-size: 9.0pt;\">&nbsp;</span></p>\n<p style=\"margin-right: .9pt; text-align: center;\"><span style=\"font-size: 12pt;\"><strong>Location of Application: </strong><strong>55 Eglinton Avenue East</strong></span></p>\n<p style=\"margin-right: .9pt; text-align: center;\"><span style=\"font-size: 12pt;\"><strong>&nbsp;</strong></span></p>\n<p style=\"margin-right: .9pt; text-align: center;\"><span style=\"font-size: 12pt;\"><strong>Request to Amend the Official Plan and Zoning By-law </strong></span></p>\n<p style=\"margin-right: .9pt; text-align: center;\"><span style=\"font-size: 12pt;\"><strong>Application Number 24 245958 STE 12 OZ</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12pt;\"><strong>Applicant:</strong> <strong>Bousfields Inc.</strong></span><strong><span style=\"font-size: 11.0pt;\">&nbsp; </span></strong></p>\n<p style=\"margin-right: .9pt;\"><strong><span style=\"font-size: 11.0pt;\">&nbsp; </span></strong></p>\n<p><span style=\"font-size: 11.0pt;\">A Notice of Public Meeting was originally sent to you on June 4, 2025.&nbsp; Please be advised that this application will <strong>NOT</strong> be considered by the Toronto and East York Community Council on July 8, 2025.</span></p>\n<p><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p><span style=\"font-size: 11.0pt;\">This Public Meeting has been <strong>CANCELLED</strong> and will be <strong>RE-SCHEDULED</strong> for a later date.&nbsp; You will be notified of the date, time and location of the Public Meeting.</span></p>\n<p><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p><span style=\"font-size: 11.0pt;\">Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</span></p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6364,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 245958 STE 12 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Cancellation of Public Meeting - 55 Eglinton Avenue East",
+  "topics": [
+    "Planning > Refusal of application for a Zoning By-law Amendment",
+    "Planning > Refusal of an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

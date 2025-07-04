@@ -1,0 +1,33 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Property - 275 Merton Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5099"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Eric Allen",
+    "country": "Canada",
+    "locationName": "Metro Hall",
+    "phone": "416-392-1852",
+    "postalCode": "M5V 3C6",
+    "province": "ON",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1718164800000,
+  "noticeDescription": "<p>NOTICE is hereby given that in accordance with the City of<br />Toronto&rsquo;s real estate disposal By-law, on June 3, 2024, the<br />following City-owned parcels of lands were declared surplus:</p>\n<p><br />275 Merton Street, legally described as Parcel 152-1 Section<br />M5; Part of Lot 152 s/s Merton Street, Plan M5 Toronto, City<br />of Toronto, being all of PIN 21123-0010 (LT); and Parcel 151-1<br />Section M5; Part of Lot 151 S/S Merton Street, Plan M5; Toronto,<br />City of Toronto, being all of PIN 21123-0011 (LT); and,</p>\n<p><br />If acquired by the City, 267 Merton Street, legally described as<br />Parcel 2073 Section N; Part Lot 153 S/S Merton Street, Plan M5<br />Toronto, City of Toronto, being all of PIN 21123-0021 (LT).</p>\n<p><br />The properties have a total area of approximately 2,201 m2<br />(23,690 ft2). 267 Merton Street is a residential property and<br />275 Merton Street is an existing Toronto Water office property.</p>\n<p><br />The City proposes that the intended manner of disposal for the<br />properties is to be by way of a 99-year land lease to Markee<br />Missing Middle (Merton) Limited Partnership, for the purpose<br />of constructing purpose-built rental housing, including 30%<br />affordable rental units.</p>\n<p><br />The following City official has information about the proposed<br />disposition: Mr. Eric Allen, Senior Project Manager, Tel:<br />416-392-1852, Metro Hall, 55 John Street, 2nd floor, Toronto,<br />Ontario M5V 3C6. Enquiries may be made of the said official<br />until June 25, 2024.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5262,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "title": "Declaration of Surplus Property - 275 Merton Street",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

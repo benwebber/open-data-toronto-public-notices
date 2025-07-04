@@ -1,0 +1,129 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1053 St Clarens Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.674821365",
+      "longitudeCoordinate": "-79.4484844853",
+      "postalCode": "M6H 3X8",
+      "province": "Ontario",
+      "streetAddress": "1053 St Clarens Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 Medaca Street Toronto Ontario",
+      "latitudeCoordinate": "43.7916102595",
+      "longitudeCoordinate": "-79.3451442001",
+      "postalCode": "M2J 3A7",
+      "province": "Ontario",
+      "streetAddress": "16 Medaca Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "23 White Birch Road Toronto Ontario",
+      "latitudeCoordinate": "43.6857402516",
+      "longitudeCoordinate": "-79.2687976481",
+      "postalCode": "M1N 3A7",
+      "province": "Ontario",
+      "streetAddress": "23 White Birch Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "36 Harris Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6881536498",
+      "longitudeCoordinate": "-79.3064249623",
+      "postalCode": "M4C 1P4",
+      "province": "Ontario",
+      "streetAddress": "36 Harris Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "106 Roseneath Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.6853068719",
+      "longitudeCoordinate": "-79.4360629952",
+      "postalCode": "M6C 3X6",
+      "province": "Ontario",
+      "streetAddress": "106 Roseneath Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "156 Hollyberry Trail Toronto Ontario",
+      "latitudeCoordinate": "43.8100021121",
+      "longitudeCoordinate": "-79.3498781828",
+      "postalCode": "M2H 2P1",
+      "province": "Ontario",
+      "streetAddress": "156 Hollyberry Trail"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "170 Lappin Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6652168376",
+      "longitudeCoordinate": "-79.4451704709",
+      "postalCode": "M6H 1Y8",
+      "province": "Ontario",
+      "streetAddress": "170 Lappin Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "190 Lisgar Street Toronto Ontario",
+      "latitudeCoordinate": "43.64632698",
+      "longitudeCoordinate": "-79.4251708571",
+      "postalCode": "M6J 3G5",
+      "province": "Ontario",
+      "streetAddress": "190 Lisgar Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "206 Albany Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6722171073",
+      "longitudeCoordinate": "-79.4131992943",
+      "postalCode": "M5R 3C6",
+      "province": "Ontario",
+      "streetAddress": "206 Albany Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program - City Council Meeting of October 2 and 3, 2019",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1022"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1571198400000,
+  "noticeDescription": "<p>By-laws for each of the benefitting properties listed below have been enacted at the meeting of City Council being held on October 2 and 3, 2019. Review <a href=\"http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2019.CC10\">by-law details</a></p>\n<p>Each of these by-laws imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by Executive Committee Item E<a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22\">X33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a href=\"https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>The benefitting properties are:<br /><span style=\"font-size: 12pt;\">-&nbsp; 1053 Saint Clarens Avenue</span></p>\n<p>-&nbsp; 16 Medaca Street</p>\n<p>-&nbsp; 23 White Birch Road</p>\n<p>-&nbsp; 36 Harris Avenue</p>\n<p>-&nbsp; 106 Roseneath Gardens</p>\n<p>-&nbsp; 156 Hollyberry Trail</p>\n<p>-&nbsp; 170 Lappin Avenue</p>\n<p>-&nbsp; 190 Lisgar Street</p>\n<p>-&nbsp; 206 Albany Avenue</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1202,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.",
+  "title": "City's Residential Retrofit Program ",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

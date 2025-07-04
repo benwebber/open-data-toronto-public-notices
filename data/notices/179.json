@@ -1,0 +1,50 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Executive Committee",
+    "country": "Canada",
+    "emailAddress": "exc@toronto.ca",
+    "locationName": "Toronto City Hall, 10th Floor, West Tower",
+    "phone": "416-392-4666",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Toronto City Hall, 2nd Floor, Committee Room 1",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1529415000000,
+      "streetAddress": "100 Queen Street West"
+    }
+  ],
+  "noticeDate": 1528776000000,
+  "noticeDescription": "<p>At its meeting in Committee Room 1, City Hall, 100 Queen Street West, Toronto, on June 19, 2018, the Executive Committee will consider Item <a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.EX35.1\">EX35.1</a> which contains recommendations which may result in amendments to the Toronto Municipal Code, Chapter 27, Council Procedures.</p>\n<p>It is proposed that the by-law be adopted at the Council meeting to be held on June 26, 27 and 28, 2018 or at a subsequent meeting.</p>\n<p>If approved by City Council, the proposed amendments will amend the Standing Committee mandates in Toronto Municipal Code, Chapter 27, Council Procedures by:</p>\n<p>1.&nbsp; Establishing a Housing Committee as a standing committee with the following mandate: &rdquo;The Housing Committee&rsquo;s primary focus is the housing and accommodation of Torontonians, with a mandate to monitor and make recommendation on housing and shelter in the City.&rdquo;</p>\n<p>2.&nbsp; Deleting the Affordable Housing Committee as a special committee of Council.</p>\n<p>3.&nbsp; Increasing the membership of the Executive Committee to accommodate the chair of the Housing Committee.</p>\n<p>Item <a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.EX35.1\">EX35.1</a> can be found on the City&rsquo;s Website. For further information, to submit comments or speak to the Executive Committee on June 19, 2018, please contact the Committee at the email, phone or address listed below, no later than 12 noon on June 18, 2018:</p>\n<p>Executive Committee<br />City Clerk&rsquo;s Office<br />10W, Toronto City Hall<br />100 Queen Street West<br />Toronto, Ontario M5H 2N2<br />Phone: 416-392-4666<br />Email: <a href=\"mailto:exc@toronto.ca\">exc@toronto.ca</a></p>\n<p><strong>Notice to People Writing or making presentations to the Executive Committee:</strong></p>\n<p>The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk&rsquo;s Office, City Hall, 100 Queen Street West, Toronto ON M5H 2N2 or by calling 416-392-4666.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 179,
+  "otherReferenceList": [
+    {
+      "description": "EX35.1 - Creation of a Standing Committee on Housing",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.EX35.1"
+    },
+    {
+      "description": "By-law 1155-2018 - To amend City of Toronto Municipal Code Chapter 27, Council Procedures, to create a standing committee on housing",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law1155.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Creation of a Standing Committee on Housing – Amendments to Toronto Municipal Code, Chapter 27, Council Procedures",
+  "topics": [
+    "Council/Elections"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-council.png"
+  ]
+}

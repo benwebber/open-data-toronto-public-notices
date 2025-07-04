@@ -1,0 +1,136 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "938 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6423402656",
+      "longitudeCoordinate": "-79.4114525897",
+      "postalCode": "M5V 1P5",
+      "province": "Ontario",
+      "streetAddress": "938 King Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "940 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6423363976",
+      "longitudeCoordinate": "-79.4115147679",
+      "postalCode": "M5V 1P5",
+      "province": "Ontario",
+      "streetAddress": "940 King Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "942 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6423285825",
+      "longitudeCoordinate": "-79.4115715475",
+      "postalCode": "M5V 1P5",
+      "province": "Ontario",
+      "streetAddress": "942 King Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "944 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6423129208",
+      "longitudeCoordinate": "-79.4116310403",
+      "postalCode": "M5V 1P5",
+      "province": "Ontario",
+      "streetAddress": "944 King Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "950 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6422892812",
+      "longitudeCoordinate": "-79.4118049126",
+      "postalCode": "M5V 1P5",
+      "province": "Ontario",
+      "streetAddress": "950 King Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "95 Strachan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6423788807",
+      "longitudeCoordinate": "-79.4118188035",
+      "postalCode": "M6J 2S7",
+      "province": "Ontario",
+      "streetAddress": "95 Strachan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "97 Strachan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6424360137",
+      "longitudeCoordinate": "-79.4118568484",
+      "postalCode": "M6J 2S7",
+      "province": "Ontario",
+      "streetAddress": "97 Strachan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "99 Strachan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6425224179",
+      "longitudeCoordinate": "-79.4117651769",
+      "postalCode": "M6J 2S7",
+      "province": "Ontario",
+      "streetAddress": "99 Strachan Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law 370-2021 - 938 King St W",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2259"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1622174400000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 370-2021 to designate 938 (including entrance addresses at 940 and 942 King Street West), 944, and 950 King Street West and 95, 97, and 99 Strachan Avenue (Spadina-Fort York, Ward 10) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2410,
+  "otherReferenceList": [
+    {
+      "description": "2021.PB21.4 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, Alterations to a Designated Heritage Property, and Authority to Enter into a Heritage Easement Agreement - 938, 944, and 950 King Street West and 95, 97, and 99 Strachan Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.PB21.4"
+    },
+    {
+      "description": "2021.TE23.20 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, Alterations to a Designated Heritage Property, and Authority to Enter into a Heritage Easement Agreement - 938, 944, and 950 King Street West and 95, 97, and 99 Strachan Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.TE23.20"
+    },
+    {
+      "description": "2021.TE23.12 - 938 - 950 King Street West and 95 - 99 Strachan Avenue - Zoning By-law Amendment Application - Final Report",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.TE23.12"
+    },
+    {
+      "description": "By-law 370-2021 - To designate the properties at 938 (including entrance addresses at 940 and 942 King Street West), 944, and 950 King Street West and 95, 97, and 99 Strachan Avenue as being of cultural heritage value or interest.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2021/law0370.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 938 (including entrance addresses at 940 and 942 King Street West), 944, and 950 King Street West and 95, 97, and 99 Strachan Avenue, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 370-2021 - 938 (including entrance addresses at 940 and 942 King Street West), 944, and 950 King Street West and 95, 97, and 99 Strachan Avenue",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

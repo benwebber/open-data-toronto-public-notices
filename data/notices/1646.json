@@ -1,0 +1,53 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "20 Castlefield Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.711869256",
+      "longitudeCoordinate": "-79.400471687",
+      "province": "Ontario",
+      "streetAddress": "20 Castlefield Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "565 Duplex Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7119409733",
+      "longitudeCoordinate": "-79.4011266459",
+      "province": "Ontario",
+      "streetAddress": "565 Duplex Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Properties",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1471"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Ms. Melanie Hale-Carter",
+    "country": "Canada",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "647-458-7376",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1591761600000,
+  "noticeDescription": "<p>NOTICE is given that in accordance with the City&rsquo;s real estate disposal by-law, on June 1, 2020 a portion of the City-owned lands municipally known as 20 Castlefield Avenue and 565 Duplex Avenue, legally described as part of LT 3 &ndash; 4 RANGE 4 PL 734 NORTH TORONTO; PT LT 1-2, 5 RANGE 4 PL 734 NORTH TORONTO AS IN EO80219, EO87292, CA245508; CITY OF TORONTO, was declared surplus, with the intended manner of disposal to be by way of an exchange with 2500 Yonge Street Limited for part of its abutting lands municipally known as 2490-2514 Yonge Street and 10-12 Castlefield Avenue and 567 Duplex Avenue. &nbsp;The land has a total area of approximately 638.1 m2 &plusmn; (6,868.5 ft2 &plusmn;)</p>\n<p>The following City official has information about the proposed disposition: Ms. Melanie Hale-Carter, Tel: 647-458-7376, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 24th of June 2020.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1646,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "title": "Declaration of Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1828 Weston Road Toronto Ontario",
+      "latitudeCoordinate": "43.6991044209",
+      "longitudeCoordinate": "-79.514042976",
+      "postalCode": "M9N 1V8",
+      "province": "Ontario",
+      "streetAddress": "1828 Weston Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1844 Weston Road Toronto Ontario",
+      "latitudeCoordinate": "43.699285887",
+      "longitudeCoordinate": "-79.5144856358",
+      "postalCode": "M9N 1V8",
+      "province": "Ontario",
+      "streetAddress": "1844 Weston Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Zoning By-Law 1243-2024 - 1828-1844 Weston",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5612"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Etobicoke York Community Council",
+  "eventList": [],
+  "noticeDate": 1732770000000,
+  "noticeDescription": "<p><strong><span style=\"background-color: #ffff00;\">Please be advised, this Notice has been published online due to a Canada Post Labour Disruption.</span></strong></p>\n<p>&nbsp;</p>\n<p><strong>NOTICE OF PASSING OF ZONING BY-LAW <span style=\"background-color: #ffffff;\">1243-2024 &nbsp;</span></strong></p>\n<p><span style=\"background-color: #ffffff;\"><strong>(Under the Planning Act)</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"background-color: #ffffff;\">TAKE NOTICE that the City of Toronto passed Zoning By-law 1243-2024 on November 13, 2024, with respect to the lands known as 1828-1844 Weston Road.</span></p>\n<p>&nbsp;</p>\n<p>An explanation of the purpose and effect of the Zoning By-law, and a map showing the location of the lands to which the amendment applies, are attached. The amendment was processed under file number: 22 242091 WET 05 OZ.</p>\n<p>&nbsp;</p>\n<p>A statutory public meeting was held on October 28, 2024, and the Etobicoke York Community Council and Toronto City Council considered four oral and no written submissions in making the decision. Please see item <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2024.EY17.2\">EY17.2 at Agenda Item History - 2024.EY17.2 (toronto.ca)</a></p>\n<p>&nbsp;</p>\n<p>This land is also subject to an application under the Planning Act for a Site Plan Control Approval, file number 22 242090 WET 05 SA.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal to the Ontario Land Tribunal in respect to all or part of this Zoning By-law may be made by filing a notice of appeal with the City Clerk, <strong>Attention: &nbsp;Raneisha Hemmings</strong>, Registrar Secretariat, 100 Queen Street West, 2nd Floor West, Toronto, ON, M5H 2N2, no later than 4:30 p.m. on <strong>December 18, 2024</strong>. If delivering in-person, drop off at the Registry Services Counter, Toronto City Hall. The filing of a notice of appeal after 4:30 p.m., in person or electronically, will be deemed to have been received the next business day.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the appeal; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be accompanied by the fee prescribed under the Ontario Land Tribunal in the amount of $1,100.00 for each application appealed payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the OLT website at www.olt.gov.on.ca.</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only an applicant, a specified person or public body as defined in the Planning Act that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, the registered owner of any land to which the by-law would apply that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, and the Minister may appeal the by-law to the Ontario Land Tribunal.&nbsp;</p>\n<p>&nbsp;</p>\n<p>No person or public body shall be added as a party to the hearing of the appeal unless, before the by-law was passed, the person or public body made oral submissions at a public meeting or written submissions to the Council, or in the opinion of the Ontario Land Tribunal, there are reasonable grounds to add the person or public body as a party.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application may be obtained by contacting <strong>Rabia Ahmed</strong> at 416-392-2821, or <a href=\"mailto:Rabia.Ahmed@Toronto.ca\">Rabia.Ahmed@Toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p>&nbsp;</p>\n<p>Owner:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2759926 ONTARIO INC&nbsp;</p>\n<p>Authority:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Item 2024.EY17.2, Etobicoke York Community Council</p>\n<p>&nbsp;</p>\n<p><strong>PURPOSE AND EFFECT OF ZONING BY-LAW <span style=\"background-color: #ffffff;\">1243-2024</span></strong><br />&nbsp;</p>\n<p>The purpose and effect of Zoning By-law<span style=\"background-color: #ffffff;\"> 1243-2024</span> is to amend the city-wide Zoning By-law 569-2013 to permit the development of a mixed-use building containing 565 residential units, including nine rental replacement units and 428 square metres of non-residential gross floor area.</p>\n<p>&nbsp;</p>\n<p>Further information may be obtained by contacting <strong>Rabia Ahmed</strong> at 416-392-2821, or Rabia.Ahmed@Toronto.ca.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5754,
+  "otherReferenceList": [
+    {
+      "description": "2024.EY17.2 - 1828-1844 Weston Road - Zoning By-law Amendment and Rental Housing Demolition Applications - Decision Report - Approval",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2024.EY17.2"
+    }
+  ],
+  "planningApplicationNumbers": [
+    "22 242091 WET 05 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Passing of Zoning By-Law 1243-2024 - 1828-1844 Weston",
+  "topics": [
+    "Planning > Adoption of Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

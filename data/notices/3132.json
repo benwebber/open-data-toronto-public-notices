@@ -1,0 +1,33 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [
+    {
+      "description": "CANCELLATION - Notice of Public Meeting Regarding Development Charges",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2899"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Executive Committee",
+    "country": "Canada",
+    "emailAddress": "exc@toronto.ca",
+    "fax": "416-392-1879",
+    "locationName": "Toronto City Hall, 10th Floor, West Tower",
+    "phone": "416-392-4666",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Executive Committee",
+  "eventList": [],
+  "noticeDate": 1647835200000,
+  "noticeDescription": "<p>A Notice of Public Meeting was previously mailed and/or published on March 9, 2022.&nbsp; Please be advised that the proposed development charge by-law and background study will NOT be considered by the Executive Committee on March 30, 2022.</p>\n<p>&nbsp;</p>\n<p>This Public Meeting has been CANCELLED and will be RE-SCHEDULED.&nbsp; Full details of the re-scheduled Public Meeting will be issued at a later date.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3132,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "CANCELLATION - Notice of Public Meeting Regarding Development Charges\n\n",
+  "topics": [],
+  "uniqueMapUrl": []
+}

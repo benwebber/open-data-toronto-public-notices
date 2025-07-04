@@ -1,0 +1,84 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "995 Broadview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.684111815",
+      "longitudeCoordinate": "-79.3566260354",
+      "postalCode": "M4K 2S1",
+      "province": "Ontario",
+      "streetAddress": "995 Broadview Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1005 Broadview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6843112846",
+      "longitudeCoordinate": "-79.3566330573",
+      "postalCode": "M4K 2S1",
+      "province": "Ontario",
+      "streetAddress": "1005 Broadview Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Mortimer Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6842439092",
+      "longitudeCoordinate": "-79.3562690513",
+      "postalCode": "M4K 1Z8",
+      "province": "Ontario",
+      "streetAddress": "2 Mortimer Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "4 Mortimer Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6842892647",
+      "longitudeCoordinate": "-79.3562091825",
+      "postalCode": "M4K 1Z8",
+      "province": "Ontario",
+      "streetAddress": "4 Mortimer Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice - Realignment of Permit Parking Area 8F",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3551"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1673845200000,
+  "noticeDescription": "<p>Notice is hereby given that Toronto and East York Community Council proposes to pass a by-law to realign the boundary of Permit Parking area \"8F\" to Realignment of Permit Parking Area 8F to exclude development at 995-1005 Broadview Avenue and 2-4 Mortimer Avenue</p>\n<p>&nbsp;</p>\n<p>The meeting of the Toronto and East York Community Council will be held on January 26, 2023 at 9:30 a.m., or shortly afterwards and will meet by video conference and in person in Committee Room 1, Toronto City Hall,&nbsp; 100 Queen Street West.</p>\n<p>&nbsp;</p>\n<p>Any objections regarding this proposal should be set out in writing and forwarded to the City Clerk, Attention: Administrator, Toronto and East York Community Council, City of Toronto, Secretariat Division, City Hall, 100 Queen Street W, 2nd floor West Tower, Toronto, Ontario, M5H 2N2, or by E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>If you wish to make a presentation to the Community Council regarding this proposal, please phone 416-392-7033 or e-mail teycc@toronto.ca by 12:00 p.m. on January 25, 2023, so that we can include your name on the list of speakers and provide you with instructions on how to participate in the meeting.</p>\n<p>&nbsp;</p>\n<p>Special Assistance for Members of the Public: City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Notice to People Writing or Making Presentations to the Toronto and East York Community Council: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees and Boards.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, City Hall, 100 Queen Street West, Toronto, ON, M5H 2N2 or call 416-392-7033.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3780,
+  "otherReferenceList": [
+    {
+      "description": "TE2.51 - Realignment of Permit Parking Area 8F to Exclude the Development Located at 995-1005 Broadview Avenue and 2-4 Mortimer Avenue",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2023.TE2.51"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "  Notice is hereby given that Toronto and East York Community Council proposes to pass a by-law to realign the boundary of Permit Parking area \"8F\" to Realignment of Permit Parking Area 8F to exclude development at 995-1005 Broadview Avenue and 2-4 Mortimer Avenue",
+  "title": "Public Notice - Realignment of Permit Parking Area \"8F\" ",
+  "topics": [
+    "Transportation > Intention to reduce permit parking spaces or times"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

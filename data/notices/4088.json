@@ -1,0 +1,41 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "260 Adelaide Street West Toronto Ontario",
+      "latitudeCoordinate": "43.648306536",
+      "longitudeCoordinate": "-79.389564185",
+      "postalCode": "M5H 1X6",
+      "province": "Ontario",
+      "streetAddress": "260 Adelaide Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Property - 260 Adelaide Street West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3865"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Eric Allen",
+    "country": "Canada",
+    "locationName": "Metro Hall",
+    "phone": "416-392-1852",
+    "postalCode": "M5V 3C6",
+    "province": "ON",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1685332800000,
+  "noticeDescription": "<p><strong>NOTICE</strong> is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal By-law, on October 29, 2019 the City-owned parcel of land located at 260 Adelaide Street West, legally described as PIN 21411-0124 (LT), LT B PL D5 TORONTO; LT 6 S/S NELSON ST PL D133 TORONTO; PT LT A PL D5 TORONTO; PT LT 6 N/S ADELAIDE ST PL D133 TORONTO AS IN ES67870 &amp; ES67871; CITY OF TORONTO, was declared surplus. The property has a total area of approximately 2,594 m2 (27,922 ft2). 260 Adelaide Street West is an existing 3 storey fire station building, consisting of approximately 29,600 ft2 (2,750 m2) of gross floor area, which is being relocated.&nbsp; The City proposes that the intended manner of disposal is to be by way of transfer to Build Toronto Inc., CreateTO's corporate entity, for commercial-residential uses.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Mr. Eric Allen, Senior Project Manager, Tel: 416-392-1852, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until June 9th, 2023.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4088,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property - 260 Adelaide Street West",
+  "topics": [],
+  "uniqueMapUrl": []
+}

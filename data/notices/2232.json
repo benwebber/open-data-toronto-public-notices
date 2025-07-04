@@ -1,0 +1,66 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "165 Stanley Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.614279988",
+      "longitudeCoordinate": "-79.496288457",
+      "postalCode": "M8V 1P1",
+      "province": "Ontario",
+      "streetAddress": "165 Stanley Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-laws 239-2021 and 240-2021 - 165 Stanley Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2082"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke York Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "fax": "416-394-5600",
+    "locationName": "Etobicoke Civic Centre",
+    "phone": "416-392-8016",
+    "postalCode": "M9C 2Y2",
+    "province": "Ontario",
+    "streetAddress": "399 The West Mall"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1618804800000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-laws 239-2021 and 240-2021 to designate 165 Stanley Avenue (Etobicoke-Lakeshore, Ward 3) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2232,
+  "otherReferenceList": [
+    {
+      "description": "2020.PB18.3 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act and Authority to Enter Into a Heritage Easement Agreement - 165 Stanley Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.PB18.3"
+    },
+    {
+      "description": "2020.EY19.4 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act and Authority to Enter Into a Heritage Easement Agreement - 165 Stanley Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.EY19.4"
+    },
+    {
+      "description": "By-law 239-2021 - To designate the property at 165 Stanley Avenue as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2021/law0239.pdf"
+    },
+    {
+      "description": "By-law 240-2021 - To provide for the entering into of a heritage easement agreement for the conservation of the property known municipally as 165 Stanley Avenue",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2021/law0240.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 165 Stanley Avenue, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-laws 239-2021 and 240-2021 - 165 Stanley Avenue ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

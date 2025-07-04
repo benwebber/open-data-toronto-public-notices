@@ -1,0 +1,77 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "528 Birchmount Road Toronto Ontario",
+      "latitudeCoordinate": "43.7100687359",
+      "longitudeCoordinate": "-79.2696901937",
+      "postalCode": "M1K 1P2",
+      "province": "Ontario",
+      "streetAddress": "528 Birchmount Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "530 Birchmount Road Toronto Ontario",
+      "latitudeCoordinate": "43.7101622609",
+      "longitudeCoordinate": "-79.2698347715",
+      "postalCode": "M1K 1P2",
+      "province": "Ontario",
+      "streetAddress": "530 Birchmount Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "118 Newlands Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7099426788",
+      "longitudeCoordinate": "-79.2703681522",
+      "postalCode": "M1L 1S3",
+      "province": "Ontario",
+      "streetAddress": "118 Newlands Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "120 Newlands Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7099874498",
+      "longitudeCoordinate": "-79.2700524533",
+      "postalCode": "M1L 1S3",
+      "province": "Ontario",
+      "streetAddress": "120 Newlands Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application Under the Planning Act - 528-530 Birchmount Road and 118-120 Newlands Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5027"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1715313600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>SCARBOROUGH COMMUNITY COUNCIL</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 20 152132 ESC 20 OZ</p>\n<p>To amend the Zoning By-law to permit ten new detached single-family dwellings.</p>\n<p>528-530 Birchmount Road and 118-120 Newlands Avenue&nbsp;&nbsp;</p>\n<p>Ward 20 &ndash; Scarborough Southwest</p>\n<p>Planner, Olivia Antonel at (416) 394-6008 or <a href=\"mailto:Olivia.Antonel@toronto.ca\">Olivia.Antonel@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5190,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "20 152132 ESC 20 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application Under the Planning Act - 528-530 Birchmount Road and 118-120 Newlands Avenue   ",
+  "topics": [
+    "Planning"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "accessibilityDescription": "Special Assistance for Members of the Public:  City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-395-0480, TTY 416-338-0889 or e-mail nycc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Eglinton Avenue West & Marlee Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.698405279800525",
+      "longitudeCoordinate": "-79.43885933661505",
+      "majorIntersection": "Eglinton Avenue West & Marlee Avenue",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Naming of a public lane located north of Eglinton Avenue West, extending between Marlee Avenue and Fairleigh Crescent - \"Nicastro Lane\"",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1262"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "fax": "416-395-7337",
+    "locationName": "North York Civic Centre",
+    "phone": "416-395-7337",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Council Chamber, North York Civic Centre",
+      "postalCode": "M2N 5V7",
+      "province": "Ontario",
+      "startDateTime": 1578493800000,
+      "streetAddress": "5100 Yonge Street"
+    }
+  ],
+  "noticeDate": 1576731600000,
+  "noticeDescription": "<p>To consider a proposal to name a proposed public lane north of Eglinton Avenue West, extending between Marlee Avenue and Fairleigh Crescent as &ldquo;Nicastro Lane\".&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>\n<p>The plan showing the lands to be affected may be seen in the City Clerk's Office, Secretariat, Ground Floor, North York Civic Centre, 5100 Yonge Street, between the hours of 8:30 a.m. and 4:30 p.m. Monday to Friday. At its meeting to be held in the Council Chamber, Lower Floor, North York Civic Centre, 5100 Yonge Street, on January 8, 2020 at 10:15 a.m., or shortly afterwards, the North York Community Council will hear in person or by his or her counsel, agent or solicitor, any person who claims that his or her lands will be prejudicially affected by the naming and who applies to be heard with respect to the proposed naming.</p>\n<p>Notice to people writing or making presentations to the North York Community Council: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view.&nbsp; If you speak at the meeting you will appear in the video broadcast.&nbsp; Video broadcasts are archived and continue to be publicly available.</p>\n<p>To obtain additional information, submit comments or address the North York Community Council meeting on January 8, 2020, please contact the following City official no later than 4:30 p.m. on January 7, 2020.</p>\n<p style=\"padding-left: 30px;\">Ms. Francine Adamo<br />Administrator, North York Community Council<br />City Clerk&rsquo;s Office<br />North York Civic Centre<br />Main Floor, 5100 Yonge Street<br />Toronto, Ontario M2N 5V7<br />Telephone: 416-395-0480; Fax: 416-395-7337</p>\n<p style=\"padding-left: 30px;\">E-mail: <a href=\"mailto:nycc@toronto.ca\">nycc@toronto.ca</a> </p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1442,
+  "otherReferenceList": [
+    {
+      "description": "2020.NY12.11 - Naming of an existing Public Lane north of Eglinton Avenue West, extending between Marlee Avenue and Fairleigh Crescent",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.NY12.11"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Notice is given that the City of Toronto will consider whether to pass a by-law to authorize the Naming of a public lane in the North York Community Council Area",
+  "title": "Naming of a public lane located north of Eglinton Avenue West, extending between Marlee Avenue and Fairleigh Crescent - \"Nicastro Lane\"",
+  "topics": [
+    "Transportation > Intention to name a road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

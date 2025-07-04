@@ -1,0 +1,73 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1354 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6416160029",
+      "longitudeCoordinate": "-79.4325873997",
+      "postalCode": "M6K 1L7",
+      "province": "Ontario",
+      "streetAddress": "1354 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1358 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.641676029",
+      "longitudeCoordinate": "-79.4327281292",
+      "postalCode": "M6K 1L7",
+      "province": "Ontario",
+      "streetAddress": "1358 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1360 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6416386856",
+      "longitudeCoordinate": "-79.4328163563",
+      "postalCode": "M6K 1L7",
+      "province": "Ontario",
+      "streetAddress": "1360 Queen Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Designation By-Law 937-2021 - 1354, 1358 AND 1360 Queen Street West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2706"
+    }
+  ],
+  "contact": {
+    "city": "Toronto ",
+    "contactName": "Toronto Preservation Board",
+    "country": "Canada",
+    "emailAddress": "hertpb@toronto.ca",
+    "locationName": "2nd floor, West Tower, City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario ",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto Preservation Board",
+  "eventList": [],
+  "noticeDate": 1638334800000,
+  "noticeDescription": "<p>TAKE NOTICE that Council for the City of Toronto passed Designation By-law 937-2021 on&nbsp;November 9, 10 and 12, 2021 which designates&nbsp;the lands, buildings and structures known municipally as 1354, 1358 and 1360 Queen Street West under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest.</p>\n<p>&nbsp;</p>\n<p>The City Clerk received an objection to the Notice of Intention to Designate the Property and City Council considered the objection in making its decision at its meeting on November 9, 10 and 12, 2021. Refer to Item PH27.9.</p>\n<p>&nbsp;</p>\n<p>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</p>\n<p>Take notice that an appeal of the Designation by-law for the Property by those persons permitted to appeal under section 29 of the Ontario Heritage Act may be made by filing a notice of appeal with the City Clerk, Attention: Administrator, Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2.; Email: <a href=\"mailto:hertpb@toronto.ca\">hertpb@toronto.ca</a> within thirty days of December 1, 2021, which is December 31, 2021.</p>\n<p>&nbsp;</p>\n<p>A Notice of Appeal must:</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;set out the reasons for the objection to the designation by-law; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;set out the reasons in support of the objection to the designation by-law.</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT), forms are available from the Ontario Land Tribunal website at <a href=\"https://olt.gov.on.ca\">https://olt.gov.on.ca</a>.&nbsp;</p>\n<p>Who Can File An Appeal:</p>\n<p>Any persons who object to the designation by-law may refer the matter to the Ontario Land Tribunal.</p>\n<p>&nbsp;</p>\n<p>Getting Additional Information:</p>\n<p>A copy of the by-law and background information about the application is available for public inspection by contacting Heritage Planning staff at <a href=\"mailto:heritageplanning@toronto.ca\">heritageplanning@toronto.ca</a>.&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2924,
+  "otherReferenceList": [
+    {
+      "description": "PH27.9 - 1354, 1358, and 1360 Queen Street West - Proposed Designation By-law Under Part IV, Section 29 of the Ontario Heritage Act - Consideration of Objections",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.PH27.9"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "IN THE MATTER OF THE ONTARIO HERITAGE ACT  R.S.O. 1990, CHAPTER O.18 AND  CITY OF TORONTO, PROVINCE OF ONTARIO  1354, 1358 AND 1360 QUEEN STREET WEST",
+  "title": "NOTICE OF PASSING OF DESIGNATION BY-LAW 937-2021 (1354, 1358 AND 1360 QUEEN STREET WEST)",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

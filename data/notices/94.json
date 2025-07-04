@@ -1,0 +1,62 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "481 University Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6552444173",
+      "longitudeCoordinate": "-79.3877490011",
+      "postalCode": "M5G 2E9",
+      "province": "Ontario",
+      "streetAddress": "481 University Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "210 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6551330147",
+      "longitudeCoordinate": "-79.3874687706",
+      "postalCode": "M5G 2E8",
+      "province": "Ontario",
+      "streetAddress": "210 Dundas Street West"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1520913600000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 1393-2017 to designate 481 University Avenue (Maclean-Hunter Building, 1961) and 481 University Avenue, also known as 210 Dundas Street West (Maclean Publishing Company Building, 1928) (Toronto Centre-Rosedale, Ward 27) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 94,
+  "otherReferenceList": [
+    {
+      "description": "TE34.30 - Alteration of a Designated Heritage Property, Intention to Designate Under Part IV, Section 29 of the Ontario Heritage Act and Authority to Enter Into a Heritage Easement Agreement - 481 University Avenue (Including 210 Dundas Street West)",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2014.TE34.30"
+    },
+    {
+      "description": "By-law 1393-2017 - To designate the property at 481 University Avenue (Maclean-Hunter Building, 1961) and 481 University Avenue, also known as 210 Dundas Street West (Maclean Publishing Company Building (1928) as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2017/law1393.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act  R.S.O. 1990 Chapter 0.18 and  City of Toronto, Province of Ontario.",
+  "title": "Notice of Passing of By-law 1393-2017 - 481 University Avenue",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

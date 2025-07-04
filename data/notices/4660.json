@@ -1,0 +1,47 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1702 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6674139317",
+      "longitudeCoordinate": "-79.3128307568",
+      "postalCode": "M4L 1G6",
+      "province": "Ontario",
+      "streetAddress": "1702 Queen Street East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Property - 1702 Queen Street East",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4497"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Pavlina Stockova",
+    "country": "Canada",
+    "emailAddress": "pavlina.stockova@toronto.ca",
+    "locationName": "Metro Hall",
+    "phone": "416-392-4829",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street",
+    "unit": "2nd Floor"
+  },
+  "eventList": [],
+  "noticeDate": 1701925200000,
+  "noticeDescription": "<p><strong>NOTICE</strong> is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal By-law, on October 24, 2023 the City-owned parcel of land located immediately west of Penny Lane and immediately north of 1702 Queen Street East, legally described as Part of Lots Pt Lane Pl 435E &ndash; Registered Plan 435E, City of Toronto was declared surplus. The property has a total area of approximately 69.6 m2 (749.17 ft2).&nbsp; The City proposes that the intended manner of disposal is to be by way of offer to purchase from the abutting owner.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Mr. Allan Mak, Property Officer, Tel: 416-392-8159, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until December 20th, 2023.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4660,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property - 1702 Queen Street East",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

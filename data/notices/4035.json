@@ -1,0 +1,142 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Brushwood Court Toronto Ontario",
+      "latitudeCoordinate": "43.7548022852",
+      "longitudeCoordinate": "-79.328353335",
+      "postalCode": "M3A 1V9",
+      "province": "Ontario",
+      "streetAddress": "7 Brushwood Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "20 Kennerly Court Toronto Ontario",
+      "latitudeCoordinate": "43.7545160148",
+      "longitudeCoordinate": "-79.5071499018",
+      "postalCode": "M3J 1G9",
+      "province": "Ontario",
+      "streetAddress": "20 Kennerly Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "63 Marchmount Road Toronto Ontario",
+      "latitudeCoordinate": "43.6739130381",
+      "longitudeCoordinate": "-79.4272293325",
+      "postalCode": "M6G 2A8",
+      "province": "Ontario",
+      "streetAddress": "63 Marchmount Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "107 Centre Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7934642209",
+      "longitudeCoordinate": "-79.4089628463",
+      "postalCode": "M2M 2L7",
+      "province": "Ontario",
+      "streetAddress": "107 Centre Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "111 Roseneath Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.6855557206",
+      "longitudeCoordinate": "-79.4356575521",
+      "postalCode": "M6C 3X5",
+      "province": "Ontario",
+      "streetAddress": "111 Roseneath Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "127 Habitant Drive Toronto Ontario",
+      "latitudeCoordinate": "43.744863117",
+      "longitudeCoordinate": "-79.537650346",
+      "postalCode": "M9M 2P4",
+      "province": "Ontario",
+      "streetAddress": "127 Habitant Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "141 Chester Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.681471874",
+      "longitudeCoordinate": "-79.3531429134",
+      "postalCode": "M4K 2Z8",
+      "province": "Ontario",
+      "streetAddress": "141 Chester Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "177 St Helens Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6547230039",
+      "longitudeCoordinate": "-79.4424492555",
+      "postalCode": "M6H 4A2",
+      "province": "Ontario",
+      "streetAddress": "177 St Helens Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Foxwell Street Toronto Ontario",
+      "latitudeCoordinate": "43.6716458634",
+      "longitudeCoordinate": "-79.4944249697",
+      "postalCode": "M6N 1Z1",
+      "province": "Ontario",
+      "streetAddress": "2 Foxwell Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3811"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-8485",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1683259200000,
+  "noticeDescription": "<p>Individual bills for each of the benefitting properties listed below have been submitted for the meeting of City Council being held on May 10, 11 and 12, 2023. Review bill details (<a href=\"https://secure.toronto.ca/council/bill-bylaw.do?meeting=2023.CC6\">https://secure.toronto.ca/council/bill-bylaw.do?meeting=2023.CC6</a>).</p>\n<p>&nbsp;</p>\n<p>Each of these bills imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a href=\"http://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>&nbsp;</p>\n<p>The benefitting properties are:</p>\n<p>&nbsp;</p>\n<p>&middot; 7 Brushwood Court</p>\n<p>&middot; 20 Kennerly Court</p>\n<p>&middot; 63 Marchmount Road</p>\n<p>&middot; 107 Centre Avenue</p>\n<p>&middot; 111 Roseneath Gardens</p>\n<p>&middot; 127 Habitant Drive</p>\n<p>&middot; 141 Chester Avenue</p>\n<p>&middot; 177 St Helens Avenue</p>\n<p>&middot;&nbsp; 2 Foxwell Street</p>\n<p>&nbsp;</p>\n<p><strong>For More Information Contact</strong></p>\n<p>&nbsp;</p>\n<p>City Council<br /><a href=\"mailto:councilmeeting@toronto.ca\">councilmeeting@toronto.ca</a>&nbsp;<br />Phone: 416-392-8485<br />Fax: 416-392-2980</p>\n<p>Toronto City Hall<br />100 Queen Street<br />Toronto, Ontario<br />M5H 2N2<br />Canada</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4035,
+  "otherReferenceList": [
+    {
+      "description": "Bills Index May 10, 11, 12, 2023.CC6",
+      "url": "https://secure.toronto.ca/council/bill-bylaw.do?meeting=2023.CC6"
+    },
+    {
+      "description": "2013.EX33.22 - Proposed Energy and Water Efficiency Initiative for the Residential Sector",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22"
+    },
+    {
+      "description": "By-Law No. 1105-2013 - To authorize the undertaking of energy efficiency and water conservation works on private residential property as local improvements under the Residential Retrofit Program",
+      "url": "http://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program",
+  "title": "City's Residential Retrofit Program ",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

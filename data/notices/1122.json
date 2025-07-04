@@ -1,0 +1,45 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Queen Street East & Ontario Street Toronto Ontario",
+      "latitudeCoordinate": "43.65417692920827",
+      "longitudeCoordinate": "-79.36688505859433",
+      "majorIntersection": "Queen Street East & Ontario Street",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Properties",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=922"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Irina Fofanova",
+    "country": "Canada",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-397-0806",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1568865600000,
+  "noticeDescription": "<p>NOTICE is given that in accordance with the City&rsquo;s real estate disposal by-law, on September 10, 2019, the public lane, located south of Queen Street extending westerly from Ontario Street and southerly to Richmond Street, Toronto, Ontario, legally described as PT TOWNLT 1 S/S Queen ST E, 1 N/S Duchess St PL Town of York Toronto; PT LT 4 S/S Queen St, 5 N/S Duchess St, 5 S/S Queen St, 6 N/S Duchess St PL 124 Toronto; City of Toronto, and PT LT 5 N/S Duchess ST PL 124 Toronto as in OR32902; City of Toronto; and shown as Part 1 on Sketch No. PS-2016-125, was declared surplus, conditional upon City Council approving the permanent closure of the said lane and subject to granting the required easements. The public lane has a total area of approximately 944.1 m2 &plusmn; (10,162 ft2 &plusmn;).The City proposes to invite an offer to purchase the subject lane from Richmond Residential Limited Management.</p>\n<p>The following City official has information about the proposed disposition: Mrs. Irina Fofanova, Tel: 416-337-0806, Fax: 416-392-1880, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the October 3rd, 2019.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1122,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Declaration of Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Leonard Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6532917283",
+      "longitudeCoordinate": "-79.404163973",
+      "postalCode": "M5T 2R1",
+      "province": "Ontario",
+      "streetAddress": "5 Leonard Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Randolph Road Toronto Ontario",
+      "latitudeCoordinate": "43.7011589977",
+      "longitudeCoordinate": "-79.3640773025",
+      "postalCode": "M4G 3R6",
+      "province": "Ontario",
+      "streetAddress": "5 Randolph Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Wright Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.646764396",
+      "longitudeCoordinate": "-79.441160508",
+      "postalCode": "M6R 1K9",
+      "province": "Ontario",
+      "streetAddress": "7 Wright Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Oakfield Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6322416075",
+      "longitudeCoordinate": "-79.5039135916",
+      "postalCode": "M8Y 1N6",
+      "province": "Ontario",
+      "streetAddress": "9 Oakfield Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Baird Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6769455349",
+      "longitudeCoordinate": "-79.3368936992",
+      "postalCode": "M4J 1H1",
+      "province": "Ontario",
+      "streetAddress": "11 Baird Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Placid Road Toronto Ontario",
+      "latitudeCoordinate": "43.6366825191",
+      "longitudeCoordinate": "-79.5129578684",
+      "postalCode": "M8Z 4A3",
+      "province": "Ontario",
+      "streetAddress": "11 Placid Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Fraserton Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7495530126",
+      "longitudeCoordinate": "-79.2516447843",
+      "postalCode": "M1J 1S7",
+      "province": "Ontario",
+      "streetAddress": "19 Fraserton Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Jackson Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6490477",
+      "longitudeCoordinate": "-79.509093562",
+      "postalCode": "M8X 2J2",
+      "province": "Ontario",
+      "streetAddress": "19 Jackson Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Palmerston Square Toronto Ontario",
+      "latitudeCoordinate": "43.666286353",
+      "longitudeCoordinate": "-79.414807465",
+      "postalCode": "M6G 2S8",
+      "province": "Ontario",
+      "streetAddress": "15 Palmerston Square"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "27 Brenda Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7183767188",
+      "longitudeCoordinate": "-79.2599278686",
+      "postalCode": "M1K 3C3",
+      "province": "Ontario",
+      "streetAddress": "27 Brenda Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "36 Mahoney Toronto Ontario",
+      "latitudeCoordinate": "43.6915976683",
+      "longitudeCoordinate": "-79.4982542839",
+      "postalCode": "M6M 2H4",
+      "province": "Ontario",
+      "streetAddress": "36 Mahoney"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "40 Gradwell Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7144725235",
+      "longitudeCoordinate": "-79.2356645591",
+      "postalCode": "M1M 2M9",
+      "province": "Ontario",
+      "streetAddress": "40 Gradwell Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "58 Scarborough Golf Club Road Toronto Ontario",
+      "latitudeCoordinate": "43.7443328753",
+      "longitudeCoordinate": "-79.2090469513",
+      "postalCode": "M1M 3C5",
+      "province": "Ontario",
+      "streetAddress": "58 Scarborough Golf Club Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "65 Fifth Street Toronto Ontario",
+      "latitudeCoordinate": "43.5984940288",
+      "longitudeCoordinate": "-79.5016447595",
+      "postalCode": "M8V 2Z1",
+      "province": "Ontario",
+      "streetAddress": "65 Fifth Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "101 Pendrith Street Toronto Ontario",
+      "latitudeCoordinate": "43.6663939638",
+      "longitudeCoordinate": "-79.4236865819",
+      "postalCode": "M6G 1R8",
+      "province": "Ontario",
+      "streetAddress": "101 Pendrith Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "102 Brooklyn Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6644991309",
+      "longitudeCoordinate": "-79.3371798662",
+      "postalCode": "M4M 2X5",
+      "province": "Ontario",
+      "streetAddress": "102 Brooklyn Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "108 George Street Toronto Ontario",
+      "latitudeCoordinate": "43.651964815",
+      "longitudeCoordinate": "-79.371459435",
+      "postalCode": "M8V 2S4",
+      "province": "Ontario",
+      "streetAddress": "108 George Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "182 Franklin Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.664409878",
+      "longitudeCoordinate": "-79.454113658",
+      "postalCode": "M2N 1C7",
+      "province": "Ontario",
+      "streetAddress": "182 Franklin Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "185 Dowling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639496022",
+      "longitudeCoordinate": "-79.4393233857",
+      "postalCode": "M6K 3B2",
+      "province": "Ontario",
+      "streetAddress": "185 Dowling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "214 Grandravine Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7498445512",
+      "longitudeCoordinate": "-79.5016898974",
+      "postalCode": "M3J 1B7",
+      "province": "Ontario",
+      "streetAddress": "214 Grandravine Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "230 Chatham Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6805294268",
+      "longitudeCoordinate": "-79.3326845644",
+      "postalCode": "M4J 1K9",
+      "province": "Ontario",
+      "streetAddress": "230 Chatham Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "231 Elm Road Toronto Ontario",
+      "latitudeCoordinate": "43.7282767536",
+      "longitudeCoordinate": "-79.4140076598",
+      "postalCode": "M5M 3T7",
+      "province": "Ontario",
+      "streetAddress": "231 Elm Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "268 Woodfield Toronto Ontario",
+      "latitudeCoordinate": "43.671266189",
+      "longitudeCoordinate": "-79.324011024",
+      "postalCode": "M4L 2W7",
+      "province": "Ontario",
+      "streetAddress": "268 Woodfield"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "282 Woodfield Road Toronto Ontario",
+      "latitudeCoordinate": "43.672230686",
+      "longitudeCoordinate": "-79.32441879",
+      "postalCode": "M4L 2X1",
+      "province": "Ontario",
+      "streetAddress": "282 Woodfield Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "293 Wallace Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.661430717",
+      "longitudeCoordinate": "-79.4480649659",
+      "postalCode": "M6P 3N2",
+      "province": "Ontario",
+      "streetAddress": "293 Wallace Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "314 Willard Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.652064455",
+      "longitudeCoordinate": "-79.4828884153",
+      "postalCode": "M6S 3R2",
+      "province": "Ontario",
+      "streetAddress": "314 Willard Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "591 Euclid Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6612253568",
+      "longitudeCoordinate": "-79.4133022379",
+      "postalCode": "M6G 2T4",
+      "province": "Ontario",
+      "streetAddress": "591 Euclid Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1535 Mount Pleasant Road Toronto Ontario",
+      "latitudeCoordinate": "43.7273317073",
+      "longitudeCoordinate": "-79.3965928775",
+      "postalCode": "M4N 2V1",
+      "province": "Ontario",
+      "streetAddress": "1535 Mount Pleasant Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice Energy Retrofit Bill Notice",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3701"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-8485",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1679630400000,
+  "noticeDescription": "<p>Individual bills for each of the benefitting properties listed below have been submitted for the meeting of City Council being held on March 29, 30 and 31, 2023. Review bill details (<a href=\"https://secure.toronto.ca/council/bill-bylaw.do?meeting=2023.CC5\">https://secure.toronto.ca/council/bill-bylaw.do?meeting=2023.CC5</a>).</p>\n<p>&nbsp;</p>\n<p>Each of these bills imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a href=\"http://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>&nbsp;</p>\n<p>The benefitting properties are:</p>\n<p>&middot; 5 Leonard Avenue</p>\n<p>&middot; 5 Randolph Road</p>\n<p>&middot; 7 Wright Avenue</p>\n<p>&middot; 9 Oakfield Drive</p>\n<p>&middot; 11 Baird Avenue</p>\n<p>&middot; 11 Placid Road</p>\n<p>&middot; 15 Palmerston Square</p>\n<p>&middot; 19 Fraserton Crescent</p>\n<p>&middot; 19 Jackson Avenue</p>\n<p>&middot; 27 Brenda Crescent</p>\n<p>&middot; 36 Mahoney Avenue</p>\n<p>&middot; 40 Gradwell Drive</p>\n<p>&middot; 58 Scarborough Golf Club Road</p>\n<p>&middot; 65 Fifth Street</p>\n<p>&middot; 101 Pendrith Street</p>\n<p>&middot; 102 Brooklyn Avenue</p>\n<p>&middot; 108 George Street</p>\n<p>&middot; 182 Franklin Avenue</p>\n<p>&middot; 185 Dowling Avenue</p>\n<p>&middot; 214 Grandravine Drive</p>\n<p>&middot; 230 Chatham Avenue</p>\n<p>&middot; 231 Elm Road</p>\n<p>&middot; 268 Woodfield Road</p>\n<p>&middot; 282 Woodfield Road</p>\n<p>&middot; 293 Wallace Avenue</p>\n<p>&middot; 314 Willard Avenue</p>\n<p>&middot; 591 Euclid Avenue</p>\n<p>&middot; 1535 Mount Pleasant Road</p>\n<p>&nbsp;</p>\n<p>For More Information Contact</p>\n<p>City Council<br /><a href=\"mailto:councilmeeting@toronto.ca\">councilmeeting@toronto.ca</a>&nbsp;<br />Phone: 416-392-8485<br />Fax: 416-392-2980</p>\n<p>&nbsp;</p>\n<p>Toronto City Hall<br />100 Queen Street<br />Toronto, Ontario<br />M5H 2N2<br />Canada</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3924,
+  "otherReferenceList": [
+    {
+      "description": "2013.EX33.22 - Proposed Energy and Water Efficiency Initiative for the Residential Sector",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program",
+  "title": "City's Residential Retrofit Program",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

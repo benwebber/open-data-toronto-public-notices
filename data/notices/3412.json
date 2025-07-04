@@ -1,0 +1,65 @@
+{
+  "accessibilityDescription": "City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-395-0480, TTY 416-338-0889 or e-mail nycc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "36 Churchill Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.773347109",
+      "longitudeCoordinate": "-79.416928815",
+      "postalCode": "M2N 1Y7",
+      "province": "Ontario",
+      "streetAddress": "36 Churchill Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "40 Churchill Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.773138432",
+      "longitudeCoordinate": "-79.417222538",
+      "postalCode": "M2N 1Y7",
+      "province": "Ontario",
+      "streetAddress": "40 Churchill Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": " Naming a Proposed Private Street - Flax Field Lane",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3179"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "fax": "416-395-7337",
+    "locationName": "North York Civic Centre",
+    "phone": "416-395-7337",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1655352000000,
+  "noticeDescription": "<p>CITY OF TORONTO ACT, 2006 - PUBLIC NOTICE</p>\n<p>NORTH YORK COMMUNITY COUNCIL AREA</p>\n<p>&nbsp;</p>\n<p>To consider a proposal to name a proposed private street at 36 - 40 Churchill Avenue as &ldquo;Flax Field Lane\".</p>\n<p>At its meeting to be held on June 28, 2022 at 9:30 a.m., or shortly afterwards, the North York Community Council will hear from, or by his or her counsel, agent or solicitor, any person who claims that his or her lands will be prejudicially affected by the naming and who applies to be heard with respect to the proposed naming.&nbsp;</p>\n<p>The meeting of the North York Community Council will be held with members participating in person and remotely, and the proceedings of the North York Community Council will be conducted publicly.</p>\n<p>&nbsp;</p>\n<p><strong>Notice to people writing or making presentations to the North York Community Council:</strong> The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view.&nbsp; If you speak at the meeting you will appear in the video broadcast.&nbsp; Video broadcasts are archived and continue to be publicly available.</p>\n<p>To obtain additional information, submit comments or address the North York Community Council meeting on June 28 2022, please contact the following City official no later than 12:00 p.m. on June 27, 2022.</p>\n<p style=\"padding-left: 40px;\">Ms. Julie Amoroso</p>\n<p style=\"padding-left: 40px;\">Administrator, North York Community Council</p>\n<p style=\"padding-left: 40px;\">City Clerk&rsquo;s Office</p>\n<p style=\"padding-left: 40px;\">North York Civic Centre</p>\n<p style=\"padding-left: 40px;\">Main Floor, 5100 Yonge Street</p>\n<p style=\"padding-left: 40px;\">Toronto, Ontario M2N 5V7</p>\n<p style=\"padding-left: 40px;\">Telephone: 416-395-0480; Fax: 416-392-2980</p>\n<p style=\"padding-left: 40px;\">E-mail: nycc@toronto.ca</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3412,
+  "otherReferenceList": [
+    {
+      "description": "2022.NY33.26 - Naming of a Proposed Private Lane at 36 to 40 Churchill Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.NY33.26"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "Notice is given that the City of Toronto will consider whether to pass a by-law to authorize the naming of a proposed private lane in the North York Community Council area",
+  "title": "Naming a Proposed Private Street - Flax Field Lane",
+  "topics": [
+    "Transportation > Intention to name a road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

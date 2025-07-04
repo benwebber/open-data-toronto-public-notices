@@ -1,0 +1,57 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "33 Murray Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7850673625",
+      "longitudeCoordinate": "-79.2696569845",
+      "province": "Ontario",
+      "streetAddress": "33 Murray Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law - 33 Murray Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=412"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Scarborough Community Council",
+    "country": "Canada",
+    "emailAddress": "scc@toronto.ca",
+    "fax": "416-396-4301",
+    "locationName": "Scarborough Civic Centre",
+    "phone": "416-396-7287",
+    "postalCode": "M1P 4N7",
+    "province": "Ontario",
+    "streetAddress": "150 Borough Drive"
+  },
+  "decisionBody": "Scarborough Community Council",
+  "eventList": [],
+  "noticeDate": 1555300800000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 535-2019 to designate 33 Murray Avenue (Ward 23 &ndash; Scarborough North) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 601,
+  "otherReferenceList": [
+    {
+      "description": "2017.SC24.9 - Intention to Designate Under Part IV, Section 29 of the Ontario Heritage Act - 33 Murray Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2017.SC24.9"
+    },
+    {
+      "description": "Bylaw 535-2019 - To designate the property at 33 Murray Avenue as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0535.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 33 Murray Avenue, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law - 33 Murray Avenue ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2425 Bayview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7380387856",
+      "longitudeCoordinate": "-79.3817476075",
+      "postalCode": "M2L 1A4",
+      "province": "Ontario",
+      "streetAddress": "2425 Bayview Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2427 Bayview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.73823987673953",
+      "longitudeCoordinate": "-79.38191156107105",
+      "province": "Ontario",
+      "streetAddress": "2427 Bayview Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 The Bridle Path Toronto Ontario",
+      "latitudeCoordinate": "43.738414434",
+      "longitudeCoordinate": "-79.381782054",
+      "province": "Ontario",
+      "streetAddress": "1 The Bridle Path"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 2425 – 2427 Bayview Avenue and 1 The Bridle Path",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5950"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1741323600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>The City has received the following application(s) under the Planning Act:</strong></p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 24 245561 NNY 15 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-law to construct a six-storey residential building containing 56 units and 115 underground parking spaces. Vehicular access would be from The Bridal Path.</p>\n<p>2425 &ndash; 2427 Bayview Avenue and 1 The Bridle Path</p>\n<p>Ward 15 &ndash; Don Valley West</p>\n<p>Rebecca Thompson, Planner at 416-392-2535 or <a href=\"mailto:Rebecca.Thompson@toronto.ca\">Rebecca.Thompson@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/.\">www.toronto.ca/city-government/planning-development/application-information-centre/.&nbsp;</a> &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6071,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 245561 NNY 15 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 2425 – 2427 Bayview Avenue and 1 The Bridle Path",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment",
+    "Planning > Proposal for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

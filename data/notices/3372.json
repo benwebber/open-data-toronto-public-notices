@@ -1,0 +1,36 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "158 Sterling Road Toronto Ontario",
+      "latitudeCoordinate": "43.654653055",
+      "longitudeCoordinate": "-79.445255848",
+      "postalCode": "M6R 2B7",
+      "province": "Ontario",
+      "streetAddress": "158 Sterling Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Web - Notice of Repeal and Amend - 158 Sterling Rd",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3139"
+    }
+  ],
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1654833600000,
+  "noticeDescription": "<p>IN THE MATTER OF THE ONTARIO HERITAGE ACT</p>\n<p>R.S.O. 1990 CHAPTER 0.18 AND</p>\n<p>158 STERLING ROAD (Northern Aluminium Company Building)</p>\n<p>CITY OF TORONTO, PROVINCE OF ONTARIO</p>\n<p>&nbsp;</p>\n<p>NOTICE OF PARTIAL REPEAL AND AMENDMENT OF BY-LAW 969-2005<br />&nbsp;</p>\n<p>&nbsp;</p>\n<p>Take notice that Toronto City Council passed By-law 425-2022 to partially repeal and amend By-law 969-2005, being a by-law to designate the property at 158 Sterling Road (Northern Aluminium Company Building) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3372,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Partial Repeal and Amendment of By-Law 969-2005 - 158 Sterling Road",
+  "topics": [
+    "Heritage"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

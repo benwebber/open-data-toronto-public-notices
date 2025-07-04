@@ -1,0 +1,57 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "277 Victoria Street Toronto Ontario",
+      "latitudeCoordinate": "43.656558914",
+      "longitudeCoordinate": "-79.379338576",
+      "postalCode": "M5B 1W2",
+      "province": "Ontario",
+      "streetAddress": "277 Victoria Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "38 Dundas Street East Toronto Ontario",
+      "latitudeCoordinate": "43.656367121",
+      "longitudeCoordinate": "-79.3790845089",
+      "postalCode": "M5B 1C5",
+      "province": "Ontario",
+      "streetAddress": "38 Dundas Street East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Property - 277 Victoria Street and 38 Dundas Street East",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3550"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Eric Allen",
+    "country": "Canada",
+    "locationName": "Metro Hall",
+    "phone": "416-392-1852",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street",
+    "unit": "2nd floor"
+  },
+  "eventList": [],
+  "noticeDate": 1673845200000,
+  "noticeDescription": "<p><strong>NOTICE</strong> is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal By-law, on December 23, 2022, the City-owned parcels of land located at 277 Victoria Street and 38 Dundas Street East, legally described as PIN 21101-0106 (LT), LOT 71 EAST SIDE OF VICTORIA ST, LOT 72 EAST SIDE OF VICTORIA ST, PLAN 22A ; PART LOT 70 EAST SIDE OF VICTORIA ST, PART LOT 73 EAST SIDE OF VICTORIA ST, PLAN 22A AS IN CA402064; CITY OF TORONTO (277 Victoria Street); and PIN 21101-0107 (LT), PART LOT 69 EAST SIDE OF VICTORIA ST, PART LOT 70 EAST SIDE OF VICTORIA ST, PLAN 22A, PART 2 ON EXPROPRIATION PLAN CA549811; CITY OF TORONTO (38 Dundas Street East), were declared surplus. The properties have a total area of approximately 1,520 m2 (16,361 ft2). 277 Victoria Street is an 11 storey office building consisting of approximately 115,273 ft2 (m2) of gross floor area. 38 Dundas Street East is a vacant 3 storey building with a bike share station attached to 277 Victoria Street. The City proposes that the intended manner of disposal is to be by way of transfer to Build Toronto Inc., CreateTO's corporate entity, for institutional uses.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Mr. Eric Allen, Tel: 416-392-1852, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until January 27, 2023</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3779,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "NOTICE is hereby given that in accordance with the City of Toronto’s real estate disposal By-law, on December 23, 2022, the City-owned parcels of land located at 277 Victoria Street and 38 Dundas Street East",
+  "title": "Declaration of Surplus Property - 277 Victoria Street and 38 Dundas Street East",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

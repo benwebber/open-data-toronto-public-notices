@@ -1,0 +1,109 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "466 Eglinton Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.704016589",
+      "longitudeCoordinate": "-79.412313088",
+      "postalCode": "M5N 1A5",
+      "province": "Ontario",
+      "streetAddress": "466 Eglinton Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "462 Eglinton Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.704093329",
+      "longitudeCoordinate": "-79.412219366",
+      "postalCode": "M5N 1A5",
+      "province": "Ontario",
+      "streetAddress": "462 Eglinton Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "460 Eglinton Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.704021316",
+      "longitudeCoordinate": "-79.412222886",
+      "postalCode": "M5N 1A5",
+      "province": "Ontario",
+      "streetAddress": "460 Eglinton Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "458 Eglinton Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.704043056",
+      "longitudeCoordinate": "-79.412159162",
+      "postalCode": "M5N 1A5",
+      "province": "Ontario",
+      "streetAddress": "458 Eglinton Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "456 Eglinton Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.704104138",
+      "longitudeCoordinate": "-79.412114055",
+      "postalCode": "M5N 1A5",
+      "province": "Ontario",
+      "streetAddress": "456 Eglinton Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "454 Eglinton Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.704051622",
+      "longitudeCoordinate": "-79.412029037",
+      "postalCode": "M5N 1A5",
+      "province": "Ontario",
+      "streetAddress": "454 Eglinton Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "444 Eglinton Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.704072069",
+      "longitudeCoordinate": "-79.411842066",
+      "postalCode": "M5N 1A5",
+      "province": "Ontario",
+      "streetAddress": "444 Eglinton Avenue West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application Under the Planning Act - 444, 454, 456, 458, 460, 462 and 466 Eglinton Avenue West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4665"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1706245200000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 23 127502 NNY 08 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-law to permit a 19-storey residential building with retail uses at grade.</p>\n<p>444, 454, 456, 458, 460, 462 and 466 Eglinton Avenue West</p>\n<p>Ward 8 &ndash; Eglinton-Lawrence</p>\n<p>Valeria Maurizio, Planner at 416-395-7052 or at <a href=\"mailto:Valeria.Maurizio@toronto.ca\">Valeria.Maurizio@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4828,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "23 127502 NNY 08 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application Under the Planning Act - 444, 454, 456, 458, 460, 462 and 466 Eglinton Avenue West",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

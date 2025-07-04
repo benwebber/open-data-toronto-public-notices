@@ -1,0 +1,61 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "35 Kingsway Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.6560740752",
+      "longitudeCoordinate": "-79.5042998145",
+      "province": "Ontario",
+      "streetAddress": "35 Kingsway Crescent"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-Law - 35 Kingsway Crescent",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=550"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke York Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "fax": "416-394-5600",
+    "locationName": "Etobicoke Civic Centre",
+    "phone": "416-392-8016",
+    "postalCode": "M9C 2Y2",
+    "province": "Ontario",
+    "streetAddress": "399 The West Mall"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1559793600000,
+  "noticeDescription": "<p>Take Notice that the Council of the City of Toronto has passed By-law No. 217-2019 to designate the property at 35 Kingsway Crescent as being of cultural heritage value or interest</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 728,
+  "otherReferenceList": [
+    {
+      "description": "Bylaw 217-2019 - To designate the property at 35 Kingsway Crescent as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0217.pdf"
+    },
+    {
+      "description": "2019.PB1.1 -  Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 35 Kingsway Crescent",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB1.1"
+    },
+    {
+      "description": "2019.MM1.1 - 35 Kingsway Crescent - Intention to Designate Under Part IV, Section 29 of The Ontario Heritage Act - by Councillor Mark Grimes, seconded by Councillor Mike Layton",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.MM1.1"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 35 Kingsway Crescent",
+  "title": "Notice of Passing of By-law - 35 Kingsway Crescent",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

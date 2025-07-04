@@ -1,0 +1,69 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "147 Vaughan Road Toronto Ontario",
+      "latitudeCoordinate": "43.6852816558",
+      "longitudeCoordinate": "-79.4214805107",
+      "postalCode": "M6C 2L9",
+      "province": "Ontario",
+      "streetAddress": "147 Vaughan Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "151 Vaughan Road Toronto Ontario",
+      "latitudeCoordinate": "43.685342304",
+      "longitudeCoordinate": "-79.421523973",
+      "postalCode": "M6C 2L9",
+      "province": "Ontario",
+      "streetAddress": "151 Vaughan Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "153 Vaughan Road Toronto Ontario",
+      "latitudeCoordinate": "43.685382105",
+      "longitudeCoordinate": "-79.421538286",
+      "postalCode": "M6C 2L9",
+      "province": "Ontario",
+      "streetAddress": "153 Vaughan Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "CANCELLATION - Notice of Public Meeting - Rental Housing Demolition and Conversion Application - 147, 151 and 153 Vaughan Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4400"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1699506000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>CANCELLATION NOTICE</strong></p>\n<p style=\"text-align: center;\"><strong>OF PUBLIC MEETING</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Location of Application: 147, 151 and 153 Vaughan Road</strong></p>\n<p style=\"text-align: center;\"><strong>&nbsp; Rental Housing Demolition and Conversion Application</strong></p>\n<p style=\"text-align: center;\"><strong>Application Number: 20 205135 STE 12 RH</strong></p>\n<p style=\"text-align: center;\"><strong>Applicant: Bousfields Inc.</strong></p>\n<p>&nbsp;</p>\n<p>A Notice of Public Meeting was originally sent to you on October 20, 2023.&nbsp; Please be advised that this application will <strong>NOT</strong> be considered by the Toronto and East York Community Council on November 15, 2023.</p>\n<p>&nbsp;</p>\n<p>This Public Meeting has been <strong>CANCELLED</strong> and will be scheduled for a later date. You will be notified of the date, time and location of the Public Meeting.</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4563,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "20 205135 STE 12 RH"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Cancellation of Public Meeting - Rental Housing Demolition and Conversion Application - 147, 151 and 153 Vaughan Road",
+  "topics": [
+    "Meetings > Cancellation of meeting"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-meeting.png"
+  ]
+}

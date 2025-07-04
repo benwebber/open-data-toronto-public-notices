@@ -1,0 +1,161 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3247 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6653667932",
+      "longitudeCoordinate": "-79.4782331646",
+      "postalCode": "M6P 2A2",
+      "province": "Ontario",
+      "streetAddress": "3247 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3248 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6657748094",
+      "longitudeCoordinate": "-79.4782935973",
+      "postalCode": "M6P 2A3",
+      "province": "Ontario",
+      "streetAddress": "3248 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3249 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6653744213",
+      "longitudeCoordinate": "-79.4783075062",
+      "postalCode": "M6P 2A2",
+      "province": "Ontario",
+      "streetAddress": "3249 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3250 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6657721582",
+      "longitudeCoordinate": "-79.4783718122",
+      "postalCode": "M6P 2A3",
+      "province": "Ontario",
+      "streetAddress": "3250 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3251 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6653722863",
+      "longitudeCoordinate": "-79.4784014296",
+      "postalCode": "M6P 2A2",
+      "province": "Ontario",
+      "streetAddress": "3251 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3241 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6653695802",
+      "longitudeCoordinate": "-79.4780003481",
+      "postalCode": "M6P 2A2",
+      "province": "Ontario",
+      "streetAddress": "3241 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3242 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.665779243",
+      "longitudeCoordinate": "-79.4780605793",
+      "postalCode": "M6P 2A3",
+      "province": "Ontario",
+      "streetAddress": "3242 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3239 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6653707727",
+      "longitudeCoordinate": "-79.477920089",
+      "postalCode": "M6P 2A2",
+      "province": "Ontario",
+      "streetAddress": "3239 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3243 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6653705587",
+      "longitudeCoordinate": "-79.4780884053",
+      "postalCode": "M6P 2A2",
+      "province": "Ontario",
+      "streetAddress": "3243 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3244 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6657762591",
+      "longitudeCoordinate": "-79.4781389184",
+      "postalCode": "M6P 2A3",
+      "province": "Ontario",
+      "streetAddress": "3244 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3245 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6653703995",
+      "longitudeCoordinate": "-79.4781607908",
+      "postalCode": "M6P 2A2",
+      "province": "Ontario",
+      "streetAddress": "3245 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3246 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6657744092",
+      "longitudeCoordinate": "-79.4782133876",
+      "postalCode": "M6P 2A3",
+      "province": "Ontario",
+      "streetAddress": "3246 Dundas Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Public Meeting - 3239-3251 Dundas Street West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3807"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1683086400000,
+  "noticeDescription": "<p><strong>Location of Application: 3239-3251 Dundas Street West</strong><br /><strong>Applicant: Gairloch Developments</strong><br /><strong>&nbsp;</strong><br /><strong>&nbsp;</strong><br /><strong>Date: May 24, 2023</strong><br /><strong>Time: 10:00 a.m., or as soon as possible thereafter</strong><br /><strong>Place: Committee Room 1, Toronto City Hall and by Video Conference</strong><br />&nbsp;</p>\n<p><strong>PROPOSAL</strong></p>\n<p>&nbsp;</p>\n<p>The application proposes to demolish the existing buildings at 3239-3251 Dundas Street West, which currently contain 2 rental dwelling units and 7 owner-occupied dwellings. A related Zoning By-law Amendment application proposes an 8-storey mixed-use building having a non-residential gross floor area of 219 square metres, and a residential gross floor area of 7982 square metres. 88 residential dwelling units and 71 parking spaces are proposed.</p>\n<p>&nbsp;</p>\n<p>A Rental Housing Demolition and Conversion application (21 247134 STE 04 RH) under Section 111 of the <em>City of Toronto Act, 2006</em> (Chapter 667 of the Municipal Code) has been submitted to permit the demolition. Under the <em>City of Toronto Act, 2006</em>, the demolition of a rental property with six or more dwelling units is prohibited without obtaining a permit from the City. Decisions by City Council on the rental housing demolition application are not subject to appeal to the Ontario Land Tribunal (OLT).</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p><strong>Detailed information regarding the demolition proposal, including background information and materials, may be obtained by contacting Andrew Cohrs, Planner, Strategic Initiatives, Policy and Analysis (Housing) at 416-392-4730, <a href=\"mailto:Andrew.Cohrs@toronto.ca\">Andrew.Cohrs@toronto.ca</a>.</strong></p>\n<p>&nbsp;</p>\n<p><strong>PURPOSE OF PUBLIC MEETING</strong></p>\n<p>&nbsp;</p>\n<p>Toronto and East York Community Council will receive input and review the proposal and any other material placed before it, in order to make recommendations on the application. These recommendations will then be forwarded to Toronto City Council for its consideration.</p>\n<p>&nbsp;</p>\n<p>You can follow the meeting at <a href=\"http://www.youtube.com/TorontoCityCouncilLive\">www.youtube.com/TorontoCityCouncilLive</a>.</p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>MAKE YOUR VIEWS KNOWN</strong></span></p>\n<p>&nbsp;</p>\n<p>You may send written comments by e-mail to <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>&nbsp;or by mail to the address below. You can submit written comments up until City Council gives final consideration to the proposal.</p>\n<p>&nbsp;</p>\n<p>You are also invited to address the Toronto and East York Community Council, in person, by video conference or by telephone, to make your views known regarding the proposal.</p>\n<p>&nbsp;</p>\n<p>If you wish to address the Toronto and East York Community Council directly, please register by e-mail to <strong><a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a></strong>&nbsp;or by phone at 416-392-7033, no later than <strong>12:00 p.m. on May 23, 2023</strong>. If you register, we will contact you with instructions on how to participate in the meeting.</p>\n<p>&nbsp;</p>\n<p>The Toronto and East York Community Council may request you to file an outline of your presentation with the Clerk.</p>\n<p>&nbsp;</p>\n<p>For more information about the matter, including information about appeal rights, please contact: City Clerk, Attention: <strong>Cathrine Regan, Administrator, Toronto and East York Community Council, 100 Queen Street West, 2nd Floor,&nbsp; West Tower, Toronto ON M5H 2N2, Phone: 416-392-7033, Fax: 416-392-2980, e-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</strong></p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance:</strong> City Staff can arrange for special assistance with some advance notice.&nbsp; If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p><strong>If you wish to be notified</strong> of the decision on the proposed demolition, you must make a written request to the City Clerk attention: Cathrine Regan, Administrator, Toronto and East York Community Council, at the address, fax number or e-mail set out in this notice.</p>\n<p>&nbsp;</p>\n<p><strong>People writing or making presentations at the public meeting:</strong> The City of Toronto Act, 2006, the Planning Act, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available. Direct any questions about this collection to City Clerk&rsquo;s Office at the telephone number or email address set out above.</p>\n<p>&nbsp;</p>\n<p>An online version of this Notice is available at <a href=\"https://www.toronto.ca/city-government/public-notices-bylaws/\">https://www.toronto.ca/city-government/public-notices-bylaws/</a>.</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4031,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "21 247134 STE 04 RH"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "Rental Housing Demolition and Conversion Application Application Number 21 247134 STE 04 RH",
+  "title": "Notice of Public Meeting - Rental Housing Demolition and Conversion Application - 3239-3251 Dundas Street West",
+  "topics": [
+    "Planning"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "58 Wheatfield Road Toronto Ontario",
+      "latitudeCoordinate": "43.6103487742",
+      "longitudeCoordinate": "-79.4921978095",
+      "postalCode": "M8V 2P6",
+      "province": "Ontario",
+      "streetAddress": "58 Wheatfield Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing - 58 Wheatfield Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=644"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke York Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "fax": "416-394-5600",
+    "locationName": "Etobicoke Civic Centre",
+    "phone": "416-392-8016",
+    "postalCode": "M9C 2Y2",
+    "province": "Ontario",
+    "streetAddress": "399 The West Mall"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1562299200000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 928-2019 to designate the property at 58 Wheatfield Road as being of cultural heritage value or interest.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 844,
+  "otherReferenceList": [
+    {
+      "description": "Bylaw 928-2019 - To designate the property at 58 Wheatfield Road as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0928.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Passing - 58 Wheatfield Road (Alfred Baker House) ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

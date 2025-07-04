@@ -1,0 +1,54 @@
+{
+  "accessibilityDescription": "Special Assistance for Members of the Public:  City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail teycc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Euclid Avenue & Lennox Street Toronto Ontario",
+      "latitudeCoordinate": "43.66334285849992",
+      "longitudeCoordinate": "-79.41514039594219",
+      "majorIntersection": "Euclid Avenue & Lennox Street",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Naming of a public lane located west of Euclid Avenue, extending southerly from Lennox Street - \"Giuseppe Rauti Lane\"",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1512"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1594267200000,
+  "noticeDescription": "<p>To consider a proposal to name a public lane west of Euclid Avenue, extending southerly from Lennox Street as \"Giuseppe Rauti Lane\".</p>\n<p>At its meeting to be held by video conference on July 16, 2020, at 9:30 a.m., or shortly afterwards, the Toronto and East York Community Council will hear from, or by his or her counsel, agent, or solicitor, any person who claims that his or her lands will be prejudicially affected by the naming and who applies to be heard with respect to the proposed naming.</p>\n<p>Notice to People writing or making presentations to the Toronto and East York Community Council:&nbsp; The personal information contained in your correspondence to Toronto City Council or its committees is collected under the City of Toronto Act, 2006, and the City of Toronto Municipal Code Chapter 27 &ndash; Council Procedures, section 27-21. Any personal information will become part of the public record and may be posted on the City's website, unless you expressly request the removal of personal identity information. Questions about the collection of this information may be directed to the City Clerk's office at 416-392-7033.</p>\n<p>The City videotapes committee and community council meetings. If you make a presentation to a committee or community council, the City will be videotaping you and City staff may make the video tapes available to the public.</p>\n<p>To obtain additional information, submit comments or address the Toronto and East York Community Council meeting on July 16, 2020, please contact the following City official no later than 4:30 p.m. on July 15, 2020.</p>\n<p style=\"padding-left: 30px;\">Ms. Ellen Devlin</p>\n<p style=\"padding-left: 30px;\">Administrator, Toronto and East York Community Council</p>\n<p style=\"padding-left: 30px;\">City Clerk&rsquo;s Office</p>\n<p style=\"padding-left: 30px;\">Toronto City Hall, 100 Queen Street West</p>\n<p style=\"padding-left: 30px;\">2nd floor, West Tower</p>\n<p style=\"padding-left: 30px;\">Toronto, Ontario M5H 2N2</p>\n<p style=\"padding-left: 30px;\">Telephone: 416-392-7033; Fax: 416-397-0111</p>\n<p style=\"padding-left: 30px;\">E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a></p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1665,
+  "otherReferenceList": [
+    {
+      "description": "2020.TE16.1 - Naming of the Existing Public Lane West of Euclid Avenue, Extending Southerly from Lennox Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE16.1"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "Notice is given that the City of Toronto will consider whether to pass a by-law to authorize the naming of a public lane in the Toronto and East York Community Council Area",
+  "title": "Naming of a public lane located west of Euclid Avenue, extending southerly from Lennox Street - \"Giuseppe Rauti Lane\"",
+  "topics": [
+    "Transportation > Intention to name a road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

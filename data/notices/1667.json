@@ -1,0 +1,46 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2270 Eglinton Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.6930463061",
+      "longitudeCoordinate": "-79.463310543",
+      "postalCode": "M6E 2L4",
+      "province": "Ontario",
+      "streetAddress": "2270 Eglinton Avenue West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Properties",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1473"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Real Estate Services",
+    "country": "Canada",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-338-9572",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1593144000000,
+  "noticeDescription": "<p>NOTICE is given that in accordance with the City&rsquo;s real estate disposal by-law, on March 23, 2020, a portion of the public highway lands located on Eglinton Avenue West (along the southern property boundary of 2270-2296 Eglinton Avenue West) and legally described as Part Lot 58 Plan 1700 Township of York, Part 1 on PLAN 66R-30983; being part of PIN No. 10491-0485 (LT), was declared surplus. The public highway lands have a total area of approximately 33 m2 &plusmn; (355 ft2 &plusmn;). The City proposes to invite an offer to purchase the subject lands from the adjacent property owner of 2270-2296 Eglinton Avenue West.</p>\n<p>The following City official has information about the proposed disposition: Mr. Bruno Iozzo, <a href=\"mailto:bruno.iozzo@toronto.ca\">bruno.iozzo@toronto.ca,</a> Tel: 416-392-8151, Metro Hall, 55 John Street, 2nd Floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until July 10, 2020.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1667,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Declaration of Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

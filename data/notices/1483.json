@@ -1,0 +1,58 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "150 Laird Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7087085302",
+      "longitudeCoordinate": "-79.3631556512",
+      "postalCode": "M4G 3V7",
+      "province": "Ontario",
+      "streetAddress": "150 Laird Drive"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 150 Laird Drive",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1305"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "fax": "416-395-7337",
+    "locationName": "North York Civic Centre",
+    "phone": "416-395-7337",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1578373200000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto on December 17 and 18, 2019, having considered an application to alter a structure designated under Part IV of the Ontario Heritage Act for 150 Laird Drive, decided among other things, to</p>\n<p>1. Approve the alterations to the heritage property at 150 Laird Drive, in accordance with Section 33 of the Ontario Heritage Act, to allow for the construction of two mid-rise buildings for older adult living accommodations incorporating the heritage building on the lands known municipally in 2019 as 146-150 Laird Drive, with such alterations substantially in accordance with plans and drawings dated June 18, 2019, prepared by RAW Design, and on file with the Senior Manager, Heritage Preservation Services; and the Heritage Impact Assessment (HIA), prepared by Philip Goldsmith, dated May 7, 2014 and on file with the Senior Manager, Heritage Preservation Services, all subject to and in accordance with a Conservation Plan satisfactory to the Senior Manager, Heritage Preservation Services and subject to the following additional conditions:</p>\n<p style=\"padding-left: 30px;\">a. That prior to final Site Plan approval in connection with the Zoning By-law Amendment appeal for the properties at 146-150 Laird Drive, the owner shall:</p>\n<p style=\"padding-left: 60px;\">1. Provide final site plan drawings substantially in accordance with the approved Conservation Plan required in Recommendation 1.b.2 below to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 60px;\">2. Provide a Heritage Lighting Plan that describes how the exterior of the heritage property will be sensitively illuminated to enhance its heritage character to the satisfaction of the Senior Manager, Heritage Preservation Services and thereafter shall implement such Plan to the satisfaction of the Senior Manager Heritage Preservation Services.</p>\n<p style=\"padding-left: 60px;\">3. Provide a detailed landscape plan for the subject property, to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 60px;\">4. Provide an Interpretation Plan for the subject property, to the satisfaction of the Senior Manager, Heritage Preservation Services and thereafter shall implement such Plan to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 30px;\">b. That prior to the issuance of any permit for all or any part of the property at 150 Laird Drive, including a heritage permit or a building permit, but excluding permits for repairs and maintenance and usual and minor works for the existing heritage building as are acceptable to the Senior Manager, Heritage Preservation Services, the owner shall:</p>\n<p style=\"padding-left: 60px;\">1. Enter into a Heritage Easement Agreement with the City for the property at 150 Laird Drive in accordance with the plans and drawings dated June 18, 2019, prepared by RAW Design, and on file with the Senior Manager, Heritage Preservation Services, the Heritage Impact Assessment prepared by Philip Goldsmith, dated May 7, 2014, and in accordance with the Conservation Plan required in Recommendation 1.b.2, to the satisfaction of the Senior Manager, Heritage Preservation Services, including registration of such agreement to the satisfaction of the City Solicitor.</p>\n<p style=\"padding-left: 60px;\">2. Provide a detailed Conservation Plan, prepared by a qualified heritage consultant, that is consistent with the conservation strategy set out in the Heritage Impact Assessment for 150 Laird Drive prepared by Philip Goldsmith, dated May 7, 2014, to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 60px;\">3. Provide building permit drawings, including notes and specifications for the conservation and protective measures keyed to the approved Conservation Plan required in Recommendation 1.b.2, including a description of materials and finishes, to be prepared by the project architect and a qualified heritage consultant to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 60px;\">4. Provide a Letter of Credit, including provision for upwards indexing, in a form and amount and from a bank satisfactory to the Senior Manager, Heritage Preservation Services to secure all work included in the approved Conservation Plan and Interpretation Plan.</p>\n<p style=\"padding-left: 60px;\">5. That the applicant withdraw its objection to the City of Toronto&rsquo;s designation of the property at 150 Laird Drive.</p>\n<p style=\"padding-left: 30px;\">c. That prior to the release of the Letter of Credit required in Recommendation 1.b.4, the owner shall:</p>\n<p style=\"padding-left: 60px;\">1. Provide a letter of substantial completion prepared and signed by a qualified heritage consultant confirming that the required conservation work and the required interpretive work has been completed in accordance with the Conservation Plan and Interpretation Plan and that an appropriate standard of conservation has been maintained, all to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 60px;\">2. Provide replacement Heritage Easement Agreement photographs to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p><strong>Appeal to the Conservation Review Board:</strong><br />The Ontario Heritage Act states that where a Council consents to an application to alter a designated property with certain terms or conditions, or refuses the application, the owner may, within thirty days after receipt of this notice, apply to the Council for a hearing before the Conservation Review Board.</p>\n<p>The owner may request a hearing before the Conservation Review Board in this matter, by writing to the City Clerk:&nbsp; Attention Marie Greig, Administrator, North York Community Council, North York Civic Centre, Main Floor, 5100 Yonge Street, Toronto, Ontario, M2N 5V7, by 4.30 p.m. on or before February 6, 2020.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1483,
+  "otherReferenceList": [
+    {
+      "description": "2019.PB11.5 - Alterations to a Heritage Property and Authority to Enter into a Heritage Easement Agreement - 150 Laird Drive",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB11.5"
+    },
+    {
+      "description": "2019.NY11.5 - Alterations to a Heritage Property and Authority to Enter into a Heritage Easement Agreement - 150 Laird Drive",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.NY11.5"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 150 Laird Drive, City of Toronto, Province of Ontario",
+  "title": "Notice of Decision - 150 Laird Drive",
+  "topics": [
+    "Heritage > Decision on alteration to a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

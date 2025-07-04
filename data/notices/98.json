@@ -1,0 +1,132 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "581 Markham Street Toronto Ontario",
+      "latitudeCoordinate": "43.6637458939",
+      "longitudeCoordinate": "-79.4117648451",
+      "postalCode": "M6G 2L7",
+      "province": "Ontario",
+      "streetAddress": "581 Markham Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "583 Markham Street Toronto Ontario",
+      "latitudeCoordinate": "43.6637959573",
+      "longitudeCoordinate": "-79.4117450483",
+      "postalCode": "M6G 2L7",
+      "province": "Ontario",
+      "streetAddress": "583 Markham Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "585 Markham Street Toronto Ontario",
+      "latitudeCoordinate": "43.6638834587",
+      "longitudeCoordinate": "-79.4117686987",
+      "postalCode": "M6G 2L7",
+      "province": "Ontario",
+      "streetAddress": "585 Markham Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "587 Markham Street Toronto Ontario",
+      "latitudeCoordinate": "43.6639335077",
+      "longitudeCoordinate": "-79.4118278381",
+      "postalCode": "M6G 2L7",
+      "province": "Ontario",
+      "streetAddress": "587 Markham Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "589 Markham Street Toronto Ontario",
+      "latitudeCoordinate": "43.6639983992",
+      "longitudeCoordinate": "-79.4118548213",
+      "postalCode": "M6G 2L7",
+      "province": "Ontario",
+      "streetAddress": "589 Markham Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "591 Markham Street Toronto Ontario",
+      "latitudeCoordinate": "43.6640694115",
+      "longitudeCoordinate": "-79.4118538195",
+      "postalCode": "M6G 2L7",
+      "province": "Ontario",
+      "streetAddress": "591 Markham Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "593 Markham Street Toronto Ontario",
+      "latitudeCoordinate": "43.6641367392",
+      "longitudeCoordinate": "-79.4118765831",
+      "postalCode": "M6G 2L7",
+      "province": "Ontario",
+      "streetAddress": "593 Markham Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "595 Markham Street Toronto Ontario",
+      "latitudeCoordinate": "43.6641792349",
+      "longitudeCoordinate": "-79.4118898607",
+      "postalCode": "M6G 2L7",
+      "province": "Ontario",
+      "streetAddress": "595 Markham Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "597 Markham Street Toronto Ontario",
+      "latitudeCoordinate": "43.6642237243",
+      "longitudeCoordinate": "-79.4119093859",
+      "postalCode": "M6G 2L7",
+      "province": "Ontario",
+      "streetAddress": "597 Markham Street"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1521432000000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 1433-2017 to designate 581, 583, 585, 587, 589, 591, 593, 595 and 597 Markham Street (Trinity-Spadina, Ward 19) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 98,
+  "otherReferenceList": [
+    {
+      "description": "TE23.16 - Alterations and Removal of a Heritage Property, Intention to Designate under the Ontario Heritage Act and Authority to Enter into Heritage Easement Agreements - 738-746 Bathurst Street, 585 Bloor Street West and 581-597 and 588-606 and 610 Markham Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2017.TE23.16"
+    },
+    {
+      "description": "By-law 1433-2017 - To designate the properties at 581, 583, 585, 587, 589, 591, 593, 595 and 597 Markham Street as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2017/law1433.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act  R.S.O. 1990 Chapter 0.18 and  581, 583, 585, 587, 589, 591, 593, 595 AND 597 MARKHAM STREET  City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 1433-2017 - 581, 583, 585, 587, 589, 591, 593, 595 and 597 Markham Street",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

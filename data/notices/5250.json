@@ -1,0 +1,51 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "48 Heintzman Street Toronto Ontario",
+      "latitudeCoordinate": "43.666334312",
+      "longitudeCoordinate": "-79.46400251",
+      "postalCode": "M6P 2J6",
+      "province": "Ontario",
+      "streetAddress": "48 Heintzman Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "50 Heintzman Street Toronto Ontario",
+      "latitudeCoordinate": "43.666375618",
+      "longitudeCoordinate": "-79.464025309",
+      "postalCode": "M6P 2J6",
+      "province": "Ontario",
+      "streetAddress": "50 Heintzman Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Property - Located at the rear of the properties municipally known as 48 and 50 Heintzman Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5087"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Vinette Prescott-Brown",
+    "country": "Canada",
+    "locationName": "Metro Hall",
+    "phone": "416-392-7138",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1717128000000,
+  "noticeDescription": "<p><strong>NOTICE</strong> is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal By-law, on May 15, 2024 the City-owned public lane located at the rear of the properties municipally known as 48 and 50 Heintzman Street, legally described as Part of Pt Lt 4 Pl 641 West Toronto Junction Pt 1 63R4681; Pt Lt 2-5, 11 Pl 1040 West Toronto Junction as in WH72796 (Firstly), as in WH47690 Sit WH47690; Lane Pl 641 West Toronto Junction except WH47745 &amp; WH72640 (Secondly); Being Lane Btn Keele St &amp; Heintzman St; City of Toronto was declared surplus conditional upon City Council approving the permanent closure of the lane.</p>\n<p>&nbsp;</p>\n<p>The property has an area of approximately 63 m2 (678.13 ft2).&nbsp; The City proposes that the intended manner of disposal is to be by way of an offer to purchase from the abutting owner.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Vinette Prescott-Brown, Manager, Real Estate Services, Tel: 416-392-7138, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until June 14th, 2024.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5250,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property - Located at the rear of the properties municipally known as 48 and 50 Heintzman Street",
+  "topics": [],
+  "uniqueMapUrl": []
+}

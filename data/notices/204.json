@@ -1,0 +1,51 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Public Works and Infrastructure Committee",
+    "country": "Canada",
+    "emailAddress": "pwic@toronto.ca",
+    "fax": "416-392-1879",
+    "locationName": "Toronto City Hall, 10th Floor, West Tower",
+    "phone": "416-397-4579",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Public Works and Infrastructure Committee, Toronto City Hall, 2nd Floor, Committee Room 1",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1525786200000,
+      "streetAddress": "100 Queen Street West"
+    }
+  ],
+  "noticeDate": 1525147200000,
+  "noticeDescription": "<p>Toronto City Council will be considering recommendations to pass a by-law to amend City of Toronto Municipal Code Chapter 27, Council Procedures, Toronto Municipal Code Chapter 397, Community Safety Zones, and City of Toronto Municipal Code Chapter 950, Traffic and Parking in order to streamline the procedure for the introduction of traffic calming measures on local and collector roadways in Community Safety Zones (including the lifting of a previous moratorium) and School Safety Zones.</p>\n<p>It is proposed that the by-law be adopted at the Council meeting to be held on May 23, 2018 or at a subsequent meeting.</p>\n<p>The proposed amendment to the Municipal Code is outlined in the report titled &ldquo;Next Steps on Traffic Safety Measures&rdquo;. To view or obtain a copy of the report that outlines the proposed amendments to City of Toronto Municipal Code Chapter 27, Council Procedures, Toronto Municipal Code Chapter 397, Community Safety Zones, and City of Toronto Municipal Code Chapter 950, Traffic and Parking, visit the City&rsquo;s website.</p>\n<p>At its meeting to be held in Committee Room 1, Toronto City Hall on May 8, 2018, at 9:30 a.m. or as soon as possible thereafter, the Public Works and Infrastructure Committee of Toronto City Council will hear in person, or by his or her counsel, agent or solicitor, any person who wishes to speak to the matter.</p>\n<p>To submit comments or make a presentation to the Public Works and Infrastructure Committee on May 8, 2018, please contact the Committee no later than 12:00 p.m. on May 7, 2018:</p>\n<p style=\"padding-left: 30px;\">Public Works and Infrastructure Committee<br />Toronto City Hall<br />100 Queen Street West, 10th Floor, West Tower<br />Toronto, ON M5H 2N2<br />Telephone: 416-397-4579<br />Fax: 416-392-1879<br />Email: <a href=\"mailto:pwic@toronto.ca\">pwic@toronto.ca</a></p>\n<p>To ask questions regarding the content of the report contact:</p>\n<p style=\"padding-left: 30px;\">Ashley Curtis<br />Senior Strategic Director, Capital Program<br />Transportation Services Division<br />Telephone: 416-338-6583<br />Email: <a href=\"mailto:Ashley.Curtis@toronto.ca\">Ashley.Curtis@toronto.ca</a></p>\n<p>Any comments received after the Committee meeting will be forwarded to Council.</p>\n<p>While the staff report sets out proposed changes, the Committee and/or City Council may make amendments from the recommendations set out in the report.</p>\n<p>If this matter is postponed at the Committee meeting or Council meeting or considered at a subsequent Committee or Council meeting, no additional notice will be provided other than the information on the subsequent Committee or Council agenda. Please contact the above City officials if you require notice in these cases.</p>\n<p>The Public Works and Infrastructure Committee will make its final recommendations on May 8, 2018, which will be forwarded to City Council at its meeting on May 23, 2018.</p>\n<p>Notice to people writing or making presentations to the Public Works and Infrastructure Committee: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk&rsquo;s Office, City Hall, 100 Queen Street West, Toronto ON M5H 2N2 or by calling 416-397-4579.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 204,
+  "otherReferenceList": [
+    {
+      "description": "PW29.7 - Chapter 918 Technical Amendments: Clarifying the Calculation of Landscaping Requirements for Front Yard Parking",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.PW29.7"
+    },
+    {
+      "description": "By-law 831-2018 - To amend City of Toronto Municipal Code Chapter 950, Traffic and Parking, respecting the designation of Community Safety Zones at various locations",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0831.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Next Steps on Traffic Safety Measures",
+  "topics": [
+    "Transportation > Proposal to amend the Municipal Code"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

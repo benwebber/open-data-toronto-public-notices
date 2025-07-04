@@ -1,0 +1,56 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "352 Adelaide Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6476024408",
+      "longitudeCoordinate": "-79.3936245643",
+      "postalCode": "M5V 1R8",
+      "province": "Ontario",
+      "streetAddress": "352 Adelaide Street West"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1520312400000,
+  "noticeDescription": "<p>Take notice that Toronto City Council intends to designate the lands and building known municipally as 352 Adelaide Street West under Part IV, Section 29 of the Ontario Heritage Act</p>\n<p>Reasons for Designation</p>\n<p>The property at 352 Adelaide Street West (Alexander Engraving Co) is worthy of designation under Part IV, Section 29 of the Ontario Heritage Act for its cultural heritage value, and meets Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation under all three categories of design, associative and contextual value.Description<br />The property at 352 Adelaide Street West contains the Alexander Engraving Co. building, completed in 1909, a three storey, commercial warehouse building with brick cladding. The property is located in the King-Spadina area.</p>\n<p>Statement of Cultural Heritage Value</p>\n<p>The Alexander Engraving Co. building has design value as a representative of the commercial warehouse type with mill construction which is evident in the regular disposition of the windows reflective of the internal structural grid and the departure with the large ground floor window designed for display and advertising.</p>\n<p>The building has historic value as it is associated with the evolution of the King-Spadina neighbourhood&rsquo;s history as a commercial and industrial district which supported a range of commercial interests including small family-run businesses. Originally associated with the Alexander Engraving Company, from as early as 1920 the building was occupied by the Zuckerman family who operated the Novelty Embroidery Company, later known as Toronto Quilting and Embroidery Ltd. which by 1982 was known as Doubletex Inc. which now has branches in numerous Canadian and American cities. The building is also valued for its association with the Toronto architect George R. Harper.</p>\n<p>Situated on the north side of Adelaide Street West, between Peter Street and Spadina Avenue and adjacent to the building at 350 Adelaide Street West, the Alexander Engraving Company building has contextual value as is maintains an early twentieth-century low-rise commercial warehouse building character which is part of the diverse historic built form of the neighbourhood. As part of the continuing evolving character of the King-Spadina neighbourhood it is physically, functionally, visually and historically linked to its surroundings.</p>\n<p>Heritage Attributes</p>\n<p>1.&nbsp; The heritage attributes of the Alexander Engraving Co. building are:</p>\n<p>2.&nbsp; The setback, placement and orientation of the building on the north side of Adelaide Street 3.&nbsp; West between Peter Street and Spadina Avenue</p>\n<p>4.&nbsp; The scale, form and massing of the three storey commercial warehouse building built on a rectangular plan with a flat roof</p>\n<p>5.&nbsp; The principal (south) elevation with its red brick cladding and decorative corbelled bricks at the cornice</p>\n<p>6.&nbsp; The east (side) elevation with its red brick cladding and regular grid of windows openings on three levels</p>\n<p>7.&nbsp; The yellow brick cladding of the west (side)elevation</p>\n<p>8.&nbsp; The arrangement of openings on the principal (south) elevation with the entry located at the west side of the elevation and the large display window located towards the east side, and at the second and third floors the three regularly spaced windows (Note the original design for the entrance as a double-leafed, partly glazed door with a transom light above)</p>\n<p>9.&nbsp; The segmental arched openings of the doors and windows and the stone window sills on the south, east, north and west elevations</p>\n<p>10.&nbsp; On the principal (south) elevation, the pattern of divisions of windows with a transom light in the first floor window, and for the second and third floor windows, as shown in the original architect&rsquo;s drawings, the double-hung sash featuring two lights over one</p>\n<p>The windows on the east (side) elevation which feature six-over-six double hung sash</p>\n<p>Notice of an objection to the proposed designation may be served on the City Clerk, Attention: Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, Toronto, Ontario, M5H 2N2, within thirty days of March 6, 2018, which is April 5, 2018. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 87,
+  "otherReferenceList": [
+    {
+      "description": "TE27.20 - Alterations to Designated Heritage Properties, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act and Authority to Enter into a Heritage Easement Agreement - 350 and 352 Adelaide Street West and 118 Peter Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2017.TE27.20"
+    },
+    {
+      "description": "By-law 1232-2017 - To provide for the entering into of a heritage easement agreement for the conservation of the property known municipally as 350 and 352 Adelaide Street West and 118 Peter Street",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2017/law1232.pdf"
+    },
+    {
+      "description": "By-law 492-2018 - To designate the properties at 350 and 352 Adelaide Street West and 118 Peter Street as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0492.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act  R.S.O. 1990, Chapter 0.18 and  City of Toronto, Province of Ontario",
+  "title": "Notice of Intention to Designate - 352 Adelaide Street West (Alexander Engraving Co)",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "28-30 Langley Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6684029162",
+      "longitudeCoordinate": "-79.3516968072",
+      "postalCode": "M4K 1B5",
+      "province": "Ontario",
+      "streetAddress": "28-30 Langley Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing – 28-30 Langley Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=762"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1565150400000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 1142-2019 to designate 28-30 Langley Avenue (Toronto Danforth, Ward 14) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 962,
+  "otherReferenceList": [
+    {
+      "description": "Bylaw 1142-2019 - To designate the property at 28-30 Langley Avenue as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law1142.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 28-30 Langley Avenue, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing – 28-30 Langley Avenue",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

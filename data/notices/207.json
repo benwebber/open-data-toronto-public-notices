@@ -1,0 +1,56 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "131 Farnham Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6822499396",
+      "longitudeCoordinate": "-79.3983989841",
+      "postalCode": "M4V 1H7",
+      "province": "Ontario",
+      "streetAddress": "131 Farnham Avenue"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "clerk@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-7032",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1536120000000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No.1266-2018 to designate 131 Farnham Avenue (The Macdonald House) (St. Paul&rsquo;s, Ward 22) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 207,
+  "otherReferenceList": [
+    {
+      "description": "TE10.15 - Amendment of Designating By-law and Authority to Amend Existing Heritage Easement Agreement - 131 Farnham Avenue",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2015.TE10.15"
+    },
+    {
+      "description": "CC20.18 - 131 Farnham Avenue and 45 Oaklands Avenue - Zoning By-law Amendment Application and Site Plan Application - Further Direction Required",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2016.CC20.18"
+    },
+    {
+      "description": "Bylaw 1266-2018 - To amend By-law 10-77 of the former City of Toronto, being a by-law to designate the Macdonald House at 131 Farnham Avenue as being of architectural value and of historic interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law1266.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act, R.S.O. 1990, Chapter 0.18 and 131 Farnham Avenue (The Macdonald House), City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-Law 1266-2018 - 131 Farnham Avenue",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

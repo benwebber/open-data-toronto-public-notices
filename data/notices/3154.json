@@ -1,0 +1,53 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "107 St George Street Toronto Ontario",
+      "latitudeCoordinate": "43.665542692",
+      "longitudeCoordinate": "-79.398660999",
+      "postalCode": "M5S 2E8",
+      "province": "Ontario",
+      "streetAddress": "107 St George Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing - 117 St. George Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2921"
+    }
+  ],
+  "contact": {
+    "city": "Toronto ",
+    "contactName": "Toronto Preservation Board",
+    "country": "Canada",
+    "emailAddress": "hertpb@toronto.ca",
+    "locationName": "2nd floor, West Tower, City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario ",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1648699200000,
+  "noticeDescription": "<p>NOTICE OF PASSING OF BY-LAW 156-2022</p>\n<p>&nbsp;</p>\n<p>Take notice that the Council of the City of Toronto has passed By-law 156-2022 to designate the property at 117 St. George Street (Ward 11 University-Rosedale) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3154,
+  "otherReferenceList": [
+    {
+      "description": "TE18.8 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, Alterations to Designated Heritage Properties and Authority to Enter into Heritage Easement Agreements - 117 St. George Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE18.8"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "IN THE MATTER OF THE ONTARIO HERITAGE ACT R.S.O. 1990 CHAPTER 0.18 AND CITY OF TORONTO, PROVINCE OF ONTARIO 117 ST. GEORGE STREET",
+  "title": "Notice of Passing - 117 St. George Street",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

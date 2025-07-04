@@ -1,0 +1,63 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "221 Finch Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.7752773867",
+      "longitudeCoordinate": "-79.4347654552",
+      "postalCode": "M2R 1M2",
+      "province": "Ontario",
+      "streetAddress": "221 Finch Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "237 Finch Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.7749046627",
+      "longitudeCoordinate": "-79.4360786407",
+      "postalCode": "M2R 1M2",
+      "province": "Ontario",
+      "streetAddress": "237 Finch Avenue West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 221-237 Finch Avenue West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5816"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "fax": "416-392-1879",
+    "locationName": "North York Civic Centre",
+    "phone": "416-392-4666",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1738904400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 24 200736 NNY 18 OZ</p>\n<p>Application to Amend the Zoning By-law and Official Plan to permit a mixed-use development in the form of an 11-storey mid-rise residential building with ground floor retail fronting Finch Avenue West.</p>\n<p>221-237 Finch Avenue West</p>\n<p>Ward 18 &ndash; Willowdale</p>\n<p>Planner, Julia Covelli at 416-338-9070 or <a href=\"mailto:Julia.Covelli@toronto.ca\">Julia.Covelli@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5940,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 200736 NNY 18 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 221-237 Finch Avenue West",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment",
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Proposal for an Official Plan Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

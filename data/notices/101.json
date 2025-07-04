@@ -1,0 +1,92 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "738 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.6639138611",
+      "longitudeCoordinate": "-79.4109585264",
+      "postalCode": "M5S 2R6",
+      "province": "Ontario",
+      "streetAddress": "738 Bathurst Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "740 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.663954774",
+      "longitudeCoordinate": "-79.4109759508",
+      "postalCode": "M5S 2R6",
+      "province": "Ontario",
+      "streetAddress": "740 Bathurst Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "742 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.6639745276",
+      "longitudeCoordinate": "-79.4109856437",
+      "postalCode": "M5S 2R6",
+      "province": "Ontario",
+      "streetAddress": "742 Bathurst Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "744 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.6640154459",
+      "longitudeCoordinate": "-79.4109991875",
+      "postalCode": "M5S 2R6",
+      "province": "Ontario",
+      "streetAddress": "744 Bathurst Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "746 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.6640577787",
+      "longitudeCoordinate": "-79.4110166235",
+      "postalCode": "M5S 2R6",
+      "province": "Ontario",
+      "streetAddress": "746 Bathurst Street"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1521432000000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law No. 1437-2017 to designate 738-746 Bathurst Street (Trinity-Spadina, Ward 19) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 101,
+  "otherReferenceList": [
+    {
+      "description": "TE23.16 - Request for Direction Report - 1880 and 1882 Queen Street East and 196 Woodbine Avenue - Zoning Amendment Application",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.TE23.16"
+    },
+    {
+      "description": "By-law 1437-2017 - To designate the properties at 738-746 Bathurst Street as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2017/law1437.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act  R.S.O. 1990 Chapter 0.18 and  738-746 BATHURST STREET  City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 1437-2017 - 738-746 Bathurst Street",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

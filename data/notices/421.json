@@ -1,0 +1,51 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2896 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.665626128",
+      "longitudeCoordinate": "-79.4661490606",
+      "province": "Ontario",
+      "streetAddress": "2896 Dundas Street West"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke York Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "locationName": "Etobicoke Civic Centre",
+    "phone": "416-392-8016",
+    "postalCode": "M9C 2Y2",
+    "province": "Ontario",
+    "streetAddress": "399 The West Mall"
+  },
+  "decisionBody": "Etobicoke York Community Council",
+  "eventList": [],
+  "noticeDate": 1550552400000,
+  "noticeDescription": "<p>Take Notice that the Council of the City of Toronto has passed By-law No. 225-2019 to designate the property at 2896 Dundas Street West as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 421,
+  "otherReferenceList": [
+    {
+      "description": "2018.EY28.9 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 2896 Dundas Street West",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.EY28.9"
+    },
+    {
+      "description": "Bylaw 225-2019 - To designate the property at 2896 Dundas Street West as being of cultural heritage value or interest.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law0225.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990, Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-Law - 2896 Dundas Street West",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3051-3077 Pharmacy Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7958042722",
+      "longitudeCoordinate": "-79.3261318693",
+      "postalCode": "M1W 2H1",
+      "province": "Ontario",
+      "streetAddress": "3051-3077 Pharmacy Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice - Naming of a Proposed Private Street - Calamint Lane",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4597"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Scarborough Community Council",
+    "country": "Canada",
+    "emailAddress": "scc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Scarborough Civic Centre",
+    "phone": "416-396-7287",
+    "postalCode": "M1P 4N7",
+    "province": "Ontario",
+    "streetAddress": "150 Borough Drive"
+  },
+  "decisionBody": "Scarborough Community Council",
+  "eventList": [],
+  "noticeDate": 1704690000000,
+  "noticeDescription": "<p style=\"text-align: center;\">CITY OF TORONTO</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">NOTICE IS GIVEN THAT THE CITY OF TORONTO WILL CONSIDER WHETHER TO PASS A BY-LAW TO AUTHORIZE THE NAMING OF A PROPOSED PRIVATE STREET IN THE SCARBOROUGH COMMUNITY COUNCIL AREA</p>\n<p style=\"text-align: center;\">&nbsp;<br />&nbsp;</p>\n<p style=\"text-align: center;\">CITY OF TORONTO ACT, 2006 - PUBLIC NOTICE</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\">SCARBOROUGH COMMUNITY COUNCIL AREA</span></p>\n<p>&nbsp;</p>\n<p>To consider a proposal to name a proposed private street at 3051-3079 Pharmacy Avenue as &ldquo;Calamint Lane&rdquo;.</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>At its meeting to be held in the Council Chamber, Scarborough Civic Centre, 150 Borough Drive on January 19, 2024, at 9:30 a.m. or shortly afterwards, the Scarborough Community Council will hear in person or by his or her counsel, agent or solicitor, any person who claims that his or her lands will be prejudicially affected by the naming and who applies to be heard with respect to the proposed naming. The plan showing the lands to be affected may be seen on the Scarborough Community Council agenda online at toronto.ca/council.&nbsp;</p>\n<p>&nbsp;</p>\n<p>The meeting of the Scarborough Community Council will be held with members participating in person and remotely, and the proceedings will be conducted publicly.</p>\n<p>&nbsp;</p>\n<p>To obtain additional information, submit comments or address the Scarborough Community Council meeting on January 19, 2024, please contact the following City official no later than 4:30 p.m. on January 18, 2024.</p>\n<p>&nbsp;</p>\n<p style=\"padding-left: 80px;\">Administrator, Scarborough Community Council</p>\n<p style=\"padding-left: 80px;\">City Clerk&rsquo;s Office</p>\n<p style=\"padding-left: 80px;\">Toronto City Hall</p>\n<p style=\"padding-left: 80px;\">100 Queen Street West</p>\n<p style=\"padding-left: 80px;\">Toronto, ON M5H 2N2</p>\n<p style=\"padding-left: 80px;\">Telephone: 416-397-4579; Fax: 416-392-2980</p>\n<p style=\"padding-left: 80px;\">E-mail: <a href=\"mailto:scc@toronto.ca\">scc@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance for Members of the Public:&nbsp;</strong> City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-397-4579, TTY 416-338-0889 or e-mail <a href=\"mailto:scc@toronto.ca\">scc@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Notice to people writing or making presentations to the Scarborough Community Council:</strong> The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view.&nbsp; If you speak at the meeting, you will appear in the video broadcast.&nbsp; Video broadcasts are archived and continue to be publicly available.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4760,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Public Notice - Naming of a Proposed Private Street - Calamint Lane",
+  "topics": [
+    "Transportation > Intention to name a road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

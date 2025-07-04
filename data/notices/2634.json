@@ -1,0 +1,61 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2685 Kingston Road Toronto Ontario",
+      "latitudeCoordinate": "43.716907509",
+      "longitudeCoordinate": "-79.240861815",
+      "postalCode": "M1M 1M2",
+      "province": "Ontario",
+      "streetAddress": "2685 Kingston Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law 605-2021 - 2685 Kingston Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2482"
+    }
+  ],
+  "contact": {
+    "city": "Toronto ",
+    "contactName": "Toronto Preservation Board",
+    "country": "Canada",
+    "emailAddress": "hertpb@toronto.ca",
+    "locationName": "2nd floor, West Tower, City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario ",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1630296000000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 605-2021 to designate the property at 2685 Kingston Road (Ward 20 Scarborough Southwest) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2634,
+  "otherReferenceList": [
+    {
+      "description": "2021.PB22.4 - Inclusion on the City of Toronto's Heritage Register, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, Alterations to a Heritage Property, and Authority to Enter into a Heritage Easement Agreement - 2685 Kingston Road",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.PB22.4"
+    },
+    {
+      "description": "2021.SC23.4 - Inclusion on the City of Toronto's Heritage Register, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, Alterations to a Heritage Property, and Authority to Enter into a Heritage Easement Agreement - 2685 Kingston Road",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.SC23.4"
+    },
+    {
+      "description": "By-law 605-2021 - To designate the property at 2685 Kingston Road as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2021/law0605.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 2685 Kingston Road City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 605-2021 - 2685 Kingston Road ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

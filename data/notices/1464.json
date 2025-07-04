@@ -1,0 +1,70 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "478 Huron Street Toronto Ontario",
+      "latitudeCoordinate": "43.6679298827",
+      "longitudeCoordinate": "-79.4021251461",
+      "postalCode": "M5R 2R3",
+      "province": "Ontario",
+      "streetAddress": "478 Huron Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing - 478 Huron Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1296"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1577163600000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 1640-2019 to designate 478 Huron Street (University-Rosedale, Ward 11) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1464,
+  "otherReferenceList": [
+    {
+      "description": "By-law 1640-2019 - To designate the property at 478 Huron Street as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law1640.pdf"
+    },
+    {
+      "description": "2018.TE34.95 - 300 Bloor Street West and 478 Huron Street - Zoning Amendment - Preliminary Report",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.TE34.95"
+    },
+    {
+      "description": "2019.PB7.4 - Alterations to Heritage Properties at 300 Bloor Street West and 478 Huron Street, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act and Authority to Enter into Heritage Easement Agreements at 300 Bloor Street West and 478 Huron Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB7.4"
+    },
+    {
+      "description": "2019.TE7.3 - 300 Bloor Street West and 478 Huron Street - Zoning Amendment Application - Final Report",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE7.3"
+    },
+    {
+      "description": "2019.TE7.4 - Alterations to Heritage Properties at 300 Bloor Street West and 478 Huron Street, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act and Authority to Enter into Heritage Easement Agreements at 300 Bloor Street West and 478 Huron Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.TE7.4"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 478 Huron Street, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law - 478 Huron Street",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

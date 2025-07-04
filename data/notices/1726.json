@@ -1,0 +1,78 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2490 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.711943578",
+      "longitudeCoordinate": "-79.399743765",
+      "postalCode": "M4P 2H7",
+      "province": "Ontario",
+      "streetAddress": "2490 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2506 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.712308621",
+      "longitudeCoordinate": "-79.399875708",
+      "postalCode": "M4P 2H7",
+      "province": "Ontario",
+      "streetAddress": "2506 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "481 University Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6552444173",
+      "longitudeCoordinate": "-79.3877490011",
+      "postalCode": "M5G 2E9",
+      "province": "Ontario",
+      "streetAddress": "481 University Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Heritage Notices - May 28, 2020",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1553"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1596772800000,
+  "noticeDescription": "<p>At its meeting on May 28, 2020:</p>\n<p>City Council adopted the following:</p>\n<p><strong>Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act</strong></p>\n<p style=\"padding-left: 30px;\">-&nbsp;&nbsp; 2490-2506 Yonge Street. &nbsp;<a title=\"2020.NY14.4 - Alterations to Heritage Property at 2490-2506 Yonge Street, Intention to Designate 2490-2506 Yonge Street under Part IV, Section 29 of the Ontario Heritage Act, and Authority to Enter into a Heritage Easement Agreement at 2490-2506 Yonge Street   \" href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.NY14.4\" target=\"_blank\" rel=\"noopener\">See City Council decision</a>.</p>\n<p><strong>Legislative Note</strong>: The Province of Ontario has extended the March 17, 2020 Declaration of Emergency and made several subsequent Emergency Orders under the <em>Emergency Management and Civil Protection Act</em>. Pursuant to Ontario Regulation 73/20, the statutory timelines for the objection period to City Council&rsquo;s notice of intention to designate a property is currently suspended. The statutory timelines under the <em>Ontario Heritage Act</em> are intended to commence after September 11, 2020, pursuant to Ontario Regulation 106/20 under the <em>Emergency Management and Civil Protection Act</em>, subject to any further amendments.&nbsp; Unless the regulation is otherwise amended, the objection period to the notice of intention to designate a property will therefore commence after September 11, 2020, at which the time, the City will post and serve a notice of intention to designate a property pursuant to the <em>Ontario Heritage Act</em>.&nbsp;</p>\n<p><strong>Alterations to a property designated under Part IV of the Ontario Heritage Act</strong></p>\n<p style=\"padding-left: 30px;\">-&nbsp;&nbsp; 481 University Avenue. <a title=\"2020.TE14.73 - 481 University Avenue (Including 210 Dundas Street West) - Amendment to Pre-approval Conditions for Alterations to a Heritage Property\" href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE14.73\" target=\"_blank\" rel=\"noopener\">See City Council decision</a>.</p>\n<p><strong>Legislative Note</strong>: The Province of Ontario has extended the March 17, 2020 Declaration of Emergency and made several subsequent Emergency Orders under the <em>Emergency Management and Civil Protection Act</em>. Pursuant to Ontario Regulation 73/20, the statutory timelines, including such notice periods for which the City is subject to under the <em>Ontario Heritage Act</em>&nbsp;is currently suspended. The statutory timelines under the <em>Ontario Heritage Act</em> are intended to commence after September 11, 2020, pursuant to Ontario Regulation 106/20 under the <em>Emergency Management and Civil Protection Act</em>, subject to any further amendments.&nbsp; Unless the regulation is otherwise amended, the notice period will therefore commence after September 11, 2020, at which the time, the City will post and serve the required notice pursuant to the <em>Ontario Heritage Act</em>.&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1726,
+  "otherReferenceList": [
+    {
+      "description": "2020.NY14.4 - Alterations to Heritage Property at 2490-2506 Yonge Street, Intention to Designate 2490-2506 Yonge Street under Part IV, Section 29 of the Ontario Heritage Act, and Authority to Enter into a Heritage Easement Agreement at 2490-2506 Yonge Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.NY14.4"
+    },
+    {
+      "description": "2020.TE14.73 - 481 University Avenue (Including 210 Dundas Street West) - Amendment to Pre-approval Conditions for Alterations to a Heritage Property",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE14.73"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Heritage Notices - May 28, 2020",
+  "topics": [
+    "Heritage > Intention to designate a heritage property",
+    "Heritage > Decision on alteration to a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

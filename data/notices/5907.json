@@ -1,0 +1,59 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "234 Sheppard Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.7591765562",
+      "longitudeCoordinate": "-79.4224527057",
+      "postalCode": "M2N 1N1",
+      "province": "Ontario",
+      "streetAddress": "234 Sheppard Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "223 Harlandale Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.759638742",
+      "longitudeCoordinate": "-79.422592988",
+      "postalCode": "M2N 1P6",
+      "province": "Ontario",
+      "streetAddress": "223 Harlandale Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 234 Sheppard Ave West and 223 Harlandale Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5786"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1737694800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL</strong></p>\n<p>&nbsp;</p>\n<p>Official Plan and Zoning By-law Amendment</p>\n<p>Application Number 24 234048 NNY 18 OZ</p>\n<p>Applications to Amend the Zoning By-law and the Official Plan to permit the construction of an 11-storey mixed-use building with 43 residential rental units, and a 4-storey apartment building with 15 condominium units.</p>\n<p>234 Sheppard Ave West and 223 Harlandale Avenue</p>\n<p>Ward 18 &ndash; Willowdale</p>\n<p>Diana Steinberg at 416-338-3455 or <a href=\"mailto:Diana.Steinberg@toronto.ca\">Diana.Steinberg@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5907,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 234048 NNY 18 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 234 Sheppard Ave West and 223 Harlandale Avenue",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

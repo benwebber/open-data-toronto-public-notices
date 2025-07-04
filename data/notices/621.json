@@ -1,0 +1,53 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1789 St Clair Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.6736032396",
+      "longitudeCoordinate": "-79.4616536663",
+      "province": "Ontario",
+      "streetAddress": "1789 St Clair Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1791  St Clair Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.673547434",
+      "longitudeCoordinate": "-79.4619200518",
+      "province": "Ontario",
+      "streetAddress": "1791  St Clair Avenue West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Multiple Surplus Properties",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=421"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Ishan Dasgupta",
+    "country": "Canada",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-7165",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1556164800000,
+  "noticeDescription": "<p>Notice is hereby given that in accordance with the City&rsquo;s real estate disposal by-law, on April 15, 2019, a portion of the public lane abutting 1791 &amp; 1789 St. Clair Avenue West, legally described as Lane on Plan 141, north of Connolly Street; City of Toronto, as shown as Part 3 on Sketch No. PS-2019-006. The portion of lane has a total area of approximately 294.2 m2 &plusmn; (3,134.3 ft2 &plusmn;).&nbsp; The intended manner of disposal to be by way of an exchange of land with the owner of the abutting lands, Scout Condos Gp Inc. and Scout Condos Limited Partnership, or their successor, conditional upon City Council approving the permanent closure of that portion of the lane and subject to the required easements.</p>\n<p>The following City official has information about the proposed disposition: Mr. Ishan Dasgupta, Tel: 416-392-7165, Fax: 416-392-1880, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 9th of May 2019.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 621,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "title": "Declaration of Multiple Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "206 Russell Hill Road Toronto Ontario",
+      "latitudeCoordinate": "43.68211866",
+      "longitudeCoordinate": "-79.407077807",
+      "postalCode": "M4V 2T2",
+      "province": "Ontario",
+      "streetAddress": "206 Russell Hill Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Amendment of Designating By-law - 206 Russell Hill Road ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1616"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1600056000000,
+  "noticeDescription": "<p>Take notice that City Council intends to amend City of Toronto By-law 335-2020, a by-law designating the property at 206 Russell Hill Road as being of cultural heritage value or interest, in order to correct the legal description in the By-law, in accordance with Section 30.1(3) of the Ontario Heritage Act.</p>\n<p>Following the passing of By-Law 335-2020, dated April 30, 2020, it was noted that the legal description was incorrectly stated as \"PIN 21222-0046 (LT), PART OF LOT 72, PART OF 3 FT RESERVE, REGISTERED PLAN 364E\" in Schedule B of the by-law.</p>\n<p>The correct legal description is \"PIN 21222-0046 (LT), PART OF LOT 72, PART OF 3 FT RESERVE, REGISTERED PLAN 364E AS IN CA392919.\"</p>\n<p>Notice of an objection to the amendment of the designating by-law may be served on the City Clerk, Attention: Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, Toronto, Ontario, M5H 2N2, within thirty days of September 14, 2020 which is October 14, 2020. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1789,
+  "otherReferenceList": [
+    {
+      "description": "2020.TE16.13 - Amendment of Designating By-law to Correct Legal Description - 206 Russell Hill Road",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE16.13"
+    },
+    {
+      "description": "By-law 335-2020 - To designate the property at 206 Russell Hill Road as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2020/law0335.pdf"
+    },
+    {
+      "description": "2020.PB15.4 - Amendment of Designating By-law to Correct Legal Description - 206 Russell Hill Road",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.PB15.4"
+    },
+    {
+      "description": "2020.TE14.12 - 206 Russell Hill Road - Zoning By-law Amendment Application - Request for Direction Report",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE14.12"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 206 Russell Hill Road, City of Toronto, Province of Ontario",
+  "title": "Amendment of Designating By-law - 206 Russell Hill Road ",
+  "topics": [
+    "Heritage > Amendment to the designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

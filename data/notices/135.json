@@ -1,0 +1,66 @@
+{
+  "accessibilityDescription": "City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-395-0480, TTY 416-338-0889 or e-mail nycc@toronto.ca.",
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Thorncliffe Park Drive & Beth Nealson Drive Toronto Ontario",
+      "latitudeCoordinate": "43.70929565",
+      "longitudeCoordinate": "-79.344491119",
+      "majorIntersection": "Thorncliffe Park Drive & Beth Nealson Drive",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "locationName": "North York Civic Centre",
+    "phone": "416-395-7337",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "North York Civic Centre, Council Chamber",
+      "postalCode": "M2N 5V7",
+      "province": "Ontario",
+      "startDateTime": 1525267800000,
+      "streetAddress": "5100 Yonge Street"
+    }
+  ],
+  "noticeDate": 1524196800000,
+  "noticeDescription": "<p>Notice is given that the City Of Toronto will consider whether to pass a&nbsp; by-law to authorize the naming of a public highway in the North York Community Council Area</p>\n<p>To consider a proposal to rename a portion of the public highway, Thorncliffe Park Drive, west of Beth Nealson Drive, as &ldquo;Pat Moore Drive&rdquo;.</p>\n<p>The plan showing the lands to be affected may be seen in the City Clerk&rsquo;s Office, Secretariat, Ground Floor, North York Civic Centre, 5100 Yonge Street, between the hours of 8:30 a.m. and 4:30 p.m. Monday to Friday. At its meeting to be held in the Council Chamber, Lower Floor, North York Civic Centre, 5100 Yonge Street, on May 2, 2018 at 10:45 a.m., or shortly afterwards, the North York Community Council will hear in person or by his or her counsel, agent or solicitor, any person who claims that his or her lands will be prejudicially affected by the naming and who applies to be heard with respect to the proposed naming.</p>\n<p>Notice to People writing or making presentations to the North York Community Council: The personal information contained in your correspondence to Toronto City Council or its committees is collected under the City of Toronto Act, 2006, and the City of Toronto Municipal Code Chapter 27 &ndash; Council Procedures, section 27-21. Any personal information will become part of the public record and may be posted on the City&rsquo;s website, unless you expressly request the removal of personal identity information. Questions about the collection of this information may be directed to the City Clerk&rsquo;s office at 416-395-0480.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>To obtain additional information, submit comments or address the North York Community Council meeting on May 2, 2018, please contact the following City official no later than 4:30 p.m. on May 1, 2018.</p>\n<p style=\"padding-left: 30px;\">Ms. Francine Adamo<br />Administrator, North York Community Council<br />City Clerk&rsquo;s Office<br />North York Civic Centre<br />Main Floor, 5100 Yonge Street<br />Toronto, Ontario M2N 5V7<br />Telephone: 416-395-0480; Fax: 416-395-7337<br />E-mail: <a href=\"mail%20to:\">nycc@toronto.ca</a></p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 135,
+  "otherReferenceList": [
+    {
+      "description": "NY30.20 - Renaming of a portion of Thorncliffe Park Drive west of Beth Nealson Drive",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.NY30.20"
+    },
+    {
+      "description": "By-law 543-2018 - To authorize the renaming of a portion of Thorncliffe Park Drive west of\nBeth Nealson Drive to Pat Moore Drive",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0543.pdf"
+    },
+    {
+      "description": "By-law 681-2018 - To amend City of Toronto Municipal Code Chapter 950, Traffic and Parking, respecting the renaming of a portion of Thorncliffe Park Drive west of Beth Nealson Drive as Pat Moore Drive",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2018/law0681.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "City of Toronto Act, 2006 – Public Notice - North York Community Council Area - Notice of meeting to consider the naming of the public lane at Thorncliffe Park Drive, west of Beth Nealson Drive",
+  "title": "Notice of Naming a Public Lane - Pat Moore Drive",
+  "topics": [
+    "Transportation > Intention to name a road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

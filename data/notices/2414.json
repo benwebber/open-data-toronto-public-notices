@@ -1,0 +1,68 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "265 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6547056541",
+      "longitudeCoordinate": "-79.3680679353",
+      "postalCode": "M5A 1S6",
+      "province": "Ontario",
+      "streetAddress": "265 Queen Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "263 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6546137992",
+      "longitudeCoordinate": "-79.3680941811",
+      "postalCode": "M5A 1S6",
+      "province": "Ontario",
+      "streetAddress": "263 Queen Street East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 265 (263) Queen Street East",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2263"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1622174400000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto on May 5 and 6, 2021, having considered an application to demolish a heritage property designated under Part IV of the Ontario Heritage Act municipally known as 265 (263) Queen Street East decided, among other things, to:</p>\n<p>1.&nbsp; Approve the request to demolish the heritage building at 265 (263) Queen Street East in accordance with Section 34 of the Ontario Heritage Act as proposed in Confidential Appendix A to the report&nbsp;(March 29, 2021) from the City Solicitor and substantially in accordance with the Revised Heritage Impact Assessment for the properties at 263-265 Queen Street East, 90 Ontario Street and 384 and 410 Richmond Street East prepared by ERA Architects Inc. dated January 15, 2021, subject to the following conditions:</p>\n<p style=\"padding-left: 40px;\">a.&nbsp;&nbsp;prior to issuance of the final Local Planning Appeal Tribunal Order in connection with the Official Plan and Zoning By-law Amendment appeal, the owner shall:</p>\n<p style=\"padding-left: 80px;\">1.&nbsp;&nbsp;provide a detailed Reconstruction and Commemoration Plan for the property at 265 (263) Queen Street East prepared by a qualified heritage consultant that is substantially in accordance with the strategy set out in the Revised Heritage Impact Assessment prepared by ERA Architects Inc. dated January 15, 2021, to the satisfaction of the Senior Manager, Heritage Planning.</p>\n<p style=\"padding-left: 80px;\">2.&nbsp;&nbsp;enter into and register on the property at 265 (263) Queen Street East one or more agreements with the City pursuant to Section 37 of the Planning Act, all to the satisfaction of the City Solicitor and the Senior Manager, Heritage Planning, with such facilities, services and matters to be set forth in the related site specific Zoning By-law Amendment giving rise to the proposed demolition and requiring a Letter of Credit to secure all work included in the approved Reconstruction and Commemoration Plan, including provision for upwards indexing, in a form and amount satisfactory to the Senior Manager, Heritage Planning, all to the satisfaction of the Senior Manager, Heritage Planning.</p>\n<p style=\"padding-left: 80px;\">3.&nbsp; withdraw their appeal(s) to the Conservation Review Board of City Council's Intention to Designate under Part IV of the Ontario Heritage Act the properties at 245 Queen Street East, 90 Ontario Street, 384 Richmond Street East and 410 Richmond Street East.</p>\n<p style=\"padding-left: 40px;\">b.&nbsp;&nbsp;prior to issuance of a demolition permit for all or any part of the property at 265 (263) Queen Street East, the owner shall:</p>\n<p style=\"padding-left: 80px;\">1.&nbsp; provide full documentation of the existing heritage properties at 265 (263) Queen Street East, including two (2) printed sets of archival quality 8 inch by 10 inch colour photographs with borders in a glossy or semi-gloss finish and one (1) digital set on a CD in tiff format keyed to a location map, elevations and measured drawings, and copies of all existing interior floor plans and original drawings as may be available, to the satisfaction of the Manager, Heritage Planning.</p>\n<p style=\"padding-left: 40px;\">c.&nbsp;&nbsp;prior to the release of the Letter of Credit required in Part 1.a.2. above the owner shall:</p>\n<p style=\"padding-left: 80px;\">1.&nbsp; provide a letter of substantial completion prepared and signed by a qualified heritage consultant confirming that all of the reconstruction and commemoration work has been completed in accordance with the Reconstruction and Commemoration Plan all to the satisfaction of the Manager, Heritage Planning.</p>\n<p><strong>Appeal to the Local Planning Appeal Tribunal</strong></p>\n<p>Part IV, section 34 of the Ontario Heritage Act states that if a Council of a municipality consents to an application to demolish a designated heritage property subject to certain terms or conditions or refuses the application, the owner may, within thirty days of the day the owner received notice of Council&rsquo;s decision, give notice of appeal to the Local Planning Appeal Tribunal and to the Clerk of the municipality: Attention Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2. Notice of appeal must be received on or before June 28, 2021.</p>\n<p>A notice of appeal shall set out the reasons for objection to the decision of Council and be accompanied by the fee prescribed ($400.00) under the Local Planning Appeal Tribunal.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2414,
+  "otherReferenceList": [
+    {
+      "description": "2021.PB23.1 - 265 (263) Queen Street East, 90 Ontario Street and 384 and 410 Richmond Street East - Request for Direction Report",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.PB23.1"
+    },
+    {
+      "description": "2021.CC32.16 - 265 (263) Queen Street East, 90 Ontario Street and 384 and 410 Richmond Street East - Request for Directions",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.CC32.16"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 265 (263) Queen Street East, City of Toronto, Province of Ontario",
+  "title": "Notice of Decision - 265 (263) Queen Street East ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

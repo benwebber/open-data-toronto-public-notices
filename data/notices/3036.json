@@ -1,0 +1,57 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "22 Lytton Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.716303897",
+      "longitudeCoordinate": "-79.402101782",
+      "postalCode": "M4R 1L1",
+      "province": "Ontario",
+      "streetAddress": "22 Lytton Boulevard"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Designation - 22 Lytton Boulevard",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2803"
+    }
+  ],
+  "contact": {
+    "city": "Toronto ",
+    "contactName": "Toronto Preservation Board",
+    "country": "Canada",
+    "emailAddress": "hertpb@toronto.ca",
+    "locationName": "2nd floor, West Tower, City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario ",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1644296400000,
+  "noticeDescription": "<p>TAKE NOTICE that Council for the City of Toronto passed Designation By-law 78-2022 on February 2 and 3, 2022, which designates the lands, buildings and structures known municipally as 22 Lytton Boulevard, under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest.</p>\n<p>The City Clerk received an objection to the Notice of Intention to Designate the Property and City Council considered the objection in making its decision at its meeting on February 2 and 3, 2022. Refer to Item <a title=\" 22 Lytton Boulevard - Proposed Designation By-law Under Part IV, Section 29 of the Ontario Heritage Act - Consideration of Objection\" href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.CC39.18\">CC39.18</a>.</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>Take notice that an appeal of the Designation by-law for the Property by those persons permitted to appeal under section 29 of the Ontario Heritage Act may be made by filing a notice of appeal with the City Clerk, Attention: Administrator, Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2; Email: hertpb@toronto.ca within thirty days of February 8, 2022, which is March 10, 2022.</p>\n<p>A Notice of Appeal must:</p>\n<ol>\n<li>set out the reasons for the objection to the designation by-law; and</li>\n<li>set out the reasons in support of the objection to the designation by-law.</li>\n</ol>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT), forms are available from the Ontario Land Tribunal website at <a title=\"Ontario Land Tribunal website\" href=\"https://olt.gov.on.ca\">https://olt.gov.on.ca</a>.</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>Any persons who object to the designation by-law may refer the matter to the Ontario Land Tribunal.</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>A copy of the by-law and background information about the application is available for public inspection by contacting Heritage Planning staff at heritageplanning@toronto.ca.</p>\n<p>Further information in respect of the Designation By-law is available from the City of Toronto at:</p>\n<p><a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.CC39.18\">http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.CC39.18</a></p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3036,
+  "otherReferenceList": [
+    {
+      "description": "2022.CC39.18 - 22 Lytton Boulevard - Proposed Designation By-law Under Part IV, Section 29 of the Ontario Heritage Act - Consideration of Objection",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.CC39.18"
+    },
+    {
+      "description": "Bylaw78-2022 - To designate the property at 22 Lytton Boulevard as being of cultural heritage value or interest.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2022/law0078.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "IN THE MATTER OF THE ONTARIO HERITAGE ACT R.S.O. 1990, CHAPTER O.18 AND CITY OF TORONTO, PROVINCE OF ONTARIO, 22 LYTTON BOULEVARD",
+  "title": "Notice of Passing of Designation - 22 Lytton Boulevard",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

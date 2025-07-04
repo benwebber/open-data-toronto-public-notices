@@ -1,0 +1,62 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1299 Don Mills Road Toronto Ontario",
+      "latitudeCoordinate": "43.7461890004",
+      "longitudeCoordinate": "-79.3454845872",
+      "postalCode": "M3B 2X1",
+      "province": "Ontario",
+      "streetAddress": "1299 Don Mills Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 1299 Don Mils Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1150"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "fax": "416-395-7337",
+    "locationName": "North York Civic Centre",
+    "phone": "416-395-7337",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1573794000000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto on October 29 and 30, 2019, having considered an application to alter a structure designated under Part IV of the Ontario Heritage Act for 1299 Don Mils Road, decided among other things, to:</p>\n<p>1. Approve the alterations to the heritage building at 1299 Don Mills Road, in accordance with Section 33 of the Ontario Heritage Act, with such alterations substantially in accordance with the plans prepared by Makow Associates Architect Inc., dated June 20, 2019, and on file with the Senior Manager, Heritage Preservation Services; and the Heritage Impact Assessment (HIA), prepared by ERA Architects, dated June 21, 2019 and on file with the Senior Manager, Heritage Preservation Services and subject to the following conditions:</p>\n<p style=\"padding-left: 30px;\">a. prior to the introduction of the Bills for such Zoning By-law Amendment by City Council, the owner shall:&nbsp;&nbsp;&nbsp;&nbsp; </p>\n<p style=\"padding-left: 60px;\">1.&nbsp; Enter into a Heritage Easement Agreement with the City for the property at 1299 Don Mills Road in accordance with the plans prepared by Makow Associates Architect Inc., dated June 20, 2019, and on file with the Senior Manager, Heritage Preservation Services; and the Heritage Impact Assessment (HIA), prepared by ERA Architects, dated June 21, 2019 and on file with the Senior Manager, Heritage Preservation Services and in accordance with the Conservation Plan required in Recommendation 1.a.2 below, to the satisfaction of the Senior Manager, Heritage Preservation Services including registration of such agreement to the satisfaction of the City Solicitor;</p>\n<p style=\"padding-left: 60px;\">2.&nbsp; Provide a detailed Conservation Plan, prepared by a qualified heritage consultant that is consistent with the conservation strategy set out in the Heritage Impact Assessment for 1299 Don Mills Road prepared by ERA Architects, dated June 21, 2019, to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p style=\"padding-left: 30px;\">b.&nbsp; That prior to the issuance of any permit for all or any part of the property at 1299 Don Mills Road, including a heritage permit or a building permit, but excluding permits for repairs and maintenance and usual and minor works for the existing heritage building as are acceptable to the Senior Manager, Heritage Preservation Services, the owner shall:</p>\n<p style=\"padding-left: 60px;\">1.&nbsp; Have obtained final approval for the necessary Zoning By-law Amendment required for the subject property, such Amendment to have come into full force and effect;</p>\n<p style=\"padding-left: 60px;\">2. &nbsp;Provide building permit drawings, including notes and specifications for the conservation and protective measures keyed to the approved Conservation Plan required in Recommendation 1.a.2 above, including a description of materials and finishes, to be prepared by the project architect and a qualified heritage consultant to the satisfaction of the Senior Manager, Heritage Preservation Services;</p>\n<p style=\"padding-left: 60px;\">3.&nbsp; Provide a Letter of Credit, including provision for upwards indexing, in a form and amount and from a bank satisfactory to the Senior Manager, Heritage Preservation Services to secure all work included in the approved Conservation Plan.</p>\n<p style=\"padding-left: 30px;\">c. That prior to the release of the Letter of Credit required in Recommendation 1.b. 3 above, the owner shall:</p>\n<p style=\"padding-left: 60px;\">1.&nbsp; Provide a letter of substantial completion prepared and signed by a qualified heritage consultant confirming that the required conservation work and the required interpretive work has been completed in accordance with the Conservation Plan and Interpretation Plan and that an appropriate standard of conservation has been maintained, all to the satisfaction of the Senior Manager, Heritage Preservation Services;</p>\n<p style=\"padding-left: 60px;\">2.&nbsp; Provide replacement Heritage Easement Agreement photographs to the satisfaction of the Senior Manager, Heritage Preservation Services.</p>\n<p><strong>Appeal to the Conservation Review Board</strong>:<br />The Ontario Heritage Act states that where a Council consents to an application to alter a designated property with certain terms or conditions, or refuses the application, the owner may, within thirty days after receipt of this notice, apply to the Council for a hearing before the Conservation Review Board.</p>\n<p>Notice of an objection to the proposed designation may be served on the City Clerk, Attention:&nbsp; Francine Adamo, Administrator, North York Community Council, North York Civic Centre, Main floor, 5100 Yonge Street, Toronto, Ontario M2N 5V7, within thirty days of November 15, 2019 which is December 16, 2019. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1332,
+  "otherReferenceList": [
+    {
+      "description": "2019.PB8.5 - Alterations to a Designated Heritage Property at 1299 Don Mills Road and Authority to Enter into a Heritage Easement Agreement",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.PB8.5"
+    },
+    {
+      "description": "2019.NY8.3 - Final Report - Zoning By-Law Amendment Application - 1299 Don Mills Road",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.NY8.3"
+    },
+    {
+      "description": "2019.NY8.4 - Alterations to a Designated Heritage Property at 1299 Don Mills Road and Authority to Enter into a Heritage Easement Agreement",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.NY8.4"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Decision - 1299 Don Mils Road",
+  "topics": [
+    "Heritage > Decision on alteration to a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

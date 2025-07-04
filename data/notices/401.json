@@ -1,0 +1,47 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "901 Lawrence Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.7130135156",
+      "longitudeCoordinate": "-79.4567456639",
+      "province": "Ontario",
+      "streetAddress": "901 Lawrence Avenue West"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "locationName": "North York Civic Centre",
+    "phone": "416-395-7337",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1550120400000,
+  "noticeDescription": "<p>Take notice that Toronto City Council intends to designate the lands and building known municipally as 901 Lawrence Avenue West under Part IV, Section 29 of the Ontario Heritage Act.</p>\n<p><strong>Reasons for Designation</strong></p>\n<p>The property at 901 Lawrence Avenue West (Columbus Centre) is worthy of designation under Part IV, Section 29 of the Ontario Heritage Act for its cultural heritage value and meets Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation under the two categories of historical/associative and contextual value.&nbsp;</p>\n<p><strong>Description</strong></p>\n<p>The property at 901 Lawrence Avenue West is located on the south side of Lawrence Avenue West, to the west of Dufferin Street and contains the Columbus Centre, which includes the three-storey St. Mary's Training School (1941), a one to three storey sports and recreational centre including a swimming pool (1962, 1968 and 1980), a double-storey entry atrium (1980) with the Joseph Carrier Art Gallery and the three-storey Rotunda (1980) through an agreement between the Italian Canadian Benevolent Corporation (ICBC) and the Government of Ontario. The complex is clad primarily in red brick with curtain wall-glazing on the 1978-80 addition and faces a large landscaped setting with a sculpture garden and tennis courts.</p>\n<p><strong>Statement of Cultural Heritage Value</strong></p>\n<p>The property at 901 Lawrence Avenue West has historic value for its association with the Sisters of the Good Shepherd, a religious order whose purpose was to provide refuge and education for young women who found themselves in perilous conditions or living as social outcasts.&nbsp; The Sisters purchased the property to build the St. Mary's Training School, which was occupied by the school from 1941 to 1973 and later adapted as part of the Columbus Centre complex.&nbsp; The property is also valued for its association with the ICBC (now known as Villa Charities) which through the dedicated, voluntary leadership of individual members undertook the fund-raising campaigns and building of retirement and community facilities for Italian Canadians from the late 1960s onward which culminated in 1980 with the completion of the Columbus Centre which has become a primary centre for Italian Canadian culture and heritage.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Located on the south side of Lawrence Avenue West at the heart of the former Sisters of the Good Shepherd property, the Columbus Centre has contextual value as it defines and maintains the character of the property as a hub of Italian community facilities.&nbsp; The rotunda which is the most visible architectural expression of the Columbus Centre sits within a sculpture garden with mature trees, pathways and tennis courts, surrounded on its borders by social and cultural institutions of the Italian community which include schools, retirement homes, long-term care, as well as the social, athletic, business, research and cultural facilities of the centre itself.&nbsp;&nbsp; The Columbus Centre is visually, physically, functionally and historically linked to its surroundings.&nbsp; As the physical and cultural focal point of the landscape as well as the neighbouring community, the rotunda is a landmark.</p>\n<p>&nbsp;</p>\n<p>The heritage attributes of the property at 901 Lawrence Avenue West are:</p>\n<p>&nbsp;</p>\n<ul>\n<li>\n<p>The setback, placement and orientation of the Columbus Centre rotunda sitting within the landscaped setting of the sculpture garden which includes mature trees, and provision for sculptures and a pathway which connects with the Villa Colombo</p>\n</li>\n<li>\n<p>The scale, circular form and massing of the three storey rotunda designed as a large gathering space</p>\n</li>\n<li>\n<p>The mosaic-tiled and brick door frame at the east corner of the south elevation of the St. Mary's Training School with the words \"St. Mary's Training School\" and decorative mosaic patterns</p>\n</li>\n</ul>\n<p>Notice of an objection to the proposed designation may be served on the City Clerk, Attention:&nbsp; Francine Adamo, Administrator, North York Community Council, North York Civic Centre, Main Floor, 5100 Yonge Street, Toronto, Ontario M2N 5V7, within thirty days of February 14, 2019, which is March 18, 2019. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 401,
+  "otherReferenceList": [
+    {
+      "description": "MM2.17 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 901 Lawrence Avenue West - by Councillor Mike Colle, seconded by Councillor Josh Matlow",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.MM2.17"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990, Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Intention to Designate - 901 Lawrence Avenue West (Columbus Centre) ",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

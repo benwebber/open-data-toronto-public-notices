@@ -1,0 +1,83 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "403 Keele Street Toronto Ontario",
+      "latitudeCoordinate": "43.66633228",
+      "longitudeCoordinate": "-79.46453371",
+      "postalCode": "M6P 2K9",
+      "province": "Ontario",
+      "streetAddress": "403 Keele Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "48 Heintzman Street Toronto Ontario",
+      "latitudeCoordinate": "43.666334312",
+      "longitudeCoordinate": "-79.46400251",
+      "postalCode": "M6P 2J6",
+      "province": "Ontario",
+      "streetAddress": "48 Heintzman Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "49 Heintzman Street Toronto Ontario",
+      "latitudeCoordinate": "43.666505132",
+      "longitudeCoordinate": "-79.463561939",
+      "postalCode": "M6P 2J7",
+      "province": "Ontario",
+      "streetAddress": "49 Heintzman Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "50 Heintzman Street Toronto Ontario",
+      "latitudeCoordinate": "43.666375618",
+      "longitudeCoordinate": "-79.464025309",
+      "postalCode": "M6P 2J6",
+      "province": "Ontario",
+      "streetAddress": "50 Heintzman Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-Law 1289-2023 - 403 Keele Street, 48-50 Heintzman Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5237"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1721102400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif;\"><strong>NOTICE OF INTENTION TO REMOVE A HOLDING SYMBOL (H) FROM ZONING BY-LAW 1289-2023</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif;\"><strong>(Under the Planning Act)</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">The City has received the following application under Section 36 of the Planning Act:</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>Application Number:</strong> 24 129645 STE 04 OZ</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>Location of Application:</strong> 403 Keele Street, 48-50 Heintzman Street</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>Ward:</strong> Ward 04 - Parkdale-High Park</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>Contact:</strong> Liliana da Silva, Senior Planner at 416-392-1821, by e-mail at <a href=\"mailto:Liliana.daSilva@toronto.ca\">Liliana.daSilva@toronto.ca</a>, or by mail at 100 Queen Street West, 18th floor, City of Toronto</span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'times new roman', times, serif;\">DESCRIPTION</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">The application is to amend Zoning By-law 1289-2023 to remove a holding symbol (H) at 403 Keele Street, 48-50 Heintzman Street to permit the development of a new 11-storey mixed-use building.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">Detailed information regarding the above-listed proposal, including background information and materials may be made available for public inspection by contacting the Planner noted above or by visiting the Application Information Centre:</span></p>\n<p><a href=\"https://www.toronto.ca/city-government/planning-development/application-details/?id=5415618&amp;pid=751449&amp;title=403-KEELE-ST.\"><span style=\"font-family: 'times new roman', times, serif;\">https://www.toronto.ca/city-government/planning-development/application-details/?id=5415618&amp;pid=751449&amp;title=403-KEELE-ST.</span></a></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"font-family: 'times new roman', times, serif;\">MAKE YOUR VIEWS KNOWN</span></strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">You may send written comments by mail or email to the Planner noted above. Your written comments must be submitted no later than <strong>August 9, 2024</strong> to be considered by the Chief Planner and Executive Director, City Planning or designate. A decision by the Chief Planner and Executive Director, City Planning or designate as to whether to remove the holding symbol (H) will occur no earlier than <strong>September 17, 2024.</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\"><strong>Notice to People Writing to the City:</strong> The <em>City of Toronto Act, 2006,</em> the Planning Act, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication to the City.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'times new roman', times, serif;\">The City collects this information to enable it to make informed decisions on the relevant issue(s).&nbsp; If you are submitting letters, e-mails, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</span></p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5395,
+  "otherReferenceList": [
+    {
+      "description": "Application Information Centre - 403 Keele Street",
+      "url": "https://www.toronto.ca/city-government/planning-development/application-details/?id=5415618&pid=751449&title=403-KEELE-ST"
+    }
+  ],
+  "planningApplicationNumbers": [
+    "24 129645 STE 04 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-Law 1289-2023 - 403 Keele Street, 48-50 Heintzman Street",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment",
+    "Planning > Intention to remove a Holding Symbol"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

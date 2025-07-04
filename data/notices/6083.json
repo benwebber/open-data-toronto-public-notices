@@ -1,0 +1,88 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "238 Wellesley Street East Toronto Ontario",
+      "latitudeCoordinate": "43.668446213",
+      "longitudeCoordinate": "-79.37220641",
+      "postalCode": "M4X 1G2",
+      "province": "Ontario",
+      "streetAddress": "238 Wellesley Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "240 Wellesley Street East Toronto Ontario",
+      "latitudeCoordinate": "43.668059318",
+      "longitudeCoordinate": "-79.371752139",
+      "postalCode": "M4X 1G5",
+      "province": "Ontario",
+      "streetAddress": "240 Wellesley Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "260 Wellesley Street East Toronto Ontario",
+      "latitudeCoordinate": "43.669069472",
+      "longitudeCoordinate": "-79.37171783",
+      "postalCode": "M4X 1G6",
+      "province": "Ontario",
+      "streetAddress": "260 Wellesley Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "280 Wellesley Street East Toronto Ontario",
+      "latitudeCoordinate": "43.668417741",
+      "longitudeCoordinate": "-79.370443646",
+      "postalCode": "M4X 1G7",
+      "province": "Ontario",
+      "streetAddress": "280 Wellesley Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "650 Parliament Street Toronto Ontario",
+      "latitudeCoordinate": "43.6696118145",
+      "longitudeCoordinate": "-79.3706631071",
+      "postalCode": "M4X 1R3",
+      "province": "Ontario",
+      "streetAddress": "650 Parliament Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 238-240, 260 and 280 Wellesley Street East and 650 Parliament Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5979"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1741924800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 24 220078 STE 13 SB</p>\n<p>Application to Amend the Draft Plan of Subdivision to establish two development blocks with pedestrian and vehicular connections into and through the subject site.</p>\n<p>238-240, 260 and 280 Wellesley Street East and 650 Parliament Street</p>\n<p>Ward 13 &ndash; Toronto Centre</p>\n<p>This land is also subject to applications under the Planning Act for an Official Plan and Zoning By-law amendment, and Site Plan Control Number: 18 148195 STE 28 OZ and 22 139297 STE 13 SA.</p>\n<p>Stephan Posikira, Planner at 416-396-7824 or <a href=\"mailto:Stephan.Posikira@toronto.ca\">Stephan.Posikira@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6083,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 220078 STE 13 SB"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 238-240, 260 and 280 Wellesley Street East and 650 Parliament Street",
+  "topics": [
+    "Planning > Complete application for Plan of Subdivision"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

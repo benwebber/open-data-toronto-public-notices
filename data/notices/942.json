@@ -1,0 +1,45 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Staines Road & Morningside Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.819698288",
+      "longitudeCoordinate": "-79.221072211",
+      "majorIntersection": "Staines Road & Morningside Avenue",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Multiple Surplus Properties",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=742"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Real Estate Services",
+    "country": "Canada",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-1227",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1565236800000,
+  "noticeDescription": "<p>NOTICE is given that in accordance with the City&rsquo;s real estate disposal by-law, on July 24, 2019, a portion of the City-owned land located along the Rouge Riverbed east of Staines Road and north of Morningside Avenue, legally described as being Part of Lots 11 and 12, Concession 4, Township of Scarborough, shown as Parts 1 to 4 on 66R-29991 and part of PIN 06053-0041(LT). The portion of property has a total area of approximately 2,780 m2 &plusmn; (29,925.7 ft2 &plusmn;).&nbsp; The intended manner of disposal to be by way of a transfer to Her Majesty the Queen in Right of Canada as represented by the Minister of Environment and Climate Change for the development of the Rouge National Urban Park and subject to the required easements.</p>\n<p>The following City official has information about the proposed disposition: Ms. Trixy Pugh, Tel: 416-392-8160, Fax: 416-392-1880, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 22nd day of August, 2019.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 942,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Declaration of Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

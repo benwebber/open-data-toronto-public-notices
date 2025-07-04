@@ -1,0 +1,79 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "671 Sheppard Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.7543977369",
+      "longitudeCoordinate": "-79.442799162",
+      "postalCode": "M3H 2S4",
+      "province": "Ontario",
+      "streetAddress": "671 Sheppard Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "669 Sheppard Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.7544411049",
+      "longitudeCoordinate": "-79.4426145428",
+      "postalCode": "M3H 2S4",
+      "province": "Ontario",
+      "streetAddress": "669 Sheppard Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "667 Sheppard Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.7544679137",
+      "longitudeCoordinate": "-79.4423807623",
+      "postalCode": "M3H 2S4",
+      "province": "Ontario",
+      "streetAddress": "667 Sheppard Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "665 Sheppard Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.7544988099",
+      "longitudeCoordinate": "-79.4422411848",
+      "postalCode": "M3H 2S4",
+      "province": "Ontario",
+      "streetAddress": "665 Sheppard Avenue West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - 665, 667, 669 and 671 Sheppard Avenue West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4959"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1714104000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 23 227998 NNY 06 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-law to permit an 11-storey mixed-use building with 259 residential dwelling units and 195 parking spaces.</p>\n<p>665, 667, 669 and 671 Sheppard Avenue West</p>\n<p>Ward 6 &ndash; York Centre</p>\n<p>Planner, Kayla Sintz at 416-394-8238 or <a href=\"mailto:Kayla.Sintz@toronto.ca\">Kayla.Sintz@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5122,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "23 227998 NNY 06 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - 665, 667, 669 and 671 Sheppard Avenue West",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "23 Buckingham Street Toronto Ontario",
+      "latitudeCoordinate": "43.619010664",
+      "longitudeCoordinate": "-79.495696776",
+      "postalCode": "M8Y 2W2",
+      "province": "Ontario",
+      "streetAddress": "23 Buckingham Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice - Proposal to Name a Private Street Located at 23 Buckingham Street as \"Studio Lane\"",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3809"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke York Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-397-4579",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "Etobicoke York Community Council",
+  "eventList": [],
+  "noticeDate": 1683086400000,
+  "noticeDescription": "<p>To consider a proposal to name a proposed private street located 23 Buckingham Street, as \"Studio Lane\".</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>The Etobicoke York Community Council, at its meeting to be held in Council Chambers, Etobicoke Civic Centre, 399 The West Mall on May 15, 2023, at 9:30 a.m., or shortly afterwards, will hear in person or by his or her counsel, agent or solicitor, any person who claims that his or her lands will be prejudicially affected by the naming and who applies to be heard with respect to the proposed naming.</p>\n<p>&nbsp;</p>\n<p>The plan showing the lands to be affected may be seen on the Etobicoke York Community Council agenda online at <a href=\"https://www.toronto.ca/city-government/council/council-committee-meetings/\">toronto.ca/council</a>.</p>\n<p>&nbsp;</p>\n<p>This meeting of the Etobicoke York Community Council will be held with members participating in person and remotely, and the proceedings will be conducted publicly.</p>\n<p>&nbsp;</p>\n<p>Special Assistance for Members of the Public: City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-397-4579, TTY 416-338-0889 or e-mail <a href=\"mailto:etcc@toronto.ca\">etcc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Notice to people writing or making presentations to the Etobicoke York Community Council: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>&nbsp;</p>\n<p>To obtain additional information, submit comments or address the Etobicoke York Community Council meeting on May 15, 2023, please contact the following City official no later than 4:30 p.m. on May 12, 2023.</p>\n<p>&nbsp;</p>\n<p>Ms. Nancy Martins</p>\n<p>Administrator, Etobicoke York Community Council</p>\n<p>City Clerk&rsquo;s Office</p>\n<p>Toronto City Hall</p>\n<p>100 Queen Street West</p>\n<p>Toronto, Ontario M5H 2N2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>Telephone: 416-397-4579; Fax: 416-392-2980</p>\n<p>E-mail: <a href=\"mailto:etcc@toronto.ca\">etcc@toronto.ca</a>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4033,
+  "otherReferenceList": [
+    {
+      "description": "2023.EY5.7 - 23 Buckingham Street - Naming of a Proposed Private Street for a Development",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2023.EY5.7"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "NOTICE IS GIVEN THAT THE CITY OF TORONTO WILL CONSIDER WHETHER TO PASS A BY-LAW TO AUTHORIZE THE NAMING OF A PROPOSED PRIVATE STREET IN THE ETOBICOKE YORK COMMUNITY COUNCIL AREA",
+  "title": "Public Notice - Proposal to Name a Private Street Located at 23 Buckingham Street as \"Studio Lane\"",
+  "topics": [
+    "Transportation > Intention to name a road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

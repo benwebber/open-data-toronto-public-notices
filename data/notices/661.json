@@ -1,0 +1,45 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Scrivener Square Toronto Ontario",
+      "latitudeCoordinate": "43.680235340690224",
+      "longitudeCoordinate": "-79.39032369148413",
+      "province": "Ontario",
+      "streetAddress": "5 Scrivener Square"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Multiple Surplus Properties",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=461"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Mike Saffran",
+    "country": "Canada",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-7205",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1556856000000,
+  "noticeDescription": "<p>Notice is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal by-law, on April 23, 2019, an L-shaped portion of the City-owned public lane adjacent to and east of 1095-1107 Yonge Street, south of 5 Scrivener Square, and 10R Price Street, and north of 8-10 Price Street, shown on a draft Reference Plan dated March 28, 2019, prepared by J.D. Barnes Limited, as Parts 1, 2, 3, 5, 6, 7, 8, 9, and 10, conditional on City Council approving the permanent closure of the public lane and subject to the reservation of any required easements, were declared surplus.&nbsp; The public lane contains a total area of 404.0 m&sup2; (4,348.8 ft&sup2;). The City proposes that the intended manner of disposal is to be by way of an invitation of an offer to purchase the lane from the adjoining owners of 1095-1107 Yonge Street, 5 Scrivener Square and 10R Price Street, and 8-10 Price Street.</p>\n<p>The following City official has information about the proposed disposition: Mr. Mike Saffran,</p>\n<p>Tel: 416-392-7205, Fax: 416-392-1880, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until the 16th day of May, 2019.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 661,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Declaration of Multiple Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

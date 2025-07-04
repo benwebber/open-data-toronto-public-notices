@@ -1,0 +1,121 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1303 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6411508861",
+      "longitudeCoordinate": "-79.4326506625",
+      "postalCode": "M6K 1L6",
+      "province": "Ontario",
+      "streetAddress": "1303 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1313 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.641068041",
+      "longitudeCoordinate": "-79.433359214",
+      "postalCode": "M6K 1L8",
+      "province": "Ontario",
+      "streetAddress": "1313 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1325 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.64098718",
+      "longitudeCoordinate": "-79.433663111",
+      "postalCode": "M6K 1L8",
+      "province": "Ontario",
+      "streetAddress": "1325 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1337 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.640832976",
+      "longitudeCoordinate": "-79.433921412",
+      "postalCode": "M6K 1L8",
+      "province": "Ontario",
+      "streetAddress": "1337 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1345 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.640878462",
+      "longitudeCoordinate": "-79.434172566",
+      "postalCode": "M6K 1L8",
+      "province": "Ontario",
+      "streetAddress": "1345 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "212 Cowan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.640196825",
+      "longitudeCoordinate": "-79.433090037",
+      "postalCode": "M6K 2N6",
+      "province": "Ontario",
+      "streetAddress": "212 Cowan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "220 Cowan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6407247064",
+      "longitudeCoordinate": "-79.4332336687",
+      "postalCode": "M6K 2N6",
+      "province": "Ontario",
+      "streetAddress": "220 Cowan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "224 Cowan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6409660062",
+      "longitudeCoordinate": "-79.4331723673",
+      "province": "Ontario",
+      "streetAddress": "224 Cowan Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Public Meeting - Request to Amend the Official Plan and Zoning By-law - 1303, 1313, 1325, 1337, and 1345 Queen Street West and 212, 220 and 224 Cowan Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4297"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Planning and Housing Committee",
+    "country": "Canada",
+    "emailAddress": "phc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-397-4579",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Planning and Housing Committee",
+  "eventList": [],
+  "noticeDate": 1696478400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF PUBLIC MEETING</strong></p>\n<p style=\"text-align: center;\"><strong>To be held by the Planning and Housing Committee</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the <em>Planning Act</em>)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Request to Amend the Official Plan and Zoning By-law Application Number 22 241856 STE 04 OZ</strong></p>\n<p>&nbsp;</p>\n<p><strong>Location of Application: 1303, 1313, 1325, 1337, and 1345 Queen Street West and 212, 220 and 224 Cowan Avenue</strong><br /><strong>Applicant: City of Toronto</strong><br /><strong>&nbsp;</strong><br /><strong>DATE: October 26, 2023</strong><br /><strong>TIME: 10:30 a.m. or as soon as possible thereafter</strong><br /><strong>PLACE: Committee Room 1, City Hall, 100 Queen Street West and By Video Conference</strong><br />&nbsp;</p>\n<p><strong>PROPOSAL</strong></p>\n<p>&nbsp;</p>\n<p>The purpose of this City-Initiated Official Plan and Zoning By-law Amendment is to facilitate Parkdale Hub, a mixed-use development including affordable rental housing, library, community centre, and non-residential space on the City-owned properties at 1303, 1313, 1325, 1337, and 1345 Queen Street West and 212, 220 and 224 Cowan Avenue.</p>\n<p>&nbsp;</p>\n<p>The recommended Official Plan Amendment will change the land use designation for the rear portion of the property located at 1337 and 1345 Queen Street West and a portion of 220 Cowan Avenue from <em>Neighbourhoods to Mixed Use Areas</em> to facilitate parts of the proposed development.</p>\n<p>&nbsp;</p>\n<p>The recommended Zoning By-law Amendment for the properties at 1303 Queen Street West, 1345 and a portion of 1337 Queen Street West will permit two mixed-use buildings with and heights of 6 and 16-storeys (20 and 50 metres respectively) and a total of approximately 231 dwelling units, of which a portion will be provided as affordable rental housing units. The mixed-use buildings will collectively provide a minimum of 1,305 square metres of non-residential gross floor area. The proposed amendments to the Zoning By-law for the properties at 1313, 1325 and a portion of 1337 Queen Street West and 212-224 Cowan Avenue, will facilitate the development of the Toronto Public Library Parkdale Branch and the redevelopment of the Masaryk-Cowan Community Recreation Centre.</p>\n<p>&nbsp;</p>\n<p>A related Rental Housing Demolition and Conversion application (23 107855 STE 04 RH) under section 111 of the City of Toronto Act (Chapter 667 of the Municipal Code) to permit the demolition and replacement of the 9 existing rental dwelling units at 1313 Queen Street West has also been made and will be considered at the same time as the Official Plan and Zoning By-law Amendment application.</p>\n<p>&nbsp;</p>\n<p>A related report for Alterations to Designated Heritage Properties within the Parkdale Hub will also be brought to the Planning and Housing Committee for consideration.</p>\n<p>&nbsp;</p>\n<p><strong>Detailed information regarding the proposal, including background information and material and a copy of the proposed Official Plan and Zoning By-law Amendment, may be obtained by contacting Victoria Fusz, Senior Planner by e-mail at <a href=\"mailto:Victoria.Fusz@toronto.ca\">Victoria.Fusz@toronto.ca</a>.</strong></p>\n<p>&nbsp;</p>\n<p>Further information can be found at <a href=\"http://www.toronto.ca/parkdalehub\">http://www.toronto.ca/parkdalehub</a>.</p>\n<p>&nbsp;</p>\n<p><strong>PURPOSE OF PUBLIC MEETING</strong></p>\n<p>&nbsp;</p>\n<p>The Planning and Housing Committee will receive input and review the proposal and any other material placed before it, in order to make recommendations on the application. These recommendations will then be forwarded to Toronto City Council for its consideration.</p>\n<p>&nbsp;</p>\n<p>You can follow the meeting at <a href=\"http://www.youtube.com/TorontoCityCouncilLive\">www.youtube.com/TorontoCityCouncilLive</a>.</p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>MAKE YOUR VIEWS KNOWN</strong></span></p>\n<p>&nbsp;</p>\n<p>You may send written comments by e-mail to <a href=\"mailto:phc@toronto.ca\">phc@toronto.ca</a>&nbsp;or by mail to the address below. You can submit written comments up until City Council gives final consideration to the proposal.</p>\n<p>&nbsp;</p>\n<p>You are also invited to address Planning and Housing Committee in person, by video conference or by telephone, to make your views known regarding the proposal.</p>\n<p>&nbsp;</p>\n<p>If you wish to address Planning and Housing Committee directly, please register by e-mail to <a href=\"mailto:phc@toronto.ca\">phc@toronto.ca</a>&nbsp;or by phone at 416-397-4579 no later than <strong>12:00 p.m. on October 25, 2023</strong>. If you register, we will contact you with instructions on how to participate in the meeting.</p>\n<p>&nbsp;</p>\n<p>The Planning and Housing Committee may request you to file an outline of your presentation with the Clerk.</p>\n<p>&nbsp;</p>\n<p>For more information about matter, including information about appeal rights, please contact: <strong>City Clerk, Attention: Nancy Martins, Administrator, Planning and Housing Committee, Toronto City Hall, 100 Queen Street West, 2nd Floor, Toronto, ON, M5H 2N2, Phone: 416-397-4579, Fax: 416-392-2980, e-mail: <a href=\"mailto:phc@toronto.ca\">phc@toronto.ca</a>.</strong></p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance:</strong> City Staff can arrange for special assistance with some advance notice.&nbsp; If you need special assistance, please call TTY 416-338-0889 or e-mail <a href=\"mailto:phc@toronto.ca\">phc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p><strong>If you wish to be notified</strong> of the decision of the City of Toronto on the proposed Official Plan Amendment and/or passing or refusal of the proposed Zoning By-law Amendment, you must make a written request to the City Clerk, Attention: Nancy Martins, Administrator, Planning and Housing Committee, at the address, fax number or e-mail set out in this notice.</p>\n<p>&nbsp;</p>\n<p><strong>Official Plan and Zoning By-law Amendment Appeal:</strong> If a person or public body would otherwise have an ability to appeal the decision of the Council of the City of Toronto to the Ontario Land Tribunal but the person or public body does not make oral submissions at a public meeting or make written submissions to the City of Toronto before the proposed Official Plan Amendment is adopted or refused and before the Zoning By-law Amendment are passed or refused, the person or public body is not entitled to appeal the decision and may not be added as a party to the hearing of an appeal before the Ontario Land Tribunal unless, in the opinion of the Tribunal there are reasonable grounds to do so. You may submit comments to the City Clerk, Attention: Nancy Martins, Administrator, Planning and Housing Committee, at the address, fax number or e-mail set out in this notice.</p>\n<p>&nbsp;</p>\n<p>People writing or making video presentations at the public meeting: The <em>City of Toronto Act</em>, 2006, the <em>Planning Act</em>, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue. If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available. Direct any questions about this collection to the City Clerk's Office at 416-397-4579.</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4460,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "22 241856 STE 04 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Public Meeting - Request to Amend the Official Plan and Zoning By-law - 1303, 1313, 1325, 1337, and 1345 Queen Street West and 212, 220 and 224 Cowan Avenue",
+  "topics": [
+    "Meetings > Notice of meeting",
+    "Planning > Proposal for a Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-meeting.png",
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Kingston Road & Lawlor Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.680395354",
+      "longitudeCoordinate": "-79.28840955",
+      "majorIntersection": "Kingston Road & Lawlor Avenue",
+      "province": "Ontario"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice to Authorize the Naming of a Public Lane - Vaughan Family Lane",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3934"
+    }
+  ],
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1686542400000,
+  "noticeDescription": "<p>CITY OF TORONTO</p>\n<p>&nbsp;</p>\n<p>NOTICE IS GIVEN THAT THE CITY OF TORONTO WILL CONSIDER WHETHER TO PASS A BY-LAW TO AUTHORIZE THE NAMING OF PUBLIC LANE IN THE TORONTO AND EAST YORK COMMUNITY COUNCIL AREA</p>\n<p>&nbsp;<br />&nbsp;</p>\n<p>CITY OF TORONTO ACT, 2006 - PUBLIC NOTICE</p>\n<p>&nbsp;</p>\n<p>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA</p>\n<p>&nbsp;</p>\n<p>To consider a proposal to name a public lane located north of Kingston Road and west of Lawlor Avenue as, &ldquo;Vaughan Family Lane\".</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>At its meeting to be held in Committee Room 2, Toronto City Hall, 100 Queen Street West on June 22, 2023, at 9:30 a.m. or shortly afterwards, the Toronto and East York Community Council will hear from or by their counsel, agent or solicitor, any person who claims that his or her lands will be prejudicially affected by the naming and who applies to be heard with respect to the proposed naming.</p>\n<p>&nbsp;</p>\n<p>This meeting of the Toronto and East York Community Council will be held with members participating in person and remotely, and the proceedings will be conducted publicly.</p>\n<p>&nbsp;</p>\n<p>To obtain additional information, please review item TE6.1 on the Community Council agenda at <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2023.TE6.1\">https://secure.toronto.ca/council/agenda-item.do?item=2023.TE6.1</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p>To submit comments or address the Toronto and East York Community Council meeting on June 22, 2023, please contact the following City official no later than 12:00 p.m. on June 21, 2023.</p>\n<p>&nbsp;</p>\n<p>Administrator, Toronto and East York Community Council</p>\n<p>City Clerk&rsquo;s Office</p>\n<p>Toronto City Hall</p>\n<p>100 Queen St. W.</p>\n<p>Toronto, ON M5H 2N2</p>\n<p>Telephone: 416-392-7033; Fax: 416-392-2980</p>\n<p>E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance for Members of the Public:</strong> City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Notice to people writing or making presentations to the Toronto and East York Community Council:</strong> The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees. The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view.&nbsp; If you speak at the meeting you will appear in the video broadcast.&nbsp; Video broadcasts are archived and continue to be publicly available.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4143,
+  "otherReferenceList": [
+    {
+      "description": "2023.TE6.1 - Naming of an existing Public Lane North of Kingston Road, West of Lawlor Avenue",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2023.TE6.1"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice to Authorize the naming of a public lane in the Toronto and East York Community Council Area North of Kingston Road and West of Lawlor Avenue ",
+  "topics": [
+    "Transportation > Intention to name a road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

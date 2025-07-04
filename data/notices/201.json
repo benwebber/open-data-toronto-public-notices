@@ -1,0 +1,29 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [],
+  "decisionBody": "City Council",
+  "eventList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "locationName": "Toronto City Hall, 1st Floor, North",
+      "postalCode": "M5H 2N2",
+      "province": "Ontario",
+      "startDateTime": 1525179600000,
+      "streetAddress": "100 Queen Street West"
+    }
+  ],
+  "noticeDate": 1525147200000,
+  "noticeDescription": "<p>Election Services will receive nominations for the 2018 City of Toronto municipal election from May 1 to July 27, 2018 for the offices of:</p>\n<p>1. Mayor</p>\n<p>2. Councillor</p>\n<p>3. Trustee for the Toronto District School Board</p>\n<p>4. Trustee for the Toronto Catholic District School Board</p>\n<p>5. Trustee for the Conseil scolaire Viamonde</p>\n<p>6. Trustee for the Conseil scolaire catholique MonAvenir</p>\n<p>To run for the office of mayor, councillor or school board trustee, a person must file a nomination paper and provide proof of qualifying address within the City of Toronto or the school board jurisdiction and the appropriate filing fee. Additionally, mayor and councillor nominees must provide at least 25 endorsements of nomination from eligible voters. The nomination paper and endorsement of nomination forms must have original signatures.</p>\n<p>The nomination paper can be filed, at the Election Services Office, Toronto City Hall, 100 Queen St. W., first floor north, Monday to Friday between 8:30 a.m. and 4:30 p.m. from May 1 to July 26.</p>\n<p>The last day to file a nomination paper is Friday, July 27 between the hours of 9 a.m. to 2 p.m.</p>\n<p>Until a nomination paper is filed, a person cannot raise or spend any money on their campaign. Information about the nomination process and the nomination paper is available at <a href=\"http://www.toronto.ca/elections/candidates\">http://www.toronto.ca/elections/candidates</a>.</p>\n<p>A real-time list of candidates will be available.</p>\n<p>Election Day is Monday, October 22, 2018.</p>\n<p>Third Party Advertiser Registration</p>\n<p>Recent changes to the Municipal Elections Act, 1996 set out new rules for third party advertising during the election period.</p>\n<p>Between May 1 and October 22, 2018, individuals, corporations and trade unions who plan to conduct third party advertising that promotes, supports or opposes a candidate in the City of Toronto municipal election must be registered with the City Clerk.</p>\n<p>Registration is open from May 1 to October 19, 2018 and must be filed in person or by an agent at the Election Services Office, Toronto City Hall, 100 Queen Street West, first floor north.</p>\n<p>The City Clerk must certify the registration before a third party advertiser can spend money on their campaign, accept contributions or begin advertising. Registered third party advertisers must identify themselves on advertisements and comply with requirements under the Act.</p>\n<p><a href=\"https://www.toronto.ca/city-government/elections/third-party-advertising/\">Learn more about how to become a registered third party advertiser, including forms, rules and how to attend an information session</a>.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 201,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "title": "City of Toronto municipal election nominations and third party advertiser registration opens May 1",
+  "topics": [
+    "Council/Elections"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-council.png"
+  ]
+}

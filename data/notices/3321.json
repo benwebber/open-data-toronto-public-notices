@@ -1,0 +1,33 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "76 Marilake Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7791167041",
+      "longitudeCoordinate": "-79.2718698752",
+      "postalCode": "M1S 1V7",
+      "province": "Ontario",
+      "streetAddress": "76 Marilake Drive"
+    }
+  ],
+  "backgroundInformationList": [],
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1652846400000,
+  "noticeDescription": "<p>A By-law for the benefitting property listed below has been enacted for the meeting of City Council held on May 11 and 12, 2022. Review By-law details (<a href=\"http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2022.CC43\" target=\"_blank\" rel=\"noopener\">http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2022.CC43</a>).</p>\n<p>&nbsp;</p>\n<p>The By-law imposes a special charge on the corresponding benefitting property as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2013.EX33.22\" target=\"_blank\" rel=\"noopener\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013 and enacted in By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>The benefitting property is:</p>\n<ul>\n<li>76 Marilake Drive</li>\n</ul>\n<p>&nbsp;</p>\n<p>For More Information Contact</p>\n<p>City Council<br /><a href=\"mailto:councilmeeting@toronto.ca\">councilmeeting@toronto.ca</a><br />Phone: 416-392-7032<br />Fax: 416-392-2980</p>\n<p>Toronto City Hall<br />100 Queen Street<br />Toronto, Ontario<br />M5H 2N2<br />Canada</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3321,
+  "otherReferenceList": [
+    {
+      "description": "By-law for the benefitting property ",
+      "url": "http://app.toronto.ca/tmmis/viewBillBylaw.do?meeting=2022.CC43"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program",
+  "title": "City's Residential Retrofit Program",
+  "topics": [],
+  "uniqueMapUrl": []
+}

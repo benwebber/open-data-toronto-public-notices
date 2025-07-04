@@ -1,0 +1,47 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1755 Bayview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7095114467",
+      "longitudeCoordinate": "-79.3762967428",
+      "province": "Ontario",
+      "streetAddress": "1755 Bayview Avenue"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "North York Community Council ",
+    "country": "Canada",
+    "emailAddress": "nycc@toronto.ca",
+    "locationName": "North York Civic Centre",
+    "phone": "416-395-7337",
+    "postalCode": "M2N 5V7",
+    "province": "Ontario",
+    "streetAddress": "5100 Yonge Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1518066000000,
+  "noticeDescription": "<p>Take notice that Toronto City Council intends to designate the lands and building known municipally as 1755 Bayview Avenue under Part IV, Section 29 of the Ontario Heritage Act.</p>\n<p><strong>Reasons for Designation</strong></p>\n<p>The property at 1755 Bayview Avenue (including the entry address at 1757 Bayview Avenue) is worthy of designation under Part IV, Section 29 of the Ontario Heritage Act for its cultural heritage value, and meets Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation under all three categories of design, associative and contextual value.</p>\n<p><strong>Description</strong></p>\n<p>The property at 1755 Bayview Avenue contains a four-unit, two-storey brick and stone-clad apartment building, which is part of a unique set of ten properties of similar design, owned and developed by Henry H. Talbot, builder and Mayor of Leaside (1938-1947) and designed by the architect W. Breden Galbraith on the east side of Bayview Avenue between Parkhurst Boulevard and Eglinton Avenue East.</p>\n<p><strong>Statement of Cultural Heritage Value</strong></p>\n<p>Constructed in 1936-37, the four-unit apartment building with a single entrance at 1755 Bayview Avenue has design value as a representative example of a Tudor Revival variation on the Arts and Crafts, the style associated with the Garden Suburb aesthetic, featuring half-timber in the roof gables, paired bay windows with stone bases and long casement windows and a front door with an arched stone surround with a keystone and quoins. The design value of this property is amplified by its being one of the same four-unit apartment building typology with a variety of styles associated with the Arts and Crafts Style, constructed as a set on the east side of Bayview Avenue.</p>\n<p>The property is valued for its association with the Leaside Garden Suburb developed in 1912 by the Canadian National Railway and designed by the landscape architect Frederick Todd Gage. It contributes to an understanding of the development and growth of Leaside in the 1930s which integrated a variety of housing typologies addressing various income levels and household types. It demonstrates the variety of the work undertaken by Henry H. Talbot, a locally-based builder and Mayor of Leaside (1938-1947) and it reflects the work and ideas of the well-known residential designer W. Breden Galbraith.</p>\n<p>Contextually, the property at 1755 Bayview Avenue is important in defining and maintaining the consistent character created with the other nine, adjacent, four-unit apartment buildings. Their 1930s period detail, reflecting the Arts and Crafts influence, contributes to and maintains the overall character of the Leaside Garden Suburb. The four-unit apartment buildings maintain not only the period and architectural quality of scale and style but they also contribute to a distinctive social quality in Leaside&rsquo;s planning and built form which provided a wide range of housing typologies.</p>\n<p><strong>Heritage Attributes</strong></p>\n<p>The heritage attributes of the building at 1755 Bayview Avenue are:</p>\n<p style=\"padding-left: 30px;\">&bull; The setback, placement and orientation of the building on the east side of Bayview Avenue between Parkhurst Boulevard and Eglinton Avenue East<br />&bull; The scale, form and massing of the two-storey, four-unit apartment block built on a rectangular plan with projecting bay windows with a unifying roof and a hipped roof with three dormer gables on its principal west elevation<br />&bull; The symmetrical arrangement of the bays on the principal (west) elevation with larger windows and gables flanking the smaller gable, central window and main door<br />&bull; The cladding of the principal (west) elevation with its variegated red brick cladding, stone-clad bays and stone surrounds on the entrance door and half-timbering in the dormer gables with bargeboards with undulating profiles<br />&bull; The windows on the principal (west) elevation with the ground floor bay windows, with five vertical lights divided into square upper sections and rectangular lower sections, the second storey windows with three vertical lights divided into square upper sections and rectangular lower sections and the central second storey window and the decorative pattern of muntin bars in the upper window sections<br />&bull; Decorative wood trim at the eaves above the bay windows including paired wood brackets and a dentil course and the paired wood brackets featured at the second floor level<br />&bull; The single main entrance with its segmentally-arched panelled door with glazed openings surrounded by stone quoins and a keystone<br />&bull; The cladding of variegated red brick on the side elevations and the rusticated concrete block at the raised basement level</p>\n<p>Notice of an objection to the proposed designations may be served on the City Clerk, Attention: Francine Adamo, Administrator, North York Community Council, North York Civic Centre, Main Floor, 5100 Yonge Street, Toronto, Ontario M2N 5V7, within thirty days of February 8, 2018, which is March 12, 2018. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 51,
+  "otherReferenceList": [
+    {
+      "description": "MM36.27 - 1755 Bayview Avenue - Intention To Designate Under Part IV, Section 29 of The Ontario Heritage Act - by Councillor Jon Burnside, seconded by Councillor Josh Colle",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.MM36.27"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990, Chapter 0.18 and City of Toronto, Province of Ontario ",
+  "title": "Notice of Intention to Designate - 1755 Bayview Avenue",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

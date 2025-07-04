@@ -1,0 +1,41 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1260 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.667315005",
+      "longitudeCoordinate": "-79.439270611",
+      "province": "Ontario",
+      "streetAddress": "1260 Dufferin Street"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Trixy Pugh",
+    "country": "Canada",
+    "emailAddress": "Trixy.Pugh@toronto.ca",
+    "fax": "416-392-1880",
+    "locationName": "Metro Hall, 2nd Floor",
+    "phone": "416-392-8160",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1526443200000,
+  "noticeDescription": "<p>Notice is given that in accordance with the City&rsquo;s real estate disposal by-law, on May 8, 2018, part of the City-owned park located at 1260 Dufferin Street, being Lots 1, 8, 10, 12, 16 to 20, Part of Lots 2, 9, 11 on Plan M567, Parts 2, 3, 4, 6 on 66R-9966, shown as Part 1 on Sketch No. PS-2018-015. The portion of land has a total area of approximately 8,241 m&sup2;&plusmn; (88,705 ft&sup2;&plusmn;). The intended manner of disposal to be by way of an exchange of land with the adjacent owner, conditional upon City Council approving that the land being exchanged is nearby land of equivalent or larger area and of comparable or superior green space.</p>\n<p>The following City official has information about the proposed dispositions: Mrs. Trixy Pugh, Tel: 416-392-8160, Fax: 416-392-1880, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario, M5V 3C6. Enquiries may be made of the said official until the 30th of May, 2018.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 225,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "title": "Declaration of Multiple Surplus Properties",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

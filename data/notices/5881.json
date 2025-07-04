@@ -1,0 +1,98 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1913 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.698567616",
+      "longitudeCoordinate": "-79.396382773",
+      "postalCode": "M4S 1Z3",
+      "province": "Ontario",
+      "streetAddress": "1913 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1951 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.699232501",
+      "longitudeCoordinate": "-79.39648312",
+      "postalCode": "M4S 1Z3",
+      "province": "Ontario",
+      "streetAddress": "1951 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10 Davisville Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.717545116",
+      "longitudeCoordinate": "-79.331669098",
+      "postalCode": "M4S 1G3",
+      "province": "Ontario",
+      "streetAddress": "10 Davisville Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "22 Davisville Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.698717195",
+      "longitudeCoordinate": "-79.395850865",
+      "postalCode": "M4S 1E8",
+      "province": "Ontario",
+      "streetAddress": "22 Davisville Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "17 Millwood Road Toronto Ontario",
+      "latitudeCoordinate": "43.699315377",
+      "longitudeCoordinate": "-79.396077935",
+      "postalCode": "M4S 1J6",
+      "province": "Ontario",
+      "streetAddress": "17 Millwood Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "21 Millwood Road Toronto Ontario",
+      "latitudeCoordinate": "43.699348567",
+      "longitudeCoordinate": "-79.395933175",
+      "postalCode": "M4S 1J6",
+      "province": "Ontario",
+      "streetAddress": "21 Millwood Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 907-2024 - 1913-1951 Yonge Street, 10-22 Davisville Avenue and 17-21 Millwood Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=5758"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1737090000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF INTENTION TO REMOVE A HOLDING SYMBOL (H) FROM ZONING BY-LAW 907-2024(OLT)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application under Section 36 of the <em>Planning Act</em>:</p>\n<p>&nbsp;</p>\n<p><strong>Application Number:</strong> 23 182894 STE 12 OZ</p>\n<p><strong>Address:</strong> 1913-1951 Yonge Street, 10-22 Davisville Avenue and 17-21 Millwood Road</p>\n<p><strong>Ward:</strong> Ward 12 - Toronto-St. Paul's</p>\n<p><strong>Contact:</strong> Shane Taylor, Planner, Community Planning at 416-397-9254, by e-mail at <a href=\"mailto:Shane.Taylor@toronto.ca\">Shane.Taylor@toronto.ca</a>, or by address 12th Floor East Tower, City Hall, 100 Queen Street West, Toronto, ON, M5H 2N2.</p>\n<p>&nbsp;</p>\n<p><strong>DESCRIPTION</strong></p>\n<p>&nbsp;</p>\n<p>The Application to Amend Zoning By-law 907-2024(OLT) to remove the Holding Symbol (H) to permit a two-tower mixed use building, 38 and 45 storeys, with a total gross floor area of 66,000 square metres. The location of where the holding symbol (H) would be removed is noted on the map below.</p>\n<p>&nbsp;</p>\n<p>Detailed information about the proposal, including background information and materials may be made available for review by contacting the Planner noted above or by visiting the City of Toronto&rsquo;s <a href=\"https://www.toronto.ca/city-government/planning-development/application-information-centre\">https://www.toronto.ca/city-government/planning-development/application-information-centre</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>MAKE YOUR VIEWS KNOWN</strong></p>\n<p>&nbsp;</p>\n<p>You may send written comments by mail or email to the Community Planner noted under Contact. Your written comments must be submitted no later than <strong>January 31, 2025</strong>, to be considered by the Executive Director, Development Review or their designate, Director, Community Planning, Toronto and East York District. A decision by the Executive Director, Development Review or their designate as to whether to remove the holding symbol (H) will occur no earlier than <strong>February 18, 2025</strong>.</p>\n<p>&nbsp;</p>\n<p><strong>Notice to people writing to the City:</strong> The <em>City of Toronto Act, 2006</em>, the <em>Planning Act</em>, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication to the City.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s).&nbsp; If you are submitting letters, e-mails, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5881,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "23 182894 STE 12 OZ "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 907-2024 - 1913-1951 Yonge Street, 10-22 Davisville Avenue and 17-21 Millwood Road",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Intention to remove a Holding Symbol"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

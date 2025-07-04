@@ -1,0 +1,54 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10 Eastern Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.653074915",
+      "longitudeCoordinate": "-79.360711649",
+      "province": "Ontario",
+      "streetAddress": "10 Eastern Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 Eastern Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.653015948",
+      "longitudeCoordinate": "-79.360291647",
+      "postalCode": "M5A 1H4",
+      "province": "Ontario",
+      "streetAddress": "16 Eastern Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Property - Public lane between 10 and 16 Eastern Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4989"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Ms. Vinette Prescott-Brown",
+    "country": "Canada",
+    "locationName": "Metro Hall",
+    "phone": "416-392-7138",
+    "postalCode": "M5V 3C6",
+    "province": "ON",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1715054400000,
+  "noticeDescription": "<p><strong>NOTICE</strong> is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal By-law, on April 23, 2024 the City-owned public lane between 10 and 16 Eastern Avenue, legally described as Pt Lane Pl 242E Toronto south of the lands described in ES67802 &amp; west of the lands described in CT680499 (tenthly described); Pt Lt 5, 7 Pl242E as in ES1750, being all of PIN 21079-0106 and shown as Part 5 on Plan 66R-32512, was declared surplus conditional upon City Council approving the permanent closure of the lane and subject to the retention of any required easements over the entire lane for any required municipal purposes.</p>\n<p>&nbsp;</p>\n<p>The property has an area of approximately 89.0 m2 (998.0 ft2).&nbsp; The City proposes that the intended manner of disposal is to be by way of inviting an offer to purchase from the owners of 101 Trinity Avenue and 10 Eastern Avenue.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Ms. Vinette Prescott-Brown, Manager of Real Estate, Tel: 416-392-7138, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until May 21, 2024.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 5152,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property - Public lane between 10 and 16 Eastern Avenue",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

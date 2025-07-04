@@ -1,0 +1,34 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1355 Bridletowne Circle Toronto Ontario",
+      "latitudeCoordinate": "43.794947517",
+      "longitudeCoordinate": "-79.310597191",
+      "province": "Ontario",
+      "streetAddress": "1355 Bridletowne Circle"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Property - 1355 Bridletowne Circle",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4123"
+    }
+  ],
+  "eventList": [],
+  "noticeDate": 1693368000000,
+  "noticeDescription": "<p><strong>NOTICE</strong> is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal By-law, on August 23, 2023 the City-owned parcel of land located at 1355 Bridletowne Circle, legally described as Parcel 32-13, Section S7 Part Lot 32, Concession 3, Scarborough Pt 2, 66R-7469; Block E, Plan M-1229, designated as Parts 10, 11, 12, 13 and 14 on Plan 66R-25874, subject to an easement over Parts 12 and 13 on Plan 66R-25874 as in Instrument No. C11095; Part of Block B, Plan M-1580, designated as Part 3 on 66R-25874 and Part of Block B, Plan M-1357, designated as Part 4 on 66R-25874, City of Toronto was declared surplus. The property has a total area of approximately 21,392.4 m2 (230,265.8 ft2).&nbsp;</p>\n<p>&nbsp;</p>\n<p>The City proposes that the intended manner of disposal is to be by way of offer to purchase from YMCA of Greater Toronto.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Ms. Devi Mohan, Project Manager, Tel: 416-392-7214, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until September 14th, 2023.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4327,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property - 1355 Bridletowne Circle",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}

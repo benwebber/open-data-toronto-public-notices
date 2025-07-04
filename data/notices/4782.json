@@ -1,0 +1,67 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "822 Richmond Street West Toronto Ontario",
+      "latitudeCoordinate": "43.644884184",
+      "longitudeCoordinate": "-79.411215347",
+      "postalCode": "M6J 1C9",
+      "province": "Ontario",
+      "streetAddress": "822 Richmond Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Designation By-law 1285-2023 - 822 Richmond Street West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=4623"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1705640400000,
+  "noticeDescription": "<p>TAKE NOTICE that Council for the City of Toronto passed Designation By-law 1285-2023 on&nbsp;December 13, 14 and 15, 2023, which designates&nbsp;the lands, buildings and structures known municipally as&nbsp;822 Richmond Street West, under&nbsp;Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest.</p>\n<p>&nbsp;</p>\n<p>The City Clerk did not receive any objections to the Notice of Intention to Designate the Property. Therefore, City Council did not consider any objections and passed the Designation By-law for the Property.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal of the Designation by-law for the Property by those persons permitted to appeal under section 29 of the Ontario Heritage Act may be made by filing a notice of appeal with the City Clerk, Attention: Registrar Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2; Email:&nbsp;<a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca </a>within thirty days of January 19, 2024, which is February 20, 2024.</p>\n<p>&nbsp;</p>\n<p>A Notice of Appeal must:</p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;set out the reasons for the objection to the designation by-law; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;set out the reasons in support of the objection to the designation by-law.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT), forms are available from the Ontario Land Tribunal website at&nbsp;<a href=\"https://olt.gov.on.ca\">https://olt.gov.on.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File&nbsp;An&nbsp;Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Any persons who object to the designation by-law may refer the matter to the Ontario Land Tribunal.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application is available for public inspection by contacting Heritage Planning staff at&nbsp;<a href=\"mailto:heritageplanning@toronto.ca\">heritageplanning@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Further information in respect of the Designation By-law is available from the City of Toronto at:</p>\n<p>&nbsp;</p>\n<p><a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2023.PH6.9\">https://secure.toronto.ca/council/agenda-item.do?item=2023.PH6.9</a></p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 4782,
+  "otherReferenceList": [
+    {
+      "description": "PB2.5 - Inclusion of Six Properties in Toronto and East York and North York on the Heritage Register - 29 and 31 Linden Street, 33 Maitland Street, 33 Melrose Avenue (including 31 Melrose Avenue), 822 Richmond Street West and 570 Sherbourne Street",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2023.PB2.5"
+    },
+    {
+      "description": "PH1.4 - Inclusion of Six Properties in Toronto and East York and North York on the Heritage Register - 29 and 31 Linden Street, 33 Maitland Street, 33 Melrose Avenue (including 31 Melrose Avenue), 822 Richmond Street West and 570 Sherbourne Street",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2023.PH1.4"
+    },
+    {
+      "description": "PB9.1 - 822 Richmond Street - Notice of Intention to Designate a Property under Part IV, Section 29 of the Ontario Heritage Act",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2023.PB9.1"
+    },
+    {
+      "description": "PH6.9 - 822 Richmond Street - Notice of Intention to Designate a Property under Part IV, Section 29 of the Ontario Heritage Act",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2023.PH6.9"
+    },
+    {
+      "description": "TE9.12 - 822-838 Richmond Street West Official Plan and Zoning By-law Amendment Applications - Decision Report - Approval",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2023.TE9.12"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Passing of Designation By-law 1285-2023 - 822 Richmond Street West",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "4050 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.744242992",
+      "longitudeCoordinate": "-79.40732122",
+      "postalCode": "M2P 0A6",
+      "province": "Ontario",
+      "streetAddress": "4050 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "25 Audley Street Toronto Ontario",
+      "latitudeCoordinate": "43.619275565",
+      "longitudeCoordinate": "-79.494913444",
+      "province": "Ontario",
+      "streetAddress": "25 Audley Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Surplus Ad - 4050 Yonge St  25 Audley Av",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=3300"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Joseph Sergnese",
+    "country": "Canada",
+    "emailAddress": "Joseph.Sergnese@toronto.ca",
+    "locationName": "Metro Hall",
+    "phone": "416-392-1857",
+    "postalCode": "M5V 3C6",
+    "province": "ON",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1658376000000,
+  "noticeDescription": "<p>NOTICE is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal by-law, the following properties were declared surplus:</p>\n<p>&nbsp;</p>\n<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On May 31, 2022, a City-owned parcel of land being a part of 4050 Yonge Street and legally described as Part of Lots 99, 100, 101 &amp; 102, Plan 204, designated as Parts 1 &amp; 2 on Plan 66R-26058; City Of Toronto, was declared surplus. &nbsp;The City proposes to invite an offer to purchase from Yonge City Square Inc., the adjacent property owner; subject to the reservation of an easement in favor of the City to allow for public access from the existing Toronto Transit Commission (\"TTC\") entrance connections to the below-grade York Mills subway station.</p>\n<p>&nbsp;</p>\n<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On July 16, 2019, a property to be transferred to the City as a parkland dedication, being a part of 25 Audley Street and legally described as Part of Lot 247, Plan M68, designated as Parts 4, 5, and 6 on Plan 66R-30597, was declared surplus effective as of the date that the City acquires ownership of the property. The City proposes to enter into a land exchange agreement with the owner of 1 Audley Street in respect of the conveyance of the property in exchange for Parts 10 and 11 on Plan 66R-30597 for park purposes.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed dispositions: Mr. Joseph Sergnese, <a href=\"mailto:Joseph.Sergnese@toronto.ca\">Joseph.Sergnese@toronto.ca</a> Tel: 416-392-1857, Metro Hall, 55 John Street, 2nd Floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until August 5th, 2022.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 3532,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property",
+  "topics": [],
+  "uniqueMapUrl": []
+}

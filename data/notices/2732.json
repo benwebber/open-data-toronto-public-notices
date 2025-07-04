@@ -1,0 +1,61 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "183 Avenue Road Toronto Ontario",
+      "latitudeCoordinate": "43.6752383456",
+      "longitudeCoordinate": "-79.3965442916",
+      "postalCode": "M5R 2J2",
+      "province": "Ontario",
+      "streetAddress": "183 Avenue Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law 805-2021 - 183 Avenue Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2559"
+    }
+  ],
+  "contact": {
+    "city": "Toronto ",
+    "contactName": "Toronto Preservation Board",
+    "country": "Canada",
+    "emailAddress": "hertpb@toronto.ca",
+    "locationName": "2nd floor, West Tower, City Hall",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario ",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1634702400000,
+  "noticeDescription": "<p>Take notice that Council for the City of Toronto passed Designation By-law 805-2021 on October 1 and 4, 2021, which designates the lands, buildings and structures known municipally as 183 Avenue Road under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest.</p>\n<p>&nbsp;</p>\n<p>The City Clerk did not receive any objections to the Notice of Intention to Designate the Property. Therefore, City Council did not consider any objections and passed the Designation By-law for the Property.</p>\n<p>&nbsp;</p>\n<p>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</p>\n<p>Take notice that an appeal of the Designation by-law for the Property by those persons permitted to appeal under section 29 of the Ontario Heritage Act may be made by filing a notice of appeal with the City Clerk, Attention: Administrator, Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2.; Email: hertpb@toronto.ca within thirty days of October 20, 2021, which is November 19, 2021.</p>\n<p>&nbsp;</p>\n<p>A Notice of Appeal must:</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the objection to the designation by-law;</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons in support of the objection to the designation by-law; and</p>\n<p>(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be accompanied by the fee prescribed under the Ontario Land Tribunal Act, 2021, in the amount of $1,100.00 for each appeal payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the Ontario Land Tribunal website at https://olt.gov.on.ca.</p>\n<p>&nbsp;</p>\n<p>Who Can File An Appeal:</p>\n<p>Any persons who object to the designation by-law may appeal to the Ontario Land Tribunal.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Getting Additional Information:</p>\n<p>A copy of the by-law and background information about the application is available for public inspection by contacting Heritage Planning staff at <a href=\"mailto:heritageplanning@toronto.ca\">heritageplanning@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Further information in respect of the Designation By-law is available from the City of Toronto at:</p>\n<p><a href=\"http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.TE26.75\">http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.TE26.75</a>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2732,
+  "otherReferenceList": [
+    {
+      "description": "2021.PB25.12 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 183 Avenue Road",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.PB25.12"
+    },
+    {
+      "description": "2021.TE26.75 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act - 183 Avenue Road",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.TE26.75"
+    },
+    {
+      "description": "By-Law 805-2021 - To designate the property at 183 Avenue Road as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2021/law0805.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "In The Matter of the Ontario Heritage Act R.S.O. 1990, Chapter O.18 and City Of Toronto, Province Of Ontario 183 Avenue Road",
+  "title": "Notice of Passing of Designation By-Law 805-2021 - 183 Avenue Road",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

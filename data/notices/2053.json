@@ -1,0 +1,92 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "191 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.6554232565",
+      "longitudeCoordinate": "-79.3764702283",
+      "postalCode": "M5B 1Y7",
+      "province": "Ontario",
+      "streetAddress": "191 Church Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "193 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.6554916121",
+      "longitudeCoordinate": "-79.3765130163",
+      "postalCode": "M5B 1Y7",
+      "province": "Ontario",
+      "streetAddress": "193 Church Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "195 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.6555653781",
+      "longitudeCoordinate": "-79.3764812279",
+      "postalCode": "M5B 1Y7",
+      "province": "Ontario",
+      "streetAddress": "195 Church Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "197 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.6556215021",
+      "longitudeCoordinate": "-79.3765260987",
+      "postalCode": "M5B 1Y7",
+      "province": "Ontario",
+      "streetAddress": "197 Church Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law 1141-2020",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1882"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1608613200000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 1141-2020 to designate 191, 193, 195 and 197 Church Street (Toronto Centre, Ward 13) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2053,
+  "otherReferenceList": [
+    {
+      "description": "By-Law 1141-2020 - To designate the properties at 191, 193, 195 and 197 Church Street as being of cultural heritage value or interest.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2020/law1141.pdf"
+    },
+    {
+      "description": "2020.TE13.7 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, Alterations to a Heritage Property and Authority to Enter into a Heritage Easement Agreement at 191, 193, 195 and 197 Church Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE13.7"
+    },
+    {
+      "description": "2020.PB13.5 - Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, Alterations to a Heritage Property and Authority to Enter into a Heritage Easement Agreement at 191, 193, 195 and 197 Church Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.PB13.5"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, Interim City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 191, 193, 195 and 197 Church Street, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law 1141-2020  - 191, 193, 195 and 197 Church Street ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

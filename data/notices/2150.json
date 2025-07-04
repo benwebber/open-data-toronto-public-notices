@@ -1,0 +1,92 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "60 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6533511546",
+      "longitudeCoordinate": "-79.3756385794",
+      "postalCode": "M5C 2T3",
+      "province": "Ontario",
+      "streetAddress": "60 Queen Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "131 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.7069643526",
+      "longitudeCoordinate": "-79.514752917",
+      "postalCode": "M5B 1Y4",
+      "province": "Ontario",
+      "streetAddress": "131 Church Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "133 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.7070113863",
+      "longitudeCoordinate": "-79.5145189269",
+      "postalCode": "M5B 1Y4",
+      "province": "Ontario",
+      "streetAddress": "133 Church Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "135 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.7070700104",
+      "longitudeCoordinate": "-79.5143580993",
+      "postalCode": "M5B 1Y4",
+      "province": "Ontario",
+      "streetAddress": "135 Church Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of By-law - 60 Queen Street East and 131,133 and 135 Church Street ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1997"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1616558400000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 182-2021 to designate 60 Queen Street East and 131,133 and 135 Church Street (Toronto Centre, Ward 13) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2150,
+  "otherReferenceList": [
+    {
+      "description": "By-law 182-2021 - To designate the properties at 60 Queen Street East and 131, 133 and 135 Church Street as being of cultural heritage value or interest",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2021/law0182.pdf"
+    },
+    {
+      "description": "2020.TE20.8 - Inclusion on the City of Toronto's Heritage Register, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, Alterations to a Heritage Property and Authority to Enter into a Heritage Easement Agreement - 60 Queen Street East and 131, 133 and 135 Church Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE20.8"
+    },
+    {
+      "description": "2020.PB18.6 - Inclusion on the City of Toronto's Heritage Register, Intention to Designate under Part IV, Section 29 of the Ontario Heritage Act, Alterations to a Heritage Property and Authority to Enter into a Heritage Easement Agreement - 60 Queen Street East and 131, 133 and 135 Church Street",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.PB18.6"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, Interim City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 60 Queen Street East and 131,133 and 135 Church Street, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing of By-law - 60 Queen Street East and 131,133 and 135 Church Street ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice - Permanent Closure of Public Lane - Guest Ave",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=2640"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1637125200000,
+  "noticeDescription": "<p>The Council of the City of Toronto proposes to pass a by-law to permanently close portions of public highway lands known as Guest Avenue, described as follows:</p>\n<p>Part of PIN 21013-0250</p>\n<p>Part of Lot 11, Plan 666 Toronto (East Toronto) being Part 7 on Reference Plan 63R-1144; Part of Lot 12 Plan 666 Toronto (East Toronto) being Parts 8 and 9 on Reference Plan 63R-1144; Part of Lot 3 Concession 1 From the Bay Township of York being Part 1 on Reference Plan 63R-4418; Part of Lanes Plan 666 Toronto (East Toronto) begin Guest Avenue between Danforth Avenue and Dawes Road; and shown as Part 2 on Sketch No. PS-2021-0023.</p>\n<p>At its meeting to be held by video conference on November 24, 2021, commencing at 9:30 a.m., the Toronto and East York Community Council will hear from, or by his or her counsel, agent or solicitor, any person who wishes to speak to this matter.</p>\n<p>To view a copy of the proposed by-law and plan to close the portion of public lane lands described above, obtain additional information, submit comments or address the Toronto and East York Community Council meeting on November 24, 2021, please contact the following City official no later than 12:00 p.m. on November 23, 2021.</p>\n<p>Ellen Devlin, Administrator</p>\n<p>Toronto and East York Community Council</p>\n<p>City Hall, 2nd Floor, West Tower</p>\n<p>Toronto, Ontario. M5H 2N2</p>\n<p>Telephone: 416-392-7033; Facsimile: 416-392-2980</p>\n<p>E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>&nbsp;</p>\n<p>Special assistance for members of the public: City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-398-0889 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Notice to people writing or making a presentation to the Toronto and East York Community Council: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City&rsquo;s website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash; available to the public, unless you expressly request the City to remove it.</p>\n<p>Many Committee, Board, and Advisory Body meetings are broadcast live over the internet for the public to view.&nbsp; If you speak at the meeting you will appear in the video broadcast.&nbsp; Video broadcasts are archived and continue to be publicly available.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, City Hall, 2nd Floor, 100 Queen Street West, Toronto, Ontario, M5H 2N2 or by email at <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</p>\n<p>This notice shall also constitute notice to the public of the proposed public highway closure in accordance with the requirements of the Municipal Class Environmental Assessment for Schedule A+ activities.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 2832,
+  "otherReferenceList": [
+    {
+      "description": "TE29.2 Permanent Closure of the East-West Portion of Guest Avenue  (Ward 19)",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.TE29.2"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "subheading": "Toronto and East York Community Council Area",
+  "title": "Proposal to pass a by-law to permanently close portions of public highway lands known as Guest Avenue",
+  "topics": [
+    "Transportation > Intention to close or alter a lane, road or highway"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "280 Jarvis Street Toronto Ontario",
+      "latitudeCoordinate": "43.66060718",
+      "longitudeCoordinate": "-79.376373465",
+      "postalCode": "M5B 2C5",
+      "province": "Ontario",
+      "streetAddress": "280 Jarvis Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "288 Jarvis Street Toronto Ontario",
+      "latitudeCoordinate": "43.660828716",
+      "longitudeCoordinate": "-79.37635731",
+      "postalCode": "M5B 2C5",
+      "province": "Ontario",
+      "streetAddress": "288 Jarvis Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "289 Jarvis Street Toronto Ontario",
+      "latitudeCoordinate": "43.6586767572",
+      "longitudeCoordinate": "-79.3748639726",
+      "postalCode": "M5B 2C2",
+      "province": "Ontario",
+      "streetAddress": "289 Jarvis Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "290 Jarvis Street Toronto Ontario",
+      "latitudeCoordinate": "43.660867757",
+      "longitudeCoordinate": "-79.376369613",
+      "postalCode": "M5B 2C5",
+      "province": "Ontario",
+      "streetAddress": "290 Jarvis Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing – 280, 288-290 Jarvis Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=763"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1565150400000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto has passed By-law 1124-2019 to designate 280, 288-290 Jarvis Street (Toronto Centre, Ward 13) as being of cultural heritage value or interest.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 963,
+  "otherReferenceList": [
+    {
+      "description": "Bylaw 1124-2019 - To designate the property at 280 and 288-290 Jarvis Street as being of cultural heritage value or interest.",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2019/law1124.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 280, 288-290 Jarvis Street, City of Toronto, Province of Ontario",
+  "title": "Notice of Passing – 280, 288-290 Jarvis Street",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

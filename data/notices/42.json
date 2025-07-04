@@ -1,0 +1,48 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "505 Balliol Street Toronto Ontario",
+      "latitudeCoordinate": "43.7004339715",
+      "longitudeCoordinate": "-79.3806115731",
+      "postalCode": "M4S 1E1",
+      "province": "Ontario",
+      "streetAddress": "505 Balliol Street"
+    }
+  ],
+  "backgroundInformationList": [],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1518757200000,
+  "noticeDescription": "<p><strong>Notice of Intention to Designate</strong></p>\n<p>Take notice that Toronto City Council intends to designate the lands and building known municipally as 505 Balliol Street under Part IV, Section 29 of the Ontario Heritage Act.</p>\n<p><strong>Reasons for Designation</strong><br />The property at 505 Balliol Street is worthy of designation under Part IV, Section 29 of the Ontario Heritage Act for its cultural heritage value and meets Ontario Regulation 9/06, the provincial criteria prescribed for municipal designation under all three categories of design, associative and contextual value.</p>\n<p><strong>Description</strong><br />Located on the south side of the street between Mount Pleasant Road and Bayview Avenue in the Davisville neighbourhood, the property at 505 Balliol Street contains the Page House and Grocery Store, a one-and-a-half storey, gable-roofed structure completed by 1889 and adapted to function as a neighbourhood store from 1924-1951. The property at 505 Balliol Street was identified as having potential heritage value in the &ldquo;Midtown in Focus: Cultural Heritage Resource Assessment (2017).&rdquo;</p>\n<p><strong>Statement of Cultural Heritage Value</strong><br />The Page House and Grocery Store has design value as a representative example of the classic 19th century Ontario house which comprised a one-and-a-half storey gable-roofed building with a dormer gable and entrance centred on the principle elevation. It is also valued for the adaptation of the house to include a local neighbourhood grocery store at ground floor which is indicated by the later addition of the two large bay windows on the principal elevation.</p>\n<p>As one of the earliest and rare surviving 1880s houses on Balliol Street, the Page House and Grocery Store has historical value for its association with the Page family who occupied the house for over 75 years. It is valued for its association with the Davis family, the historic evolution of the Davisville neighbourhood and the late 19th century subdivision which included the creation of Balliol and Merton streets. It is also valued as it represents a pattern of urban living which evolved in the late 19th century and continued beyond the mid-20th century that relied on the small neighbourhood grocery store on a residential side street, accessible by foot, a common type across the City of Toronto, now increasingly rare.</p>\n<p>Contextually the property at 505 Balliol Street supports the remaining historic character of Balliol Street as it developed as a residential street in the late 19th century. In its scale, form and details, the building maintains the link with the original 19th century character of the first houses on the street, the majority of which have been demolished and replaced. In its transformation as a local convenience store, serving the adjacent community connected by the streets perpendicular to Balliol, Forsyth Road, Forman Avenue, Martin Road and Cleveland Street, it is historically and functionally linked to the final development of the Davisville neighbourhood in the early 20th century. As a local community amenity, with its distinctive form and proximity to the street edge, the property is a local landmark.</p>\n<p><strong>Heritage Attributes</strong></p>\n<p>The heritage attributes of the building at 505 Balliol Street are:</p>\n<ul>\n<li>The setback, placement and orientation of the building on the south side of Balliol Street between Mount Pleasant Road and Bayview Avenue</li>\n<li>The scale, form and massing of the one-and-a-half storey house-form building with its gable roof and gable dormer &ndash; this includes the front gable-roofed volume of the house</li>\n<li>The principal (north) elevation with its central door flanked by two symmetrical windows with a central gable dormer above</li>\n<li>The windows on the principal (north) elevation including the two bay windows and their upper lights and the round-headed dormer window with its one-over-one double-hung sash.</li>\n<li>The projecting hipped roof which links the two bay windows together.</li>\n<li>The two-over-two double-hung sash window on the second floor of the side (west) elevation</li>\n<li>The two-over-two double-hung sash window on the second floor of the side (east) elevation</li>\n<li>Original exterior building cladding</li>\n<li>The brick chimney on the east elevation</li>\n</ul>\n<p>Note: The rear south elevation and the rear wing, all porches and decks are not included in the attributes.</p>\n<p>Notice of an objection to the proposed designation may be served on the City Clerk, Attention: Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, Toronto, Ontario, M5H 2N2, within thirty days of February 16, 2018, which is March 19, 2018. The notice of objection must set out the reason(s) for the objection, and all relevant facts.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 42,
+  "otherReferenceList": [
+    {
+      "description": "MM36.26 - 505 Balliol Street - Intention To Designate Under Part IV, Section 29 of The Ontario Heritage Act",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.MM36.26"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990, Chapter 0.18 and City of Toronto, Province of Ontario",
+  "title": "Notice of Intention to Designate - 505 Balliol Street",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

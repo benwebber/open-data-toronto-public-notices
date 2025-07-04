@@ -1,0 +1,58 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "197 King Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6506851747",
+      "longitudeCoordinate": "-79.3699546563",
+      "postalCode": "M5A 1J5",
+      "province": "Ontario",
+      "streetAddress": "197 King Street East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 197 King Street East",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=1614"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-397-0111",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1600056000000,
+  "noticeDescription": "<p>Take notice that the Council of the City of Toronto on February 26, 2020, having considered an application to alter a structure designated under Part IV of the Ontario Heritage Act for 197 King Street East, decided among other things, to</p>\n<p style=\"padding-left: 30px;\">1. Approve the alterations to the heritage property at 197 King Street East, &nbsp;in accordance with Section 33 of the Ontario Heritage Act, to allow for the rehabilitation of the existing building into an eight storey hotel (plus mechanical penthouse) on the lands known municipally in the year 2020 as 197 King Street East, with such alterations substantially in accordance with plans and drawings dated February 12, 2019 and revised September 30, 2019, prepared by Studio JCI, and on file with the Senior Manager, Heritage Preservation Services; and the Heritage Impact Assessment, prepared by GBCA Architects, dated December 12, 2019, and on file with the Senior Manager, Heritage Preservation Services, Urban Design, City Planning, all subject to and in accordance with a Conservation Plan satisfactory to the Senior Manager, Heritage Preservation Services, Urban Design, City Planning, and subject to the following additional conditions:</p>\n<p style=\"padding-left: 60px;\">a.&nbsp;prior to the issuance of any permit for all or any part of the property at 197 King Street East, including a heritage permit or a building permit, but excluding permits for repairs and maintenance and usual and minor works for the existing heritage building as are acceptable to the Senior Manager, Heritage Preservation Services, Urban Design, City Planning, the Owner shall:</p>\n<p style=\"padding-left: 90px;\">1. enter into a Heritage Easement Agreement with the City for the property at 197 King Street East in accordance with the plans and drawings dated February 12, 2019 and revised September 30, 2019, prepared by Studio JCI, and on file with the Senior Manager, Heritage Preservation Services, the Heritage Impact Assessment prepared by GBCA Architects, dated December 12, 2019, and in accordance with the Conservation Plan required in&nbsp;Part 1.a.2 below, to the satisfaction of the Senior Manager, Heritage Preservation Services, Urban Design, City Planning, including registration of such agreement to the satisfaction of the City Solicitor;</p>\n<p style=\"padding-left: 90px;\">2. provide a detailed Conservation Plan, prepared by a qualified heritage consultant, that is consistent with the conservation strategy set out&nbsp; in the Heritage Impact Assessment for 197 King Street East prepared by GBCA Architects, dated December 12, 2019, to the satisfaction of the Senior Manager, Heritage Preservation Services, Urban Design, City Planning;</p>\n<p style=\"padding-left: 90px;\">3. provide a Heritage Lighting Plan that describes how the exterior of the heritage property will be sensitively illuminated to enhance its heritage character to the satisfaction of the Senior Manager, Heritage Preservation Services, Urban Design, City Planning, and thereafter shall implement such Plan to the satisfaction of the Senior Manager, Heritage Preservation Services, Urban Design, City Planning;</p>\n<p style=\"padding-left: 90px;\">4. provide an Interpretation Plan for the subject property, to the satisfaction of the Senior Manager, Heritage Preservation Services and&nbsp;afterward shall implement such Plan to the satisfaction of the Senior Manager, Heritage Preservation Services, Urban Design, City Planning;</p>\n<p style=\"padding-left: 90px;\">5. submit a Signage Plan to the satisfaction of the Senior Manager, Heritage Preservation Services, Urban Design, City Planning;</p>\n<p style=\"padding-left: 90px;\">6. provide building permit drawings, including notes and specifications for the conservation and protective measures keyed to the approved Conservation Plan required in&nbsp;Part 1.a.2 above, including a description of materials and finishes, to be prepared by the project architect and a qualified heritage consultant to the satisfaction of the Senior Manager, Heritage Preservation Services, Urban Design, City Planning; and</p>\n<p style=\"padding-left: 90px;\">7. provide a Letter of Credit, including provision for upwards indexing, in a form and amount and from a bank satisfactory to the Senior Manager, Heritage Preservation Services, Urban Design, City Planning, to secure all work included in the approved Conservation, Lighting, and Interpretation Plan;</p>\n<p style=\"padding-left: 60px;\">b.&nbsp;prior to the release of the Letter of Credit required in&nbsp;Part 1.a.7. above, the Owner shall:</p>\n<p style=\"padding-left: 90px;\">1. provide a letter of substantial completion prepared and signed by a qualified heritage consultant confirming that the required conservation work, the required interpretive work, and the required heritage lighting work has been completed in accordance with the Conservation Plan, Interpretation Plan and Heritage Lighting Plan, and that an appropriate standard of conservation has been maintained, all to the satisfaction of the Senior Manager, Heritage Preservation Services, Urban Design, City Planning; and</p>\n<p style=\"padding-left: 90px;\">2. provide replacement Heritage Easement Agreement photographs to the satisfaction of the Senior Manager, Heritage Preservation Services, Urban Design, City Planning.</p>\n<p><strong>Appeal to the Conservation Review Board</strong>:<br />The Ontario Heritage Act states that where a Council consents to an application to alter a designated property with certain terms or conditions, or refuses the application, the owner may, within thirty days after receipt of this notice, apply to the Council for a hearing before the Conservation Review Board.</p>\n<p>The owner may request a hearing before the Conservation Review Board in this matter, by writing to the City Clerk:&nbsp; Attention Ellen Devlin, Administrator, Toronto and East York Community Council, Toronto City Hall, 100 Queen Street West, 2nd floor, West, Toronto, Ontario, M5H 2N2, by 4.30 p.m. on or before October 14, 2020.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 1787,
+  "otherReferenceList": [
+    {
+      "description": "2020.TE13.8 - Amendment of a Designating By-Law, Alterations to a Designated Heritage Property and Authority to Enter into a Heritage Easement Agreement - 197 King Street East",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.TE13.8"
+    },
+    {
+      "description": "2020.PB13.3 - Amendment of a Designating By-Law, Alterations to a Designated Heritage Property and Authority to Enter into a Heritage Easement Agreement - 197 King Street East",
+      "url": "http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.PB13.3"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "Ulli S. Watkiss, City Clerk",
+  "subheading": "In the Matter of the Ontario Heritage Act R.S.O. 1990 Chapter 0.18 and 197 King Street East, City of Toronto, Province of Ontario",
+  "title": "Notice of Decision - 197 King Street East",
+  "topics": [
+    "Heritage > Decision on alteration to a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}
