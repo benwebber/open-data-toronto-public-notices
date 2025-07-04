@@ -123,12 +123,14 @@ SELECT
   trim(n.contact->>'$.contactName'),
   trim(lower(coalesce(n.contact->>'$.emailAddress', ''))),
   trim(coalesce(n.contact->>'$.phone', '')),
-  CASE cte.address
-    WHEN '100 Queen Street' THEN '100 Queen Street West'
-    WHEN '100 Queen Street West Street' THEN '100 Queen Street West'
-    WHEN '100 Queen Street West West' THEN '100 Queen Street West'
-    WHEN '100 Queen` Street West' THEN '100 Queen Street West'
-    WHEN '100 100 Queen Street West' THEN '100 Queen Street West'
+  CASE
+    WHEN (
+      like('100 Queen %', cte.address)
+      OR cte.address IN ('100 Queen', '100 Queen` Street West', '100 100 Queen Street West')
+    ) THEN '100 Queen Street West'
+    WHEN (
+      like('55 John Street%', cte.address)
+    ) THEN '55 John Street'
     ELSE cte.address
   END,
   trim(coalesce(n.contact->>'$.locationName', ''))
