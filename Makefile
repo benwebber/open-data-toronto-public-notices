@@ -13,8 +13,8 @@ data.db: $(DATA) sql/data.sql
 %.gz: $(DB)
 	gzip --force --keep --stdout $< >$@
 
-SHA256SUMS: $(DB).gz
-	sha256sum *.gz >$@
+requirements.txt:
+	uv pip compile pyproject.toml >requirements.txt
 
 .PHONY: clean
 clean:

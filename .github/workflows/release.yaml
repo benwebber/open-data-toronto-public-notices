@@ -5,7 +5,7 @@ on:
     tags:
       - v**
 jobs:
-  tag:
+  release:
     runs-on: ubuntu-latest
     permissions:
       contents: write
