@@ -1,0 +1,143 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "316 Campbell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.666258063",
+      "longitudeCoordinate": "-79.4504038",
+      "postalCode": "M6P 3V9",
+      "province": "Ontario",
+      "streetAddress": "316 Campbell Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "318 Campbell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.666306338",
+      "longitudeCoordinate": "-79.450426972",
+      "postalCode": "M6P 3V9",
+      "province": "Ontario",
+      "streetAddress": "318 Campbell Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "320 Campbell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.666364569",
+      "longitudeCoordinate": "-79.450453311",
+      "postalCode": "M6P 3V9",
+      "province": "Ontario",
+      "streetAddress": "320 Campbell Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "322 Campbell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.666388319",
+      "longitudeCoordinate": "-79.450548383",
+      "postalCode": "M6P 3V9",
+      "province": "Ontario",
+      "streetAddress": "322 Campbell Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "324 Campbell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.666455761",
+      "longitudeCoordinate": "-79.450494402",
+      "postalCode": "M6P 3V9",
+      "province": "Ontario",
+      "streetAddress": "324 Campbell Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "326 Campbell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.666501742",
+      "longitudeCoordinate": "-79.450517578",
+      "postalCode": "M6P 3V9",
+      "province": "Ontario",
+      "streetAddress": "326 Campbell Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "330 Campbell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.666564915",
+      "longitudeCoordinate": "-79.450606266",
+      "postalCode": "M6P 3V9",
+      "province": "Ontario",
+      "streetAddress": "330 Campbell Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "332 Campbell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.666612845",
+      "longitudeCoordinate": "-79.450558653",
+      "postalCode": "M6P 3V9",
+      "province": "Ontario",
+      "streetAddress": "332 Campbell Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "334 Campbell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.666671838",
+      "longitudeCoordinate": "-79.45063988",
+      "postalCode": "M6P 3V9",
+      "province": "Ontario",
+      "streetAddress": "334 Campbell Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "336 Campbell Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.666722802",
+      "longitudeCoordinate": "-79.450592859",
+      "postalCode": "M6P 3V9",
+      "province": "Ontario",
+      "streetAddress": "336 Campbell Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Zoning By-Law 586-2025 - 316, 318, 320, 322, 324, 326, 330, 332, 334 and 336 Campbell Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6333"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1751860800000,
+  "noticeDescription": "<p><strong>NOTICE OF PASSING OF ZONING BY-LAW 586-2025</strong></p>\n<p><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that the City of Toronto passed Zoning By-law 586-2025 on June 26, 2025, with respect to the lands known as 316, 318, 320, 322, 324, 326, 330, 332, 334 and 336 Campbell Avenue.</p>\n<p>&nbsp;</p>\n<p>An explanation of the purpose and effect of the Zoning By-law, and a map showing the location of the lands to which the amendment applies, are attached. The amendment was processed under Official Plan, Zoning Bylaw Amendment Applications &ndash; file number: 21 138108 STE 09 OZ.</p>\n<p>&nbsp;</p>\n<p>A statutory public meeting was held on June 29 and 30, 2022, and the Toronto and East York Community Council and Toronto City Council considered two oral and three written submissions in making the decision. Please see item 2022.TE34.17 at <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2022.TE34.17\">https://secure.toronto.ca/council/agenda-item.do?item=2022.TE34.17</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>This land is also subject to an application under the Planning Act and Chapter 667 of the Toronto Municipal Code pursuant to section 111 of the City of Toronto Act, 2006 for a Rental Housing Demolition Application and Site Plan Application, file number: 21 138112 STE 09 RH and 22 138425 STE 09 SA.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal to the Ontario Land Tribunal in respect to all or part of this Zoning By-law may be made by filing a notice of appeal with the City Clerk,<strong> Attention: &nbsp;Raneisha Hemmings</strong>, Registrar Secretariat, 100 Queen Street West, 2nd Floor West, Toronto, ON, M5H 2N2, no later than 4:30 p.m. on &nbsp;<strong>July 28, 2025</strong> If delivering in-person, drop off at the Registry Services Counter, Toronto City Hall. The filing of a notice of appeal after 4:30 p.m., in person or electronically, will be deemed to have been received the next business day.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the appeal; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be accompanied by the fee prescribed under the Ontario Land Tribunal in the amount of $1,100.00 for each application appealed payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the OLT website at <a href=\"http://www.olt.gov.on.ca\">www.olt.gov.on.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only an applicant, a specified person or public body as defined in the <em>Planning Act</em> that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, the registered owner of any land to which the by-law would apply that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, and the Minister may appeal the by-law to the Ontario Land Tribunal.&nbsp;</p>\n<p>&nbsp;</p>\n<p>No person or public body shall be added as a party to the hearing of the appeal unless, before the by-law was passed, the person or public body made oral submissions at a public meeting or written submissions to the Council, or in the opinion of the Ontario Land Tribunal, there are reasonable grounds to add the person or public body as a party.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application may be obtained by contacting <strong>Kishmita Arora</strong> at 416-397-4647, or <a href=\"mailto:Kishmita.Arora@toronto.ca\">Kishmita.Arora@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.<br /><br /></p>\n<p><strong>PURPOSE AND EFFECT OF ZONING BY-LAW 586-2025</strong><br />&nbsp;</p>\n<p>The purpose and effect of Zoning By-law 586-2025 is to correct technical error in the Regulation (F) of By-law 1074-2022 and accurately reference the correct overall gross floor area and residential gross floor area of the building. In order clarify the correct gross floor areas as referred to in Regulation (F) of By-law 1074-2022, Regulation (F) has been modified to accurately reflect the correct overall permitted gross floor area of 21,050 square metres and the permitted residential gross floor area of 20,550 square metres.</p>\n<p>&nbsp;</p>\n<p>Further information may be obtained by contacting <strong>Kishmita Arora</strong> at 416-397-4647, or <a href=\"mailto:Kishmita.Arora@toronto.ca\">Kishmita.Arora@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6407,
+  "otherReferenceList": [
+    {
+      "description": " 2022.TE34.17 - 316-336 Campbell Avenue - Official Plan, Zoning By-law Amendment and Rental Demolition Applications - Final Report",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2022.TE34.17"
+    }
+  ],
+  "planningApplicationNumbers": [
+    "21 138108 STE 09 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Passing of Zoning By-Law 586-2025 - 316, 318, 320, 322, 324, 326, 330, 332, 334 and 336 Campbell Avenue\n",
+  "topics": [
+    "Planning > Adoption of Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

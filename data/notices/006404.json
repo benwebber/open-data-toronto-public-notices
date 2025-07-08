@@ -1,0 +1,63 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1798 Weston Road Toronto Ontario",
+      "latitudeCoordinate": "43.698799495",
+      "longitudeCoordinate": "-79.5130573208",
+      "postalCode": "M9N 1V8",
+      "province": "Ontario",
+      "streetAddress": "1798 Weston Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1812 Weston Road Toronto Ontario",
+      "latitudeCoordinate": "43.6989278112",
+      "longitudeCoordinate": "-79.5134973681",
+      "postalCode": "M9N 1V8",
+      "province": "Ontario",
+      "streetAddress": "1812 Weston Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Zoning By-Law - 625-2025 - 1798-1812 Weston Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6330"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1751860800000,
+  "noticeDescription": "<p><strong>NOTICE OF PASSING OF ZONING BY-LAW 625-2025</strong></p>\n<p><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that the City of Toronto passed Zoning By-law 625-2025 on June 26, 2025, with respect to the lands known as 1798-1812 Weston Road.</p>\n<p>&nbsp;</p>\n<p>An explanation of the purpose and effect of the Zoning By-law, and a map showing the location of the lands to which the amendment applies, are attached. The amendment was processed under file number: 23 115006 WET 05 OZ</p>\n<p>&nbsp;</p>\n<p>A statutory public meeting was held on April 30, 2025, ant the Etobicoke York Community Council and Toronto City Council considered two oral and one written submission in making the decision. Please see item 2025.EY22.3 at <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2025.EY22.3\">https://secure.toronto.ca/council/agenda-item.do?item=2025.EY22.3</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>This land is also subject to an application under the Planning Act for a Site Plan Control Approval, file number 23 115001 WET 05 SA.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal to the Ontario Land Tribunal in respect to all or part of this Zoning By-law may be made by filing a notice of appeal with the City Clerk, <strong>Attention: Raneisha Hemmings</strong>, Registrar Secretariat, 100 Queen Street West, 2nd Floor West, Toronto, ON, M5H 2N2, no later than 4:30 p.m. on <strong>July 28, 2025</strong>. If delivering in-person, drop off at the Registry Services Counter, Toronto City Hall. The filing of a notice of appeal after 4:30 p.m., in person or electronically, will be deemed to have been received the next business day.</p>\n<p>&nbsp;</p>\n<p>A Notice of Appeal must:</p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the appeal; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be accompanied by the fee prescribed under the Ontario Land Tribunal in the amount of $1,100.00 for each application appealed payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the OLT website at <a href=\"http://www.olt.gov.on.ca\">www.olt.gov.on.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only an applicant, a specified person or public body as defined in the <em>Planning Act</em> that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, the registered owner of any land to which the by-law would apply that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, and the Minister may appeal the by-law to the Ontario Land Tribunal.&nbsp;</p>\n<p>&nbsp;</p>\n<p>No person or public body shall be added as a party to the hearing of the appeal unless, before the by-law was passed, the person or public body made oral submissions at a public meeting or written submissions to the Council, or in the opinion of the Ontario Land Tribunal, there are reasonable grounds to add the person or public body as a party.</p>\n<p>&nbsp;</p>\n<p>Getting Additional Information:</p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application may be obtained by contacting <strong>Rabia Ahmed</strong> at 416-392-2821 or by email at <a href=\"mailto:Rabia.Ahmed@toronto.ca\">Rabia.Ahmed@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.<br /><br /></p>\n<p style=\"text-align: center;\"><strong>PURPOSE AND EFFECT OF</strong><br /><strong>ZONING BY-LAW 625-2025</strong> <br />&nbsp;</p>\n<p>The purpose and effect of Zoning By-law 625-2025 is to amend the city-wide Zoning By-law 569-2013 to permit the development of a mixed-use building containing 490 residential units, including 6 rental replacement units and 327 square metres of non-residential gross floor area.</p>\n<p>&nbsp;</p>\n<p>Further information may be obtained by contacting <strong>Rabia Ahmed</strong> at 416-392-2821, or <a href=\"mailto:Rabia.Ahmed@toronto.ca\">Rabia.Ahmed@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6404,
+  "otherReferenceList": [
+    {
+      "description": "2025.EY22.3 - 1798-1812 Weston Road - Zoning By-law Amendment - Decision Report - Approval",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2025.EY22.3"
+    }
+  ],
+  "planningApplicationNumbers": [
+    "23 115006 WET 05 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Passing of Zoning By-Law - 625-2025 - 1798-1812 Weston Road",
+  "topics": [
+    "Planning > Adoption of Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

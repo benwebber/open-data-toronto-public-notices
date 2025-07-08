@@ -1,0 +1,169 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Gloucester Street Toronto Ontario",
+      "latitudeCoordinate": "43.666788107",
+      "longitudeCoordinate": "-79.384951137",
+      "postalCode": "M4Y 1L5",
+      "province": "Ontario",
+      "streetAddress": "2 Gloucester Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "6 Gloucester Street Toronto Ontario",
+      "latitudeCoordinate": "43.666874964",
+      "longitudeCoordinate": "-79.384880295",
+      "province": "Ontario",
+      "streetAddress": "6 Gloucester Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "8 Gloucester Street Toronto Ontario",
+      "latitudeCoordinate": "43.666895137",
+      "longitudeCoordinate": "-79.384772592",
+      "postalCode": "M4Y 0H8",
+      "province": "Ontario",
+      "streetAddress": "8 Gloucester Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "601 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.666735218",
+      "longitudeCoordinate": "-79.385054054",
+      "postalCode": "M4Y 1Z5",
+      "province": "Ontario",
+      "streetAddress": "601 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "613 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.666947573",
+      "longitudeCoordinate": "-79.385115425",
+      "postalCode": "M4Y 1Z5",
+      "province": "Ontario",
+      "streetAddress": "613 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "45 Charles Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6687952283",
+      "longitudeCoordinate": "-79.3839692747",
+      "postalCode": "M4Y 0B8",
+      "province": "Ontario",
+      "streetAddress": "45 Charles Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "454-464 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.661880478",
+      "longitudeCoordinate": "-79.383705224",
+      "postalCode": "M4Y 1W9",
+      "province": "Ontario",
+      "streetAddress": "454-464 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "587 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.666201724487884",
+      "longitudeCoordinate": "-79.38474915582005",
+      "province": "Ontario",
+      "streetAddress": "587 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "599 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.666425354",
+      "longitudeCoordinate": "-79.384871122",
+      "province": "Ontario",
+      "streetAddress": "599 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Dundonald Street Toronto Ontario",
+      "latitudeCoordinate": "43.66601331",
+      "longitudeCoordinate": "-79.384802437",
+      "postalCode": "M4Y 1K2",
+      "province": "Ontario",
+      "streetAddress": "2 Dundonald Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "4 Dundonald Street Toronto Ontario",
+      "latitudeCoordinate": "43.666173977",
+      "longitudeCoordinate": "-79.384386651",
+      "province": "Ontario",
+      "streetAddress": "4 Dundonald Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Gloucester Street Toronto Ontario",
+      "latitudeCoordinate": "43.666509487",
+      "longitudeCoordinate": "-79.384607039",
+      "postalCode": "M4Y 1L8",
+      "province": "Ontario",
+      "streetAddress": "7 Gloucester Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Gloucester Street Toronto Ontario",
+      "latitudeCoordinate": "43.66652229",
+      "longitudeCoordinate": "-79.384556301",
+      "postalCode": "M4Y 1L8",
+      "province": "Ontario",
+      "streetAddress": "9 Gloucester Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Zoning By-Laws 590-2025, 591-2025, 592-2025, and 593-2025 - 2, 6, and 8 Gloucester Street and 601-613 Yonge Street, 45 Charles Street East,454-464 Yonge Street and 587 to 599 Yonge Street, 2 and 4 Dundonald Street, and 7 and 9 Gloucester Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6332"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1751860800000,
+  "noticeDescription": "<p><strong>NOTICE OF PASSING OF ZONING BY-LAWS 590-2025, 591-2025, 592-2025, AND 593-2025</strong></p>\n<p><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that the City of Toronto passed Zoning By-law 590-2025, with respect to the lands known as 2, 6, and 8 Gloucester Street and 601-613 Yonge Street; Zoning By-law 591-2025, with respect to the lands known as 45 Charles Street East; Zoning By-law 592-2025, with respect to the lands known as 454-464 Yonge Street; and Zoning By-law 593-2025, with respect to the lands known as 587 to 599 Yonge Street, 2 and 4 Dundonald Street, and 7 and 9 Gloucester Street.</p>\n<p>&nbsp;</p>\n<p>An explanation of the purpose and effect of the Zoning By-law is attached. The amendment was processed under file number: 25 139888 STE 10 OZ</p>\n<p>&nbsp;</p>\n<p>A statutory public meeting was held on June 5, 2025, and the Toronto and East York Community Council and Toronto City Council considered no oral and one written submission in making the decision. Please see item TE23.6 at <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2025.TE23.6\">https://secure.toronto.ca/council/agenda-item.do?item=2025.TE23.6</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal to the Ontario Land Tribunal in respect to all or part of this Zoning By-law may be made by filing a notice of appeal with the City Clerk, <strong>Attention: &nbsp;Raneisha Hemmings</strong>, Registrar Secretariat, 100 Queen Street West, 2nd Floor West, Toronto, ON, M5H 2N2, no later than 4:30 p.m. on <strong>July 28, 2025</strong>. If delivering in-person, drop off at the Registry Services Counter, Toronto City Hall. The filing of a notice of appeal after 4:30 p.m., in person or electronically, will be deemed to have been received the next business day.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the appeal; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be accompanied by the fee prescribed under the Ontario Land Tribunal in the amount of $1,100.00 for each application appealed payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the OLT website at <a href=\"http://www.olt.gov.on.ca\">www.olt.gov.on.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only an applicant, a specified person or public body as defined in the <em>Planning Act</em> that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, the registered owner of any land to which the by-law would apply that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, and the Minister may appeal the by-law to the Ontario Land Tribunal.&nbsp;</p>\n<p>&nbsp;</p>\n<p>No person or public body shall be added as a party to the hearing of the appeal unless, before the by-law was passed, the person or public body made oral submissions at a public meeting or written submissions to the Council, or in the opinion of the Ontario Land Tribunal, there are reasonable grounds to add the person or public body as a party.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application may be obtained by contacting <strong>Allsun Campbell</strong> at 416-392-9941, or <a href=\"mailto:Allsun.Campbell@toronto.ca\">Allsun.Campbell@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.<br /><br /></p>\n<p style=\"text-align: center;\"><strong>PURPOSE AND EFFECT OF</strong><br /><strong>ZONING BY-LAWS 590-2025, 591-2025, 592-2025, AND 593-2025</strong> <br />&nbsp;</p>\n<p>The purpose and effect of Zoning By-laws 590-2025, 591-2025, 592-2025, and 593-2025 is to revise the Section 37 schedules of the respective Site Specific Zoning By-laws to permit the allocation of funds towards the purchase and improvement of new or existing community space for community or non-profit use within Ward 13 and to add the standard clause to allow for reallocation of unspent funds after three years.</p>\n<p>&nbsp;</p>\n<p>Further information may be obtained by contacting <strong>Allsun Campbell</strong> at 416-392-9941, or <a href=\"mailto:Allsun.Campbell@toronto.ca\">Allsun.Campbell@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6406,
+  "otherReferenceList": [
+    {
+      "description": "2025.TE23.6 - City-Initiated Zoning By-law Amendments - Re-allocating Section 37 funds within Ward 13 - Decision Report - Approval",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2025.TE23.6"
+    }
+  ],
+  "planningApplicationNumbers": [
+    "25 139888 STE 10 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Passing of Zoning By-Laws 590-2025, 591-2025, 592-2025, and 593-2025 - 2, 6, and 8 Gloucester Street and 601-613 Yonge Street, 45 Charles Street East,454-464 Yonge Street and 587 to 599 Yonge Street, 2 and 4 Dundonald Street, and 7 and 9 Gloucester Street",
+  "topics": [
+    "Planning > Adoption of Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
