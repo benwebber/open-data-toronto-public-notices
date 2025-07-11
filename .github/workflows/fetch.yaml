@@ -24,3 +24,5 @@ jobs:
       - name: Trigger release workflow
         run: |-
           gh api /repos/benwebber/open-data-toronto-public-notices/actions/workflows/release.yaml/dispatches --raw-field ref="$(git describe --tags HEAD)"
+        env:
+          GH_TOKEN: ${{ github.token }}
