@@ -1,0 +1,61 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "752 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.669271597",
+      "longitudeCoordinate": "-79.386749856",
+      "postalCode": "M4Y 2B6",
+      "province": "Ontario",
+      "streetAddress": "752 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "754 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.669304173",
+      "longitudeCoordinate": "-79.386696179",
+      "postalCode": "M4Y 2B6",
+      "province": "Ontario",
+      "streetAddress": "754 Yonge Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Designation By-Law 621-2025 - 752 Yonge Street ",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6371"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1752724800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>IN THE MATTER OF THE ONTARIO HERITAGE ACT</strong></p>\n<p style=\"text-align: center;\"><strong>R.S.O. 1990, CHAPTER O.18 AND</strong></p>\n<p style=\"text-align: center;\"><strong>CITY OF TORONTO, PROVINCE OF ONTARIO</strong></p>\n<p style=\"text-align: center;\"><strong>752 YONGE STREET</strong></p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>NOTICE OF PASSING OF DESIGNATION BY-LAW 621-2025</strong></span></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that Council for the City of Toronto passed Designation By-law 621-2025 on June 26, 2025, which designates the lands, buildings and structures known municipally as 752 Yonge Street (including entrance addresses at 752 and 754 Yonge Street) under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest.</p>\n<p>&nbsp;</p>\n<p>This notice is being served to the Owner of the Property, the Ontario Heritage Trust, and any Objectors and Interested Persons.</p>\n<p>&nbsp;</p>\n<p>The City Clerk did not receive any objections to the Notice of Proposed Amendment to the Designation By-Law. Therefore, City Council did not consider any objections and passed the by-law for the Property.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal of the Designation by-law for the Property by those persons permitted to appeal under section 29 of the Ontario Heritage Act may be made by filing a notice of appeal with the City Clerk, Attention: Registrar Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2.; Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a> within thirty days of July 17, 2025, which is August 18, 2025.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the objection to the designation by-law; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons in support of the objection to the designation by-law.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT), forms are available from the Ontario Land Tribunal website at <a href=\"https://olt.gov.on.ca\">https://olt.gov.on.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Any persons who object to the designation by-law may refer the matter to the Ontario Land Tribunal.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>A copy of the by-law and background information about the application is available for public inspection by contacting Heritage Planning staff at <a href=\"mailto:heritageplanning@toronto.ca\">heritageplanning@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Further information in respect of the Designation By-law is available from the City of Toronto at:</p>\n<p>&nbsp;</p>\n<p><a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2025.PH20.3\">https://secure.toronto.ca/council/agenda-item.do?item=2025.PH20.3</a>.&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6466,
+  "otherReferenceList": [
+    {
+      "description": "2025.PH20.3 - 750, 752, and 756-758 Yonge Street - Notice of Intention to Designate a Property under Part IV, Section 29 of the Ontario Heritage Act",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2025.PH20.3"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Passing of Designation By-Law 621-2025 - 752 Yonge Street ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}
