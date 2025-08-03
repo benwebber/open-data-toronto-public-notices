@@ -1,0 +1,59 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "75 Billy Bishop Way Toronto Ontario",
+      "latitudeCoordinate": "43.73328184",
+      "longitudeCoordinate": "-79.450840061",
+      "postalCode": "M3K 0C2",
+      "province": "Ontario",
+      "streetAddress": "75 Billy Bishop Way"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "81 Billy Bishop Way Toronto Ontario",
+      "latitudeCoordinate": "43.732340295",
+      "longitudeCoordinate": "-79.451627341",
+      "postalCode": "M3K 0C2",
+      "province": "Ontario",
+      "streetAddress": "81 Billy Bishop Way"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 75-81 Billy Bishop Way",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6401"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1754020800000,
+  "noticeDescription": "<p style=\"margin-right: 0.9pt; text-align: center;\"><strong><span style=\"font-size: 15.0pt;\">NOTICE OF APPLICATION(S)</span></strong></p>\n<p style=\"margin-right: .9pt; text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p><span style=\"font-size: 10.0pt;\">&nbsp;</span></p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA</strong></p>\n<p><strong>&nbsp;</strong></p>\n<p>Application Number: 25 125641 NNY 06 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-Law for permitting a mixed-use development consisting of five towers.</p>\n<p>75-81 Billy Bishop Way</p>\n<p>Ward 6 &ndash; York Centre</p>\n<p>Diana DiGirolamo, Planner at 416-392-4358 or <a href=\"mailto:Diana.DiGirolamo@toronto.ca\">Diana.DiGirolamo@toronto.ca</a>.</p>\n<p><span style=\"font-size: 10.0pt;\">&nbsp;</span></p>\n<p style=\"margin-right: .9pt;\"><strong>CONTACT INFORMATION </strong></p>\n<p style=\"margin-right: .9pt;\"><strong><span style=\"font-size: 10.0pt;\">&nbsp;</span></strong></p>\n<p style=\"margin-right: .9pt;\">City Clerk, Attention: Registrar Secretariat</p>\n<p style=\"margin-right: .9pt;\">Toronto City Hall, 2<sup>nd</sup> Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p style=\"margin-right: .9pt;\">Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a></p>\n<p><strong><span style=\"font-size: 10.0pt;\">&nbsp;</span></strong></p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p><span style=\"font-size: 10.0pt;\">&nbsp;</span></p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</p>\n<p><strong><span style=\"font-size: 10.0pt;\">&nbsp;</span></strong></p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p><strong><span style=\"font-size: 10.0pt;\">&nbsp;</span></strong></p>\n<p><span style=\"color: black;\">If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above. </span></p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6497,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 125641 NNY 06 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 75-81 Billy Bishop Way",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
