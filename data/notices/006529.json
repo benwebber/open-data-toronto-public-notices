@@ -1,0 +1,53 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1925 Victoria Park Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.748665519",
+      "longitudeCoordinate": "-79.311383056",
+      "postalCode": "M1R 1T8",
+      "province": "Ontario",
+      "streetAddress": "1925 Victoria Park Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Zoning By-Law 834-2025 - 1925 Victoria Park Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6434"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1754539200000,
+  "noticeDescription": "<p><strong><span style=\"font-size: 14.0pt;\">NOTICE OF PASSING OF ZONING BY-LAW 834-2025</span></strong></p>\n<p><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p><strong>&nbsp;</strong></p>\n<p><span style=\"font-size: 12.0pt;\">TAKE NOTICE that the City of Toronto passed by Zoning By-law 834-2025 on July 24, 2025, with respect to the lands known as 1925 Victoria Park Avenue.</span></p>\n<p>&nbsp;</p>\n<p>An explanation of the purpose and effect of the Zoning By-law, and a map showing the location of the lands to which the amendments apply, are attached. The amendments were processed under file number: 22 143097 ESC 21 OZ.</p>\n<p>&nbsp;</p>\n<p>A statutory public meeting was held on November 1, 2024 and the Scarborough Community Council and Toronto City Council considered no oral and two written submissions in making the decision. Please see item 2024.SC17.2 at <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2024.SC17.2\">https://secure.toronto.ca/council/agenda-item.do?item=2024.SC17.2</a>.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal to the Ontario Land Tribunal in respect to all or part of this Zoning By-law may be made by filing a notice of appeal with the City Clerk, <strong>Attention: Raneisha Hemmings</strong>, Registrar Secretariat, 100 Queen Street West, 2<sup>nd</sup> Floor West, Toronto, ON, M5H 2N2, no later than 4:30 p.m. on <strong>August 27, 2025</strong>. If delivering in-person, drop off at the Registry Services Counter, Toronto City Hall. The filing of a notice of appeal after 4:30 p.m., in person or electronically, will be deemed to have been received the next business day.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p style=\"tab-stops: -72.0pt;\">&nbsp;</p>\n<p style=\"margin-left: 36.0pt; text-indent: -36.0pt; tab-stops: -72.0pt;\">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the appeal and</p>\n<p style=\"margin-left: 36.0pt; text-indent: -36.0pt; tab-stops: -72.0pt;\">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be accompanied by the fee charged by the Ontario Land Tribunal, currently in the amount of $1,100.00 for each application appealed, payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the OLT website at <a href=\"http://www.olt.gov.on.ca\">www.olt.gov.on.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only an applicant, a specified person or public body as defined in the <em>Planning Act</em> that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, the registered owner of any land to which the by-law would apply that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, and the Minister may appeal the by-law to the Ontario Land Tribunal.&nbsp;</p>\n<p>&nbsp;</p>\n<p>No person or public body shall be added as a party to the hearing of the appeal unless, before the Official Plan Amendment was adopted or before the by-law was passed, the person or public body made oral submissions at a public meeting or written submissions to the Council or, in the opinion of the Ontario Land Tribunal, there are reasonable grounds to add the person or public body as a party.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>A copy of the by-law, Official Plan Amendment and background information about the application may be obtained by contacting <strong>Kwasi Kankam</strong> at 416-396-7040, or by e-mail at <a href=\"mailto:Kwasi.Kankam@toronto.ca\">Kwasi.Kankam@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\"><strong> PURPOSE AND EFFECT OF</strong></span><br /><span style=\"font-size: 14pt;\"><strong>ZONING BY-LAW 834-2025</strong></span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>The purpose and effect of Zoning By-law 834-2025 is to correct a technical error in the Regulation (F) of By-law 1242-2024 as enacted by Council as did not accurately reference the correct zoning provision for SS2 and transitional language related to the provision of parking spaces under SS2 was omitted.</p>\n<p>&nbsp;</p>\n<p>Further information may be obtained by contacting <strong>Kwasi Kankam</strong> at 416-396-7040, or by e-mail at <a href=\"mailto:Kwasi.Kankam@toronto.ca\">Kwasi.Kankam@toronto.ca</a>.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6529,
+  "otherReferenceList": [
+    {
+      "description": "2024.SC17.2 - 1925 Victoria Park Avenue - Official Plan and Zoning By-law Amendment Application - Decision Report - Approval",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2024.SC17.2"
+    }
+  ],
+  "planningApplicationNumbers": [
+    "22 143097 ESC 21 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Passing of Zoning By-Law 834-2025 - 1925 Victoria Park Avenue",
+  "topics": [
+    "Planning > Adoption of Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
