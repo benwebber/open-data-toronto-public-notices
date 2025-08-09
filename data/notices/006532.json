@@ -1,0 +1,57 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "172 Drewry Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7856397405",
+      "longitudeCoordinate": "-79.4259111584",
+      "postalCode": "M2M 1E4",
+      "province": "Ontario",
+      "streetAddress": "172 Drewry Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "202 Drewry Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7853687415",
+      "longitudeCoordinate": "-79.4266429277",
+      "postalCode": "M2M 1E4",
+      "province": "Ontario",
+      "streetAddress": "202 Drewry Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 672-2024 - 172-202 Drewry Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6436"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1754625600000,
+  "noticeDescription": "<p style=\"margin-right: 0.9pt; text-align: center;\"><strong><span style=\"font-size: 14pt;\">NOTICE OF INTENTION TO REMOVE A HOLDING SYMBOL (H) FROM ZONING BY-LAW 672-2024</span></strong></p>\n<p style=\"margin-right: .9pt; text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"margin-right: .9pt; text-align: justify;\">&nbsp;</p>\n<p style=\"margin-right: .9pt; text-align: justify;\">The City has received the following application under Section 36 of the <em>Planning Act</em>:</p>\n<p style=\"margin-right: .9pt; text-align: justify;\">&nbsp;</p>\n<p style=\"margin-right: .9pt;\"><strong>Application Number: </strong>25 121648 NNY 18 OZ</p>\n<p><strong>Address:</strong> 172-202 Drewry Avenue</p>\n<p style=\"margin-right: .9pt;\"><strong>Ward:</strong> Ward 18 - Willowdale</p>\n<p style=\"margin-right: .9pt;\"><strong>Contact:</strong> Wilser Canel, Assistant Planner at 416-392-0330, by e-mail at <a href=\"mailto:Wilser.Canel@toronto.ca\">Wilser.Canel@toronto.ca</a>, or by address North York Civic Centre, 5100 Yonge St., North York, ON, M2N 5V7</p>\n<p style=\"margin-right: .9pt; text-align: justify;\">&nbsp;</p>\n<p style=\"margin-right: .9pt; text-align: justify;\"><strong>DESCRIPTION</strong></p>\n<p>&nbsp;</p>\n<p>The application to amend Zoning By-law 672-2024 to remove the holding symbol (H) on the lands delineated by heavy lines on lands, designated with an (H), on Diagram 2 to permit 45 three-storey townhouse units, to be serviced by a new private road. The By-law includes a holding provision that requires servicing measures to be addressed. The location of where the holding symbol would be removed is noted on the map below. The lands designated with an OR symbol is to be conveyed to the City for the purposes of public park space.</p>\n<p style=\"margin-right: .9pt; text-align: justify;\">&nbsp;</p>\n<p style=\"margin-right: .9pt;\">Detailed information about the proposal, including background information and materials may be made available for review by contacting the Planner noted above or by visiting the City of Toronto&rsquo;s <a href=\"https://www.toronto.ca/city-government/planning-development/application-details/?id=5587905&amp;pid=395207&amp;title=172-202%20DREWRY%20AVE\">Application Information Centre</a> page for this application.&nbsp;</p>\n<p style=\"margin-right: .9pt; text-align: justify;\">&nbsp;</p>\n<p style=\"margin-right: .9pt;\"><span style=\"color: blue;\">&nbsp;</span><strong>MAKE YOUR VIEWS KNOWN</strong></p>\n<p style=\"margin-right: .9pt;\"><strong><u><span style=\"text-decoration: none;\">&nbsp;</span></u></strong></p>\n<p style=\"margin-right: .9pt;\">You may send written comments by mail or email to the Community Planner noted under Contact. Your written comments must be submitted no later than<strong> August 22, 2025,</strong> to be considered by the <span style=\"layout-grid-mode: line;\">Executive Director, Development Review or their designate, Director, Community Planning, North York District. A decision by the Executive Director, Development Review or their designate as to whether to remove the holding symbol (H) will occur no earlier than <strong>September 9, 2025</strong>. </span></p>\n<p style=\"margin-right: .9pt;\">&nbsp;</p>\n<p style=\"margin-right: .9pt;\"><strong>Notice to people writing to the City</strong> The <em>City of Toronto Act, 2006</em>, the<em> Planning Act</em>, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication to the City.</p>\n<p style=\"margin-right: .9pt;\">The City collects this information to enable it to make informed decisions on the relevant issue(s).&nbsp; If you are submitting letters, e-mails, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p style=\"margin-right: .9pt;\">&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6532,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 121648 NNY 18 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 672-2024 - 172-202 Drewry Avenue",
+  "topics": [
+    "Planning > Intention to remove a Holding Symbol"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

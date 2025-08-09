@@ -1,0 +1,47 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1134 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.66252089",
+      "longitudeCoordinate": "-79.334661316",
+      "postalCode": "M4M 1L1",
+      "province": "Ontario",
+      "streetAddress": "1134 Queen Street East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 78-2024 and 194-2025 - 1134 Queen Street East",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6435"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1754625600000,
+  "noticeDescription": "<p style=\"margin-right: 0.9pt; text-align: center;\"><span style=\"font-size: 14pt;\"><strong>NOTICE OF INTENTION TO REMOVE A HOLDING SYMBOL (H) FROM ZONING BY-LAW 78-2024 AND 194-2025</strong></span></p>\n<p style=\"margin-right: .9pt; text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"margin-right: .9pt; text-align: justify;\">&nbsp;</p>\n<p style=\"margin-right: .9pt; text-align: justify;\">The City has received the following application under Section 36 of the <em>Planning Act</em>:</p>\n<p style=\"margin-right: .9pt; text-align: justify;\">&nbsp;</p>\n<p style=\"margin-right: .9pt;\"><strong>Application Number: </strong>25 127570 STE 14 OZ</p>\n<p><strong>Address:</strong> 1134 Queen Street East</p>\n<p style=\"margin-right: .9pt;\"><strong>Ward:</strong> Ward 14 - Toronto-Danforth</p>\n<p style=\"margin-right: .9pt;\"><strong>Contact:</strong> Raymond Tung, Community Planner at 416-392-3812, by e-mail at <a href=\"mailto:Raymond.Tung@toronto.ca\">Raymond.Tung@toronto.ca</a>, or by address <span style=\"color: black; background: white;\">to 100 Queen Street West, 2nd Floor West, Toronto, ON, M5H 2N2.</span></p>\n<p style=\"margin-right: .9pt;\">&nbsp;</p>\n<p style=\"margin-right: .9pt; text-align: justify;\"><strong>DESCRIPTION</strong></p>\n<p>&nbsp;</p>\n<p>The application to amend Zoning By-law 78-2024, further amended by 194-2025, to remove the holding symbol (H) to permit a six-storey mixed-use building with 29 residential dwelling units. The location of where the holding symbol (H) would be removed is noted on the map below.</p>\n<p style=\"margin-right: .9pt; text-align: justify;\">&nbsp;</p>\n<p style=\"margin-right: .9pt;\">Detailed information about the proposal, including background information and materials may be made available for review by contacting the Planner noted above or by visiting the City of Toronto&rsquo;s <a href=\"https://www.toronto.ca/city-government/planning-development/application-information-centre\">Application Information Centre</a>.&nbsp;</p>\n<p style=\"margin-right: .9pt; text-align: justify;\"><strong>&nbsp;</strong></p>\n<p style=\"margin-right: .9pt;\"><strong>MAKE YOUR VIEWS KNOWN</strong></p>\n<p style=\"margin-right: .9pt;\"><strong><u><span style=\"text-decoration: none;\">&nbsp;</span></u></strong></p>\n<p style=\"margin-right: .9pt;\">You may send written comments by mail or email to the Community Planner noted under Contact. Your written comments must be <span style=\"color: black;\">submitted no later than </span><strong><span style=\"color: black;\">August 22, 2025</span></strong><span style=\"color: black;\"> to be considered by the </span><span style=\"color: black; layout-grid-mode: line;\">Executive Director, Development Review or their designate, Director, Community Planning, </span><span style=\"color: black;\">Toronto and East York &ndash; South </span><span style=\"color: black; layout-grid-mode: line;\">District. A decision by the Executive Director, Development Review or their designate as to whether to remove the holding symbol (H) will occur no earlier than </span><strong><span style=\"color: black;\">September 9, 2025</span></strong><span style=\"color: black; layout-grid-mode: line;\">. </span></p>\n<p style=\"margin-right: .9pt;\">&nbsp;</p>\n<p style=\"margin-right: .9pt;\"><strong>Notice to people writing to the City</strong> The <em>City of Toronto Act, 2006</em>, the<em> Planning Act</em>, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication to the City.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s).&nbsp; If you are submitting letters, e-mails, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6531,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 127570 STE 14 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 78-2024 and 194-2025 - 1134 Queen Street East",
+  "topics": [
+    "Planning > Intention to remove a Holding Symbol"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
