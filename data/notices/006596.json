@@ -1,0 +1,69 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "110 Maitland Street Toronto Ontario",
+      "latitudeCoordinate": "43.665280108",
+      "longitudeCoordinate": "-79.37908921",
+      "postalCode": "M4Y 1E1",
+      "province": "Ontario",
+      "streetAddress": "110 Maitland Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "114 Maitland Street Toronto Ontario",
+      "latitudeCoordinate": "43.665239025",
+      "longitudeCoordinate": "-79.37880206",
+      "postalCode": "M4Y 1E1",
+      "province": "Ontario",
+      "streetAddress": "114 Maitland Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "440 Jarvis Street Toronto Ontario",
+      "latitudeCoordinate": "43.665557855",
+      "longitudeCoordinate": "-79.378557935",
+      "postalCode": "M4Y 2H4",
+      "province": "Ontario",
+      "streetAddress": "440 Jarvis Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 110 and 114 Maitland Street and 440 Jarvis Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6487"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1755835200000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 25 187527 STE 13 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-law to demolish the existing buildings at 110 and 114 Maitland Street and construct a 56-storey mixed-use building.</p>\n<p>110 and 114 Maitland Street and 440 Jarvis Street</p>\n<p>Ward 13 &ndash; Toronto Centre</p>\n<p>Jeremy Humphrey, Planner at 416-392-1729 or <a href=\"mailto:Jeremy.Humphrey@toronto.ca\">Jeremy.Humphrey@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6596,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 187527 STE 13 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 110 and 114 Maitland Street and 440 Jarvis Street",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
