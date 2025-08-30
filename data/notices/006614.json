@@ -1,0 +1,59 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "29 Berwick Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.703766228",
+      "longitudeCoordinate": "-79.398673312",
+      "postalCode": "M5P 1G9",
+      "province": "Ontario",
+      "streetAddress": "29 Berwick Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "45 Berwick Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.703661904",
+      "longitudeCoordinate": "-79.399077001",
+      "postalCode": "M5P 1G9",
+      "province": "Ontario",
+      "streetAddress": "45 Berwick Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 29-45 Berwick Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6518"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1756440000000,
+  "noticeDescription": "<p style=\"margin-right: 0.9pt; text-align: center;\"><strong><span style=\"font-size: 16.0pt;\">NOTICE OF APPLICATION(S)</span></strong></p>\n<p style=\"margin-right: .9pt; text-align: center;\"><strong><span style=\"font-size: 11.0pt;\">(Under the Planning Act)</span></strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p style=\"margin-right: .9pt;\"><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p style=\"margin-right: .9pt;\">&nbsp;</p>\n<p style=\"margin-right: .9pt;\">Application Number: 25 191657 STE 12 OZ</p>\n<p style=\"margin-right: .9pt;\">Application to Amend the Official Plan and Zoning By-law to permit a 49-storey (162.15 metres, excluding mechanical penthouse) residential building.</p>\n<p style=\"margin-right: .9pt;\">29-45 Berwick Avenue</p>\n<p style=\"margin-right: .9pt;\">Ward 12 &ndash; Toronto-St. Paul's</p>\n<p style=\"margin-right: .9pt;\">This land is also subject to an application under the Planning Act for site plan control, Application Number: 25 191649 STE 12 SA.</p>\n<p style=\"margin-right: .9pt;\">Kai Zhou, Planner at 416-338-0810 or <a href=\"mailto:Kai.Zhou@toronto.ca\">Kai.Zhou@toronto.ca</a></p>\n<p style=\"margin-right: .9pt;\">&nbsp;</p>\n<p style=\"margin-right: .9pt;\"><strong>CONTACT INFORMATION </strong></p>\n<p style=\"margin-right: .9pt;\"><strong>&nbsp;</strong></p>\n<p style=\"margin-right: .9pt;\">City Clerk, Attention: Registrar Secretariat</p>\n<p style=\"margin-right: .9pt;\">Toronto City Hall, 2<sup>nd</sup> Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p style=\"margin-right: .9pt;\">Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.</p>\n<p style=\"margin-right: .9pt;\">&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p><strong>&nbsp;</strong></p>\n<p><span style=\"color: black;\">If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, </span><span style=\"color: black;\">Draft Plan of Common Elements Condominium, </span><span style=\"color: black;\">Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above. </span></p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6614,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 191657 STE 12 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 29-45 Berwick Avenue",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

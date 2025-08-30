@@ -1,0 +1,48 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "126 Bellamy Road North Toronto Ontario",
+      "latitudeCoordinate": "43.7424264798",
+      "longitudeCoordinate": "-79.2319698725",
+      "postalCode": "M1J 2L1",
+      "province": "Ontario",
+      "streetAddress": "126 Bellamy Road North"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 126 Bellamy Road North",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6513"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Scarborough Community Council",
+  "eventList": [],
+  "noticeDate": 1756440000000,
+  "noticeDescription": "<p style=\"margin-right: 0.9pt; text-align: center;\"><strong><span style=\"font-size: 16.0pt;\">NOTICE OF APPLICATION(S)</span></strong></p>\n<p style=\"margin-right: .9pt; text-align: center;\"><strong><span style=\"font-size: 11.0pt;\">(Under the Planning Act)</span></strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>SCARBOROUGH COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 22 205695 ESC 21 OZ</p>\n<p>Application to Amend the Zoning By-law to permit eight-storey residential building which includes the retention of an existing sixteen-storey apartment building.</p>\n<p>126 Bellamy Road North</p>\n<p>Ward 21 &ndash; Scarborough Centre</p>\n<p>Marian Barsoum, Planner at 416-396-5004 or <a href=\"mailto:Marian.Barsoum@toronto.ca\">Marian.Barsoum@toronto.ca</a></p>\n<p style=\"margin-right: .9pt;\">&nbsp;</p>\n<p style=\"margin-right: .9pt;\"><strong>CONTACT INFORMATION </strong></p>\n<p style=\"margin-right: .9pt;\"><strong>&nbsp;</strong></p>\n<p style=\"margin-right: .9pt;\">City Clerk, Attention: Registrar Secretariat</p>\n<p style=\"margin-right: .9pt;\">Toronto City Hall, 2<sup>nd</sup> Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p style=\"margin-right: .9pt;\">Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.</p>\n<p style=\"margin-right: .9pt;\">&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p><strong>&nbsp;</strong></p>\n<p><span style=\"color: black;\">If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, </span><span style=\"color: black;\">Draft Plan of Common Elements Condominium, </span><span style=\"color: black;\">Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above. </span></p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6609,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "22 205695 ESC 21 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 126 Bellamy Road North",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

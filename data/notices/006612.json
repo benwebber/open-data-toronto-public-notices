@@ -1,0 +1,77 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "420 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.659913517",
+      "longitudeCoordinate": "-79.383825156",
+      "province": "Ontario",
+      "streetAddress": "420 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "444 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.660600763",
+      "longitudeCoordinate": "-79.383226683",
+      "postalCode": "M5B 2H4",
+      "province": "Ontario",
+      "streetAddress": "444 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 College Street Toronto Ontario",
+      "latitudeCoordinate": "43.6611023115",
+      "longitudeCoordinate": "-79.3833978922",
+      "province": "Ontario",
+      "streetAddress": "1 College Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "23 College Street Toronto Ontario",
+      "latitudeCoordinate": "43.660987356",
+      "longitudeCoordinate": "-79.383889028",
+      "postalCode": "M5G 2B3",
+      "province": "Ontario",
+      "streetAddress": "23 College Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 420-444 Yonge Street and 1-23 College Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6516"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1756440000000,
+  "noticeDescription": "<p style=\"margin-right: 0.9pt; text-align: center;\"><strong><span style=\"font-size: 16.0pt;\">NOTICE OF APPLICATION(S)</span></strong></p>\n<p style=\"margin-right: .9pt; text-align: center;\"><strong><span style=\"font-size: 11.0pt;\">(Under the Planning Act)</span></strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p style=\"margin-right: .9pt;\"><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p style=\"margin-right: .9pt;\">&nbsp;</p>\n<p style=\"margin-right: .9pt;\">Application Number: 25 191175 STE 11 OZ</p>\n<p style=\"margin-right: .9pt;\">Application to Amend the Zoning By-law to permit three towers of 65, 75 and 96 storeys above the existing designated heritage College Park building, which will form the base of the towers. A total of 2,334 residential units are proposed, including the replacement of 210 existing rental units, 34 additional rental replacement units, and 2,090 additional dwelling units.</p>\n<p style=\"margin-right: .9pt;\">420-444 Yonge Street and 1-23 College Street</p>\n<p style=\"margin-right: .9pt;\">Ward 11 &ndash; University-Rosedale</p>\n<p style=\"margin-right: .9pt;\">This land is also subject to an application under the Planning Act for Rental Housing Demolition and Conversion, Application Number: 25 191186 STE 11 RH.</p>\n<p style=\"margin-right: .9pt;\">Paul Johnson, Planner at 416-397-0259 or <a href=\"mailto:Paul.M.Johnson@toronto.ca\">Paul.M.Johnson@toronto.ca</a></p>\n<p style=\"margin-right: .9pt;\">&nbsp;</p>\n<p style=\"margin-right: .9pt;\"><strong>CONTACT INFORMATION </strong></p>\n<p style=\"margin-right: .9pt;\"><strong>&nbsp;</strong></p>\n<p style=\"margin-right: .9pt;\">City Clerk, Attention: Registrar Secretariat</p>\n<p style=\"margin-right: .9pt;\">Toronto City Hall, 2<sup>nd</sup> Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p style=\"margin-right: .9pt;\">Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.</p>\n<p style=\"margin-right: .9pt;\">&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p><strong>&nbsp;</strong></p>\n<p><span style=\"color: black;\">If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, </span><span style=\"color: black;\">Draft Plan of Common Elements Condominium, </span><span style=\"color: black;\">Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above. </span></p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6612,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 191175 STE 11 OZ",
+    "25 191186 STE 11 RH"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 420-444 Yonge Street and 1-23 College Street",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
