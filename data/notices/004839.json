@@ -13,6 +13,16 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "415 Mount Pleasant Road Toronto Ontario",
+      "latitudeCoordinate": "43.699210385",
+      "longitudeCoordinate": "-79.386419759",
+      "postalCode": "M4S 2L5",
+      "province": "Ontario",
+      "streetAddress": "415 Mount Pleasant Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "323 Balliol Street Toronto Ontario",
       "latitudeCoordinate": "43.699260295",
       "longitudeCoordinate": "-79.386063027",
@@ -29,16 +39,6 @@
       "postalCode": "M4S 1E1",
       "province": "Ontario",
       "streetAddress": "329 Balliol Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "415 Mount Pleasant Road Toronto Ontario",
-      "latitudeCoordinate": "43.699210385",
-      "longitudeCoordinate": "-79.386419759",
-      "postalCode": "M4S 2L5",
-      "province": "Ontario",
-      "streetAddress": "415 Mount Pleasant Road"
     }
   ],
   "backgroundInformationList": [

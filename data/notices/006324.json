@@ -3,26 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "1930 Bloor Street West Toronto Ontario",
-      "latitudeCoordinate": "43.653574315",
-      "longitudeCoordinate": "-79.466573813",
-      "postalCode": "M6P 3K8",
-      "province": "Ontario",
-      "streetAddress": "1930 Bloor Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "1938 Bloor Street West Toronto Ontario",
-      "latitudeCoordinate": "43.653433265",
-      "longitudeCoordinate": "-79.466789536",
-      "postalCode": "M6P 3K8",
-      "province": "Ontario",
-      "streetAddress": "1938 Bloor Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "3 Quebec Avenue Toronto Ontario",
       "latitudeCoordinate": "43.653492213",
       "longitudeCoordinate": "-79.466815012",
@@ -49,6 +29,26 @@
       "postalCode": "M6P 2T3",
       "province": "Ontario",
       "streetAddress": "21 Quebec Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1930 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.653574315",
+      "longitudeCoordinate": "-79.466573813",
+      "postalCode": "M6P 3K8",
+      "province": "Ontario",
+      "streetAddress": "1930 Bloor Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1938 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.653433265",
+      "longitudeCoordinate": "-79.466789536",
+      "postalCode": "M6P 3K8",
+      "province": "Ontario",
+      "streetAddress": "1938 Bloor Street West"
     }
   ],
   "backgroundInformationList": [

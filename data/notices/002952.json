@@ -3,22 +3,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "375 Queen Street West Toronto Ontario",
-      "latitudeCoordinate": "43.649124734",
-      "longitudeCoordinate": "-79.3937698723",
-      "postalCode": "M5V 2A5",
-      "province": "Ontario",
-      "streetAddress": "375 Queen Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "100 Princes' Boulevard Toronto Ontario",
       "latitudeCoordinate": "43.634530286",
       "longitudeCoordinate": "-79.412551577",
       "postalCode": "M6K 3C3",
       "province": "Ontario",
       "streetAddress": "100 Princes' Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "375 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.649124734",
+      "longitudeCoordinate": "-79.3937698723",
+      "postalCode": "M5V 2A5",
+      "province": "Ontario",
+      "streetAddress": "375 Queen Street West"
     }
   ],
   "backgroundInformationList": [

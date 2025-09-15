@@ -3,22 +3,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "925 Dixon Road Toronto Ontario",
-      "latitudeCoordinate": "43.6862275457",
-      "longitudeCoordinate": "-79.5963262092",
-      "postalCode": "M9W 1J8",
-      "province": "Ontario",
-      "streetAddress": "925 Dixon Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "230 Carlingview Drive Toronto Ontario",
       "latitudeCoordinate": "43.686169295",
       "longitudeCoordinate": "-79.595963174",
       "postalCode": "M9W 5E9",
       "province": "Ontario",
       "streetAddress": "230 Carlingview Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "925 Dixon Road Toronto Ontario",
+      "latitudeCoordinate": "43.6862275457",
+      "longitudeCoordinate": "-79.5963262092",
+      "postalCode": "M9W 1J8",
+      "province": "Ontario",
+      "streetAddress": "925 Dixon Road"
     }
   ],
   "backgroundInformationList": [

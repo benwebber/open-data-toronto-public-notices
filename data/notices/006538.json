@@ -13,16 +13,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "1615 Dufferin Street Toronto Ontario",
-      "latitudeCoordinate": "43.676618072",
-      "longitudeCoordinate": "-79.442271247",
-      "postalCode": "M6H 4H4",
-      "province": "Ontario",
-      "streetAddress": "1615 Dufferin Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "1220 Wilson Avenue Toronto Ontario",
       "latitudeCoordinate": "43.725181995",
       "longitudeCoordinate": "-79.490244838",
@@ -69,6 +59,16 @@
       "postalCode": "M6E 4V7",
       "province": "Ontario",
       "streetAddress": "601 Caledonia Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1615 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.676618072",
+      "longitudeCoordinate": "-79.442271247",
+      "postalCode": "M6H 4H4",
+      "province": "Ontario",
+      "streetAddress": "1615 Dufferin Street"
     },
     {
       "city": "Toronto",

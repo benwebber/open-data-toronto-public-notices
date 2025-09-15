@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "2079 Yonge Street Toronto Ontario",
-      "latitudeCoordinate": "43.70279916",
-      "longitudeCoordinate": "-79.39717754",
-      "postalCode": "M4S 2A4",
-      "province": "Ontario",
-      "streetAddress": "2079 Yonge Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "9 Hillsdale Avenue East Toronto Ontario",
       "latitudeCoordinate": "43.703291427",
       "longitudeCoordinate": "-79.397069369",
@@ -29,6 +19,16 @@
       "postalCode": "M4S 1P8",
       "province": "Ontario",
       "streetAddress": "12 Manor Road East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2079 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.70279916",
+      "longitudeCoordinate": "-79.39717754",
+      "postalCode": "M4S 2A4",
+      "province": "Ontario",
+      "streetAddress": "2079 Yonge Street"
     }
   ],
   "backgroundInformationList": [

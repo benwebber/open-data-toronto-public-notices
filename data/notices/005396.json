@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "11 Wembley Drive Toronto Ontario",
-      "latitudeCoordinate": "43.6767268612",
-      "longitudeCoordinate": "-79.3179643982",
-      "postalCode": "M4L 3C9",
-      "province": "Ontario",
-      "streetAddress": "11 Wembley Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "35 Hastings Avenue Toronto Ontario",
       "latitudeCoordinate": "43.664606589",
       "longitudeCoordinate": "-79.3291998",
@@ -23,72 +13,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "35 Thome Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.676628941",
-      "longitudeCoordinate": "-79.433402592",
-      "postalCode": "M6H 2S6",
-      "province": "Ontario",
-      "streetAddress": "35 Thome Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "36 Gifford Street Toronto Ontario",
-      "latitudeCoordinate": "43.663599817",
-      "longitudeCoordinate": "-79.363758694",
-      "postalCode": "M5A 3J1",
-      "province": "Ontario",
-      "streetAddress": "36 Gifford Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "49 Holcolm Road Toronto Ontario",
-      "latitudeCoordinate": "43.776238948",
-      "longitudeCoordinate": "-79.419262647",
-      "postalCode": "M2N 2C8",
-      "province": "Ontario",
-      "streetAddress": "49 Holcolm Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "81 Thursfield Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.7159944129",
-      "longitudeCoordinate": "-79.3559308477",
-      "postalCode": "M4G 2N4",
-      "province": "Ontario",
-      "streetAddress": "81 Thursfield Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "86 Fuller Avenue Toronto Ontario",
       "latitudeCoordinate": "43.642664105",
       "longitudeCoordinate": "-79.440389251",
       "postalCode": "M6R 2C5",
       "province": "Ontario",
       "streetAddress": "86 Fuller Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "115 Ponymeadow Terrace Toronto Ontario",
-      "latitudeCoordinate": "43.796995255",
-      "longitudeCoordinate": "-79.182233041",
-      "postalCode": "M1C 4J6",
-      "province": "Ontario",
-      "streetAddress": "115 Ponymeadow Terrace"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "151 Harbourview Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.622185805",
-      "longitudeCoordinate": "-79.4882917",
-      "postalCode": "M8V 4A8",
-      "province": "Ontario",
-      "streetAddress": "151 Harbourview Crescent"
     },
     {
       "city": "Toronto",
@@ -119,6 +49,76 @@
       "postalCode": "M6G 3T4",
       "province": "Ontario",
       "streetAddress": "569 Ossington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "35 Thome Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.676628941",
+      "longitudeCoordinate": "-79.433402592",
+      "postalCode": "M6H 2S6",
+      "province": "Ontario",
+      "streetAddress": "35 Thome Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "81 Thursfield Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7159944129",
+      "longitudeCoordinate": "-79.3559308477",
+      "postalCode": "M4G 2N4",
+      "province": "Ontario",
+      "streetAddress": "81 Thursfield Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "151 Harbourview Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.622185805",
+      "longitudeCoordinate": "-79.4882917",
+      "postalCode": "M8V 4A8",
+      "province": "Ontario",
+      "streetAddress": "151 Harbourview Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Wembley Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6767268612",
+      "longitudeCoordinate": "-79.3179643982",
+      "postalCode": "M4L 3C9",
+      "province": "Ontario",
+      "streetAddress": "11 Wembley Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "49 Holcolm Road Toronto Ontario",
+      "latitudeCoordinate": "43.776238948",
+      "longitudeCoordinate": "-79.419262647",
+      "postalCode": "M2N 2C8",
+      "province": "Ontario",
+      "streetAddress": "49 Holcolm Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "36 Gifford Street Toronto Ontario",
+      "latitudeCoordinate": "43.663599817",
+      "longitudeCoordinate": "-79.363758694",
+      "postalCode": "M5A 3J1",
+      "province": "Ontario",
+      "streetAddress": "36 Gifford Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "115 Ponymeadow Terrace Toronto Ontario",
+      "latitudeCoordinate": "43.796995255",
+      "longitudeCoordinate": "-79.182233041",
+      "postalCode": "M1C 4J6",
+      "province": "Ontario",
+      "streetAddress": "115 Ponymeadow Terrace"
     }
   ],
   "backgroundInformationList": [

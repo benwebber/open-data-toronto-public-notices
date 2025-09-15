@@ -23,22 +23,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "1407 Davenport Road Toronto Ontario",
-      "latitudeCoordinate": "43.6726744782",
-      "longitudeCoordinate": "-79.4415837543",
-      "postalCode": "M6H 2H6",
-      "province": "Ontario",
-      "streetAddress": "1407 Davenport Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "59 Otter Crescent Toronto Ontario",
       "latitudeCoordinate": "43.718332974",
       "longitudeCoordinate": "-79.4194141942",
       "postalCode": "M5N 2W7",
       "province": "Ontario",
       "streetAddress": "59 Otter Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1407 Davenport Road Toronto Ontario",
+      "latitudeCoordinate": "43.6726744782",
+      "longitudeCoordinate": "-79.4415837543",
+      "postalCode": "M6H 2H6",
+      "province": "Ontario",
+      "streetAddress": "1407 Davenport Road"
     }
   ],
   "backgroundInformationList": [

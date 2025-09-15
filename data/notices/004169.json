@@ -3,26 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "6175 Kingston Road Toronto Ontario",
-      "latitudeCoordinate": "43.7856103425",
-      "longitudeCoordinate": "-79.1666319441",
-      "postalCode": "M1C 1K7",
-      "province": "Ontario",
-      "streetAddress": "6175 Kingston Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "6183 Kingston Road Toronto Ontario",
-      "latitudeCoordinate": "43.7857790014",
-      "longitudeCoordinate": "-79.1663683348",
-      "postalCode": "M1C 1K7",
-      "province": "Ontario",
-      "streetAddress": "6183 Kingston Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "1 Franklin Avenue Toronto Ontario",
       "latitudeCoordinate": "43.7851682035",
       "longitudeCoordinate": "-79.1651582646",
@@ -39,6 +19,26 @@
       "postalCode": "M1C 1N8",
       "province": "Ontario",
       "streetAddress": "11 Franklin Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "6175 Kingston Road Toronto Ontario",
+      "latitudeCoordinate": "43.7856103425",
+      "longitudeCoordinate": "-79.1666319441",
+      "postalCode": "M1C 1K7",
+      "province": "Ontario",
+      "streetAddress": "6175 Kingston Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "6183 Kingston Road Toronto Ontario",
+      "latitudeCoordinate": "43.7857790014",
+      "longitudeCoordinate": "-79.1663683348",
+      "postalCode": "M1C 1K7",
+      "province": "Ontario",
+      "streetAddress": "6183 Kingston Road"
     }
   ],
   "backgroundInformationList": [

@@ -3,6 +3,15 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "92 Manderley Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6931488028",
+      "longitudeCoordinate": "-79.2712317001",
+      "province": "Ontario",
+      "streetAddress": "92 Manderley Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "14 Old Trillium Lane Toronto Ontario",
       "latitudeCoordinate": "43.6585163362",
       "longitudeCoordinate": "-79.3559724998",
@@ -26,15 +35,6 @@
       "longitudeCoordinate": "-79.2301421452",
       "province": "Ontario",
       "streetAddress": "54 Grackle Trail"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "92 Manderley Drive Toronto Ontario",
-      "latitudeCoordinate": "43.6931488028",
-      "longitudeCoordinate": "-79.2712317001",
-      "province": "Ontario",
-      "streetAddress": "92 Manderley Drive"
     }
   ],
   "backgroundInformationList": [],

@@ -3,6 +3,16 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "139 Glenholme Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.679870963",
+      "longitudeCoordinate": "-79.4387184936",
+      "postalCode": "M6E 3C5",
+      "province": "Ontario",
+      "streetAddress": "139 Glenholme Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "37 Howland Road Toronto Ontario",
       "latitudeCoordinate": "43.6677314455",
       "longitudeCoordinate": "-79.3472732453",
@@ -19,16 +29,6 @@
       "postalCode": "M6J 1P9",
       "province": "Ontario",
       "streetAddress": "57 Foxley Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "139 Glenholme Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.679870963",
-      "longitudeCoordinate": "-79.4387184936",
-      "postalCode": "M6E 3C5",
-      "province": "Ontario",
-      "streetAddress": "139 Glenholme Avenue"
     }
   ],
   "backgroundInformationList": [

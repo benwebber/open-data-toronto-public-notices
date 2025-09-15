@@ -3,22 +3,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "20 Brentcliffe Road Toronto Ontario",
-      "latitudeCoordinate": "43.713057986",
-      "longitudeCoordinate": "-79.360113038",
-      "postalCode": "M4G 0C6",
-      "province": "Ontario",
-      "streetAddress": "20 Brentcliffe Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "100 Vanderhoof Avenue Toronto Ontario",
       "latitudeCoordinate": "43.712831783",
       "longitudeCoordinate": "-79.360162494",
       "postalCode": "M4G 4C9",
       "province": "Ontario",
       "streetAddress": "100 Vanderhoof Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "20 Brentcliffe Road Toronto Ontario",
+      "latitudeCoordinate": "43.713057986",
+      "longitudeCoordinate": "-79.360113038",
+      "postalCode": "M4G 0C6",
+      "province": "Ontario",
+      "streetAddress": "20 Brentcliffe Road"
     }
   ],
   "backgroundInformationList": [

@@ -3,6 +3,16 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "481 University Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6552444173",
+      "longitudeCoordinate": "-79.3877490011",
+      "postalCode": "M5G 2E9",
+      "province": "Ontario",
+      "streetAddress": "481 University Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "2490 Yonge Street Toronto Ontario",
       "latitudeCoordinate": "43.711943578",
       "longitudeCoordinate": "-79.399743765",
@@ -19,16 +29,6 @@
       "postalCode": "M4P 2H7",
       "province": "Ontario",
       "streetAddress": "2506 Yonge Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "481 University Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6552444173",
-      "longitudeCoordinate": "-79.3877490011",
-      "postalCode": "M5G 2E9",
-      "province": "Ontario",
-      "streetAddress": "481 University Avenue"
     }
   ],
   "backgroundInformationList": [

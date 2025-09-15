@@ -3,26 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "15 Romar Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.706436949",
-      "longitudeCoordinate": "-79.441215791",
-      "postalCode": "M6B 1R7",
-      "province": "Ontario",
-      "streetAddress": "15 Romar Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "19 Romar Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.7065434",
-      "longitudeCoordinate": "-79.440925366",
-      "postalCode": "M6B 1R7",
-      "province": "Ontario",
-      "streetAddress": "19 Romar Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "18 Benner Avenue Toronto Ontario",
       "latitudeCoordinate": "43.706050788",
       "longitudeCoordinate": "-79.44055973",
@@ -49,6 +29,26 @@
       "postalCode": "M6B 1N4",
       "province": "Ontario",
       "streetAddress": "8 Stayner Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Romar Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.706436949",
+      "longitudeCoordinate": "-79.441215791",
+      "postalCode": "M6B 1R7",
+      "province": "Ontario",
+      "streetAddress": "15 Romar Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Romar Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7065434",
+      "longitudeCoordinate": "-79.440925366",
+      "postalCode": "M6B 1R7",
+      "province": "Ontario",
+      "streetAddress": "19 Romar Crescent"
     }
   ],
   "backgroundInformationList": [

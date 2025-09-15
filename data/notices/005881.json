@@ -3,26 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "1913 Yonge Street Toronto Ontario",
-      "latitudeCoordinate": "43.698567616",
-      "longitudeCoordinate": "-79.396382773",
-      "postalCode": "M4S 1Z3",
-      "province": "Ontario",
-      "streetAddress": "1913 Yonge Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "1951 Yonge Street Toronto Ontario",
-      "latitudeCoordinate": "43.699232501",
-      "longitudeCoordinate": "-79.39648312",
-      "postalCode": "M4S 1Z3",
-      "province": "Ontario",
-      "streetAddress": "1951 Yonge Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "10 Davisville Avenue Toronto Ontario",
       "latitudeCoordinate": "43.717545116",
       "longitudeCoordinate": "-79.331669098",
@@ -59,6 +39,26 @@
       "postalCode": "M4S 1J6",
       "province": "Ontario",
       "streetAddress": "21 Millwood Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1913 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.698567616",
+      "longitudeCoordinate": "-79.396382773",
+      "postalCode": "M4S 1Z3",
+      "province": "Ontario",
+      "streetAddress": "1913 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1951 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.699232501",
+      "longitudeCoordinate": "-79.39648312",
+      "postalCode": "M4S 1Z3",
+      "province": "Ontario",
+      "streetAddress": "1951 Yonge Street"
     }
   ],
   "backgroundInformationList": [

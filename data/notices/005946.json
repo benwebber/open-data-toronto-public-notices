@@ -53,21 +53,21 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "97 Berkeley Street Toronto Ontario",
-      "latitudeCoordinate": "43.654317196179896",
-      "longitudeCoordinate": " -79.36475567140586",
-      "province": "Ontario",
-      "streetAddress": "97 Berkeley Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "135 Isabella Street Toronto Ontario",
       "latitudeCoordinate": "43.669040993",
       "longitudeCoordinate": "-79.37729738",
       "postalCode": "M4Y 1P4",
       "province": "Ontario",
       "streetAddress": "135 Isabella Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "97 Berkeley Street Toronto Ontario",
+      "latitudeCoordinate": "43.654317196179896",
+      "longitudeCoordinate": " -79.36475567140586",
+      "province": "Ontario",
+      "streetAddress": "97 Berkeley Street"
     }
   ],
   "backgroundInformationList": [

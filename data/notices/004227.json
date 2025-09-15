@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "7 Norfolk Street Toronto Ontario",
-      "latitudeCoordinate": "43.6489396041",
-      "longitudeCoordinate": "-79.4357932265",
-      "postalCode": "M6K 2N8",
-      "province": "Ontario",
-      "streetAddress": "7 Norfolk Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "19 Whaley Drive Toronto Ontario",
       "latitudeCoordinate": "43.6059942919",
       "longitudeCoordinate": "-79.5490699015",
@@ -33,26 +23,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "85 Bowring Walk Toronto Ontario",
-      "latitudeCoordinate": "43.7469811215",
-      "longitudeCoordinate": "-79.4535153045",
-      "postalCode": "M3H 5Z7",
-      "province": "Ontario",
-      "streetAddress": "85 Bowring Walk"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "106 Geoffrey Street Toronto Ontario",
-      "latitudeCoordinate": "43.6485195308",
-      "longitudeCoordinate": "-79.4484907014",
-      "postalCode": "M6R 1P3",
-      "province": "Ontario",
-      "streetAddress": "106 Geoffrey Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "294 Woodfield Road Toronto Ontario",
       "latitudeCoordinate": "43.672530858",
       "longitudeCoordinate": "-79.324538568",
@@ -69,6 +39,36 @@
       "postalCode": "M1C 1H4",
       "province": "Ontario",
       "streetAddress": "3473 Ellesmere Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Norfolk Street Toronto Ontario",
+      "latitudeCoordinate": "43.6489396041",
+      "longitudeCoordinate": "-79.4357932265",
+      "postalCode": "M6K 2N8",
+      "province": "Ontario",
+      "streetAddress": "7 Norfolk Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "106 Geoffrey Street Toronto Ontario",
+      "latitudeCoordinate": "43.6485195308",
+      "longitudeCoordinate": "-79.4484907014",
+      "postalCode": "M6R 1P3",
+      "province": "Ontario",
+      "streetAddress": "106 Geoffrey Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "85 Bowring Walk Toronto Ontario",
+      "latitudeCoordinate": "43.7469811215",
+      "longitudeCoordinate": "-79.4535153045",
+      "postalCode": "M3H 5Z7",
+      "province": "Ontario",
+      "streetAddress": "85 Bowring Walk"
     }
   ],
   "backgroundInformationList": [

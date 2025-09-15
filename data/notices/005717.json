@@ -3,6 +3,16 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "555 University Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.657238954",
+      "longitudeCoordinate": "-79.388244337",
+      "postalCode": "M5G 1X8",
+      "province": "Ontario",
+      "streetAddress": "555 University Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "110 Elm Street Toronto Ontario",
       "latitudeCoordinate": "43.656685749",
       "longitudeCoordinate": "-79.388042879",
@@ -18,16 +28,6 @@
       "postalCode": "M5G 1E8",
       "province": "Ontario",
       "streetAddress": "170 Elizabeth Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "555 University Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.657238954",
-      "longitudeCoordinate": "-79.388244337",
-      "postalCode": "M5G 1X8",
-      "province": "Ontario",
-      "streetAddress": "555 University Avenue"
     }
   ],
   "backgroundInformationList": [

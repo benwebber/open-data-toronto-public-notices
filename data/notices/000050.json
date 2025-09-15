@@ -12,29 +12,11 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "107 Rainsford Road Toronto Ontario",
-      "latitudeCoordinate": "43.6724160913",
-      "longitudeCoordinate": "-79.3082428573",
-      "province": "Ontario",
-      "streetAddress": "107 Rainsford Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "139 Elmer Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6741359296",
       "longitudeCoordinate": "-79.3051617341",
       "province": "Ontario",
       "streetAddress": "139 Elmer Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "192 Hallam Street Toronto Ontario",
-      "latitudeCoordinate": "43.6668977236",
-      "longitudeCoordinate": "-79.4339869256",
-      "province": "Ontario",
-      "streetAddress": "192 Hallam Street"
     },
     {
       "city": "Toronto",
@@ -62,6 +44,24 @@
       "longitudeCoordinate": "-79.5475815073",
       "province": "Ontario",
       "streetAddress": "785 Browns Line"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "107 Rainsford Road Toronto Ontario",
+      "latitudeCoordinate": "43.6724160913",
+      "longitudeCoordinate": "-79.3082428573",
+      "province": "Ontario",
+      "streetAddress": "107 Rainsford Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "192 Hallam Street Toronto Ontario",
+      "latitudeCoordinate": "43.6668977236",
+      "longitudeCoordinate": "-79.4339869256",
+      "province": "Ontario",
+      "streetAddress": "192 Hallam Street"
     }
   ],
   "backgroundInformationList": [],

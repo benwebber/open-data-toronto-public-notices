@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "9 Delbeatrice Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.7805876055",
-      "longitudeCoordinate": "-79.1565483164",
-      "postalCode": "M1C 3G5",
-      "province": "Ontario",
-      "streetAddress": "9 Delbeatrice Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "11 Hocken Avenue Toronto Ontario",
       "latitudeCoordinate": "43.68152018",
       "longitudeCoordinate": "-79.419130757",
@@ -23,52 +13,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "12 Smithfield Drive Toronto Ontario",
-      "latitudeCoordinate": "43.630891386",
-      "longitudeCoordinate": "-79.485795847",
-      "postalCode": "M8Y 3L9",
-      "province": "Ontario",
-      "streetAddress": "12 Smithfield Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "19 Eagle Road Toronto Ontario",
-      "latitudeCoordinate": "43.6445784974",
-      "longitudeCoordinate": "-79.5194166905",
-      "postalCode": "M8Z 4H4",
-      "province": "Ontario",
-      "streetAddress": "19 Eagle Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "25 Marlow Avenue Toronto Ontario",
       "latitudeCoordinate": "43.684912851",
       "longitudeCoordinate": "-79.3377028678",
       "postalCode": "M4J 3T8",
       "province": "Ontario",
       "streetAddress": "25 Marlow Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "35 Marmaduke Street Toronto Ontario",
-      "latitudeCoordinate": "43.650025414",
-      "longitudeCoordinate": "-79.452012138",
-      "postalCode": "M6R 1T1",
-      "province": "Ontario",
-      "streetAddress": "35 Marmaduke Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "40 Castle Knock Road Toronto Ontario",
-      "latitudeCoordinate": "43.70531738",
-      "longitudeCoordinate": "-79.412424649",
-      "postalCode": "M5N 2J4",
-      "province": "Ontario",
-      "streetAddress": "40 Castle Knock Road"
     },
     {
       "city": "Toronto",
@@ -103,52 +53,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "57 Sumner Heights Drive Toronto Ontario",
-      "latitudeCoordinate": "43.7795016175",
-      "longitudeCoordinate": "-79.3861314238",
-      "postalCode": "M2K 1Y5",
-      "province": "Ontario",
-      "streetAddress": "57 Sumner Heights Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "75 Olive Avenue Toronto Ontario",
       "latitudeCoordinate": "43.669383677",
       "longitudeCoordinate": "-79.416728912",
       "postalCode": "M6G 1V2",
       "province": "Ontario",
       "streetAddress": "75 Olive Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "81 Dunelm Street Toronto Ontario",
-      "latitudeCoordinate": "43.748399678",
-      "longitudeCoordinate": "-79.213717801",
-      "postalCode": "M1J 3G3",
-      "province": "Ontario",
-      "streetAddress": "81 Dunelm Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "85 Douglas Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.692656355",
-      "longitudeCoordinate": "-79.366551814",
-      "postalCode": "M4W 2E6",
-      "province": "Ontario",
-      "streetAddress": "85 Douglas Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "109 Bessborough Drive Toronto Ontario",
-      "latitudeCoordinate": "43.7026138427",
-      "longitudeCoordinate": "-79.3698819794",
-      "postalCode": "M4G 3J5",
-      "province": "Ontario",
-      "streetAddress": "109 Bessborough Drive"
     },
     {
       "city": "Toronto",
@@ -163,32 +73,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "134 Chiltern Hill Road Toronto Ontario",
-      "latitudeCoordinate": "43.6988043468",
-      "longitudeCoordinate": "-79.4273471464",
-      "postalCode": "M6C 3C4",
-      "province": "Ontario",
-      "streetAddress": "134 Chiltern Hill Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "238 Westmoreland Avenue Toronto Ontario",
       "latitudeCoordinate": "43.667149131",
       "longitudeCoordinate": "-79.433259586",
       "postalCode": "M6H 3A5",
       "province": "Ontario",
       "streetAddress": "238 Westmoreland Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "261 Blythwood Road Toronto Ontario",
-      "latitudeCoordinate": "43.717965945",
-      "longitudeCoordinate": "-79.392328608",
-      "postalCode": "M4N 1A7",
-      "province": "Ontario",
-      "streetAddress": "261 Blythwood Road"
     },
     {
       "city": "Toronto",
@@ -213,12 +103,122 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "9 Delbeatrice Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7805876055",
+      "longitudeCoordinate": "-79.1565483164",
+      "postalCode": "M1C 3G5",
+      "province": "Ontario",
+      "streetAddress": "9 Delbeatrice Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "85 Douglas Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.692656355",
+      "longitudeCoordinate": "-79.366551814",
+      "postalCode": "M4W 2E6",
+      "province": "Ontario",
+      "streetAddress": "85 Douglas Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "12 Smithfield Drive Toronto Ontario",
+      "latitudeCoordinate": "43.630891386",
+      "longitudeCoordinate": "-79.485795847",
+      "postalCode": "M8Y 3L9",
+      "province": "Ontario",
+      "streetAddress": "12 Smithfield Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "57 Sumner Heights Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7795016175",
+      "longitudeCoordinate": "-79.3861314238",
+      "postalCode": "M2K 1Y5",
+      "province": "Ontario",
+      "streetAddress": "57 Sumner Heights Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "109 Bessborough Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7026138427",
+      "longitudeCoordinate": "-79.3698819794",
+      "postalCode": "M4G 3J5",
+      "province": "Ontario",
+      "streetAddress": "109 Bessborough Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Eagle Road Toronto Ontario",
+      "latitudeCoordinate": "43.6445784974",
+      "longitudeCoordinate": "-79.5194166905",
+      "postalCode": "M8Z 4H4",
+      "province": "Ontario",
+      "streetAddress": "19 Eagle Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "40 Castle Knock Road Toronto Ontario",
+      "latitudeCoordinate": "43.70531738",
+      "longitudeCoordinate": "-79.412424649",
+      "postalCode": "M5N 2J4",
+      "province": "Ontario",
+      "streetAddress": "40 Castle Knock Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "134 Chiltern Hill Road Toronto Ontario",
+      "latitudeCoordinate": "43.6988043468",
+      "longitudeCoordinate": "-79.4273471464",
+      "postalCode": "M6C 3C4",
+      "province": "Ontario",
+      "streetAddress": "134 Chiltern Hill Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "261 Blythwood Road Toronto Ontario",
+      "latitudeCoordinate": "43.717965945",
+      "longitudeCoordinate": "-79.392328608",
+      "postalCode": "M4N 1A7",
+      "province": "Ontario",
+      "streetAddress": "261 Blythwood Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "592 Rushton Road Toronto Ontario",
       "latitudeCoordinate": "43.6893853594",
       "longitudeCoordinate": "-79.4310340592",
       "postalCode": "M6C 2Y7",
       "province": "Ontario",
       "streetAddress": "592 Rushton Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "35 Marmaduke Street Toronto Ontario",
+      "latitudeCoordinate": "43.650025414",
+      "longitudeCoordinate": "-79.452012138",
+      "postalCode": "M6R 1T1",
+      "province": "Ontario",
+      "streetAddress": "35 Marmaduke Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "81 Dunelm Street Toronto Ontario",
+      "latitudeCoordinate": "43.748399678",
+      "longitudeCoordinate": "-79.213717801",
+      "postalCode": "M1J 3G3",
+      "province": "Ontario",
+      "streetAddress": "81 Dunelm Street"
     }
   ],
   "backgroundInformationList": [

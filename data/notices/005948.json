@@ -3,6 +3,174 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "188 Lowther Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.668363512",
+      "longitudeCoordinate": "-79.407266092",
+      "postalCode": "M5R 1E8",
+      "province": "Ontario",
+      "streetAddress": "188 Lowther Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "536 St Clair Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.683126516",
+      "longitudeCoordinate": "-79.419922086",
+      "postalCode": "M6C 1A4",
+      "province": "Ontario",
+      "streetAddress": "536 St Clair Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "538 St Clair Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.68302176",
+      "longitudeCoordinate": "-79.420012651",
+      "postalCode": "M6C 1A4",
+      "province": "Ontario",
+      "streetAddress": "538 St Clair Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "73 Woodbine Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.66641921",
+      "longitudeCoordinate": "-79.304473341",
+      "postalCode": "M4L 3P1",
+      "province": "Ontario",
+      "streetAddress": "73 Woodbine Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "83 Woodbine Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.666550807",
+      "longitudeCoordinate": "-79.304612633",
+      "postalCode": "M4L 3P1",
+      "province": "Ontario",
+      "streetAddress": "83 Woodbine Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3 Buller Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.666713593",
+      "longitudeCoordinate": "-79.30409512",
+      "postalCode": "M4L 1B9",
+      "province": "Ontario",
+      "streetAddress": "3 Buller Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "985 Woodbine Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6863677752",
+      "longitudeCoordinate": "-79.3125039549",
+      "postalCode": "M4C 4B8",
+      "province": "Ontario",
+      "streetAddress": "985 Woodbine Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2078 Danforth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.685913994",
+      "longitudeCoordinate": "-79.312705126",
+      "province": "Ontario",
+      "streetAddress": "2078 Danforth Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2086 Danforth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.685954791",
+      "longitudeCoordinate": "-79.312509277",
+      "postalCode": "M4C 1J9",
+      "province": "Ontario",
+      "streetAddress": "2086 Danforth Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2100 Danforth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.686103228",
+      "longitudeCoordinate": "-79.312211501",
+      "postalCode": "M4C 1J9",
+      "province": "Ontario",
+      "streetAddress": "2100 Danforth Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2102 Danforth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.686111852",
+      "longitudeCoordinate": "-79.312140225",
+      "postalCode": "M4C 1J9",
+      "province": "Ontario",
+      "streetAddress": "2102 Danforth Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2106 Danforth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.686057048",
+      "longitudeCoordinate": "-79.312049689",
+      "postalCode": "M4C 1J9",
+      "province": "Ontario",
+      "streetAddress": "2106 Danforth Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "245 Davenport Road Toronto Ontario",
+      "latitudeCoordinate": "43.674378461",
+      "longitudeCoordinate": "-79.397303679",
+      "postalCode": "M5R 1K1",
+      "province": "Ontario",
+      "streetAddress": "245 Davenport Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "247 Davenport Road Toronto Ontario",
+      "latitudeCoordinate": "43.674355899",
+      "longitudeCoordinate": "-79.397486822",
+      "postalCode": "M5R 1J9",
+      "province": "Ontario",
+      "streetAddress": "247 Davenport Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "38 Walmer Road Toronto Ontario",
+      "latitudeCoordinate": "43.66856645",
+      "longitudeCoordinate": "-79.406738848",
+      "province": "Ontario",
+      "streetAddress": "38 Walmer Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "41 Spadina Road Toronto Ontario",
+      "latitudeCoordinate": "43.668834904",
+      "longitudeCoordinate": "-79.404273749",
+      "postalCode": "M5R 2S9",
+      "province": "Ontario",
+      "streetAddress": "41 Spadina Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "45 Spadina Road Toronto Ontario",
+      "latitudeCoordinate": "43.668890457",
+      "longitudeCoordinate": "-79.404292015",
+      "postalCode": "M5R 2S9",
+      "province": "Ontario",
+      "streetAddress": "45 Spadina Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "1355 King Street West Toronto Ontario",
       "latitudeCoordinate": "43.637545838",
       "longitudeCoordinate": "-79.432848966",
@@ -78,85 +246,6 @@
       "postalCode": "M5V 1M9",
       "province": "Ontario",
       "streetAddress": "675 King Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "245 Davenport Road Toronto Ontario",
-      "latitudeCoordinate": "43.674378461",
-      "longitudeCoordinate": "-79.397303679",
-      "postalCode": "M5R 1K1",
-      "province": "Ontario",
-      "streetAddress": "245 Davenport Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "247 Davenport Road Toronto Ontario",
-      "latitudeCoordinate": "43.674355899",
-      "longitudeCoordinate": "-79.397486822",
-      "postalCode": "M5R 1J9",
-      "province": "Ontario",
-      "streetAddress": "247 Davenport Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "38 Walmer Road Toronto Ontario",
-      "latitudeCoordinate": "43.66856645",
-      "longitudeCoordinate": "-79.406738848",
-      "province": "Ontario",
-      "streetAddress": "38 Walmer Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "188 Lowther Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.668363512",
-      "longitudeCoordinate": "-79.407266092",
-      "postalCode": "M5R 1E8",
-      "province": "Ontario",
-      "streetAddress": "188 Lowther Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "41 Spadina Road Toronto Ontario",
-      "latitudeCoordinate": "43.668834904",
-      "longitudeCoordinate": "-79.404273749",
-      "postalCode": "M5R 2S9",
-      "province": "Ontario",
-      "streetAddress": "41 Spadina Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "45 Spadina Road Toronto Ontario",
-      "latitudeCoordinate": "43.668890457",
-      "longitudeCoordinate": "-79.404292015",
-      "postalCode": "M5R 2S9",
-      "province": "Ontario",
-      "streetAddress": "45 Spadina Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "536 St Clair Avenue West Toronto Ontario",
-      "latitudeCoordinate": "43.683126516",
-      "longitudeCoordinate": "-79.419922086",
-      "postalCode": "M6C 1A4",
-      "province": "Ontario",
-      "streetAddress": "536 St Clair Avenue West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "538 St Clair Avenue West Toronto Ontario",
-      "latitudeCoordinate": "43.68302176",
-      "longitudeCoordinate": "-79.420012651",
-      "postalCode": "M6C 1A4",
-      "province": "Ontario",
-      "streetAddress": "538 St Clair Avenue West"
     },
     {
       "city": "Toronto",
@@ -251,95 +340,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "73 Woodbine Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.66641921",
-      "longitudeCoordinate": "-79.304473341",
-      "postalCode": "M4L 3P1",
-      "province": "Ontario",
-      "streetAddress": "73 Woodbine Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "83 Woodbine Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.666550807",
-      "longitudeCoordinate": "-79.304612633",
-      "postalCode": "M4L 3P1",
-      "province": "Ontario",
-      "streetAddress": "83 Woodbine Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "3 Buller Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.666713593",
-      "longitudeCoordinate": "-79.30409512",
-      "postalCode": "M4L 1B9",
-      "province": "Ontario",
-      "streetAddress": "3 Buller Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "985 Woodbine Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6863677752",
-      "longitudeCoordinate": "-79.3125039549",
-      "postalCode": "M4C 4B8",
-      "province": "Ontario",
-      "streetAddress": "985 Woodbine Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "2078 Danforth Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.685913994",
-      "longitudeCoordinate": "-79.312705126",
-      "province": "Ontario",
-      "streetAddress": "2078 Danforth Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "2086 Danforth Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.685954791",
-      "longitudeCoordinate": "-79.312509277",
-      "postalCode": "M4C 1J9",
-      "province": "Ontario",
-      "streetAddress": "2086 Danforth Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "2100 Danforth Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.686103228",
-      "longitudeCoordinate": "-79.312211501",
-      "postalCode": "M4C 1J9",
-      "province": "Ontario",
-      "streetAddress": "2100 Danforth Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "2102 Danforth Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.686111852",
-      "longitudeCoordinate": "-79.312140225",
-      "postalCode": "M4C 1J9",
-      "province": "Ontario",
-      "streetAddress": "2102 Danforth Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "2106 Danforth Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.686057048",
-      "longitudeCoordinate": "-79.312049689",
-      "postalCode": "M4C 1J9",
-      "province": "Ontario",
-      "streetAddress": "2106 Danforth Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "2026 Queen Street East Toronto Ontario",
       "latitudeCoordinate": "43.670479798",
       "longitudeCoordinate": "-79.298646317",
@@ -376,15 +376,6 @@
       "postalCode": "M5B 1R4",
       "province": "Ontario",
       "streetAddress": "316 Yonge Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "304 Yonge Street Toronto Ontario",
-      "latitudeCoordinate": "43.656690604169235",
-      "longitudeCoordinate": "-79.3813493619243",
-      "province": "Ontario",
-      "streetAddress": "304 Yonge Street"
     },
     {
       "city": "Toronto",
@@ -474,15 +465,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "65 Centre Street Toronto Ontario",
-      "latitudeCoordinate": "43.8157222121029",
-      "longitudeCoordinate": "-79.42660763307947",
-      "province": "Ontario",
-      "streetAddress": "65 Centre Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "412 Church Street Toronto Ontario",
       "latitudeCoordinate": "43.660817428",
       "longitudeCoordinate": "-79.379216959",
@@ -527,6 +509,24 @@
       "postalCode": "M6K 1H2",
       "province": "Ontario",
       "streetAddress": "1337 King Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "304 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.656690604169235",
+      "longitudeCoordinate": "-79.3813493619243",
+      "province": "Ontario",
+      "streetAddress": "304 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "65 Centre Street Toronto Ontario",
+      "latitudeCoordinate": "43.8157222121029",
+      "longitudeCoordinate": "-79.42660763307947",
+      "province": "Ontario",
+      "streetAddress": "65 Centre Street"
     }
   ],
   "backgroundInformationList": [

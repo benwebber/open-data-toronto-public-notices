@@ -3,22 +3,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "1549-1551 The Queensway Toronto Ontario",
-      "latitudeCoordinate": "43.6180410147",
-      "longitudeCoordinate": "-79.538396045",
-      "postalCode": "M8Z 1T8",
-      "province": "Ontario",
-      "streetAddress": "1549-1551 The Queensway"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "76 Fordhouse Boulevard Toronto Ontario",
       "latitudeCoordinate": "43.6164320097",
       "longitudeCoordinate": "-79.5377354759",
       "postalCode": "M8Z 5X7",
       "province": "Ontario",
       "streetAddress": "76 Fordhouse Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1549-1551 The Queensway Toronto Ontario",
+      "latitudeCoordinate": "43.6180410147",
+      "longitudeCoordinate": "-79.538396045",
+      "postalCode": "M8Z 1T8",
+      "province": "Ontario",
+      "streetAddress": "1549-1551 The Queensway"
     }
   ],
   "backgroundInformationList": [

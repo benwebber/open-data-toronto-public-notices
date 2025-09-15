@@ -3,22 +3,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "3250 Markham Road Toronto Ontario",
-      "latitudeCoordinate": "43.83182457",
-      "longitudeCoordinate": "-79.251517553",
-      "postalCode": "M1X 1M8",
-      "province": "Ontario",
-      "streetAddress": "3250 Markham Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "568 Passmore Avenue Toronto Ontario",
       "latitudeCoordinate": "43.830909727",
       "longitudeCoordinate": "-79.252993633",
       "postalCode": "M1V 4B2",
       "province": "Ontario",
       "streetAddress": "568 Passmore Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3250 Markham Road Toronto Ontario",
+      "latitudeCoordinate": "43.83182457",
+      "longitudeCoordinate": "-79.251517553",
+      "postalCode": "M1X 1M8",
+      "province": "Ontario",
+      "streetAddress": "3250 Markham Road"
     }
   ],
   "backgroundInformationList": [

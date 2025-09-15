@@ -13,21 +13,21 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "Spadina Avenue & Adelaide Street West Toronto Ontario",
-      "latitudeCoordinate": "43.646740586",
-      "longitudeCoordinate": "-79.395570794",
-      "majorIntersection": "Spadina Avenue & Adelaide Street West",
-      "province": "Ontario"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "71 Front Street West Toronto Ontario",
       "latitudeCoordinate": "43.6454689872",
       "longitudeCoordinate": "-79.3805510244",
       "postalCode": "M5J 1E6",
       "province": "Ontario",
       "streetAddress": "71 Front Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Spadina Avenue & Adelaide Street West Toronto Ontario",
+      "latitudeCoordinate": "43.646740586",
+      "longitudeCoordinate": "-79.395570794",
+      "majorIntersection": "Spadina Avenue & Adelaide Street West",
+      "province": "Ontario"
     }
   ],
   "backgroundInformationList": [

@@ -3,21 +3,21 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "1325 Bloor Street West Toronto Ontario",
-      "latitudeCoordinate": "43.657634998",
-      "longitudeCoordinate": "-79.444973083",
-      "province": "Ontario",
-      "streetAddress": "1325 Bloor Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "17 Dora Avenue Toronto Ontario",
       "latitudeCoordinate": "43.65522686",
       "longitudeCoordinate": "-79.443848742",
       "postalCode": "M6H 1J5",
       "province": "Ontario",
       "streetAddress": "17 Dora Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1325 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.657634998",
+      "longitudeCoordinate": "-79.444973083",
+      "province": "Ontario",
+      "streetAddress": "1325 Bloor Street West"
     }
   ],
   "backgroundInformationList": [

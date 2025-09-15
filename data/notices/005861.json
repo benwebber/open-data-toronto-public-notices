@@ -3,32 +3,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "12 Kimbermount Drive Toronto Ontario",
-      "latitudeCoordinate": "43.7928669137",
-      "longitudeCoordinate": "-79.2986987068",
-      "postalCode": "M1T 2X9",
-      "province": "Ontario",
-      "streetAddress": "12 Kimbermount Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "16 MacDonell Avenue Toronto Ontario",
       "latitudeCoordinate": "43.640878045",
       "longitudeCoordinate": "-79.438372983",
       "postalCode": "M6R 2A2",
       "province": "Ontario",
       "streetAddress": "16 MacDonell Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "16 Masseygrove Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.736138097",
-      "longitudeCoordinate": "-79.585060417",
-      "postalCode": "M9V 3C9",
-      "province": "Ontario",
-      "streetAddress": "16 Masseygrove Crescent"
     },
     {
       "city": "Toronto",
@@ -53,32 +33,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "50 Burlingame Road Toronto Ontario",
-      "latitudeCoordinate": "43.6001848792",
-      "longitudeCoordinate": "-79.54887386",
-      "postalCode": "M8W 1Y8",
-      "province": "Ontario",
-      "streetAddress": "50 Burlingame Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "69 Sheridan Avenue Toronto Ontario",
       "latitudeCoordinate": "43.648134857",
       "longitudeCoordinate": "-79.432742302",
       "postalCode": "M6K 2G8",
       "province": "Ontario",
       "streetAddress": "69 Sheridan Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "75 Robert Street Toronto Ontario",
-      "latitudeCoordinate": "43.7069032167",
-      "longitudeCoordinate": "-79.5173028484",
-      "postalCode": "M5S 2K4",
-      "province": "Ontario",
-      "streetAddress": "75 Robert Street"
     },
     {
       "city": "Toronto",
@@ -93,12 +53,42 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "16 Masseygrove Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.736138097",
+      "longitudeCoordinate": "-79.585060417",
+      "postalCode": "M9V 3C9",
+      "province": "Ontario",
+      "streetAddress": "16 Masseygrove Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "12 Kimbermount Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7928669137",
+      "longitudeCoordinate": "-79.2986987068",
+      "postalCode": "M1T 2X9",
+      "province": "Ontario",
+      "streetAddress": "12 Kimbermount Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "211 Three Valleys Drive Toronto Ontario",
       "latitudeCoordinate": "43.7449914056",
       "longitudeCoordinate": "-79.3362834606",
       "postalCode": "M3A 3L7",
       "province": "Ontario",
       "streetAddress": "211 Three Valleys Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "50 Burlingame Road Toronto Ontario",
+      "latitudeCoordinate": "43.6001848792",
+      "longitudeCoordinate": "-79.54887386",
+      "postalCode": "M8W 1Y8",
+      "province": "Ontario",
+      "streetAddress": "50 Burlingame Road"
     },
     {
       "city": "Toronto",
@@ -129,6 +119,16 @@
       "postalCode": "M8Y 2T6",
       "province": "Ontario",
       "streetAddress": "734 Royal York Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "75 Robert Street Toronto Ontario",
+      "latitudeCoordinate": "43.7069032167",
+      "longitudeCoordinate": "-79.5173028484",
+      "postalCode": "M5S 2K4",
+      "province": "Ontario",
+      "streetAddress": "75 Robert Street"
     }
   ],
   "backgroundInformationList": [

@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "561 Jarvis Street Toronto Ontario",
-      "latitudeCoordinate": "43.6683620869",
-      "longitudeCoordinate": "-79.3786856506",
-      "postalCode": "M4Y 2J1",
-      "province": "Ontario",
-      "streetAddress": "561 Jarvis Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "102 Earl Place Toronto Ontario",
       "latitudeCoordinate": "43.668120501",
       "longitudeCoordinate": "-79.37889109",
@@ -29,6 +19,16 @@
       "postalCode": "M4Y 3B9",
       "province": "Ontario",
       "streetAddress": "120 Earl Place"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "561 Jarvis Street Toronto Ontario",
+      "latitudeCoordinate": "43.6683620869",
+      "longitudeCoordinate": "-79.3786856506",
+      "postalCode": "M4Y 2J1",
+      "province": "Ontario",
+      "streetAddress": "561 Jarvis Street"
     }
   ],
   "backgroundInformationList": [

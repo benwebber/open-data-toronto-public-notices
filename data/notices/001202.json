@@ -13,52 +13,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "16 Medaca Street Toronto Ontario",
-      "latitudeCoordinate": "43.7916102595",
-      "longitudeCoordinate": "-79.3451442001",
-      "postalCode": "M2J 3A7",
-      "province": "Ontario",
-      "streetAddress": "16 Medaca Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "23 White Birch Road Toronto Ontario",
-      "latitudeCoordinate": "43.6857402516",
-      "longitudeCoordinate": "-79.2687976481",
-      "postalCode": "M1N 3A7",
-      "province": "Ontario",
-      "streetAddress": "23 White Birch Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "36 Harris Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6881536498",
       "longitudeCoordinate": "-79.3064249623",
       "postalCode": "M4C 1P4",
       "province": "Ontario",
       "streetAddress": "36 Harris Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "106 Roseneath Gardens Toronto Ontario",
-      "latitudeCoordinate": "43.6853068719",
-      "longitudeCoordinate": "-79.4360629952",
-      "postalCode": "M6C 3X6",
-      "province": "Ontario",
-      "streetAddress": "106 Roseneath Gardens"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "156 Hollyberry Trail Toronto Ontario",
-      "latitudeCoordinate": "43.8100021121",
-      "longitudeCoordinate": "-79.3498781828",
-      "postalCode": "M2H 2P1",
-      "province": "Ontario",
-      "streetAddress": "156 Hollyberry Trail"
     },
     {
       "city": "Toronto",
@@ -73,6 +33,46 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "206 Albany Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6722171073",
+      "longitudeCoordinate": "-79.4131992943",
+      "postalCode": "M5R 3C6",
+      "province": "Ontario",
+      "streetAddress": "206 Albany Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "106 Roseneath Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.6853068719",
+      "longitudeCoordinate": "-79.4360629952",
+      "postalCode": "M6C 3X6",
+      "province": "Ontario",
+      "streetAddress": "106 Roseneath Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "23 White Birch Road Toronto Ontario",
+      "latitudeCoordinate": "43.6857402516",
+      "longitudeCoordinate": "-79.2687976481",
+      "postalCode": "M1N 3A7",
+      "province": "Ontario",
+      "streetAddress": "23 White Birch Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 Medaca Street Toronto Ontario",
+      "latitudeCoordinate": "43.7916102595",
+      "longitudeCoordinate": "-79.3451442001",
+      "postalCode": "M2J 3A7",
+      "province": "Ontario",
+      "streetAddress": "16 Medaca Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "190 Lisgar Street Toronto Ontario",
       "latitudeCoordinate": "43.64632698",
       "longitudeCoordinate": "-79.4251708571",
@@ -83,12 +83,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "206 Albany Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6722171073",
-      "longitudeCoordinate": "-79.4131992943",
-      "postalCode": "M5R 3C6",
+      "fullAddress": "156 Hollyberry Trail Toronto Ontario",
+      "latitudeCoordinate": "43.8100021121",
+      "longitudeCoordinate": "-79.3498781828",
+      "postalCode": "M2H 2P1",
       "province": "Ontario",
-      "streetAddress": "206 Albany Avenue"
+      "streetAddress": "156 Hollyberry Trail"
     }
   ],
   "backgroundInformationList": [

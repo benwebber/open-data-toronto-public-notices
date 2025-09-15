@@ -3,36 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "65 George Street Toronto Ontario",
-      "latitudeCoordinate": "43.6504949708",
-      "longitudeCoordinate": "-79.3703032776",
-      "postalCode": "M5A 4L8",
-      "province": "Ontario",
-      "streetAddress": "65 George Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "501 Vesta Drive Toronto Ontario",
-      "latitudeCoordinate": "43.7004049512",
-      "longitudeCoordinate": "-79.419857363",
-      "postalCode": "M5P 3A8",
-      "province": "Ontario",
-      "streetAddress": "501 Vesta Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "292 Main Street Toronto Ontario",
-      "latitudeCoordinate": "43.6875767239",
-      "longitudeCoordinate": "-79.3019789264",
-      "postalCode": "M4C 4X5",
-      "province": "Ontario",
-      "streetAddress": "292 Main Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "1150 Eglinton Avenue East Toronto Ontario",
       "latitudeCoordinate": "43.7202174188",
       "longitudeCoordinate": "-79.3447547883",
@@ -43,12 +13,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "64 Wellesley Street East Toronto Ontario",
-      "latitudeCoordinate": "43.6659096087",
-      "longitudeCoordinate": "-79.3818101517",
-      "postalCode": "M4Y 1G6",
+      "fullAddress": "501 Vesta Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7004049512",
+      "longitudeCoordinate": "-79.419857363",
+      "postalCode": "M5P 3A8",
       "province": "Ontario",
-      "streetAddress": "64 Wellesley Street East"
+      "streetAddress": "501 Vesta Drive"
     },
     {
       "city": "Toronto",
@@ -69,6 +39,36 @@
       "postalCode": "M4V 2T2",
       "province": "Ontario",
       "streetAddress": "206 Russell Hill Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "65 George Street Toronto Ontario",
+      "latitudeCoordinate": "43.6504949708",
+      "longitudeCoordinate": "-79.3703032776",
+      "postalCode": "M5A 4L8",
+      "province": "Ontario",
+      "streetAddress": "65 George Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "292 Main Street Toronto Ontario",
+      "latitudeCoordinate": "43.6875767239",
+      "longitudeCoordinate": "-79.3019789264",
+      "postalCode": "M4C 4X5",
+      "province": "Ontario",
+      "streetAddress": "292 Main Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "64 Wellesley Street East Toronto Ontario",
+      "latitudeCoordinate": "43.6659096087",
+      "longitudeCoordinate": "-79.3818101517",
+      "postalCode": "M4Y 1G6",
+      "province": "Ontario",
+      "streetAddress": "64 Wellesley Street East"
     }
   ],
   "backgroundInformationList": [

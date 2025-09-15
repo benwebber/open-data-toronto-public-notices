@@ -23,25 +23,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "1 Grantbrook Street Toronto Ontario",
-      "latitudeCoordinate": "43.777260704114276",
-      "longitudeCoordinate": "-79.43164081534397",
-      "province": "Ontario",
-      "streetAddress": "1 Grantbrook Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "33 Grantbrook Street Toronto Ontario",
-      "latitudeCoordinate": "43.7779545291",
-      "longitudeCoordinate": "-79.431889988",
-      "postalCode": "M2R 2E6",
-      "province": "Ontario",
-      "streetAddress": "33 Grantbrook Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "305 Hendon Avenue Toronto Ontario",
       "latitudeCoordinate": "43.7781014657",
       "longitudeCoordinate": "-79.43093238",
@@ -58,6 +39,25 @@
       "postalCode": "M2M 1B3",
       "province": "Ontario",
       "streetAddress": "313 Hendon Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Grantbrook Street Toronto Ontario",
+      "latitudeCoordinate": "43.777260704114276",
+      "longitudeCoordinate": "-79.43164081534397",
+      "province": "Ontario",
+      "streetAddress": "1 Grantbrook Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "33 Grantbrook Street Toronto Ontario",
+      "latitudeCoordinate": "43.7779545291",
+      "longitudeCoordinate": "-79.431889988",
+      "postalCode": "M2R 2E6",
+      "province": "Ontario",
+      "streetAddress": "33 Grantbrook Street"
     }
   ],
   "backgroundInformationList": [

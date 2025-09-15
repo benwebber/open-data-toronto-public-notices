@@ -3,42 +3,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "10 Friendly Drive Toronto Ontario",
-      "latitudeCoordinate": "43.642037264",
-      "longitudeCoordinate": "-79.554210487",
-      "postalCode": "M9B 1S5",
-      "province": "Ontario",
-      "streetAddress": "10 Friendly Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "26 Sunnybrae Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.6884171439",
-      "longitudeCoordinate": "-79.496180655",
-      "postalCode": "M6M 4W5",
-      "province": "Ontario",
-      "streetAddress": "26 Sunnybrae Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "28 Beaconsfield Avenue Toronto Ontario",
       "latitudeCoordinate": "43.644116397",
       "longitudeCoordinate": "-79.425503645",
       "postalCode": "M6J 3H9",
       "province": "Ontario",
       "streetAddress": "28 Beaconsfield Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "204 Kingston Road Toronto Ontario",
-      "latitudeCoordinate": "43.672231477",
-      "longitudeCoordinate": "-79.310292507",
-      "postalCode": "M4L 1S7",
-      "province": "Ontario",
-      "streetAddress": "204 Kingston Road"
     },
     {
       "city": "Toronto",
@@ -59,6 +29,36 @@
       "postalCode": "M6C 1B7",
       "province": "Ontario",
       "streetAddress": "781 St Clair Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "26 Sunnybrae Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.6884171439",
+      "longitudeCoordinate": "-79.496180655",
+      "postalCode": "M6M 4W5",
+      "province": "Ontario",
+      "streetAddress": "26 Sunnybrae Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10 Friendly Drive Toronto Ontario",
+      "latitudeCoordinate": "43.642037264",
+      "longitudeCoordinate": "-79.554210487",
+      "postalCode": "M9B 1S5",
+      "province": "Ontario",
+      "streetAddress": "10 Friendly Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "204 Kingston Road Toronto Ontario",
+      "latitudeCoordinate": "43.672231477",
+      "longitudeCoordinate": "-79.310292507",
+      "postalCode": "M4L 1S7",
+      "province": "Ontario",
+      "streetAddress": "204 Kingston Road"
     }
   ],
   "backgroundInformationList": [

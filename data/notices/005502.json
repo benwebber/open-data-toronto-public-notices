@@ -3,22 +3,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "3400 Weston Road Toronto Ontario",
-      "latitudeCoordinate": "43.749810629",
-      "longitudeCoordinate": "-79.543432658",
-      "postalCode": "M9M 2W2",
-      "province": "Ontario",
-      "streetAddress": "3400 Weston Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "2405 Finch Avenue West Toronto Ontario",
       "latitudeCoordinate": "43.750621289",
       "longitudeCoordinate": "-79.544032103",
       "postalCode": "M9M 2X2",
       "province": "Ontario",
       "streetAddress": "2405 Finch Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3400 Weston Road Toronto Ontario",
+      "latitudeCoordinate": "43.749810629",
+      "longitudeCoordinate": "-79.543432658",
+      "postalCode": "M9M 2W2",
+      "province": "Ontario",
+      "streetAddress": "3400 Weston Road"
     }
   ],
   "backgroundInformationList": [

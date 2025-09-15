@@ -3,20 +3,20 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "34 Dixington Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.696411866",
-      "longitudeCoordinate": "-79.541932687",
-      "province": "Ontario",
-      "streetAddress": "34 Dixington Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "45 Driftwood Avenue Toronto Ontario",
       "latitudeCoordinate": "43.7511483154",
       "longitudeCoordinate": "-79.5114796645",
       "province": "Ontario",
       "streetAddress": "45 Driftwood Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "34 Dixington Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.696411866",
+      "longitudeCoordinate": "-79.541932687",
+      "province": "Ontario",
+      "streetAddress": "34 Dixington Crescent"
     }
   ],
   "backgroundInformationList": [],

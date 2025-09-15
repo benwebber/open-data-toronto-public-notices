@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "99 Cartwright Toronto Ontario",
-      "latitudeCoordinate": "43.722238474",
-      "longitudeCoordinate": "-79.463699479",
-      "postalCode": "M6A 1V4",
-      "province": "Ontario",
-      "streetAddress": "99 Cartwright"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "109 Cartwright Avenue Toronto Ontario",
       "latitudeCoordinate": "43.7218001249",
       "longitudeCoordinate": "-79.4648913282",
@@ -29,6 +19,16 @@
       "postalCode": "M6A 1P7",
       "province": "Ontario",
       "streetAddress": "130 Bentworth Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "99 Cartwright Toronto Ontario",
+      "latitudeCoordinate": "43.722238474",
+      "longitudeCoordinate": "-79.463699479",
+      "postalCode": "M6A 1V4",
+      "province": "Ontario",
+      "streetAddress": "99 Cartwright"
     }
   ],
   "backgroundInformationList": [

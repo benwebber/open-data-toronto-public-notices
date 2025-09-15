@@ -3,6 +3,36 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "95 Strachan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6423788807",
+      "longitudeCoordinate": "-79.4118188035",
+      "postalCode": "M6J 2S7",
+      "province": "Ontario",
+      "streetAddress": "95 Strachan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "97 Strachan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6424360137",
+      "longitudeCoordinate": "-79.4118568484",
+      "postalCode": "M6J 2S7",
+      "province": "Ontario",
+      "streetAddress": "97 Strachan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "99 Strachan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6425224179",
+      "longitudeCoordinate": "-79.4117651769",
+      "postalCode": "M6J 2S7",
+      "province": "Ontario",
+      "streetAddress": "99 Strachan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "938 King Street West Toronto Ontario",
       "latitudeCoordinate": "43.6423402656",
       "longitudeCoordinate": "-79.4114525897",
@@ -49,36 +79,6 @@
       "postalCode": "M5V 1P5",
       "province": "Ontario",
       "streetAddress": "950 King Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "95 Strachan Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6423788807",
-      "longitudeCoordinate": "-79.4118188035",
-      "postalCode": "M6J 2S7",
-      "province": "Ontario",
-      "streetAddress": "95 Strachan Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "97 Strachan Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6424360137",
-      "longitudeCoordinate": "-79.4118568484",
-      "postalCode": "M6J 2S7",
-      "province": "Ontario",
-      "streetAddress": "97 Strachan Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "99 Strachan Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6425224179",
-      "longitudeCoordinate": "-79.4117651769",
-      "postalCode": "M6J 2S7",
-      "province": "Ontario",
-      "streetAddress": "99 Strachan Avenue"
     }
   ],
   "backgroundInformationList": [

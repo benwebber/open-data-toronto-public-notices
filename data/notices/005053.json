@@ -13,16 +13,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "7 Beacham Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.7740545965",
-      "longitudeCoordinate": "-79.3140753799",
-      "postalCode": "M1T 1M9",
-      "province": "Ontario",
-      "streetAddress": "7 Beacham Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "7 Crestland Avenue Toronto Ontario",
       "latitudeCoordinate": "43.691456106",
       "longitudeCoordinate": "-79.3244251773",
@@ -43,32 +33,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "10 Barkwood Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.8049285715",
-      "longitudeCoordinate": "-79.3574643384",
-      "postalCode": "M2H 3G6",
-      "province": "Ontario",
-      "streetAddress": "10 Barkwood Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "19 Urbandale Avenue Toronto Ontario",
       "latitudeCoordinate": "43.7918388222",
       "longitudeCoordinate": "-79.3990639572",
       "postalCode": "M2M 2G9",
       "province": "Ontario",
       "streetAddress": "19 Urbandale Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "25 Trimontium Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.70066767",
-      "longitudeCoordinate": "-79.323309795",
-      "postalCode": "M4C 5N6",
-      "province": "Ontario",
-      "streetAddress": "25 Trimontium Crescent"
     },
     {
       "city": "Toronto",
@@ -93,26 +63,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "36 Fulham Drive Toronto Ontario",
-      "latitudeCoordinate": "43.603599639",
-      "longitudeCoordinate": "-79.553635039",
-      "postalCode": "M8W 4T2",
-      "province": "Ontario",
-      "streetAddress": "36 Fulham Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "42 Highfield Road Toronto Ontario",
-      "latitudeCoordinate": "43.668133076",
-      "longitudeCoordinate": "-79.323921266",
-      "postalCode": "M4L 2V1",
-      "province": "Ontario",
-      "streetAddress": "42 Highfield Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "43 West Lynn Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6826359034",
       "longitudeCoordinate": "-79.3154051013",
@@ -129,36 +79,6 @@
       "postalCode": "M4E 1Z3",
       "province": "Ontario",
       "streetAddress": "44 Swanwick Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "49 Nottingham Drive Toronto Ontario",
-      "latitudeCoordinate": "43.654086704",
-      "longitudeCoordinate": "-79.525991175",
-      "postalCode": "M9A 2W4",
-      "province": "Ontario",
-      "streetAddress": "49 Nottingham Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "49 Weatherell Street Toronto Ontario",
-      "latitudeCoordinate": "43.651312301",
-      "longitudeCoordinate": "-79.486556",
-      "postalCode": "M6S 1T2",
-      "province": "Ontario",
-      "streetAddress": "49 Weatherell Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "55 Wayford Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.8071529609",
-      "longitudeCoordinate": "-79.2086831215",
-      "postalCode": "M1B 3E3",
-      "province": "Ontario",
-      "streetAddress": "55 Wayford Crescent"
     },
     {
       "city": "Toronto",
@@ -213,16 +133,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "93 Dutch Myrtleway Toronto Ontario",
-      "latitudeCoordinate": "43.7399760107",
-      "longitudeCoordinate": "-79.3427968536",
-      "postalCode": "M3B 3L2",
-      "province": "Ontario",
-      "streetAddress": "93 Dutch Myrtleway"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "108 Galley Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6435765636",
       "longitudeCoordinate": "-79.4450650362",
@@ -233,52 +143,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "115 West Deane Park Drive Toronto Ontario",
-      "latitudeCoordinate": "43.6577063339",
-      "longitudeCoordinate": "-79.5587374642",
-      "postalCode": "M9B 2S6",
-      "province": "Ontario",
-      "streetAddress": "115 West Deane Park Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "116 Benjamin Boulevard Toronto Ontario",
-      "latitudeCoordinate": "43.7297090606",
-      "longitudeCoordinate": "-79.2609229423",
-      "postalCode": "M1K 3P1",
-      "province": "Ontario",
-      "streetAddress": "116 Benjamin Boulevard"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "127 Three Valleys Drive Toronto Ontario",
-      "latitudeCoordinate": "43.747494191",
-      "longitudeCoordinate": "-79.3363148011",
-      "postalCode": "M3A 3C1",
-      "province": "Ontario",
-      "streetAddress": "127 Three Valleys Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "157 Gledhill Avenue Toronto Ontario",
       "latitudeCoordinate": "43.691620745",
       "longitudeCoordinate": "-79.310446881",
       "postalCode": "M4C 5K9",
       "province": "Ontario",
       "streetAddress": "157 Gledhill Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "170 Strathearn Road Toronto Ontario",
-      "latitudeCoordinate": "43.6961856335",
-      "longitudeCoordinate": "-79.4333447628",
-      "postalCode": "M6C 1S2",
-      "province": "Ontario",
-      "streetAddress": "170 Strathearn Road"
     },
     {
       "city": "Toronto",
@@ -303,16 +173,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "179 Milverton Boulevard Toronto Ontario",
-      "latitudeCoordinate": "43.6843565052",
-      "longitudeCoordinate": "-79.3345131398",
-      "postalCode": "M4J 1V2",
-      "province": "Ontario",
-      "streetAddress": "179 Milverton Boulevard"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "181 Sheppard Avenue West Toronto Ontario",
       "latitudeCoordinate": "43.7593648409",
       "longitudeCoordinate": "-79.4197126126",
@@ -323,32 +183,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "228 Springdale Boulevard Toronto Ontario",
-      "latitudeCoordinate": "43.6883102667",
-      "longitudeCoordinate": "-79.3216316609",
-      "postalCode": "M4C 1Z9",
-      "province": "Ontario",
-      "streetAddress": "228 Springdale Boulevard"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "231 Evelyn Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6622072483",
       "longitudeCoordinate": "-79.4754205367",
       "postalCode": "M6P 2Z8",
       "province": "Ontario",
       "streetAddress": "231 Evelyn Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "278 Guildwood Parkway Toronto Ontario",
-      "latitudeCoordinate": "43.750174184",
-      "longitudeCoordinate": "-79.188267596",
-      "postalCode": "M1E 1P9",
-      "province": "Ontario",
-      "streetAddress": "278 Guildwood Parkway"
     },
     {
       "city": "Toronto",
@@ -373,16 +213,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "464 Durie Street Toronto Ontario",
-      "latitudeCoordinate": "43.6572927932",
-      "longitudeCoordinate": "-79.482102969",
-      "postalCode": "M6S 3G7",
-      "province": "Ontario",
-      "streetAddress": "464 Durie Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "694 Manning Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6651795643",
       "longitudeCoordinate": "-79.4166530885",
@@ -399,6 +229,176 @@
       "postalCode": "M6S 3M5",
       "province": "Ontario",
       "streetAddress": "805 Windermere Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "116 Benjamin Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.7297090606",
+      "longitudeCoordinate": "-79.2609229423",
+      "postalCode": "M1K 3P1",
+      "province": "Ontario",
+      "streetAddress": "116 Benjamin Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "179 Milverton Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.6843565052",
+      "longitudeCoordinate": "-79.3345131398",
+      "postalCode": "M4J 1V2",
+      "province": "Ontario",
+      "streetAddress": "179 Milverton Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "228 Springdale Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.6883102667",
+      "longitudeCoordinate": "-79.3216316609",
+      "postalCode": "M4C 1Z9",
+      "province": "Ontario",
+      "streetAddress": "228 Springdale Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Beacham Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7740545965",
+      "longitudeCoordinate": "-79.3140753799",
+      "postalCode": "M1T 1M9",
+      "province": "Ontario",
+      "streetAddress": "7 Beacham Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10 Barkwood Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.8049285715",
+      "longitudeCoordinate": "-79.3574643384",
+      "postalCode": "M2H 3G6",
+      "province": "Ontario",
+      "streetAddress": "10 Barkwood Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "25 Trimontium Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.70066767",
+      "longitudeCoordinate": "-79.323309795",
+      "postalCode": "M4C 5N6",
+      "province": "Ontario",
+      "streetAddress": "25 Trimontium Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55 Wayford Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.8071529609",
+      "longitudeCoordinate": "-79.2086831215",
+      "postalCode": "M1B 3E3",
+      "province": "Ontario",
+      "streetAddress": "55 Wayford Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "36 Fulham Drive Toronto Ontario",
+      "latitudeCoordinate": "43.603599639",
+      "longitudeCoordinate": "-79.553635039",
+      "postalCode": "M8W 4T2",
+      "province": "Ontario",
+      "streetAddress": "36 Fulham Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "49 Nottingham Drive Toronto Ontario",
+      "latitudeCoordinate": "43.654086704",
+      "longitudeCoordinate": "-79.525991175",
+      "postalCode": "M9A 2W4",
+      "province": "Ontario",
+      "streetAddress": "49 Nottingham Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "115 West Deane Park Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6577063339",
+      "longitudeCoordinate": "-79.5587374642",
+      "postalCode": "M9B 2S6",
+      "province": "Ontario",
+      "streetAddress": "115 West Deane Park Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "127 Three Valleys Drive Toronto Ontario",
+      "latitudeCoordinate": "43.747494191",
+      "longitudeCoordinate": "-79.3363148011",
+      "postalCode": "M3A 3C1",
+      "province": "Ontario",
+      "streetAddress": "127 Three Valleys Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "278 Guildwood Parkway Toronto Ontario",
+      "latitudeCoordinate": "43.750174184",
+      "longitudeCoordinate": "-79.188267596",
+      "postalCode": "M1E 1P9",
+      "province": "Ontario",
+      "streetAddress": "278 Guildwood Parkway"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "42 Highfield Road Toronto Ontario",
+      "latitudeCoordinate": "43.668133076",
+      "longitudeCoordinate": "-79.323921266",
+      "postalCode": "M4L 2V1",
+      "province": "Ontario",
+      "streetAddress": "42 Highfield Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "170 Strathearn Road Toronto Ontario",
+      "latitudeCoordinate": "43.6961856335",
+      "longitudeCoordinate": "-79.4333447628",
+      "postalCode": "M6C 1S2",
+      "province": "Ontario",
+      "streetAddress": "170 Strathearn Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "49 Weatherell Street Toronto Ontario",
+      "latitudeCoordinate": "43.651312301",
+      "longitudeCoordinate": "-79.486556",
+      "postalCode": "M6S 1T2",
+      "province": "Ontario",
+      "streetAddress": "49 Weatherell Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "464 Durie Street Toronto Ontario",
+      "latitudeCoordinate": "43.6572927932",
+      "longitudeCoordinate": "-79.482102969",
+      "postalCode": "M6S 3G7",
+      "province": "Ontario",
+      "streetAddress": "464 Durie Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "93 Dutch Myrtleway Toronto Ontario",
+      "latitudeCoordinate": "43.7399760107",
+      "longitudeCoordinate": "-79.3427968536",
+      "postalCode": "M3B 3L2",
+      "province": "Ontario",
+      "streetAddress": "93 Dutch Myrtleway"
     }
   ],
   "backgroundInformationList": [

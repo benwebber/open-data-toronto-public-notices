@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "120 Lynn Williams Street Toronto Ontario",
-      "latitudeCoordinate": "43.639032857",
-      "longitudeCoordinate": "-79.417501505",
-      "postalCode": "M6K 3N6",
-      "province": "Ontario",
-      "streetAddress": "120 Lynn Williams Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "85 Hanna Avenue Toronto Ontario",
       "latitudeCoordinate": "43.640072711",
       "longitudeCoordinate": "-79.419862619",
@@ -29,6 +19,16 @@
       "postalCode": "M6K 3N7",
       "province": "Ontario",
       "streetAddress": "61 Hanna Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "120 Lynn Williams Street Toronto Ontario",
+      "latitudeCoordinate": "43.639032857",
+      "longitudeCoordinate": "-79.417501505",
+      "postalCode": "M6K 3N6",
+      "province": "Ontario",
+      "streetAddress": "120 Lynn Williams Street"
     }
   ],
   "backgroundInformationList": [

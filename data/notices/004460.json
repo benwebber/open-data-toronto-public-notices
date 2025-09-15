@@ -3,6 +3,35 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "212 Cowan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.640196825",
+      "longitudeCoordinate": "-79.433090037",
+      "postalCode": "M6K 2N6",
+      "province": "Ontario",
+      "streetAddress": "212 Cowan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "220 Cowan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6407247064",
+      "longitudeCoordinate": "-79.4332336687",
+      "postalCode": "M6K 2N6",
+      "province": "Ontario",
+      "streetAddress": "220 Cowan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "224 Cowan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6409660062",
+      "longitudeCoordinate": "-79.4331723673",
+      "province": "Ontario",
+      "streetAddress": "224 Cowan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "1303 Queen Street West Toronto Ontario",
       "latitudeCoordinate": "43.6411508861",
       "longitudeCoordinate": "-79.4326506625",
@@ -49,35 +78,6 @@
       "postalCode": "M6K 1L8",
       "province": "Ontario",
       "streetAddress": "1345 Queen Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "212 Cowan Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.640196825",
-      "longitudeCoordinate": "-79.433090037",
-      "postalCode": "M6K 2N6",
-      "province": "Ontario",
-      "streetAddress": "212 Cowan Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "220 Cowan Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6407247064",
-      "longitudeCoordinate": "-79.4332336687",
-      "postalCode": "M6K 2N6",
-      "province": "Ontario",
-      "streetAddress": "220 Cowan Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "224 Cowan Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6409660062",
-      "longitudeCoordinate": "-79.4331723673",
-      "province": "Ontario",
-      "streetAddress": "224 Cowan Avenue"
     }
   ],
   "backgroundInformationList": [

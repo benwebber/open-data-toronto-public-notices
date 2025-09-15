@@ -3,22 +3,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "1304 King Street West Toronto Ontario",
-      "latitudeCoordinate": "43.63831288",
-      "longitudeCoordinate": "-79.43131688",
-      "postalCode": "M6K 1G8",
-      "province": "Ontario",
-      "streetAddress": "1304 King Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "145 Cowan Avenue Toronto Ontario",
       "latitudeCoordinate": "43.638510644",
       "longitudeCoordinate": "-79.43166804",
       "postalCode": "M6K 2N5",
       "province": "Ontario",
       "streetAddress": "145 Cowan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1304 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.63831288",
+      "longitudeCoordinate": "-79.43131688",
+      "postalCode": "M6K 1G8",
+      "province": "Ontario",
+      "streetAddress": "1304 King Street West"
     }
   ],
   "backgroundInformationList": [

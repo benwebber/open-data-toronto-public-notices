@@ -3,26 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "646 Dufferin Street Toronto Ontario",
-      "latitudeCoordinate": "43.6502535127",
-      "longitudeCoordinate": "-79.4319894809",
-      "postalCode": "M6K 2B4",
-      "province": "Ontario",
-      "streetAddress": "646 Dufferin Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "648 Dufferin Street Toronto Ontario",
-      "latitudeCoordinate": "43.6503867122",
-      "longitudeCoordinate": "-79.4323886648",
-      "postalCode": "M6K 2B4",
-      "province": "Ontario",
-      "streetAddress": "648 Dufferin Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "1 Boland Lane Toronto Ontario",
       "latitudeCoordinate": "43.6501524918",
       "longitudeCoordinate": "-79.4323820143",
@@ -39,6 +19,26 @@
       "postalCode": "M6K 3G6",
       "province": "Ontario",
       "streetAddress": "3 Boland Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "646 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.6502535127",
+      "longitudeCoordinate": "-79.4319894809",
+      "postalCode": "M6K 2B4",
+      "province": "Ontario",
+      "streetAddress": "646 Dufferin Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "648 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.6503867122",
+      "longitudeCoordinate": "-79.4323886648",
+      "postalCode": "M6K 2B4",
+      "province": "Ontario",
+      "streetAddress": "648 Dufferin Street"
     }
   ],
   "backgroundInformationList": [

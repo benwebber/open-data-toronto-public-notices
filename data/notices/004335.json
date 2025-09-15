@@ -13,15 +13,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "21 Don Roadway Toronto Ontario",
-      "latitudeCoordinate": "43.652988385841674",
-      "longitudeCoordinate": "-79.34732597123318",
-      "province": "Ontario",
-      "streetAddress": "21 Don Roadway"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "375 Eastern Avenue Toronto Ontario",
       "latitudeCoordinate": "43.656426989",
       "longitudeCoordinate": "-79.346232113",
@@ -38,6 +29,15 @@
       "postalCode": "M4M 1B7",
       "province": "Ontario",
       "streetAddress": "385 Eastern Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "21 Don Roadway Toronto Ontario",
+      "latitudeCoordinate": "43.652988385841674",
+      "longitudeCoordinate": "-79.34732597123318",
+      "province": "Ontario",
+      "streetAddress": "21 Don Roadway"
     }
   ],
   "backgroundInformationList": [

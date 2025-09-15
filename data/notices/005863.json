@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "808 Mount Pleasant Road Toronto Ontario",
-      "latitudeCoordinate": "43.708867234",
-      "longitudeCoordinate": "-79.390681599",
-      "postalCode": "M4P 2L2",
-      "province": "Ontario",
-      "streetAddress": "808 Mount Pleasant Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "247 Roehampton Avenue Toronto Ontario",
       "latitudeCoordinate": "43.70935757",
       "longitudeCoordinate": "-79.390945109",
@@ -29,6 +19,16 @@
       "postalCode": "M4P 1R4",
       "province": "Ontario",
       "streetAddress": "251 Roehampton Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "808 Mount Pleasant Road Toronto Ontario",
+      "latitudeCoordinate": "43.708867234",
+      "longitudeCoordinate": "-79.390681599",
+      "postalCode": "M4P 2L2",
+      "province": "Ontario",
+      "streetAddress": "808 Mount Pleasant Road"
     }
   ],
   "backgroundInformationList": [

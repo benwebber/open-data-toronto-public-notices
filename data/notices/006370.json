@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "1615 Dufferin Street Toronto Ontario",
-      "latitudeCoordinate": "43.676618072",
-      "longitudeCoordinate": "-79.442271247",
-      "postalCode": "M6H 4H4",
-      "province": "Ontario",
-      "streetAddress": "1615 Dufferin Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "2204 Eglinton Avenue West Toronto Ontario",
       "latitudeCoordinate": "43.6934168664",
       "longitudeCoordinate": "-79.4616273818",
@@ -33,52 +23,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "601 Caledonia Road Toronto Ontario",
-      "latitudeCoordinate": "43.6935613362",
-      "longitudeCoordinate": "-79.461904864",
-      "postalCode": "M6E 4V7",
-      "province": "Ontario",
-      "streetAddress": "601 Caledonia Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "2535 Gerrard Street East Toronto Ontario",
-      "latitudeCoordinate": "43.687878316",
-      "longitudeCoordinate": "-79.279631145",
-      "postalCode": "M1N 1W9",
-      "province": "Ontario",
-      "streetAddress": "2535 Gerrard Street East"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "68 Sheppard Avenue West Toronto Ontario",
       "latitudeCoordinate": "43.7609563163",
       "longitudeCoordinate": "-79.4146846641",
       "postalCode": "M2N 1M2",
       "province": "Ontario",
       "streetAddress": "68 Sheppard Avenue West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "66 Third Street Toronto Ontario",
-      "latitudeCoordinate": "43.601138849",
-      "longitudeCoordinate": "-79.500813238",
-      "postalCode": "M8V 2X8",
-      "province": "Ontario",
-      "streetAddress": "66 Third Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "66Y Third Street Toronto Ontario",
-      "latitudeCoordinate": "43.601189645",
-      "longitudeCoordinate": "-79.500936032",
-      "postalCode": "M8V 2X8",
-      "province": "Ontario",
-      "streetAddress": "66Y Third Street"
     },
     {
       "city": "Toronto",
@@ -99,6 +49,56 @@
       "postalCode": "M3M 1H3",
       "province": "Ontario",
       "streetAddress": "1222 Wilson Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "601 Caledonia Road Toronto Ontario",
+      "latitudeCoordinate": "43.6935613362",
+      "longitudeCoordinate": "-79.461904864",
+      "postalCode": "M6E 4V7",
+      "province": "Ontario",
+      "streetAddress": "601 Caledonia Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1615 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.676618072",
+      "longitudeCoordinate": "-79.442271247",
+      "postalCode": "M6H 4H4",
+      "province": "Ontario",
+      "streetAddress": "1615 Dufferin Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2535 Gerrard Street East Toronto Ontario",
+      "latitudeCoordinate": "43.687878316",
+      "longitudeCoordinate": "-79.279631145",
+      "postalCode": "M1N 1W9",
+      "province": "Ontario",
+      "streetAddress": "2535 Gerrard Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "66 Third Street Toronto Ontario",
+      "latitudeCoordinate": "43.601138849",
+      "longitudeCoordinate": "-79.500813238",
+      "postalCode": "M8V 2X8",
+      "province": "Ontario",
+      "streetAddress": "66 Third Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "66Y Third Street Toronto Ontario",
+      "latitudeCoordinate": "43.601189645",
+      "longitudeCoordinate": "-79.500936032",
+      "postalCode": "M8V 2X8",
+      "province": "Ontario",
+      "streetAddress": "66Y Third Street"
     }
   ],
   "backgroundInformationList": [

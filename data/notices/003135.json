@@ -13,22 +13,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "292 Parliament Street Toronto Ontario",
-      "latitudeCoordinate": "43.6586589821",
-      "longitudeCoordinate": "-79.3659903719",
-      "postalCode": "M5A 3A4",
-      "province": "Ontario",
-      "streetAddress": "292 Parliament Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "4626 Kingston Road Toronto Ontario",
       "latitudeCoordinate": "43.775132028",
       "longitudeCoordinate": "-79.180120154",
       "postalCode": "M1E 2P6",
       "province": "Ontario",
       "streetAddress": "4626 Kingston Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "292 Parliament Street Toronto Ontario",
+      "latitudeCoordinate": "43.6586589821",
+      "longitudeCoordinate": "-79.3659903719",
+      "postalCode": "M5A 3A4",
+      "province": "Ontario",
+      "streetAddress": "292 Parliament Street"
     }
   ],
   "backgroundInformationList": [

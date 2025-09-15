@@ -3,6 +3,16 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "10 Victoria Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.6977038267",
+      "longitudeCoordinate": "-79.5086578581",
+      "postalCode": "M9N 1E1",
+      "province": "Ontario",
+      "streetAddress": "10 Victoria Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "1693 Weston Road Toronto Ontario",
       "latitudeCoordinate": "43.6974801662",
       "longitudeCoordinate": "-79.5092622699",
@@ -39,16 +49,6 @@
       "postalCode": "M9N 1V5",
       "province": "Ontario",
       "streetAddress": "1709 Weston Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "10 Victoria Avenue East Toronto Ontario",
-      "latitudeCoordinate": "43.6977038267",
-      "longitudeCoordinate": "-79.5086578581",
-      "postalCode": "M9N 1E1",
-      "province": "Ontario",
-      "streetAddress": "10 Victoria Avenue East"
     }
   ],
   "backgroundInformationList": [

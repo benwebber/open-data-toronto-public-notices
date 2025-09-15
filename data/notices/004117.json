@@ -4,6 +4,16 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "680 Northcliffe Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.6954602115",
+      "longitudeCoordinate": "-79.4476319541",
+      "postalCode": "M6E 3M4",
+      "province": "Ontario",
+      "streetAddress": "680 Northcliffe Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "775 Vaughan Road Toronto Ontario",
       "latitudeCoordinate": "43.6950163853",
       "longitudeCoordinate": "-79.4473823256",
@@ -20,16 +30,6 @@
       "postalCode": "M6E 2Z5",
       "province": "Ontario",
       "streetAddress": "783 Vaughan Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "680 Northcliffe Boulevard Toronto Ontario",
-      "latitudeCoordinate": "43.6954602115",
-      "longitudeCoordinate": "-79.4476319541",
-      "postalCode": "M6E 3M4",
-      "province": "Ontario",
-      "streetAddress": "680 Northcliffe Boulevard"
     }
   ],
   "backgroundInformationList": [

@@ -3,26 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "528 Birchmount Road Toronto Ontario",
-      "latitudeCoordinate": "43.7100687359",
-      "longitudeCoordinate": "-79.2696901937",
-      "postalCode": "M1K 1P2",
-      "province": "Ontario",
-      "streetAddress": "528 Birchmount Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "530 Birchmount Road Toronto Ontario",
-      "latitudeCoordinate": "43.7101622609",
-      "longitudeCoordinate": "-79.2698347715",
-      "postalCode": "M1K 1P2",
-      "province": "Ontario",
-      "streetAddress": "530 Birchmount Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "118 Newlands Avenue Toronto Ontario",
       "latitudeCoordinate": "43.7099426788",
       "longitudeCoordinate": "-79.2703681522",
@@ -39,6 +19,26 @@
       "postalCode": "M1L 1S3",
       "province": "Ontario",
       "streetAddress": "120 Newlands Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "528 Birchmount Road Toronto Ontario",
+      "latitudeCoordinate": "43.7100687359",
+      "longitudeCoordinate": "-79.2696901937",
+      "postalCode": "M1K 1P2",
+      "province": "Ontario",
+      "streetAddress": "528 Birchmount Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "530 Birchmount Road Toronto Ontario",
+      "latitudeCoordinate": "43.7101622609",
+      "longitudeCoordinate": "-79.2698347715",
+      "postalCode": "M1K 1P2",
+      "province": "Ontario",
+      "streetAddress": "530 Birchmount Road"
     }
   ],
   "backgroundInformationList": [

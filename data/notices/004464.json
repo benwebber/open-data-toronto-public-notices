@@ -3,26 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "20 Overlea Boulevard Toronto Ontario",
-      "latitudeCoordinate": "43.704728397",
-      "longitudeCoordinate": "-79.351486766",
-      "postalCode": "M4H 1A4",
-      "province": "Ontario",
-      "streetAddress": "20 Overlea Boulevard"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "36 Overlea Boulevard Toronto Ontario",
-      "latitudeCoordinate": "43.7066258631",
-      "longitudeCoordinate": "-79.3498386522",
-      "postalCode": "M4H 1B7",
-      "province": "Ontario",
-      "streetAddress": "36 Overlea Boulevard"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "885 Pape Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6840549572",
       "longitudeCoordinate": "-79.3464303017",
@@ -133,26 +113,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "5 Gertrude Place Toronto Ontario",
-      "latitudeCoordinate": "43.6802932801",
-      "longitudeCoordinate": "-79.3446855153",
-      "postalCode": "M4J 1R1",
-      "province": "Ontario",
-      "streetAddress": "5 Gertrude Place"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "11 Gertrude Place Toronto Ontario",
-      "latitudeCoordinate": "43.6804609938",
-      "longitudeCoordinate": "-79.3444366792",
-      "postalCode": "M4J 1R1",
-      "province": "Ontario",
-      "streetAddress": "11 Gertrude Place"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "240 First Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6667627362",
       "longitudeCoordinate": "-79.3436651346",
@@ -173,41 +133,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "855 Gerrard Street East Toronto Ontario",
-      "latitudeCoordinate": "43.667233527",
-      "longitudeCoordinate": "-79.343511242",
-      "province": "Ontario",
-      "streetAddress": "855 Gerrard Street East"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "499 Carlaw Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6700429288",
       "longitudeCoordinate": "-79.3433858969",
       "postalCode": "M4K 3J3",
       "province": "Ontario",
       "streetAddress": "499 Carlaw Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "15 Minton Place Toronto Ontario",
-      "latitudeCoordinate": "43.6967013425",
-      "longitudeCoordinate": "-79.3517491639",
-      "postalCode": "M4K 3X7",
-      "province": "Ontario",
-      "streetAddress": "15 Minton Place"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "17 Minton Place Toronto Ontario",
-      "latitudeCoordinate": "43.696759909",
-      "longitudeCoordinate": "-79.3518259543",
-      "postalCode": "M4K 3X7",
-      "province": "Ontario",
-      "streetAddress": "17 Minton Place"
     },
     {
       "city": "Toronto",
@@ -242,12 +173,72 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "20 Overlea Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.704728397",
+      "longitudeCoordinate": "-79.351486766",
+      "postalCode": "M4H 1A4",
+      "province": "Ontario",
+      "streetAddress": "20 Overlea Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "36 Overlea Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.7066258631",
+      "longitudeCoordinate": "-79.3498386522",
+      "postalCode": "M4H 1B7",
+      "province": "Ontario",
+      "streetAddress": "36 Overlea Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "50 Beth Nealson Drive Toronto Ontario",
       "latitudeCoordinate": "43.711936789",
       "longitudeCoordinate": "-79.346566525",
       "postalCode": "M4H 1M6",
       "province": "Ontario",
       "streetAddress": "50 Beth Nealson Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Gertrude Place Toronto Ontario",
+      "latitudeCoordinate": "43.6802932801",
+      "longitudeCoordinate": "-79.3446855153",
+      "postalCode": "M4J 1R1",
+      "province": "Ontario",
+      "streetAddress": "5 Gertrude Place"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Gertrude Place Toronto Ontario",
+      "latitudeCoordinate": "43.6804609938",
+      "longitudeCoordinate": "-79.3444366792",
+      "postalCode": "M4J 1R1",
+      "province": "Ontario",
+      "streetAddress": "11 Gertrude Place"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Minton Place Toronto Ontario",
+      "latitudeCoordinate": "43.6967013425",
+      "longitudeCoordinate": "-79.3517491639",
+      "postalCode": "M4K 3X7",
+      "province": "Ontario",
+      "streetAddress": "15 Minton Place"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "17 Minton Place Toronto Ontario",
+      "latitudeCoordinate": "43.696759909",
+      "longitudeCoordinate": "-79.3518259543",
+      "postalCode": "M4K 3X7",
+      "province": "Ontario",
+      "streetAddress": "17 Minton Place"
     },
     {
       "city": "Toronto",
@@ -286,6 +277,15 @@
       "longitudeCoordinate": "-79.338806276",
       "province": "Ontario",
       "streetAddress": "817 Don Mills Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "855 Gerrard Street East Toronto Ontario",
+      "latitudeCoordinate": "43.667233527",
+      "longitudeCoordinate": "-79.343511242",
+      "province": "Ontario",
+      "streetAddress": "855 Gerrard Street East"
     },
     {
       "city": "Toronto",

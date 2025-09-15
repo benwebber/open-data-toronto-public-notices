@@ -3,6 +3,25 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "40 Tullis Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7019407559",
+      "longitudeCoordinate": "-79.3964641944",
+      "postalCode": "M4S 2E4",
+      "province": "Ontario",
+      "streetAddress": "40 Tullis Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "50 Tullis Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7021888608",
+      "longitudeCoordinate": "-79.3967045957",
+      "province": "Ontario",
+      "streetAddress": "50 Tullis Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "2039 Yonge Street Toronto Ontario",
       "latitudeCoordinate": "43.7017844456",
       "longitudeCoordinate": "-79.3970643407",
@@ -19,25 +38,6 @@
       "postalCode": "M4S 2A2",
       "province": "Ontario",
       "streetAddress": "2049 Yonge Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "40 Tullis Drive Toronto Ontario",
-      "latitudeCoordinate": "43.7019407559",
-      "longitudeCoordinate": "-79.3964641944",
-      "postalCode": "M4S 2E4",
-      "province": "Ontario",
-      "streetAddress": "40 Tullis Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "50 Tullis Drive Toronto Ontario",
-      "latitudeCoordinate": "43.7021888608",
-      "longitudeCoordinate": "-79.3967045957",
-      "province": "Ontario",
-      "streetAddress": "50 Tullis Drive"
     }
   ],
   "backgroundInformationList": [

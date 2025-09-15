@@ -13,12 +13,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "39 Preakness Drive Toronto Ontario",
-      "latitudeCoordinate": "43.745948995",
-      "longitudeCoordinate": "-79.355146529",
-      "postalCode": "M3B 3S2",
+      "fullAddress": "368 Glencairn Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7148312298",
+      "longitudeCoordinate": "-79.4193227116",
+      "postalCode": "M5N 1V1",
       "province": "Ontario",
-      "streetAddress": "39 Preakness Drive"
+      "streetAddress": "368 Glencairn Avenue"
     },
     {
       "city": "Toronto",
@@ -33,12 +33,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "95 Dewson Street Toronto Ontario",
-      "latitudeCoordinate": "43.655820105",
-      "longitudeCoordinate": "-79.428380391",
-      "postalCode": "M6H 1H2",
+      "fullAddress": "39 Preakness Drive Toronto Ontario",
+      "latitudeCoordinate": "43.745948995",
+      "longitudeCoordinate": "-79.355146529",
+      "postalCode": "M3B 3S2",
       "province": "Ontario",
-      "streetAddress": "95 Dewson Street"
+      "streetAddress": "39 Preakness Drive"
     },
     {
       "city": "Toronto",
@@ -49,6 +49,16 @@
       "postalCode": "M2M 3A8",
       "province": "Ontario",
       "streetAddress": "118 Mintwood Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "95 Dewson Street Toronto Ontario",
+      "latitudeCoordinate": "43.655820105",
+      "longitudeCoordinate": "-79.428380391",
+      "postalCode": "M6H 1H2",
+      "province": "Ontario",
+      "streetAddress": "95 Dewson Street"
     },
     {
       "city": "Toronto",
@@ -69,16 +79,6 @@
       "postalCode": "M6N 2Z3",
       "province": "Ontario",
       "streetAddress": "275 Osler Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "368 Glencairn Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.7148312298",
-      "longitudeCoordinate": "-79.4193227116",
-      "postalCode": "M5N 1V1",
-      "province": "Ontario",
-      "streetAddress": "368 Glencairn Avenue"
     }
   ],
   "backgroundInformationList": [

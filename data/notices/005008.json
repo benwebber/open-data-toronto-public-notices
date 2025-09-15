@@ -3,25 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "3326 Bloor Street West Toronto Ontario",
-      "latitudeCoordinate": "43.6445981224",
-      "longitudeCoordinate": "-79.5253924931",
-      "postalCode": "M8X 0A8",
-      "province": "Ontario",
-      "streetAddress": "3326 Bloor Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "3330 Bloor Street West Toronto Ontario",
-      "latitudeCoordinate": "43.644459382",
-      "longitudeCoordinate": "-79.526023481",
-      "province": "Ontario",
-      "streetAddress": "3330 Bloor Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "1240 Islington Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6454226002",
       "longitudeCoordinate": "-79.5240761815",
@@ -38,6 +19,25 @@
       "postalCode": "M8X 1Y8",
       "province": "Ontario",
       "streetAddress": "1226 Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3326 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6445981224",
+      "longitudeCoordinate": "-79.5253924931",
+      "postalCode": "M8X 0A8",
+      "province": "Ontario",
+      "streetAddress": "3326 Bloor Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3330 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.644459382",
+      "longitudeCoordinate": "-79.526023481",
+      "province": "Ontario",
+      "streetAddress": "3330 Bloor Street West"
     }
   ],
   "backgroundInformationList": [

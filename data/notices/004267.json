@@ -13,16 +13,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "20 Cummings Street Toronto Ontario",
-      "latitudeCoordinate": "43.662884153",
-      "longitudeCoordinate": "-79.347508598",
-      "postalCode": "M4M 1M8",
-      "province": "Ontario",
-      "streetAddress": "20 Cummings Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "41 Sparrow Avenue Toronto Ontario",
       "latitudeCoordinate": "43.721159654",
       "longitudeCoordinate": "-79.45316959",
@@ -33,22 +23,32 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "41 Rutland Street Toronto Ontario",
-      "latitudeCoordinate": "43.672592021",
-      "longitudeCoordinate": "-79.455301213",
-      "postalCode": "M6N 5G1",
-      "province": "Ontario",
-      "streetAddress": "41 Rutland Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "82 Helendale Avenue Toronto Ontario",
       "latitudeCoordinate": "43.7087417286",
       "longitudeCoordinate": "-79.4012586574",
       "postalCode": "M4R 1C7",
       "province": "Ontario",
       "streetAddress": "82 Helendale Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "402 Concord Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6649887039",
+      "longitudeCoordinate": "-79.4284439119",
+      "postalCode": "M6H 2P8",
+      "province": "Ontario",
+      "streetAddress": "402 Concord Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "621 Logan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.670852562",
+      "longitudeCoordinate": "-79.346477387",
+      "postalCode": "M4K 3C2",
+      "province": "Ontario",
+      "streetAddress": "621 Logan Avenue"
     },
     {
       "city": "Toronto",
@@ -73,22 +73,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "402 Concord Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6649887039",
-      "longitudeCoordinate": "-79.4284439119",
-      "postalCode": "M6H 2P8",
+      "fullAddress": "20 Cummings Street Toronto Ontario",
+      "latitudeCoordinate": "43.662884153",
+      "longitudeCoordinate": "-79.347508598",
+      "postalCode": "M4M 1M8",
       "province": "Ontario",
-      "streetAddress": "402 Concord Avenue"
+      "streetAddress": "20 Cummings Street"
     },
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "621 Logan Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.670852562",
-      "longitudeCoordinate": "-79.346477387",
-      "postalCode": "M4K 3C2",
+      "fullAddress": "41 Rutland Street Toronto Ontario",
+      "latitudeCoordinate": "43.672592021",
+      "longitudeCoordinate": "-79.455301213",
+      "postalCode": "M6N 5G1",
       "province": "Ontario",
-      "streetAddress": "621 Logan Avenue"
+      "streetAddress": "41 Rutland Street"
     }
   ],
   "backgroundInformationList": [

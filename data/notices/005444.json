@@ -23,26 +23,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "19 Poplar Plains Road Toronto Ontario",
-      "latitudeCoordinate": "43.677653783",
-      "longitudeCoordinate": "-79.402724358",
-      "postalCode": "M4V 2M7",
-      "province": "Ontario",
-      "streetAddress": "19 Poplar Plains Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "26 Ulverston Road Toronto Ontario",
-      "latitudeCoordinate": "43.6492505591",
-      "longitudeCoordinate": "-79.5706926216",
-      "postalCode": "M9C 3A4",
-      "province": "Ontario",
-      "streetAddress": "26 Ulverston Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "34 Beck Avenue Toronto Ontario",
       "latitudeCoordinate": "43.685492523",
       "longitudeCoordinate": "-79.307454403",
@@ -53,32 +33,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "39 Inniswood Drive Toronto Ontario",
-      "latitudeCoordinate": "43.737193144",
-      "longitudeCoordinate": "-79.3059956728",
-      "postalCode": "M1R 1E6",
-      "province": "Ontario",
-      "streetAddress": "39 Inniswood Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "48 Brooklyn Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6635046543",
       "longitudeCoordinate": "-79.336706749",
       "postalCode": "M4M 2X5",
       "province": "Ontario",
       "streetAddress": "48 Brooklyn Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "55 Brumwell Street Toronto Ontario",
-      "latitudeCoordinate": "43.7921952721",
-      "longitudeCoordinate": "-79.1488264998",
-      "postalCode": "M1C 2K7",
-      "province": "Ontario",
-      "streetAddress": "55 Brumwell Street"
     },
     {
       "city": "Toronto",
@@ -109,6 +69,46 @@
       "postalCode": "M5M 2A5",
       "province": "Ontario",
       "streetAddress": "583 Melrose Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "39 Inniswood Drive Toronto Ontario",
+      "latitudeCoordinate": "43.737193144",
+      "longitudeCoordinate": "-79.3059956728",
+      "postalCode": "M1R 1E6",
+      "province": "Ontario",
+      "streetAddress": "39 Inniswood Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Poplar Plains Road Toronto Ontario",
+      "latitudeCoordinate": "43.677653783",
+      "longitudeCoordinate": "-79.402724358",
+      "postalCode": "M4V 2M7",
+      "province": "Ontario",
+      "streetAddress": "19 Poplar Plains Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "26 Ulverston Road Toronto Ontario",
+      "latitudeCoordinate": "43.6492505591",
+      "longitudeCoordinate": "-79.5706926216",
+      "postalCode": "M9C 3A4",
+      "province": "Ontario",
+      "streetAddress": "26 Ulverston Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55 Brumwell Street Toronto Ontario",
+      "latitudeCoordinate": "43.7921952721",
+      "longitudeCoordinate": "-79.1488264998",
+      "postalCode": "M1C 2K7",
+      "province": "Ontario",
+      "streetAddress": "55 Brumwell Street"
     }
   ],
   "backgroundInformationList": [

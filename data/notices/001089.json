@@ -4,16 +4,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "423 Old Weston Road Toronto Ontario",
-      "latitudeCoordinate": "43.674920139",
-      "longitudeCoordinate": "-79.462992133",
-      "postalCode": "M6N 3A9",
-      "province": "Ontario",
-      "streetAddress": "423 Old Weston Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "1800 St Clair Avenue West Toronto Ontario",
       "latitudeCoordinate": "43.6740747083",
       "longitudeCoordinate": "-79.4624164398",
@@ -30,6 +20,16 @@
       "postalCode": "M6N 1J5",
       "province": "Ontario",
       "streetAddress": "1818 St Clair Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "423 Old Weston Road Toronto Ontario",
+      "latitudeCoordinate": "43.674920139",
+      "longitudeCoordinate": "-79.462992133",
+      "postalCode": "M6N 3A9",
+      "province": "Ontario",
+      "streetAddress": "423 Old Weston Road"
     }
   ],
   "backgroundInformationList": [

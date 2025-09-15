@@ -23,12 +23,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "240 Christie Street Toronto Ontario",
-      "latitudeCoordinate": "43.6702556743",
-      "longitudeCoordinate": "-79.4212917889",
-      "postalCode": "M6G 3B8",
+      "fullAddress": "3275 Sheppard Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.777606492",
+      "longitudeCoordinate": "-79.309972892",
+      "postalCode": "M1T 3P1",
       "province": "Ontario",
-      "streetAddress": "240 Christie Street"
+      "streetAddress": "3275 Sheppard Avenue East"
     },
     {
       "city": "Toronto",
@@ -53,12 +53,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "3275 Sheppard Avenue East Toronto Ontario",
-      "latitudeCoordinate": "43.777606492",
-      "longitudeCoordinate": "-79.309972892",
-      "postalCode": "M1T 3P1",
+      "fullAddress": "240 Christie Street Toronto Ontario",
+      "latitudeCoordinate": "43.6702556743",
+      "longitudeCoordinate": "-79.4212917889",
+      "postalCode": "M6G 3B8",
       "province": "Ontario",
-      "streetAddress": "3275 Sheppard Avenue East"
+      "streetAddress": "240 Christie Street"
     }
   ],
   "backgroundInformationList": [

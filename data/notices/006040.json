@@ -3,22 +3,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "150 The Donway West Toronto Ontario",
-      "latitudeCoordinate": "43.733390855",
-      "longitudeCoordinate": "-79.347625086",
-      "postalCode": "M3C 2G2",
-      "province": "Ontario",
-      "streetAddress": "150 The Donway West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "4 Overland Drive Toronto Ontario",
       "latitudeCoordinate": "43.732886366",
       "longitudeCoordinate": "-79.347858504",
       "postalCode": "M3C 2C4",
       "province": "Ontario",
       "streetAddress": "4 Overland Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "150 The Donway West Toronto Ontario",
+      "latitudeCoordinate": "43.733390855",
+      "longitudeCoordinate": "-79.347625086",
+      "postalCode": "M3C 2G2",
+      "province": "Ontario",
+      "streetAddress": "150 The Donway West"
     }
   ],
   "backgroundInformationList": [

@@ -21,15 +21,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "67 Parkdale Road Toronto Ontario",
-      "latitudeCoordinate": "43.6408778996",
-      "longitudeCoordinate": "-79.4528965871",
-      "province": "Ontario",
-      "streetAddress": "67 Parkdale Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "125 Victor Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6678791735",
       "longitudeCoordinate": "-79.348172713",
@@ -71,6 +62,15 @@
       "longitudeCoordinate": "-79.4705737413",
       "province": "Ontario",
       "streetAddress": "314 Quebec Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "67 Parkdale Road Toronto Ontario",
+      "latitudeCoordinate": "43.6408778996",
+      "longitudeCoordinate": "-79.4528965871",
+      "province": "Ontario",
+      "streetAddress": "67 Parkdale Road"
     }
   ],
   "backgroundInformationList": [],

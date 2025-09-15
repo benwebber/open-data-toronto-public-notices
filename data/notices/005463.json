@@ -72,21 +72,21 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "1625 Military Trail Toronto Ontario",
-      "latitudeCoordinate": "43.781184657",
-      "longitudeCoordinate": "-79.171673667",
-      "province": "Ontario",
-      "streetAddress": "1625 Military Trail"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "6000 Kingston Road Toronto Ontario",
       "latitudeCoordinate": "43.781230438",
       "longitudeCoordinate": "-79.170490244",
       "postalCode": "M1C 1K3",
       "province": "Ontario",
       "streetAddress": "6000 Kingston Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1625 Military Trail Toronto Ontario",
+      "latitudeCoordinate": "43.781184657",
+      "longitudeCoordinate": "-79.171673667",
+      "province": "Ontario",
+      "streetAddress": "1625 Military Trail"
     }
   ],
   "backgroundInformationList": [

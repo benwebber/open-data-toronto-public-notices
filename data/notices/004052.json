@@ -53,22 +53,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "135 Liberty Street Toronto Ontario",
-      "latitudeCoordinate": "43.637579917",
-      "longitudeCoordinate": "-79.423317162",
-      "postalCode": "M6K 1A7",
-      "province": "Ontario",
-      "streetAddress": "135 Liberty Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "42 Pardee Avenue Toronto Ontario",
       "latitudeCoordinate": "43.637624985",
       "longitudeCoordinate": "-79.422927368",
       "postalCode": "M6K 3H5",
       "province": "Ontario",
       "streetAddress": "42 Pardee Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "135 Liberty Street Toronto Ontario",
+      "latitudeCoordinate": "43.637579917",
+      "longitudeCoordinate": "-79.423317162",
+      "postalCode": "M6K 1A7",
+      "province": "Ontario",
+      "streetAddress": "135 Liberty Street"
     }
   ],
   "backgroundInformationList": [

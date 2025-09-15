@@ -3,24 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "43 Millwood Road Toronto Ontario",
-      "latitudeCoordinate": "43.6992850174",
-      "longitudeCoordinate": "-79.394899687",
-      "province": "Ontario",
-      "streetAddress": "43 Millwood Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "1117 Dundas Street West Toronto Ontario",
-      "latitudeCoordinate": "43.6492112236",
-      "longitudeCoordinate": "-79.4198604837",
-      "province": "Ontario",
-      "streetAddress": "1117 Dundas Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "68 Daisy Avenue Toronto Ontario",
       "latitudeCoordinate": "43.5978161792",
       "longitudeCoordinate": "-79.5282885178",
@@ -35,6 +17,24 @@
       "longitudeCoordinate": "-79.2057405",
       "province": "Ontario",
       "streetAddress": "80 Dale Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "43 Millwood Road Toronto Ontario",
+      "latitudeCoordinate": "43.6992850174",
+      "longitudeCoordinate": "-79.394899687",
+      "province": "Ontario",
+      "streetAddress": "43 Millwood Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1117 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6492112236",
+      "longitudeCoordinate": "-79.4198604837",
+      "province": "Ontario",
+      "streetAddress": "1117 Dundas Street West"
     },
     {
       "city": "Toronto",

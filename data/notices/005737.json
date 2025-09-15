@@ -3,60 +3,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "200 Annette Street Toronto Ontario",
-      "latitudeCoordinate": "43.663162855",
-      "longitudeCoordinate": "-79.468768094",
-      "postalCode": "M6P 1P6",
-      "province": "Ontario",
-      "streetAddress": "200 Annette Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "33 Atkins Avenue Toronto Ontario",
       "latitudeCoordinate": "43.650447326",
       "longitudeCoordinate": "-79.435585412",
       "postalCode": "M6K 1V9",
       "province": "Ontario",
       "streetAddress": "33 Atkins Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "37 Arnold Street Toronto Ontario",
-      "latitudeCoordinate": "43.658715668",
-      "longitudeCoordinate": "-79.364602588",
-      "province": "Ontario",
-      "streetAddress": "37 Arnold Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "63  Arnold Street Toronto Ontario",
-      "latitudeCoordinate": "43.659153747",
-      "longitudeCoordinate": "-79.364871642",
-      "province": "Ontario",
-      "streetAddress": "63  Arnold Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "42 Regent Street Toronto Ontario",
-      "latitudeCoordinate": "43.658755343",
-      "longitudeCoordinate": "-79.364397383",
-      "postalCode": "M5A 3N7",
-      "province": "Ontario",
-      "streetAddress": "42 Regent Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "68 Regent Street Toronto Ontario",
-      "latitudeCoordinate": "43.6817263975",
-      "longitudeCoordinate": "-79.4703381009",
-      "postalCode": "M5A 3N7",
-      "province": "Ontario",
-      "streetAddress": "68 Regent Street"
     },
     {
       "city": "Toronto",
@@ -81,32 +33,330 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "7A Austin Terrace Toronto Ontario",
-      "latitudeCoordinate": "43.678309867",
-      "longitudeCoordinate": "-79.412489825",
-      "postalCode": "M5R 1Y2",
+      "fullAddress": "58 Beaver Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.671815139",
+      "longitudeCoordinate": "-79.442866877",
+      "postalCode": "M6H 2G1",
       "province": "Ontario",
-      "streetAddress": "7A Austin Terrace"
+      "streetAddress": "58 Beaver Avenue"
     },
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "7B Austin Terrace Toronto Ontario",
-      "latitudeCoordinate": "43.678281959",
-      "longitudeCoordinate": "-79.412562379",
-      "postalCode": "M5R 1Y2",
+      "fullAddress": "70 Beaver Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.671712322",
+      "longitudeCoordinate": "-79.443321238",
+      "postalCode": "M6H 2G1",
       "province": "Ontario",
-      "streetAddress": "7B Austin Terrace"
+      "streetAddress": "70 Beaver Avenue"
     },
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "7C Austin Terrace Toronto Ontario",
-      "latitudeCoordinate": "43.678272147",
-      "longitudeCoordinate": "-79.412650919",
-      "postalCode": "M5R 1Y2",
+      "fullAddress": "136 Broadview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.659749821",
+      "longitudeCoordinate": "-79.350544656",
+      "postalCode": "M4M 2G2",
       "province": "Ontario",
-      "streetAddress": "7C Austin Terrace"
+      "streetAddress": "136 Broadview Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "150 Broadview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.66027001",
+      "longitudeCoordinate": "-79.350735879",
+      "postalCode": "M4M 0A9",
+      "province": "Ontario",
+      "streetAddress": "150 Broadview Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "222A Manning Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.651985797",
+      "longitudeCoordinate": "-79.411395799",
+      "postalCode": "M6J 2K7",
+      "province": "Ontario",
+      "streetAddress": "222A Manning Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "260 Manning Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.652836746",
+      "longitudeCoordinate": "-79.411732252",
+      "postalCode": "M6J 2K7",
+      "province": "Ontario",
+      "streetAddress": "260 Manning Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "39 Connaught Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.664492925",
+      "longitudeCoordinate": "-79.321909862",
+      "postalCode": "M4L 2V8",
+      "province": "Ontario",
+      "streetAddress": "39 Connaught Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "45 Connaught Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.66459133",
+      "longitudeCoordinate": "-79.321949989",
+      "postalCode": "M4L 2V8",
+      "province": "Ontario",
+      "streetAddress": "45 Connaught Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "120 Donlands Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.684263665",
+      "longitudeCoordinate": "-79.339354789",
+      "province": "Ontario",
+      "streetAddress": "120 Donlands Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "960 Eastern Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.663568604",
+      "longitudeCoordinate": "-79.321617109",
+      "province": "Ontario",
+      "streetAddress": "960 Eastern Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "962 Eastern Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.663607944",
+      "longitudeCoordinate": "-79.321490336",
+      "postalCode": "M4L 1A6",
+      "province": "Ontario",
+      "streetAddress": "962 Eastern Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "50 Glen Elm Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.691839596",
+      "longitudeCoordinate": "-79.392558803",
+      "postalCode": "M4T 1T7",
+      "province": "Ontario",
+      "streetAddress": "50 Glen Elm Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3 Sylvan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.655110525",
+      "longitudeCoordinate": "-79.430504815",
+      "postalCode": "M6H 0C4",
+      "province": "Ontario",
+      "streetAddress": "3 Sylvan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Sylvan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.655035534",
+      "longitudeCoordinate": "-79.43085549",
+      "postalCode": "M6H 0C4",
+      "province": "Ontario",
+      "streetAddress": "11 Sylvan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "332 High Park Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.665003899",
+      "longitudeCoordinate": "-79.470492468",
+      "postalCode": "M6P 2S7",
+      "province": "Ontario",
+      "streetAddress": "332 High Park Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "100 Howland Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.66899987",
+      "longitudeCoordinate": "-79.41025751",
+      "postalCode": "M5R 3B5",
+      "province": "Ontario",
+      "streetAddress": "100 Howland Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "128 Howland Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6698251922",
+      "longitudeCoordinate": "-79.410569995",
+      "postalCode": "M5R 3B5",
+      "province": "Ontario",
+      "streetAddress": "128 Howland Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "169 Jones Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.667111261",
+      "longitudeCoordinate": "-79.334446924",
+      "postalCode": "M4M 3A2",
+      "province": "Ontario",
+      "streetAddress": "169 Jones Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "175 Jones Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.667356786",
+      "longitudeCoordinate": "-79.334518236",
+      "postalCode": "M4M 3A2",
+      "province": "Ontario",
+      "streetAddress": "175 Jones Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Kenwood Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.68300287",
+      "longitudeCoordinate": "-79.42195931",
+      "postalCode": "M6C 2R6",
+      "province": "Ontario",
+      "streetAddress": "11 Kenwood Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11A Kenwood Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.683054879",
+      "longitudeCoordinate": "-79.42201558",
+      "postalCode": "M6C 2R6",
+      "province": "Ontario",
+      "streetAddress": "11A Kenwood Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "66 Kippendavie Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.66770794",
+      "longitudeCoordinate": "-79.303589292",
+      "postalCode": "M4L 0A4",
+      "province": "Ontario",
+      "streetAddress": "66 Kippendavie Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "29 Lightbourn Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.669966062",
+      "longitudeCoordinate": "-79.44251509",
+      "postalCode": "M6H 3P5",
+      "province": "Ontario",
+      "streetAddress": "29 Lightbourn Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "382 Lumsden Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.69514612",
+      "longitudeCoordinate": "-79.304137923",
+      "postalCode": "M4C 2L7",
+      "province": "Ontario",
+      "streetAddress": "382 Lumsden Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "416 Oakwood Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6885378554",
+      "longitudeCoordinate": "-79.4395156742",
+      "postalCode": "M6E 2W3",
+      "province": "Ontario",
+      "streetAddress": "416 Oakwood Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "458 Oakwood Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6898822484",
+      "longitudeCoordinate": "-79.4399626759",
+      "postalCode": "M6E 2W6",
+      "province": "Ontario",
+      "streetAddress": "458 Oakwood Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "749 Ossington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.662651889",
+      "longitudeCoordinate": "-79.425715813",
+      "postalCode": "M6G 3T8",
+      "province": "Ontario",
+      "streetAddress": "749 Ossington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "243 Perth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.661279284",
+      "longitudeCoordinate": "-79.450386712",
+      "postalCode": "M6P 3X9",
+      "province": "Ontario",
+      "streetAddress": "243 Perth Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "36 Spencer Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.634975736",
+      "longitudeCoordinate": "-79.430002988",
+      "postalCode": "M6K 2J6",
+      "province": "Ontario",
+      "streetAddress": "36 Spencer Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "123 Torrens Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6913568973",
+      "longitudeCoordinate": "-79.3485516819",
+      "postalCode": "M4J 2P6",
+      "province": "Ontario",
+      "streetAddress": "123 Torrens Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "61 Vine Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.666438361",
+      "longitudeCoordinate": "-79.466992109",
+      "postalCode": "M6P 1V6",
+      "province": "Ontario",
+      "streetAddress": "61 Vine Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "4 Glencrest Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.7054232735",
+      "longitudeCoordinate": "-79.3042629796",
+      "postalCode": "M4B 1L3",
+      "province": "Ontario",
+      "streetAddress": "4 Glencrest Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "97 Northdale Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.7097837389",
+      "longitudeCoordinate": "-79.3195401211",
+      "postalCode": "M4B 1X1",
+      "province": "Ontario",
+      "streetAddress": "97 Northdale Boulevard"
     },
     {
       "city": "Toronto",
@@ -141,302 +391,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "66 Baby Point Road Toronto Ontario",
-      "latitudeCoordinate": "43.65719082",
-      "longitudeCoordinate": "-79.4946989077",
-      "postalCode": "M6S 2G3",
-      "province": "Ontario",
-      "streetAddress": "66 Baby Point Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "121 Baby Point Road Toronto Ontario",
-      "latitudeCoordinate": "43.6548635319",
-      "longitudeCoordinate": "-79.5004213973",
-      "postalCode": "M6S 2G7",
-      "province": "Ontario",
-      "streetAddress": "121 Baby Point Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "682 Bathurst Street Toronto Ontario",
-      "latitudeCoordinate": "43.662045553",
-      "longitudeCoordinate": "-79.410214625",
-      "postalCode": "M5S 2R3",
-      "province": "Ontario",
-      "streetAddress": "682 Bathurst Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "684 Bathurst Street Toronto Ontario",
-      "latitudeCoordinate": "43.662090813",
-      "longitudeCoordinate": "-79.410229088",
-      "postalCode": "M5S 2R3",
-      "province": "Ontario",
-      "streetAddress": "684 Bathurst Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "686 Bathurst Street Toronto Ontario",
-      "latitudeCoordinate": "43.662147387",
-      "longitudeCoordinate": "-79.410252896",
-      "postalCode": "M5S 2R3",
-      "province": "Ontario",
-      "streetAddress": "686 Bathurst Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "58 Beaver Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.671815139",
-      "longitudeCoordinate": "-79.442866877",
-      "postalCode": "M6H 2G1",
-      "province": "Ontario",
-      "streetAddress": "58 Beaver Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "70 Beaver Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.671712322",
-      "longitudeCoordinate": "-79.443321238",
-      "postalCode": "M6H 2G1",
-      "province": "Ontario",
-      "streetAddress": "70 Beaver Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "207 Beverley Street Toronto Ontario",
-      "latitudeCoordinate": "43.657178029",
-      "longitudeCoordinate": "-79.394869555",
-      "postalCode": "M5T 1Z4",
-      "province": "Ontario",
-      "streetAddress": "207 Beverley Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "136 Broadview Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.659749821",
-      "longitudeCoordinate": "-79.350544656",
-      "postalCode": "M4M 2G2",
-      "province": "Ontario",
-      "streetAddress": "136 Broadview Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "150 Broadview Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.66027001",
-      "longitudeCoordinate": "-79.350735879",
-      "postalCode": "M4M 0A9",
-      "province": "Ontario",
-      "streetAddress": "150 Broadview Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "17 Brule Gardens Toronto Ontario",
-      "latitudeCoordinate": "43.644741234",
-      "longitudeCoordinate": "-79.487719622",
-      "postalCode": "M6S 4J4",
-      "province": "Ontario",
-      "streetAddress": "17 Brule Gardens"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "251A Christie Street Toronto Ontario",
-      "latitudeCoordinate": "43.670189644",
-      "longitudeCoordinate": "-79.420803332",
-      "postalCode": "M6G 3B9",
-      "province": "Ontario",
-      "streetAddress": "251A Christie Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "255 Christie Street Toronto Ontario",
-      "latitudeCoordinate": "43.670291953",
-      "longitudeCoordinate": "-79.420838062",
-      "postalCode": "M6G 3B9",
-      "province": "Ontario",
-      "streetAddress": "255 Christie Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "38 Yarmouth Road Toronto Ontario",
-      "latitudeCoordinate": "43.67031616",
-      "longitudeCoordinate": "-79.420280005",
-      "postalCode": "M6G 1W8",
-      "province": "Ontario",
-      "streetAddress": "38 Yarmouth Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "42C Yarmouth Road Toronto Ontario",
-      "latitudeCoordinate": "43.670263307",
-      "longitudeCoordinate": "-79.42055219",
-      "postalCode": "M6G 1W8",
-      "province": "Ontario",
-      "streetAddress": "42C Yarmouth Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "201 Claremont Street Toronto Ontario",
-      "latitudeCoordinate": "43.651778581",
-      "longitudeCoordinate": "-79.411462353",
-      "postalCode": "M6J 2N1",
-      "province": "Ontario",
-      "streetAddress": "201 Claremont Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "207 Claremont Street Toronto Ontario",
-      "latitudeCoordinate": "43.65187962",
-      "longitudeCoordinate": "-79.411645812",
-      "postalCode": "M6J 2N1",
-      "province": "Ontario",
-      "streetAddress": "207 Claremont Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "251 Claremont Street Toronto Ontario",
-      "latitudeCoordinate": "43.652776776",
-      "longitudeCoordinate": "-79.412007342",
-      "postalCode": "M6J 2N1",
-      "province": "Ontario",
-      "streetAddress": "251 Claremont Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "222A Manning Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.651985797",
-      "longitudeCoordinate": "-79.411395799",
-      "postalCode": "M6J 2K7",
-      "province": "Ontario",
-      "streetAddress": "222A Manning Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "260 Manning Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.652836746",
-      "longitudeCoordinate": "-79.411732252",
-      "postalCode": "M6J 2K7",
-      "province": "Ontario",
-      "streetAddress": "260 Manning Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "166 Clinton Street Toronto Ontario",
-      "latitudeCoordinate": "43.658442406",
-      "longitudeCoordinate": "-79.415462772",
-      "postalCode": "M6G 2Y3",
-      "province": "Ontario",
-      "streetAddress": "166 Clinton Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "39 Connaught Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.664492925",
-      "longitudeCoordinate": "-79.321909862",
-      "postalCode": "M4L 2V8",
-      "province": "Ontario",
-      "streetAddress": "39 Connaught Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "45 Connaught Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.66459133",
-      "longitudeCoordinate": "-79.321949989",
-      "postalCode": "M4L 2V8",
-      "province": "Ontario",
-      "streetAddress": "45 Connaught Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "80 Crescent Road Toronto Ontario",
-      "latitudeCoordinate": "43.678049674",
-      "longitudeCoordinate": "-79.384721219",
-      "postalCode": "M4W 1T5",
-      "province": "Ontario",
-      "streetAddress": "80 Crescent Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "98N Curzon Street Toronto Ontario",
-      "latitudeCoordinate": "43.665860622",
-      "longitudeCoordinate": "-79.333350143",
-      "postalCode": "M4M 3B4",
-      "province": "Ontario",
-      "streetAddress": "98N Curzon Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "98P Curzon Street Toronto Ontario",
-      "latitudeCoordinate": "43.665871345",
-      "longitudeCoordinate": "-79.333283526",
-      "postalCode": "M4M 3B4",
-      "province": "Ontario",
-      "streetAddress": "98P Curzon Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "98Q Curzon Street Toronto Ontario",
-      "latitudeCoordinate": "43.665883981",
-      "longitudeCoordinate": "-79.333227406",
-      "postalCode": "M4M 3B4",
-      "province": "Ontario",
-      "streetAddress": "98Q Curzon Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "98R Curzon Street Toronto Ontario",
-      "latitudeCoordinate": "43.665896612",
-      "longitudeCoordinate": "-79.333166909",
-      "postalCode": "M4M 3B4",
-      "province": "Ontario",
-      "streetAddress": "98R Curzon Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "2 Dacre Crescent Toronto Ontario",
       "latitudeCoordinate": "43.648702209",
       "longitudeCoordinate": "-79.471884992",
       "postalCode": "M6S 2W1",
       "province": "Ontario",
       "streetAddress": "2 Dacre Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "2054 Davenport Road Toronto Ontario",
-      "latitudeCoordinate": "43.671071119",
-      "longitudeCoordinate": "-79.460825072",
-      "postalCode": "M6N 1C8",
-      "province": "Ontario",
-      "streetAddress": "2054 Davenport Road"
     },
     {
       "city": "Toronto",
@@ -461,21 +421,202 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "120 Donlands Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.684263665",
-      "longitudeCoordinate": "-79.339354789",
-      "province": "Ontario",
-      "streetAddress": "120 Donlands Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "39 Douglas Crescent Toronto Ontario",
       "latitudeCoordinate": "43.691135915",
       "longitudeCoordinate": "-79.365631502",
       "postalCode": "M4W 2E6",
       "province": "Ontario",
       "streetAddress": "39 Douglas Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "110 Parkview Hill Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7046468555",
+      "longitudeCoordinate": "-79.3282727396",
+      "postalCode": "M4B 1R4",
+      "province": "Ontario",
+      "streetAddress": "110 Parkview Hill Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "152 Parkview Hill Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7055857953",
+      "longitudeCoordinate": "-79.3258622786",
+      "postalCode": "M4B 1R8",
+      "province": "Ontario",
+      "streetAddress": "152 Parkview Hill Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "198 Parkview Hill Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7078352489",
+      "longitudeCoordinate": "-79.3245604821",
+      "postalCode": "M4B 1R8",
+      "province": "Ontario",
+      "streetAddress": "198 Parkview Hill Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "12 Glen Edyth Drive Toronto Ontario",
+      "latitudeCoordinate": "43.678650374",
+      "longitudeCoordinate": "-79.405508156",
+      "postalCode": "M4V 2V7",
+      "province": "Ontario",
+      "streetAddress": "12 Glen Edyth Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "18 Glen Edyth Drive Toronto Ontario",
+      "latitudeCoordinate": "43.678859799",
+      "longitudeCoordinate": "-79.405235404",
+      "postalCode": "M4V 2V7",
+      "province": "Ontario",
+      "streetAddress": "18 Glen Edyth Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "20 Glen Robert Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7047539027",
+      "longitudeCoordinate": "-79.3028517742",
+      "postalCode": "M4B 1J5",
+      "province": "Ontario",
+      "streetAddress": "20 Glen Robert Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Nesbitt Drive Toronto Ontario",
+      "latitudeCoordinate": "43.690723646",
+      "longitudeCoordinate": "-79.368695675",
+      "postalCode": "M4W 2G3",
+      "province": "Ontario",
+      "streetAddress": "2 Nesbitt Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "466-468 Winona Drive Toronto Ontario",
+      "latitudeCoordinate": "43.689359314",
+      "longitudeCoordinate": "-79.435877575",
+      "postalCode": "M6C 3T7",
+      "province": "Ontario",
+      "streetAddress": "466-468 Winona Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "17 Brule Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.644741234",
+      "longitudeCoordinate": "-79.487719622",
+      "postalCode": "M6S 4J4",
+      "province": "Ontario",
+      "streetAddress": "17 Brule Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "53 Indian Grove Toronto Ontario",
+      "latitudeCoordinate": "43.652306291",
+      "longitudeCoordinate": "-79.457200938",
+      "postalCode": "M6R 2Y1",
+      "province": "Ontario",
+      "streetAddress": "53 Indian Grove"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "12 Egerton Lane Toronto Ontario",
+      "latitudeCoordinate": "43.649713748",
+      "longitudeCoordinate": "-79.403295229",
+      "postalCode": "M5T 0B2",
+      "province": "Ontario",
+      "streetAddress": "12 Egerton Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "18 Egerton Lane Toronto Ontario",
+      "latitudeCoordinate": "43.649682722",
+      "longitudeCoordinate": "-79.403469787",
+      "postalCode": "M5T 0B2",
+      "province": "Ontario",
+      "streetAddress": "18 Egerton Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "31 Northern Place Toronto Ontario",
+      "latitudeCoordinate": "43.647912923",
+      "longitudeCoordinate": "-79.438077694",
+      "postalCode": "M6K 2V1",
+      "province": "Ontario",
+      "streetAddress": "31 Northern Place"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "66 Baby Point Road Toronto Ontario",
+      "latitudeCoordinate": "43.65719082",
+      "longitudeCoordinate": "-79.4946989077",
+      "postalCode": "M6S 2G3",
+      "province": "Ontario",
+      "streetAddress": "66 Baby Point Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "121 Baby Point Road Toronto Ontario",
+      "latitudeCoordinate": "43.6548635319",
+      "longitudeCoordinate": "-79.5004213973",
+      "postalCode": "M6S 2G7",
+      "province": "Ontario",
+      "streetAddress": "121 Baby Point Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "38 Yarmouth Road Toronto Ontario",
+      "latitudeCoordinate": "43.67031616",
+      "longitudeCoordinate": "-79.420280005",
+      "postalCode": "M6G 1W8",
+      "province": "Ontario",
+      "streetAddress": "38 Yarmouth Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "42C Yarmouth Road Toronto Ontario",
+      "latitudeCoordinate": "43.670263307",
+      "longitudeCoordinate": "-79.42055219",
+      "postalCode": "M6G 1W8",
+      "province": "Ontario",
+      "streetAddress": "42C Yarmouth Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "80 Crescent Road Toronto Ontario",
+      "latitudeCoordinate": "43.678049674",
+      "longitudeCoordinate": "-79.384721219",
+      "postalCode": "M4W 1T5",
+      "province": "Ontario",
+      "streetAddress": "80 Crescent Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2054 Davenport Road Toronto Ontario",
+      "latitudeCoordinate": "43.671071119",
+      "longitudeCoordinate": "-79.460825072",
+      "postalCode": "M6N 1C8",
+      "province": "Ontario",
+      "streetAddress": "2054 Davenport Road"
     },
     {
       "city": "Toronto",
@@ -520,65 +661,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "953 Dufferin Street Toronto Ontario",
-      "latitudeCoordinate": "43.658190138",
-      "longitudeCoordinate": "-79.434418038",
-      "postalCode": "M6H 4B2",
-      "province": "Ontario",
-      "streetAddress": "953 Dufferin Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "1183 Dufferin Street Toronto Ontario",
-      "latitudeCoordinate": "43.664894274",
-      "longitudeCoordinate": "-79.437219294",
-      "postalCode": "M6H 4B7",
-      "province": "Ontario",
-      "streetAddress": "1183 Dufferin Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "960 Eastern Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.663568604",
-      "longitudeCoordinate": "-79.321617109",
-      "province": "Ontario",
-      "streetAddress": "960 Eastern Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "962 Eastern Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.663607944",
-      "longitudeCoordinate": "-79.321490336",
-      "postalCode": "M4L 1A6",
-      "province": "Ontario",
-      "streetAddress": "962 Eastern Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "12 Egerton Lane Toronto Ontario",
-      "latitudeCoordinate": "43.649713748",
-      "longitudeCoordinate": "-79.403295229",
-      "postalCode": "M5T 0B2",
-      "province": "Ontario",
-      "streetAddress": "12 Egerton Lane"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "18 Egerton Lane Toronto Ontario",
-      "latitudeCoordinate": "43.649682722",
-      "longitudeCoordinate": "-79.403469787",
-      "postalCode": "M5T 0B2",
-      "province": "Ontario",
-      "streetAddress": "18 Egerton Lane"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "78 Ellis Park Road Toronto Ontario",
       "latitudeCoordinate": "43.649481051",
       "longitudeCoordinate": "-79.471238369",
@@ -595,86 +677,6 @@
       "postalCode": "M5P 2N3",
       "province": "Ontario",
       "streetAddress": "193 Forest Hill Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "102 Shuter Street Toronto Ontario",
-      "latitudeCoordinate": "43.655687314",
-      "longitudeCoordinate": "-79.373140045",
-      "postalCode": "M5A 0L9",
-      "province": "Ontario",
-      "streetAddress": "102 Shuter Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "220 George Street Toronto Ontario",
-      "latitudeCoordinate": "43.655796818",
-      "longitudeCoordinate": "-79.373034774",
-      "postalCode": "M5A 2N1",
-      "province": "Ontario",
-      "streetAddress": "220 George Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "2320 Gerrard Street East Toronto Ontario",
-      "latitudeCoordinate": "43.685505879",
-      "longitudeCoordinate": "-79.294205571",
-      "postalCode": "M4E 2E1",
-      "province": "Ontario",
-      "streetAddress": "2320 Gerrard Street East"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "12 Glen Edyth Drive Toronto Ontario",
-      "latitudeCoordinate": "43.678650374",
-      "longitudeCoordinate": "-79.405508156",
-      "postalCode": "M4V 2V7",
-      "province": "Ontario",
-      "streetAddress": "12 Glen Edyth Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "18 Glen Edyth Drive Toronto Ontario",
-      "latitudeCoordinate": "43.678859799",
-      "longitudeCoordinate": "-79.405235404",
-      "postalCode": "M4V 2V7",
-      "province": "Ontario",
-      "streetAddress": "18 Glen Edyth Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "50 Glen Elm Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.691839596",
-      "longitudeCoordinate": "-79.392558803",
-      "postalCode": "M4T 1T7",
-      "province": "Ontario",
-      "streetAddress": "50 Glen Elm Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "20 Glen Robert Drive Toronto Ontario",
-      "latitudeCoordinate": "43.7047539027",
-      "longitudeCoordinate": "-79.3028517742",
-      "postalCode": "M4B 1J5",
-      "province": "Ontario",
-      "streetAddress": "20 Glen Robert Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "4 Glencrest Boulevard Toronto Ontario",
-      "latitudeCoordinate": "43.7054232735",
-      "longitudeCoordinate": "-79.3042629796",
-      "postalCode": "M4B 1L3",
-      "province": "Ontario",
-      "streetAddress": "4 Glencrest Boulevard"
     },
     {
       "city": "Toronto",
@@ -699,64 +701,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "44 Havelock Street Toronto Ontario",
-      "latitudeCoordinate": "43.654688074",
-      "longitudeCoordinate": "-79.430338284",
-      "postalCode": "M6H 0C4",
-      "province": "Ontario",
-      "streetAddress": "44 Havelock Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "72 Havelock Street Toronto Ontario",
-      "latitudeCoordinate": "43.655079403",
-      "longitudeCoordinate": "-79.430427526",
-      "postalCode": "M6H 0C4",
-      "province": "Ontario",
-      "streetAddress": "72 Havelock Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "3 Sylvan Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.655110525",
-      "longitudeCoordinate": "-79.430504815",
-      "postalCode": "M6H 0C4",
-      "province": "Ontario",
-      "streetAddress": "3 Sylvan Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "11 Sylvan Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.655035534",
-      "longitudeCoordinate": "-79.43085549",
-      "postalCode": "M6H 0C4",
-      "province": "Ontario",
-      "streetAddress": "11 Sylvan Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "34 Hazelton Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6785999727",
-      "longitudeCoordinate": "-79.3431868059",
-      "province": "Ontario",
-      "streetAddress": "34 Hazelton Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "38 Hazelton Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6786264739",
-      "longitudeCoordinate": "-79.3430540849",
-      "province": "Ontario",
-      "streetAddress": "38 Hazelton Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "72 Heathdale Road Toronto Ontario",
       "latitudeCoordinate": "43.6903485585",
       "longitudeCoordinate": "-79.4276677169",
@@ -767,131 +711,11 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "332 High Park Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.665003899",
-      "longitudeCoordinate": "-79.470492468",
-      "postalCode": "M6P 2S7",
-      "province": "Ontario",
-      "streetAddress": "332 High Park Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "100 Howland Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.66899987",
-      "longitudeCoordinate": "-79.41025751",
-      "postalCode": "M5R 3B5",
-      "province": "Ontario",
-      "streetAddress": "100 Howland Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "128 Howland Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6698251922",
-      "longitudeCoordinate": "-79.410569995",
-      "postalCode": "M5R 3B5",
-      "province": "Ontario",
-      "streetAddress": "128 Howland Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "53 Indian Grove Toronto Ontario",
-      "latitudeCoordinate": "43.652306291",
-      "longitudeCoordinate": "-79.457200938",
-      "postalCode": "M6R 2Y1",
-      "province": "Ontario",
-      "streetAddress": "53 Indian Grove"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "119 Isabella Street Toronto Ontario",
-      "latitudeCoordinate": "43.6689250266",
-      "longitudeCoordinate": "-79.3782754465",
-      "postalCode": "M4Y 1P2",
-      "province": "Ontario",
-      "streetAddress": "119 Isabella Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "571 Jarvis Street Toronto Ontario",
-      "latitudeCoordinate": "43.6688104664",
-      "longitudeCoordinate": "-79.3789040132",
-      "postalCode": "M4Y 2J1",
-      "province": "Ontario",
-      "streetAddress": "571 Jarvis Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "136 Isabella Street Toronto Ontario",
-      "latitudeCoordinate": "43.669472417",
-      "longitudeCoordinate": "-79.377648128",
-      "postalCode": "M4Y 0B5",
-      "province": "Ontario",
-      "streetAddress": "136 Isabella Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "441 Jane Street Toronto Ontario",
-      "latitudeCoordinate": "43.6598587029",
-      "longitudeCoordinate": "-79.4884017307",
-      "postalCode": "M6S 3Z9",
-      "province": "Ontario",
-      "streetAddress": "441 Jane Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "169 Jones Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.667111261",
-      "longitudeCoordinate": "-79.334446924",
-      "postalCode": "M4M 3A2",
-      "province": "Ontario",
-      "streetAddress": "169 Jones Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "175 Jones Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.667356786",
-      "longitudeCoordinate": "-79.334518236",
-      "postalCode": "M4M 3A2",
-      "province": "Ontario",
-      "streetAddress": "175 Jones Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "17 Kennedy Park Road Toronto Ontario",
       "latitudeCoordinate": "43.652732256",
       "longitudeCoordinate": "-79.472035215",
       "province": "Ontario",
       "streetAddress": "17 Kennedy Park Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "11 Kenwood Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.68300287",
-      "longitudeCoordinate": "-79.42195931",
-      "postalCode": "M6C 2R6",
-      "province": "Ontario",
-      "streetAddress": "11 Kenwood Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "11A Kenwood Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.683054879",
-      "longitudeCoordinate": "-79.42201558",
-      "postalCode": "M6C 2R6",
-      "province": "Ontario",
-      "streetAddress": "11A Kenwood Avenue"
     },
     {
       "city": "Toronto",
@@ -936,116 +760,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "66 Kippendavie Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.66770794",
-      "longitudeCoordinate": "-79.303589292",
-      "postalCode": "M4L 0A4",
-      "province": "Ontario",
-      "streetAddress": "66 Kippendavie Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "29 Lightbourn Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.669966062",
-      "longitudeCoordinate": "-79.44251509",
-      "postalCode": "M6H 3P5",
-      "province": "Ontario",
-      "streetAddress": "29 Lightbourn Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "382 Lumsden Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.69514612",
-      "longitudeCoordinate": "-79.304137923",
-      "postalCode": "M4C 2L7",
-      "province": "Ontario",
-      "streetAddress": "382 Lumsden Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "2 Nesbitt Drive Toronto Ontario",
-      "latitudeCoordinate": "43.690723646",
-      "longitudeCoordinate": "-79.368695675",
-      "postalCode": "M4W 2G3",
-      "province": "Ontario",
-      "streetAddress": "2 Nesbitt Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "97 Northdale Boulevard Toronto Ontario",
-      "latitudeCoordinate": "43.7097837389",
-      "longitudeCoordinate": "-79.3195401211",
-      "postalCode": "M4B 1X1",
-      "province": "Ontario",
-      "streetAddress": "97 Northdale Boulevard"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "31 Northern Place Toronto Ontario",
-      "latitudeCoordinate": "43.647912923",
-      "longitudeCoordinate": "-79.438077694",
-      "postalCode": "M6K 2V1",
-      "province": "Ontario",
-      "streetAddress": "31 Northern Place"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "49A Shirley Street Toronto Ontario",
-      "latitudeCoordinate": "43.64795439",
-      "longitudeCoordinate": "-79.437929197",
-      "postalCode": "M6K 1T2",
-      "province": "Ontario",
-      "streetAddress": "49A Shirley Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "49B Shirley Street Toronto Ontario",
-      "latitudeCoordinate": "43.647942163",
-      "longitudeCoordinate": "-79.437978062",
-      "postalCode": "M6K 1T2",
-      "province": "Ontario",
-      "streetAddress": "49B Shirley Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "49C Shirley Street Toronto Ontario",
-      "latitudeCoordinate": "43.64793126",
-      "longitudeCoordinate": "-79.438024818",
-      "postalCode": "M6K 1T2",
-      "province": "Ontario",
-      "streetAddress": "49C Shirley Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "416 Oakwood Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6885378554",
-      "longitudeCoordinate": "-79.4395156742",
-      "postalCode": "M6E 2W3",
-      "province": "Ontario",
-      "streetAddress": "416 Oakwood Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "458 Oakwood Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6898822484",
-      "longitudeCoordinate": "-79.4399626759",
-      "postalCode": "M6E 2W6",
-      "province": "Ontario",
-      "streetAddress": "458 Oakwood Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "60A Oriole Road Toronto Ontario",
       "latitudeCoordinate": "43.689432713",
       "longitudeCoordinate": "-79.40117549",
@@ -1062,76 +776,6 @@
       "postalCode": "M4V 2G1",
       "province": "Ontario",
       "streetAddress": "60B Oriole Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "749 Ossington Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.662651889",
-      "longitudeCoordinate": "-79.425715813",
-      "postalCode": "M6G 3T8",
-      "province": "Ontario",
-      "streetAddress": "749 Ossington Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "110 Parkview Hill Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.7046468555",
-      "longitudeCoordinate": "-79.3282727396",
-      "postalCode": "M4B 1R4",
-      "province": "Ontario",
-      "streetAddress": "110 Parkview Hill Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "152 Parkview Hill Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.7055857953",
-      "longitudeCoordinate": "-79.3258622786",
-      "postalCode": "M4B 1R8",
-      "province": "Ontario",
-      "streetAddress": "152 Parkview Hill Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "198 Parkview Hill Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.7078352489",
-      "longitudeCoordinate": "-79.3245604821",
-      "postalCode": "M4B 1R8",
-      "province": "Ontario",
-      "streetAddress": "198 Parkview Hill Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "615 Parliament Street Toronto Ontario",
-      "latitudeCoordinate": "43.6684252256",
-      "longitudeCoordinate": "-79.3693283864",
-      "postalCode": "M4X 1R1",
-      "province": "Ontario",
-      "streetAddress": "615 Parliament Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "243 Perth Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.661279284",
-      "longitudeCoordinate": "-79.450386712",
-      "postalCode": "M6P 3X9",
-      "province": "Ontario",
-      "streetAddress": "243 Perth Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "38 Regent Street Toronto Ontario",
-      "latitudeCoordinate": "43.658595115",
-      "longitudeCoordinate": "-79.364272448",
-      "postalCode": "M5A 3N7",
-      "province": "Ontario",
-      "streetAddress": "38 Regent Street"
     },
     {
       "city": "Toronto",
@@ -1186,62 +830,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "36 Spencer Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.634975736",
-      "longitudeCoordinate": "-79.430002988",
-      "postalCode": "M6K 2J6",
-      "province": "Ontario",
-      "streetAddress": "36 Spencer Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "149 Strathearn Road Toronto Ontario",
       "latitudeCoordinate": "43.695260402",
       "longitudeCoordinate": "-79.43241581",
       "postalCode": "M6C 1R7",
       "province": "Ontario",
       "streetAddress": "149 Strathearn Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "123 Torrens Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6913568973",
-      "longitudeCoordinate": "-79.3485516819",
-      "postalCode": "M4J 2P6",
-      "province": "Ontario",
-      "streetAddress": "123 Torrens Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "61 Vine Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.666438361",
-      "longitudeCoordinate": "-79.466992109",
-      "postalCode": "M6P 1V6",
-      "province": "Ontario",
-      "streetAddress": "61 Vine Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "464 Winona Toronto Ontario",
-      "latitudeCoordinate": "43.689283155",
-      "longitudeCoordinate": "-79.435763798",
-      "postalCode": "M6C 3T7",
-      "province": "Ontario",
-      "streetAddress": "464 Winona"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "466-468 Winona Drive Toronto Ontario",
-      "latitudeCoordinate": "43.689359314",
-      "longitudeCoordinate": "-79.435877575",
-      "postalCode": "M6C 3T7",
-      "province": "Ontario",
-      "streetAddress": "466-468 Winona Drive"
     },
     {
       "city": "Toronto",
@@ -1308,6 +902,412 @@
       "longitudeCoordinate": "-79.4288394981473",
       "province": "Ontario",
       "streetAddress": "717 Dovercourt Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "200 Annette Street Toronto Ontario",
+      "latitudeCoordinate": "43.663162855",
+      "longitudeCoordinate": "-79.468768094",
+      "postalCode": "M6P 1P6",
+      "province": "Ontario",
+      "streetAddress": "200 Annette Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "37 Arnold Street Toronto Ontario",
+      "latitudeCoordinate": "43.658715668",
+      "longitudeCoordinate": "-79.364602588",
+      "province": "Ontario",
+      "streetAddress": "37 Arnold Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "63  Arnold Street Toronto Ontario",
+      "latitudeCoordinate": "43.659153747",
+      "longitudeCoordinate": "-79.364871642",
+      "province": "Ontario",
+      "streetAddress": "63  Arnold Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "42 Regent Street Toronto Ontario",
+      "latitudeCoordinate": "43.658755343",
+      "longitudeCoordinate": "-79.364397383",
+      "postalCode": "M5A 3N7",
+      "province": "Ontario",
+      "streetAddress": "42 Regent Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "68 Regent Street Toronto Ontario",
+      "latitudeCoordinate": "43.6817263975",
+      "longitudeCoordinate": "-79.4703381009",
+      "postalCode": "M5A 3N7",
+      "province": "Ontario",
+      "streetAddress": "68 Regent Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "682 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.662045553",
+      "longitudeCoordinate": "-79.410214625",
+      "postalCode": "M5S 2R3",
+      "province": "Ontario",
+      "streetAddress": "682 Bathurst Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "684 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.662090813",
+      "longitudeCoordinate": "-79.410229088",
+      "postalCode": "M5S 2R3",
+      "province": "Ontario",
+      "streetAddress": "684 Bathurst Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "686 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.662147387",
+      "longitudeCoordinate": "-79.410252896",
+      "postalCode": "M5S 2R3",
+      "province": "Ontario",
+      "streetAddress": "686 Bathurst Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "207 Beverley Street Toronto Ontario",
+      "latitudeCoordinate": "43.657178029",
+      "longitudeCoordinate": "-79.394869555",
+      "postalCode": "M5T 1Z4",
+      "province": "Ontario",
+      "streetAddress": "207 Beverley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "251A Christie Street Toronto Ontario",
+      "latitudeCoordinate": "43.670189644",
+      "longitudeCoordinate": "-79.420803332",
+      "postalCode": "M6G 3B9",
+      "province": "Ontario",
+      "streetAddress": "251A Christie Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "255 Christie Street Toronto Ontario",
+      "latitudeCoordinate": "43.670291953",
+      "longitudeCoordinate": "-79.420838062",
+      "postalCode": "M6G 3B9",
+      "province": "Ontario",
+      "streetAddress": "255 Christie Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "201 Claremont Street Toronto Ontario",
+      "latitudeCoordinate": "43.651778581",
+      "longitudeCoordinate": "-79.411462353",
+      "postalCode": "M6J 2N1",
+      "province": "Ontario",
+      "streetAddress": "201 Claremont Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "207 Claremont Street Toronto Ontario",
+      "latitudeCoordinate": "43.65187962",
+      "longitudeCoordinate": "-79.411645812",
+      "postalCode": "M6J 2N1",
+      "province": "Ontario",
+      "streetAddress": "207 Claremont Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "251 Claremont Street Toronto Ontario",
+      "latitudeCoordinate": "43.652776776",
+      "longitudeCoordinate": "-79.412007342",
+      "postalCode": "M6J 2N1",
+      "province": "Ontario",
+      "streetAddress": "251 Claremont Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "166 Clinton Street Toronto Ontario",
+      "latitudeCoordinate": "43.658442406",
+      "longitudeCoordinate": "-79.415462772",
+      "postalCode": "M6G 2Y3",
+      "province": "Ontario",
+      "streetAddress": "166 Clinton Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "98N Curzon Street Toronto Ontario",
+      "latitudeCoordinate": "43.665860622",
+      "longitudeCoordinate": "-79.333350143",
+      "postalCode": "M4M 3B4",
+      "province": "Ontario",
+      "streetAddress": "98N Curzon Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "98P Curzon Street Toronto Ontario",
+      "latitudeCoordinate": "43.665871345",
+      "longitudeCoordinate": "-79.333283526",
+      "postalCode": "M4M 3B4",
+      "province": "Ontario",
+      "streetAddress": "98P Curzon Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "98Q Curzon Street Toronto Ontario",
+      "latitudeCoordinate": "43.665883981",
+      "longitudeCoordinate": "-79.333227406",
+      "postalCode": "M4M 3B4",
+      "province": "Ontario",
+      "streetAddress": "98Q Curzon Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "98R Curzon Street Toronto Ontario",
+      "latitudeCoordinate": "43.665896612",
+      "longitudeCoordinate": "-79.333166909",
+      "postalCode": "M4M 3B4",
+      "province": "Ontario",
+      "streetAddress": "98R Curzon Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "953 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.658190138",
+      "longitudeCoordinate": "-79.434418038",
+      "postalCode": "M6H 4B2",
+      "province": "Ontario",
+      "streetAddress": "953 Dufferin Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1183 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.664894274",
+      "longitudeCoordinate": "-79.437219294",
+      "postalCode": "M6H 4B7",
+      "province": "Ontario",
+      "streetAddress": "1183 Dufferin Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "102 Shuter Street Toronto Ontario",
+      "latitudeCoordinate": "43.655687314",
+      "longitudeCoordinate": "-79.373140045",
+      "postalCode": "M5A 0L9",
+      "province": "Ontario",
+      "streetAddress": "102 Shuter Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "220 George Street Toronto Ontario",
+      "latitudeCoordinate": "43.655796818",
+      "longitudeCoordinate": "-79.373034774",
+      "postalCode": "M5A 2N1",
+      "province": "Ontario",
+      "streetAddress": "220 George Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2320 Gerrard Street East Toronto Ontario",
+      "latitudeCoordinate": "43.685505879",
+      "longitudeCoordinate": "-79.294205571",
+      "postalCode": "M4E 2E1",
+      "province": "Ontario",
+      "streetAddress": "2320 Gerrard Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "44 Havelock Street Toronto Ontario",
+      "latitudeCoordinate": "43.654688074",
+      "longitudeCoordinate": "-79.430338284",
+      "postalCode": "M6H 0C4",
+      "province": "Ontario",
+      "streetAddress": "44 Havelock Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "72 Havelock Street Toronto Ontario",
+      "latitudeCoordinate": "43.655079403",
+      "longitudeCoordinate": "-79.430427526",
+      "postalCode": "M6H 0C4",
+      "province": "Ontario",
+      "streetAddress": "72 Havelock Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "119 Isabella Street Toronto Ontario",
+      "latitudeCoordinate": "43.6689250266",
+      "longitudeCoordinate": "-79.3782754465",
+      "postalCode": "M4Y 1P2",
+      "province": "Ontario",
+      "streetAddress": "119 Isabella Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "571 Jarvis Street Toronto Ontario",
+      "latitudeCoordinate": "43.6688104664",
+      "longitudeCoordinate": "-79.3789040132",
+      "postalCode": "M4Y 2J1",
+      "province": "Ontario",
+      "streetAddress": "571 Jarvis Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "136 Isabella Street Toronto Ontario",
+      "latitudeCoordinate": "43.669472417",
+      "longitudeCoordinate": "-79.377648128",
+      "postalCode": "M4Y 0B5",
+      "province": "Ontario",
+      "streetAddress": "136 Isabella Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "441 Jane Street Toronto Ontario",
+      "latitudeCoordinate": "43.6598587029",
+      "longitudeCoordinate": "-79.4884017307",
+      "postalCode": "M6S 3Z9",
+      "province": "Ontario",
+      "streetAddress": "441 Jane Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "49A Shirley Street Toronto Ontario",
+      "latitudeCoordinate": "43.64795439",
+      "longitudeCoordinate": "-79.437929197",
+      "postalCode": "M6K 1T2",
+      "province": "Ontario",
+      "streetAddress": "49A Shirley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "49B Shirley Street Toronto Ontario",
+      "latitudeCoordinate": "43.647942163",
+      "longitudeCoordinate": "-79.437978062",
+      "postalCode": "M6K 1T2",
+      "province": "Ontario",
+      "streetAddress": "49B Shirley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "49C Shirley Street Toronto Ontario",
+      "latitudeCoordinate": "43.64793126",
+      "longitudeCoordinate": "-79.438024818",
+      "postalCode": "M6K 1T2",
+      "province": "Ontario",
+      "streetAddress": "49C Shirley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "615 Parliament Street Toronto Ontario",
+      "latitudeCoordinate": "43.6684252256",
+      "longitudeCoordinate": "-79.3693283864",
+      "postalCode": "M4X 1R1",
+      "province": "Ontario",
+      "streetAddress": "615 Parliament Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "38 Regent Street Toronto Ontario",
+      "latitudeCoordinate": "43.658595115",
+      "longitudeCoordinate": "-79.364272448",
+      "postalCode": "M5A 3N7",
+      "province": "Ontario",
+      "streetAddress": "38 Regent Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7A Austin Terrace Toronto Ontario",
+      "latitudeCoordinate": "43.678309867",
+      "longitudeCoordinate": "-79.412489825",
+      "postalCode": "M5R 1Y2",
+      "province": "Ontario",
+      "streetAddress": "7A Austin Terrace"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7B Austin Terrace Toronto Ontario",
+      "latitudeCoordinate": "43.678281959",
+      "longitudeCoordinate": "-79.412562379",
+      "postalCode": "M5R 1Y2",
+      "province": "Ontario",
+      "streetAddress": "7B Austin Terrace"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7C Austin Terrace Toronto Ontario",
+      "latitudeCoordinate": "43.678272147",
+      "longitudeCoordinate": "-79.412650919",
+      "postalCode": "M5R 1Y2",
+      "province": "Ontario",
+      "streetAddress": "7C Austin Terrace"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "34 Hazelton Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6785999727",
+      "longitudeCoordinate": "-79.3431868059",
+      "province": "Ontario",
+      "streetAddress": "34 Hazelton Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "38 Hazelton Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6786264739",
+      "longitudeCoordinate": "-79.3430540849",
+      "province": "Ontario",
+      "streetAddress": "38 Hazelton Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "464 Winona Toronto Ontario",
+      "latitudeCoordinate": "43.689283155",
+      "longitudeCoordinate": "-79.435763798",
+      "postalCode": "M6C 3T7",
+      "province": "Ontario",
+      "streetAddress": "464 Winona"
     }
   ],
   "backgroundInformationList": [

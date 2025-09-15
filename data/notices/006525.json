@@ -3,25 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "5799 Yonge Street Toronto Ontario",
-      "latitudeCoordinate": "43.785300472",
-      "longitudeCoordinate": "-79.416284567",
-      "province": "Ontario",
-      "streetAddress": "5799 Yonge Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "5915 Yonge Street Toronto Ontario",
-      "latitudeCoordinate": "43.7867547",
-      "longitudeCoordinate": "-79.416893267",
-      "postalCode": "M2M 0C5",
-      "province": "Ontario",
-      "streetAddress": "5915 Yonge Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "45 Cummer Avenue Toronto Ontario",
       "latitudeCoordinate": "43.787109972",
       "longitudeCoordinate": "-79.415408659",
@@ -58,6 +39,25 @@
       "postalCode": "M2M 2B1",
       "province": "Ontario",
       "streetAddress": "47 Averill Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5799 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.785300472",
+      "longitudeCoordinate": "-79.416284567",
+      "province": "Ontario",
+      "streetAddress": "5799 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5915 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.7867547",
+      "longitudeCoordinate": "-79.416893267",
+      "postalCode": "M2M 0C5",
+      "province": "Ontario",
+      "streetAddress": "5915 Yonge Street"
     }
   ],
   "backgroundInformationList": [

@@ -3,6 +3,15 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "145 St Luke Lane Toronto Ontario",
+      "latitudeCoordinate": "43.664110869",
+      "longitudeCoordinate": "-79.384797708",
+      "province": "Ontario",
+      "streetAddress": "145 St Luke Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "530 Yonge Street Toronto Ontario",
       "latitudeCoordinate": "43.664028672",
       "longitudeCoordinate": "-79.384459718",
@@ -19,15 +28,6 @@
       "postalCode": "M4Y 1Y8",
       "province": "Ontario",
       "streetAddress": "550 Yonge Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "145 St Luke Lane Toronto Ontario",
-      "latitudeCoordinate": "43.664110869",
-      "longitudeCoordinate": "-79.384797708",
-      "province": "Ontario",
-      "streetAddress": "145 St Luke Lane"
     }
   ],
   "backgroundInformationList": [

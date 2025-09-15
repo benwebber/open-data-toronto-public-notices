@@ -3,22 +3,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "39 Centre Street Toronto Ontario",
-      "latitudeCoordinate": "43.745365026",
-      "longitudeCoordinate": "-79.22138129",
-      "postalCode": "M1J 3B7",
-      "province": "Ontario",
-      "streetAddress": "39 Centre Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "447 Mortimer Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6889628831",
       "longitudeCoordinate": "-79.3332231783",
       "postalCode": "M4J 2G3",
       "province": "Ontario",
       "streetAddress": "447 Mortimer Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "39 Centre Street Toronto Ontario",
+      "latitudeCoordinate": "43.745365026",
+      "longitudeCoordinate": "-79.22138129",
+      "postalCode": "M1J 3B7",
+      "province": "Ontario",
+      "streetAddress": "39 Centre Street"
     }
   ],
   "backgroundInformationList": [

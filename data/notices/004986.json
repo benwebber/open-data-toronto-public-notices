@@ -21,22 +21,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "555 Martin Grove Road Toronto Ontario",
-      "latitudeCoordinate": "43.6771558459",
-      "longitudeCoordinate": "-79.563829502",
-      "postalCode": "M9R 4B7",
-      "province": "Ontario",
-      "streetAddress": "555 Martin Grove Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "4400 Eglinton Avenue West Toronto Ontario",
       "latitudeCoordinate": "43.68177371",
       "longitudeCoordinate": "-79.531402734",
       "postalCode": "M9A 4M3",
       "province": "Ontario",
       "streetAddress": "4400 Eglinton Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "555 Martin Grove Road Toronto Ontario",
+      "latitudeCoordinate": "43.6771558459",
+      "longitudeCoordinate": "-79.563829502",
+      "postalCode": "M9R 4B7",
+      "province": "Ontario",
+      "streetAddress": "555 Martin Grove Road"
     },
     {
       "city": "Toronto",

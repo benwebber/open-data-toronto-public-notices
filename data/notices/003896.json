@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "22 Greenbriar Toronto Ontario",
-      "latitudeCoordinate": "43.7665863844",
-      "longitudeCoordinate": "-79.379731224",
-      "postalCode": "M2K 1H6",
-      "province": "Ontario",
-      "streetAddress": "22 Greenbriar"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "24 Greenbriar Road Toronto Ontario",
       "latitudeCoordinate": "43.7665306741",
       "longitudeCoordinate": "-79.3797211633",
@@ -79,6 +69,16 @@
       "postalCode": "M2K 1H6",
       "province": "Ontario",
       "streetAddress": "36 Greenbriar Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "22 Greenbriar Toronto Ontario",
+      "latitudeCoordinate": "43.7665863844",
+      "longitudeCoordinate": "-79.379731224",
+      "postalCode": "M2K 1H6",
+      "province": "Ontario",
+      "streetAddress": "22 Greenbriar"
     }
   ],
   "backgroundInformationList": [

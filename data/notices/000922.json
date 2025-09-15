@@ -3,12 +3,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "15 Criscoe Street Toronto Ontario",
-      "latitudeCoordinate": "43.671564937",
-      "longitudeCoordinate": "-79.4826782248",
-      "postalCode": "M6N 3Y8",
+      "fullAddress": "53 Kimberley Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6831183097",
+      "longitudeCoordinate": "-79.2979596151",
+      "postalCode": "M4E 2Z4",
       "province": "Ontario",
-      "streetAddress": "15 Criscoe Street"
+      "streetAddress": "53 Kimberley Avenue"
     },
     {
       "city": "Toronto",
@@ -33,22 +33,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "53 Kimberley Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6831183097",
-      "longitudeCoordinate": "-79.2979596151",
-      "postalCode": "M4E 2Z4",
-      "province": "Ontario",
-      "streetAddress": "53 Kimberley Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "68 Edith Drive Toronto Ontario",
       "latitudeCoordinate": "43.7076852528",
       "longitudeCoordinate": "-79.4037294467",
       "postalCode": "M4R 1Z2",
       "province": "Ontario",
       "streetAddress": "68 Edith Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Criscoe Street Toronto Ontario",
+      "latitudeCoordinate": "43.671564937",
+      "longitudeCoordinate": "-79.4826782248",
+      "postalCode": "M6N 3Y8",
+      "province": "Ontario",
+      "streetAddress": "15 Criscoe Street"
     },
     {
       "city": "Toronto",

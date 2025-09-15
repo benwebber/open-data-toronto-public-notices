@@ -3,34 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "375 Queen Street West Toronto Ontario",
-      "latitudeCoordinate": "43.649124734",
-      "longitudeCoordinate": "-79.3937698723",
-      "province": "Ontario",
-      "streetAddress": "375 Queen Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "Dundas Street West & Durie Street Toronto Ontario",
-      "latitudeCoordinate": "43.66561213",
-      "longitudeCoordinate": "-79.484817282",
-      "majorIntersection": "Dundas Street West & Durie Street",
-      "province": "Ontario"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "444 Dundas Street West Toronto Ontario",
-      "latitudeCoordinate": "43.6535711252",
-      "longitudeCoordinate": "-79.3958946123",
-      "postalCode": "M5T 1G7",
-      "province": "Ontario",
-      "streetAddress": "444 Dundas Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "1747 St Clair Avenue West Toronto Ontario",
       "latitudeCoordinate": "43.67392841792903",
       "longitudeCoordinate": "-79.4601662024656",
@@ -46,6 +18,34 @@
       "longitudeCoordinate": "-79.3586649855",
       "province": "Ontario",
       "streetAddress": "838 Broadview Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "375 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.649124734",
+      "longitudeCoordinate": "-79.3937698723",
+      "province": "Ontario",
+      "streetAddress": "375 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "444 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6535711252",
+      "longitudeCoordinate": "-79.3958946123",
+      "postalCode": "M5T 1G7",
+      "province": "Ontario",
+      "streetAddress": "444 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Dundas Street West & Durie Street Toronto Ontario",
+      "latitudeCoordinate": "43.66561213",
+      "longitudeCoordinate": "-79.484817282",
+      "majorIntersection": "Dundas Street West & Durie Street",
+      "province": "Ontario"
     }
   ],
   "backgroundInformationList": [

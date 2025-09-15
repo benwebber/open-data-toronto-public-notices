@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "21 Don Valley Parkway N Toronto Ontario",
-      "latitudeCoordinate": "43.6885546233",
-      "longitudeCoordinate": "-79.3594310811",
-      "postalCode": "M4M 3P2",
-      "province": "Ontario",
-      "streetAddress": "21 Don Valley Parkway N"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "30 Booth Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6543906396",
       "longitudeCoordinate": "-79.3424805252",
@@ -39,6 +29,16 @@
       "postalCode": "M4M 1B7",
       "province": "Ontario",
       "streetAddress": "375 Eastern Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "21 Don Valley Parkway N Toronto Ontario",
+      "latitudeCoordinate": "43.6885546233",
+      "longitudeCoordinate": "-79.3594310811",
+      "postalCode": "M4M 3P2",
+      "province": "Ontario",
+      "streetAddress": "21 Don Valley Parkway N"
     }
   ],
   "backgroundInformationList": [

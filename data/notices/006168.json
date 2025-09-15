@@ -3,6 +3,16 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "19 Alexandra Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.716926698",
+      "longitudeCoordinate": "-79.401384783",
+      "postalCode": "M4R 1L8",
+      "province": "Ontario",
+      "streetAddress": "19 Alexandra Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "2674 Yonge Street Toronto Ontario",
       "latitudeCoordinate": "43.716796022",
       "longitudeCoordinate": "-79.400692664",
@@ -29,16 +39,6 @@
       "postalCode": "M4N 2H7",
       "province": "Ontario",
       "streetAddress": "2704 Yonge Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "19 Alexandra Boulevard Toronto Ontario",
-      "latitudeCoordinate": "43.716926698",
-      "longitudeCoordinate": "-79.401384783",
-      "postalCode": "M4R 1L8",
-      "province": "Ontario",
-      "streetAddress": "19 Alexandra Boulevard"
     }
   ],
   "backgroundInformationList": [

@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "93 Mildenhall Road Toronto Ontario",
-      "latitudeCoordinate": "43.7288129105",
-      "longitudeCoordinate": "-79.3864212654",
-      "postalCode": "M4N 3H4",
-      "province": "Ontario",
-      "streetAddress": "93 Mildenhall Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "286 Lawrence Avenue East Toronto Ontario",
       "latitudeCoordinate": "43.7287956138",
       "longitudeCoordinate": "-79.3861480721",
@@ -29,6 +19,16 @@
       "postalCode": "M4N 1T7",
       "province": "Ontario",
       "streetAddress": "288 Lawrence Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "93 Mildenhall Road Toronto Ontario",
+      "latitudeCoordinate": "43.7288129105",
+      "longitudeCoordinate": "-79.3864212654",
+      "postalCode": "M4N 3H4",
+      "province": "Ontario",
+      "streetAddress": "93 Mildenhall Road"
     }
   ],
   "backgroundInformationList": [

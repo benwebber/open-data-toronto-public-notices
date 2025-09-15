@@ -3,25 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "3100 Bloor Street West Toronto Ontario",
-      "latitudeCoordinate": "43.646863494",
-      "longitudeCoordinate": "-79.5151545848",
-      "province": "Ontario",
-      "streetAddress": "3100 Bloor Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "3200 Bloor Street West Toronto Ontario",
-      "latitudeCoordinate": "43.6467639831",
-      "longitudeCoordinate": "-79.5160603343",
-      "postalCode": "M8X 1E1",
-      "province": "Ontario",
-      "streetAddress": "3200 Bloor Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "4 Montgomery Road Toronto Ontario",
       "latitudeCoordinate": "43.646984002",
       "longitudeCoordinate": "-79.515398253",
@@ -38,6 +19,25 @@
       "postalCode": "M8X 1Z4",
       "province": "Ontario",
       "streetAddress": "8 Montgomery Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3100 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.646863494",
+      "longitudeCoordinate": "-79.5151545848",
+      "province": "Ontario",
+      "streetAddress": "3100 Bloor Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3200 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6467639831",
+      "longitudeCoordinate": "-79.5160603343",
+      "postalCode": "M8X 1E1",
+      "province": "Ontario",
+      "streetAddress": "3200 Bloor Street West"
     }
   ],
   "backgroundInformationList": [

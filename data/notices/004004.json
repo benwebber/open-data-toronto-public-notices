@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "108 George Street Toronto Ontario",
-      "latitudeCoordinate": "43.651964815",
-      "longitudeCoordinate": "-79.371459435",
-      "postalCode": "M8V 2S4",
-      "province": "Ontario",
-      "streetAddress": "108 George Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "182 Franklin Avenue Toronto Ontario",
       "latitudeCoordinate": "43.664409878",
       "longitudeCoordinate": "-79.454113658",
@@ -33,32 +23,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "5 Randolph Road Toronto Ontario",
-      "latitudeCoordinate": "43.7011589977",
-      "longitudeCoordinate": "-79.3640773025",
-      "postalCode": "M4G 3R6",
-      "province": "Ontario",
-      "streetAddress": "5 Randolph Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "7 Wright Avenue Toronto Ontario",
       "latitudeCoordinate": "43.646764396",
       "longitudeCoordinate": "-79.441160508",
       "postalCode": "M6R 1K9",
       "province": "Ontario",
       "streetAddress": "7 Wright Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "9 Oakfield Drive Toronto Ontario",
-      "latitudeCoordinate": "43.6322416075",
-      "longitudeCoordinate": "-79.5039135916",
-      "postalCode": "M8Y 1N6",
-      "province": "Ontario",
-      "streetAddress": "9 Oakfield Drive"
     },
     {
       "city": "Toronto",
@@ -73,36 +43,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "11 Placid Road Toronto Ontario",
-      "latitudeCoordinate": "43.6366825191",
-      "longitudeCoordinate": "-79.5129578684",
-      "postalCode": "M8Z 4A3",
-      "province": "Ontario",
-      "streetAddress": "11 Placid Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "15 Palmerston Square Toronto Ontario",
-      "latitudeCoordinate": "43.666286353",
-      "longitudeCoordinate": "-79.414807465",
-      "postalCode": "M6G 2S8",
-      "province": "Ontario",
-      "streetAddress": "15 Palmerston Square"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "19 Fraserton Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.7495530126",
-      "longitudeCoordinate": "-79.2516447843",
-      "postalCode": "M1J 1S7",
-      "province": "Ontario",
-      "streetAddress": "19 Fraserton Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "19 Jackson Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6490477",
       "longitudeCoordinate": "-79.509093562",
@@ -113,62 +53,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "27 Brenda Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.7183767188",
-      "longitudeCoordinate": "-79.2599278686",
-      "postalCode": "M1K 3C3",
-      "province": "Ontario",
-      "streetAddress": "27 Brenda Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "36 Mahoney Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6915976683",
       "longitudeCoordinate": "-79.4982542839",
       "postalCode": "M6M 2H4",
       "province": "Ontario",
       "streetAddress": "36 Mahoney Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "40 Gradwell Drive Toronto Ontario",
-      "latitudeCoordinate": "43.7144725235",
-      "longitudeCoordinate": "-79.2356645591",
-      "postalCode": "M1M 2M9",
-      "province": "Ontario",
-      "streetAddress": "40 Gradwell Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "58 Scarborough Golf Club Road Toronto Ontario",
-      "latitudeCoordinate": "43.7443328753",
-      "longitudeCoordinate": "-79.2090469513",
-      "postalCode": "M1M 3C5",
-      "province": "Ontario",
-      "streetAddress": "58 Scarborough Golf Club Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "65 Fifth Street Toronto Ontario",
-      "latitudeCoordinate": "43.5984940288",
-      "longitudeCoordinate": "-79.5016447595",
-      "postalCode": "M8V 2Z1",
-      "province": "Ontario",
-      "streetAddress": "65 Fifth Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "101 Pendrith Street Toronto Ontario",
-      "latitudeCoordinate": "43.6663939638",
-      "longitudeCoordinate": "-79.4236865819",
-      "postalCode": "M6G 1R8",
-      "province": "Ontario",
-      "streetAddress": "101 Pendrith Street"
     },
     {
       "city": "Toronto",
@@ -193,52 +83,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "214 Grandravine Drive Toronto Ontario",
-      "latitudeCoordinate": "43.7498445512",
-      "longitudeCoordinate": "-79.5016898974",
-      "postalCode": "M3J 1B7",
-      "province": "Ontario",
-      "streetAddress": "214 Grandravine Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "230 Chatham Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6805294268",
       "longitudeCoordinate": "-79.3326845644",
       "postalCode": "M4J 1K9",
       "province": "Ontario",
       "streetAddress": "230 Chatham Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "231 Elm Road Toronto Ontario",
-      "latitudeCoordinate": "43.7282767536",
-      "longitudeCoordinate": "-79.4140076598",
-      "postalCode": "M5M 3T7",
-      "province": "Ontario",
-      "streetAddress": "231 Elm Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "268 Woodfield Road Toronto Ontario",
-      "latitudeCoordinate": "43.671266189",
-      "longitudeCoordinate": "-79.324011024",
-      "postalCode": "M4L 2W7",
-      "province": "Ontario",
-      "streetAddress": "268 Woodfield Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "282 Woodfield Road Toronto Ontario",
-      "latitudeCoordinate": "43.672230686",
-      "longitudeCoordinate": "-79.32441879",
-      "postalCode": "M4L 2X1",
-      "province": "Ontario",
-      "streetAddress": "282 Woodfield Road"
     },
     {
       "city": "Toronto",
@@ -273,12 +123,162 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "19 Fraserton Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7495530126",
+      "longitudeCoordinate": "-79.2516447843",
+      "postalCode": "M1J 1S7",
+      "province": "Ontario",
+      "streetAddress": "19 Fraserton Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "27 Brenda Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7183767188",
+      "longitudeCoordinate": "-79.2599278686",
+      "postalCode": "M1K 3C3",
+      "province": "Ontario",
+      "streetAddress": "27 Brenda Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Oakfield Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6322416075",
+      "longitudeCoordinate": "-79.5039135916",
+      "postalCode": "M8Y 1N6",
+      "province": "Ontario",
+      "streetAddress": "9 Oakfield Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "40 Gradwell Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7144725235",
+      "longitudeCoordinate": "-79.2356645591",
+      "postalCode": "M1M 2M9",
+      "province": "Ontario",
+      "streetAddress": "40 Gradwell Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "214 Grandravine Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7498445512",
+      "longitudeCoordinate": "-79.5016898974",
+      "postalCode": "M3J 1B7",
+      "province": "Ontario",
+      "streetAddress": "214 Grandravine Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Randolph Road Toronto Ontario",
+      "latitudeCoordinate": "43.7011589977",
+      "longitudeCoordinate": "-79.3640773025",
+      "postalCode": "M4G 3R6",
+      "province": "Ontario",
+      "streetAddress": "5 Randolph Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Placid Road Toronto Ontario",
+      "latitudeCoordinate": "43.6366825191",
+      "longitudeCoordinate": "-79.5129578684",
+      "postalCode": "M8Z 4A3",
+      "province": "Ontario",
+      "streetAddress": "11 Placid Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "58 Scarborough Golf Club Road Toronto Ontario",
+      "latitudeCoordinate": "43.7443328753",
+      "longitudeCoordinate": "-79.2090469513",
+      "postalCode": "M1M 3C5",
+      "province": "Ontario",
+      "streetAddress": "58 Scarborough Golf Club Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "231 Elm Road Toronto Ontario",
+      "latitudeCoordinate": "43.7282767536",
+      "longitudeCoordinate": "-79.4140076598",
+      "postalCode": "M5M 3T7",
+      "province": "Ontario",
+      "streetAddress": "231 Elm Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "268 Woodfield Road Toronto Ontario",
+      "latitudeCoordinate": "43.671266189",
+      "longitudeCoordinate": "-79.324011024",
+      "postalCode": "M4L 2W7",
+      "province": "Ontario",
+      "streetAddress": "268 Woodfield Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "282 Woodfield Road Toronto Ontario",
+      "latitudeCoordinate": "43.672230686",
+      "longitudeCoordinate": "-79.32441879",
+      "postalCode": "M4L 2X1",
+      "province": "Ontario",
+      "streetAddress": "282 Woodfield Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "1535 Mount Pleasant Road Toronto Ontario",
       "latitudeCoordinate": "43.7273317073",
       "longitudeCoordinate": "-79.3965928775",
       "postalCode": "M4N 2V1",
       "province": "Ontario",
       "streetAddress": "1535 Mount Pleasant Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Palmerston Square Toronto Ontario",
+      "latitudeCoordinate": "43.666286353",
+      "longitudeCoordinate": "-79.414807465",
+      "postalCode": "M6G 2S8",
+      "province": "Ontario",
+      "streetAddress": "15 Palmerston Square"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "108 George Street Toronto Ontario",
+      "latitudeCoordinate": "43.651964815",
+      "longitudeCoordinate": "-79.371459435",
+      "postalCode": "M8V 2S4",
+      "province": "Ontario",
+      "streetAddress": "108 George Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "65 Fifth Street Toronto Ontario",
+      "latitudeCoordinate": "43.5984940288",
+      "longitudeCoordinate": "-79.5016447595",
+      "postalCode": "M8V 2Z1",
+      "province": "Ontario",
+      "streetAddress": "65 Fifth Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "101 Pendrith Street Toronto Ontario",
+      "latitudeCoordinate": "43.6663939638",
+      "longitudeCoordinate": "-79.4236865819",
+      "postalCode": "M6G 1R8",
+      "province": "Ontario",
+      "streetAddress": "101 Pendrith Street"
     }
   ],
   "backgroundInformationList": [

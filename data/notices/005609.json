@@ -3,66 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "5 Birchcrest Court Toronto Ontario",
-      "latitudeCoordinate": "43.797387158",
-      "longitudeCoordinate": "-79.320799637",
-      "postalCode": "M1W 4A4",
-      "province": "Ontario",
-      "streetAddress": "5 Birchcrest Court"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "7 Wilberton Road Toronto Ontario",
-      "latitudeCoordinate": "43.694798378",
-      "longitudeCoordinate": "-79.399918252",
-      "postalCode": "M4V 1Z2",
-      "province": "Ontario",
-      "streetAddress": "7 Wilberton Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "16 Humbercrest Boulevard Toronto Ontario",
-      "latitudeCoordinate": "43.654536251",
-      "longitudeCoordinate": "-79.49266335",
-      "postalCode": "M6S 4K7",
-      "province": "Ontario",
-      "streetAddress": "16 Humbercrest Boulevard"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "19 Summerhill Gardens Toronto Ontario",
-      "latitudeCoordinate": "43.684713678",
-      "longitudeCoordinate": "-79.387177933",
-      "postalCode": "M4T 1B3",
-      "province": "Ontario",
-      "streetAddress": "19 Summerhill Gardens"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "20 Chandler Drive Toronto Ontario",
-      "latitudeCoordinate": "43.7631737782",
-      "longitudeCoordinate": "-79.2209879353",
-      "postalCode": "M1G 1Z2",
-      "province": "Ontario",
-      "streetAddress": "20 Chandler Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "21 Sandyhook Square Toronto Ontario",
-      "latitudeCoordinate": "43.8179590267",
-      "longitudeCoordinate": "-79.3205211294",
-      "postalCode": "M1W 3N6",
-      "province": "Ontario",
-      "streetAddress": "21 Sandyhook Square"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "26 Columbine Avenue Toronto Ontario",
       "latitudeCoordinate": "43.671499017",
       "longitudeCoordinate": "-79.309128468",
@@ -83,32 +23,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "26 Easton Road Toronto Ontario",
-      "latitudeCoordinate": "43.7557109368",
-      "longitudeCoordinate": "-79.4249827549",
-      "postalCode": "M2N 2L3",
-      "province": "Ontario",
-      "streetAddress": "26 Easton Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "36 Manchester Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6675621984",
       "longitudeCoordinate": "-79.4269658167",
       "postalCode": "M6G 1V3",
       "province": "Ontario",
       "streetAddress": "36 Manchester Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "45 Manorglen Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.7794013368",
-      "longitudeCoordinate": "-79.2722922526",
-      "postalCode": "M1S 1W3",
-      "province": "Ontario",
-      "streetAddress": "45 Manorglen Crescent"
     },
     {
       "city": "Toronto",
@@ -123,32 +43,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "58 St Andrews Gardens Toronto Ontario",
-      "latitudeCoordinate": "43.6860369272",
-      "longitudeCoordinate": "-79.3738071577",
-      "postalCode": "M4W 2E1",
-      "province": "Ontario",
-      "streetAddress": "58 St Andrews Gardens"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "62 Marlow Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6855660457",
       "longitudeCoordinate": "-79.3386420838",
       "postalCode": "M4J 3T9",
       "province": "Ontario",
       "streetAddress": "62 Marlow Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "88 Ridge Hill Drive Toronto Ontario",
-      "latitudeCoordinate": "43.7018543949",
-      "longitudeCoordinate": "-79.4352387576",
-      "postalCode": "M6C 2J8",
-      "province": "Ontario",
-      "streetAddress": "88 Ridge Hill Drive"
     },
     {
       "city": "Toronto",
@@ -173,16 +73,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "105 Cleveland Street Toronto Ontario",
-      "latitudeCoordinate": "43.7030563064",
-      "longitudeCoordinate": "-79.3776103295",
-      "postalCode": "M4S 2W4",
-      "province": "Ontario",
-      "streetAddress": "105 Cleveland Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "113 Coleman Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6903580014",
       "longitudeCoordinate": "-79.2962302197",
@@ -203,26 +93,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "148 Blythwood Road Toronto Ontario",
-      "latitudeCoordinate": "43.717822775",
-      "longitudeCoordinate": "-79.395990227",
-      "postalCode": "M4N 1A4",
-      "province": "Ontario",
-      "streetAddress": "148 Blythwood Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "165 Old Orchard Grove Toronto Ontario",
-      "latitudeCoordinate": "43.7331664467",
-      "longitudeCoordinate": "-79.4114704871",
-      "postalCode": "M5M 2E1",
-      "province": "Ontario",
-      "streetAddress": "165 Old Orchard Grove"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "188 Atlas Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6869958203",
       "longitudeCoordinate": "-79.4335083972",
@@ -239,16 +109,6 @@
       "postalCode": "M6C 3P7",
       "province": "Ontario",
       "streetAddress": "190 Atlas Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "190 Parkview Hill Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.7076613452",
-      "longitudeCoordinate": "-79.3250585041",
-      "postalCode": "M4B 1R8",
-      "province": "Ontario",
-      "streetAddress": "190 Parkview Hill Crescent"
     },
     {
       "city": "Toronto",
@@ -283,6 +143,136 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "428 Hounslow Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7712280588",
+      "longitudeCoordinate": "-79.4350237494",
+      "postalCode": "M2R 1H6",
+      "province": "Ontario",
+      "streetAddress": "428 Hounslow Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 Humbercrest Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.654536251",
+      "longitudeCoordinate": "-79.49266335",
+      "postalCode": "M6S 4K7",
+      "province": "Ontario",
+      "streetAddress": "16 Humbercrest Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Birchcrest Court Toronto Ontario",
+      "latitudeCoordinate": "43.797387158",
+      "longitudeCoordinate": "-79.320799637",
+      "postalCode": "M1W 4A4",
+      "province": "Ontario",
+      "streetAddress": "5 Birchcrest Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "45 Manorglen Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7794013368",
+      "longitudeCoordinate": "-79.2722922526",
+      "postalCode": "M1S 1W3",
+      "province": "Ontario",
+      "streetAddress": "45 Manorglen Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "190 Parkview Hill Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7076613452",
+      "longitudeCoordinate": "-79.3250585041",
+      "postalCode": "M4B 1R8",
+      "province": "Ontario",
+      "streetAddress": "190 Parkview Hill Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "20 Chandler Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7631737782",
+      "longitudeCoordinate": "-79.2209879353",
+      "postalCode": "M1G 1Z2",
+      "province": "Ontario",
+      "streetAddress": "20 Chandler Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "88 Ridge Hill Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7018543949",
+      "longitudeCoordinate": "-79.4352387576",
+      "postalCode": "M6C 2J8",
+      "province": "Ontario",
+      "streetAddress": "88 Ridge Hill Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Summerhill Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.684713678",
+      "longitudeCoordinate": "-79.387177933",
+      "postalCode": "M4T 1B3",
+      "province": "Ontario",
+      "streetAddress": "19 Summerhill Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "58 St Andrews Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.6860369272",
+      "longitudeCoordinate": "-79.3738071577",
+      "postalCode": "M4W 2E1",
+      "province": "Ontario",
+      "streetAddress": "58 St Andrews Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "165 Old Orchard Grove Toronto Ontario",
+      "latitudeCoordinate": "43.7331664467",
+      "longitudeCoordinate": "-79.4114704871",
+      "postalCode": "M5M 2E1",
+      "province": "Ontario",
+      "streetAddress": "165 Old Orchard Grove"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Wilberton Road Toronto Ontario",
+      "latitudeCoordinate": "43.694798378",
+      "longitudeCoordinate": "-79.399918252",
+      "postalCode": "M4V 1Z2",
+      "province": "Ontario",
+      "streetAddress": "7 Wilberton Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "26 Easton Road Toronto Ontario",
+      "latitudeCoordinate": "43.7557109368",
+      "longitudeCoordinate": "-79.4249827549",
+      "postalCode": "M2N 2L3",
+      "province": "Ontario",
+      "streetAddress": "26 Easton Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "148 Blythwood Road Toronto Ontario",
+      "latitudeCoordinate": "43.717822775",
+      "longitudeCoordinate": "-79.395990227",
+      "postalCode": "M4N 1A4",
+      "province": "Ontario",
+      "streetAddress": "148 Blythwood Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "423 Millwood Road Toronto Ontario",
       "latitudeCoordinate": "43.7021744519",
       "longitudeCoordinate": "-79.3839030036",
@@ -293,12 +283,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "428 Hounslow Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.7712280588",
-      "longitudeCoordinate": "-79.4350237494",
-      "postalCode": "M2R 1H6",
+      "fullAddress": "21 Sandyhook Square Toronto Ontario",
+      "latitudeCoordinate": "43.8179590267",
+      "longitudeCoordinate": "-79.3205211294",
+      "postalCode": "M1W 3N6",
       "province": "Ontario",
-      "streetAddress": "428 Hounslow Avenue"
+      "streetAddress": "21 Sandyhook Square"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "105 Cleveland Street Toronto Ontario",
+      "latitudeCoordinate": "43.7030563064",
+      "longitudeCoordinate": "-79.3776103295",
+      "postalCode": "M4S 2W4",
+      "province": "Ontario",
+      "streetAddress": "105 Cleveland Street"
     },
     {
       "city": "Toronto",

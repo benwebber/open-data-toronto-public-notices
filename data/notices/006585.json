@@ -3,24 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "McCowan Road & Finch Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.80795663056322",
-      "longitudeCoordinate": "-79.26613093837598",
-      "majorIntersection": "McCowan Road & Finch Avenue",
-      "province": "Ontario"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "McNicoll Avenue & Midland Avenue Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.814578958",
-      "longitudeCoordinate": "-79.292218325",
-      "majorIntersection": "McNicoll Avenue & Midland Avenue Avenue",
-      "province": "Ontario"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "5789 Steeles Avenue East Toronto Ontario",
       "latitudeCoordinate": "43.83328006",
       "longitudeCoordinate": "-79.262422001",
@@ -45,6 +27,24 @@
       "longitudeCoordinate": "-79.25814307116401",
       "province": "Ontario",
       "streetAddress": "5951  Steeles Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "McCowan Road & Finch Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.80795663056322",
+      "longitudeCoordinate": "-79.26613093837598",
+      "majorIntersection": "McCowan Road & Finch Avenue",
+      "province": "Ontario"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "McNicoll Avenue & Midland Avenue Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.814578958",
+      "longitudeCoordinate": "-79.292218325",
+      "majorIntersection": "McNicoll Avenue & Midland Avenue Avenue",
+      "province": "Ontario"
     },
     {
       "city": "Toronto",

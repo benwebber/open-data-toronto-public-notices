@@ -3,6 +3,66 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "25 Nicholas Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.659635099",
+      "longitudeCoordinate": "-79.358144058",
+      "postalCode": "M5A 0M9",
+      "province": "Ontario",
+      "streetAddress": "25 Nicholas Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55 Nicholas Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.660249133",
+      "longitudeCoordinate": "-79.358331625",
+      "postalCode": "M5A 0S3",
+      "province": "Ontario",
+      "streetAddress": "55 Nicholas Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "53 Sutton Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.657960928",
+      "longitudeCoordinate": "-79.362777365",
+      "postalCode": "M5A 0M3",
+      "province": "Ontario",
+      "streetAddress": "53 Sutton Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "63 Sutton Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.658043719",
+      "longitudeCoordinate": "-79.362442823",
+      "postalCode": "M5A 0M3",
+      "province": "Ontario",
+      "streetAddress": "63 Sutton Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "20 Tubman Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.660593233",
+      "longitudeCoordinate": "-79.359348948",
+      "postalCode": "M5A 0M8",
+      "province": "Ontario",
+      "streetAddress": "20 Tubman Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55 Regent Park Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.659517168",
+      "longitudeCoordinate": "-79.36111351",
+      "postalCode": "M5A 0C2",
+      "province": "Ontario",
+      "streetAddress": "55 Regent Park Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "1 Cole Street Toronto Ontario",
       "latitudeCoordinate": "43.660060085",
       "longitudeCoordinate": "-79.365911022",
@@ -63,35 +123,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "30 Dreamers Way Toronto Ontario",
-      "latitudeCoordinate": "43.661938668",
-      "longitudeCoordinate": "-79.366108017",
-      "province": "Ontario",
-      "streetAddress": "30 Dreamers Way"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "25 Nicholas Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.659635099",
-      "longitudeCoordinate": "-79.358144058",
-      "postalCode": "M5A 0M9",
-      "province": "Ontario",
-      "streetAddress": "25 Nicholas Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "55 Nicholas Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.660249133",
-      "longitudeCoordinate": "-79.358331625",
-      "postalCode": "M5A 0S3",
-      "province": "Ontario",
-      "streetAddress": "55 Nicholas Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "7 Oak Street Toronto Ontario",
       "latitudeCoordinate": "43.7078113638",
       "longitudeCoordinate": "-79.5323084064",
@@ -108,36 +139,6 @@
       "postalCode": "M5A 0A2",
       "province": "Ontario",
       "streetAddress": "35 Oak Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "7 Peaceful Way Toronto Ontario",
-      "latitudeCoordinate": "43.657777265",
-      "longitudeCoordinate": "-79.362695203",
-      "postalCode": "M5A 0M3",
-      "province": "Ontario",
-      "streetAddress": "7 Peaceful Way"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "9 Peaceful Way Toronto Ontario",
-      "latitudeCoordinate": "43.657846933",
-      "longitudeCoordinate": "-79.362715976",
-      "postalCode": "M5A 0M3",
-      "province": "Ontario",
-      "streetAddress": "9 Peaceful Way"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "55 Regent Park Boulevard Toronto Ontario",
-      "latitudeCoordinate": "43.659517168",
-      "longitudeCoordinate": "-79.36111351",
-      "postalCode": "M5A 0C2",
-      "province": "Ontario",
-      "streetAddress": "55 Regent Park Boulevard"
     },
     {
       "city": "Toronto",
@@ -232,26 +233,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "53 Sutton Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.657960928",
-      "longitudeCoordinate": "-79.362777365",
-      "postalCode": "M5A 0M3",
-      "province": "Ontario",
-      "streetAddress": "53 Sutton Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "63 Sutton Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.658043719",
-      "longitudeCoordinate": "-79.362442823",
-      "postalCode": "M5A 0M3",
-      "province": "Ontario",
-      "streetAddress": "63 Sutton Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "146 Sumach Street Toronto Ontario",
       "latitudeCoordinate": "43.658767684",
       "longitudeCoordinate": "-79.359939809",
@@ -262,12 +243,31 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "20 Tubman Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.660593233",
-      "longitudeCoordinate": "-79.359348948",
-      "postalCode": "M5A 0M8",
+      "fullAddress": "30 Dreamers Way Toronto Ontario",
+      "latitudeCoordinate": "43.661938668",
+      "longitudeCoordinate": "-79.366108017",
       "province": "Ontario",
-      "streetAddress": "20 Tubman Avenue"
+      "streetAddress": "30 Dreamers Way"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Peaceful Way Toronto Ontario",
+      "latitudeCoordinate": "43.657777265",
+      "longitudeCoordinate": "-79.362695203",
+      "postalCode": "M5A 0M3",
+      "province": "Ontario",
+      "streetAddress": "7 Peaceful Way"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Peaceful Way Toronto Ontario",
+      "latitudeCoordinate": "43.657846933",
+      "longitudeCoordinate": "-79.362715976",
+      "postalCode": "M5A 0M3",
+      "province": "Ontario",
+      "streetAddress": "9 Peaceful Way"
     }
   ],
   "backgroundInformationList": [

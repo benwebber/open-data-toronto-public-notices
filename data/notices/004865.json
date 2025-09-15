@@ -3,36 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "938 King Street West Toronto Ontario",
-      "latitudeCoordinate": "43.6423402656",
-      "longitudeCoordinate": "-79.4114525897",
-      "postalCode": "M5V 1P5",
-      "province": "Ontario",
-      "streetAddress": "938 King Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "944 King Street West Toronto Ontario",
-      "latitudeCoordinate": "43.6423129208",
-      "longitudeCoordinate": "-79.4116310403",
-      "postalCode": "M5V 1P5",
-      "province": "Ontario",
-      "streetAddress": "944 King Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "950 King Street West Toronto Ontario",
-      "latitudeCoordinate": "43.6422892812",
-      "longitudeCoordinate": "-79.4118049126",
-      "postalCode": "M5V 1P5",
-      "province": "Ontario",
-      "streetAddress": "950 King Street West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "95 Strachan Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6423788807",
       "longitudeCoordinate": "-79.4118188035",
@@ -59,6 +29,36 @@
       "postalCode": "M6J 2S7",
       "province": "Ontario",
       "streetAddress": "99 Strachan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "938 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6423402656",
+      "longitudeCoordinate": "-79.4114525897",
+      "postalCode": "M5V 1P5",
+      "province": "Ontario",
+      "streetAddress": "938 King Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "944 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6423129208",
+      "longitudeCoordinate": "-79.4116310403",
+      "postalCode": "M5V 1P5",
+      "province": "Ontario",
+      "streetAddress": "944 King Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "950 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6422892812",
+      "longitudeCoordinate": "-79.4118049126",
+      "postalCode": "M5V 1P5",
+      "province": "Ontario",
+      "streetAddress": "950 King Street West"
     }
   ],
   "backgroundInformationList": [

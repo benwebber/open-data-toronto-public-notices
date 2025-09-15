@@ -21,11 +21,11 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "240 Christie Street Toronto Ontario",
-      "latitudeCoordinate": "43.6702556743",
-      "longitudeCoordinate": "-79.4212917889",
+      "fullAddress": "3275 Sheppard Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.777606492",
+      "longitudeCoordinate": "-79.309972892",
       "province": "Ontario",
-      "streetAddress": "240 Christie Street"
+      "streetAddress": "3275 Sheppard Avenue East"
     },
     {
       "city": "Toronto",
@@ -48,11 +48,11 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "3275 Sheppard Avenue East Toronto Ontario",
-      "latitudeCoordinate": "43.777606492",
-      "longitudeCoordinate": "-79.309972892",
+      "fullAddress": "240 Christie Street Toronto Ontario",
+      "latitudeCoordinate": "43.6702556743",
+      "longitudeCoordinate": "-79.4212917889",
       "province": "Ontario",
-      "streetAddress": "3275 Sheppard Avenue East"
+      "streetAddress": "240 Christie Street"
     }
   ],
   "backgroundInformationList": [

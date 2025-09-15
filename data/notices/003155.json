@@ -3,6 +3,26 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "233 Gowan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6887315847",
+      "longitudeCoordinate": "-79.3458177294",
+      "postalCode": "M4J 2K7",
+      "province": "Ontario",
+      "streetAddress": "233 Gowan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3285 Lawrence Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.7570764449",
+      "longitudeCoordinate": "-79.2369588616",
+      "postalCode": "M1H 1A5",
+      "province": "Ontario",
+      "streetAddress": "3285 Lawrence Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "1 Silas Hill Drive Toronto Ontario",
       "latitudeCoordinate": "43.7854270922",
       "longitudeCoordinate": "-79.3621863241",
@@ -29,26 +49,6 @@
       "postalCode": "M9M 1J5",
       "province": "Ontario",
       "streetAddress": "30 Sunset Trail"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "233 Gowan Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6887315847",
-      "longitudeCoordinate": "-79.3458177294",
-      "postalCode": "M4J 2K7",
-      "province": "Ontario",
-      "streetAddress": "233 Gowan Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "3285 Lawrence Avenue East Toronto Ontario",
-      "latitudeCoordinate": "43.7570764449",
-      "longitudeCoordinate": "-79.2369588616",
-      "postalCode": "M1H 1A5",
-      "province": "Ontario",
-      "streetAddress": "3285 Lawrence Avenue East"
     }
   ],
   "backgroundInformationList": [

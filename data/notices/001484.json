@@ -3,22 +3,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "29 Abinger Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.667777605",
-      "longitudeCoordinate": "-79.5483723549",
-      "postalCode": "M9B 2Y4",
-      "province": "Ontario",
-      "streetAddress": "29 Abinger Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "94 Leuty Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6702496965",
       "longitudeCoordinate": "-79.2966515081",
       "postalCode": "M4E 2R4",
       "province": "Ontario",
       "streetAddress": "94 Leuty Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "29 Abinger Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.667777605",
+      "longitudeCoordinate": "-79.5483723549",
+      "postalCode": "M9B 2Y4",
+      "province": "Ontario",
+      "streetAddress": "29 Abinger Crescent"
     },
     {
       "city": "Toronto",

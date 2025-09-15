@@ -3,22 +3,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "1 Greenbriar Road Toronto Ontario",
-      "latitudeCoordinate": "43.7680939979",
-      "longitudeCoordinate": "-79.3798831555",
-      "postalCode": "M2K 1H4",
-      "province": "Ontario",
-      "streetAddress": "1 Greenbriar Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "635 Sheppard Avenue East Toronto Ontario",
       "latitudeCoordinate": "43.768110972",
       "longitudeCoordinate": "-79.379809893",
       "postalCode": "M2K 1B6",
       "province": "Ontario",
       "streetAddress": "635 Sheppard Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Greenbriar Road Toronto Ontario",
+      "latitudeCoordinate": "43.7680939979",
+      "longitudeCoordinate": "-79.3798831555",
+      "postalCode": "M2K 1H4",
+      "province": "Ontario",
+      "streetAddress": "1 Greenbriar Road"
     }
   ],
   "backgroundInformationList": [

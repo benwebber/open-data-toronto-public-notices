@@ -3,6 +3,16 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "52 St Quentin Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7189276147",
+      "longitudeCoordinate": "-79.2388046634",
+      "postalCode": "M1M 2M8",
+      "province": "Ontario",
+      "streetAddress": "52 St Quentin Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "2759 Kingston Road Toronto Ontario",
       "latitudeCoordinate": "43.7191118309",
       "longitudeCoordinate": "-79.2390749421",
@@ -19,16 +29,6 @@
       "postalCode": "M1M 1M8",
       "province": "Ontario",
       "streetAddress": "2761-2763 Kingston Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "52 St Quentin Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.7189276147",
-      "longitudeCoordinate": "-79.2388046634",
-      "postalCode": "M1M 2M8",
-      "province": "Ontario",
-      "streetAddress": "52 St Quentin Avenue"
     }
   ],
   "backgroundInformationList": [

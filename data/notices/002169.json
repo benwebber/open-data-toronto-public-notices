@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "50 Otter Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.7187128134",
-      "longitudeCoordinate": "-79.4181356991",
-      "postalCode": "M5N 2W5",
-      "province": "Ontario",
-      "streetAddress": "50 Otter Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "76 Harris Avenue Toronto Ontario",
       "latitudeCoordinate": "43.688606895",
       "longitudeCoordinate": "-79.304543295",
@@ -29,6 +19,16 @@
       "postalCode": "M6P 2X7",
       "province": "Ontario",
       "streetAddress": "425 Clendenan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "50 Otter Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7187128134",
+      "longitudeCoordinate": "-79.4181356991",
+      "postalCode": "M5N 2W5",
+      "province": "Ontario",
+      "streetAddress": "50 Otter Crescent"
     },
     {
       "city": "Toronto",

@@ -3,62 +3,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "7 Brushwood Court Toronto Ontario",
-      "latitudeCoordinate": "43.7548022852",
-      "longitudeCoordinate": "-79.328353335",
-      "postalCode": "M3A 1V9",
-      "province": "Ontario",
-      "streetAddress": "7 Brushwood Court"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "20 Kennerly Court Toronto Ontario",
-      "latitudeCoordinate": "43.7545160148",
-      "longitudeCoordinate": "-79.5071499018",
-      "postalCode": "M3J 1G9",
-      "province": "Ontario",
-      "streetAddress": "20 Kennerly Court"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "63 Marchmount Road Toronto Ontario",
-      "latitudeCoordinate": "43.6739130381",
-      "longitudeCoordinate": "-79.4272293325",
-      "postalCode": "M6G 2A8",
-      "province": "Ontario",
-      "streetAddress": "63 Marchmount Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "107 Centre Avenue Toronto Ontario",
       "latitudeCoordinate": "43.7934642209",
       "longitudeCoordinate": "-79.4089628463",
       "postalCode": "M2M 2L7",
       "province": "Ontario",
       "streetAddress": "107 Centre Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "111 Roseneath Gardens Toronto Ontario",
-      "latitudeCoordinate": "43.6855557206",
-      "longitudeCoordinate": "-79.4356575521",
-      "postalCode": "M6C 3X5",
-      "province": "Ontario",
-      "streetAddress": "111 Roseneath Gardens"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "127 Habitant Drive Toronto Ontario",
-      "latitudeCoordinate": "43.744863117",
-      "longitudeCoordinate": "-79.537650346",
-      "postalCode": "M9M 2P4",
-      "province": "Ontario",
-      "streetAddress": "127 Habitant Drive"
     },
     {
       "city": "Toronto",
@@ -79,6 +29,56 @@
       "postalCode": "M6H 4A2",
       "province": "Ontario",
       "streetAddress": "177 St Helens Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Brushwood Court Toronto Ontario",
+      "latitudeCoordinate": "43.7548022852",
+      "longitudeCoordinate": "-79.328353335",
+      "postalCode": "M3A 1V9",
+      "province": "Ontario",
+      "streetAddress": "7 Brushwood Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "20 Kennerly Court Toronto Ontario",
+      "latitudeCoordinate": "43.7545160148",
+      "longitudeCoordinate": "-79.5071499018",
+      "postalCode": "M3J 1G9",
+      "province": "Ontario",
+      "streetAddress": "20 Kennerly Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "127 Habitant Drive Toronto Ontario",
+      "latitudeCoordinate": "43.744863117",
+      "longitudeCoordinate": "-79.537650346",
+      "postalCode": "M9M 2P4",
+      "province": "Ontario",
+      "streetAddress": "127 Habitant Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "111 Roseneath Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.6855557206",
+      "longitudeCoordinate": "-79.4356575521",
+      "postalCode": "M6C 3X5",
+      "province": "Ontario",
+      "streetAddress": "111 Roseneath Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "63 Marchmount Road Toronto Ontario",
+      "latitudeCoordinate": "43.6739130381",
+      "longitudeCoordinate": "-79.4272293325",
+      "postalCode": "M6G 2A8",
+      "province": "Ontario",
+      "streetAddress": "63 Marchmount Road"
     },
     {
       "city": "Toronto",

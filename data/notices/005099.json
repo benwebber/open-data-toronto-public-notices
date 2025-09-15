@@ -3,6 +3,26 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "2223 Kennedy Road Toronto Ontario",
+      "latitudeCoordinate": "43.7816047963",
+      "longitudeCoordinate": "-79.2870513747",
+      "postalCode": "M1T 3G5",
+      "province": "Ontario",
+      "streetAddress": "2223 Kennedy Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2221 Kennedy Road Toronto Ontario",
+      "latitudeCoordinate": "43.7814906948",
+      "longitudeCoordinate": "-79.2869932848",
+      "postalCode": "M1T 3G5",
+      "province": "Ontario",
+      "streetAddress": "2221 Kennedy Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "3 Collingwood Street Toronto Ontario",
       "latitudeCoordinate": "43.7816594949",
       "longitudeCoordinate": "-79.2865947134",
@@ -29,26 +49,6 @@
       "postalCode": "M1S 1A4",
       "province": "Ontario",
       "streetAddress": "7 Collingwood Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "2223 Kennedy Road Toronto Ontario",
-      "latitudeCoordinate": "43.7816047963",
-      "longitudeCoordinate": "-79.2870513747",
-      "postalCode": "M1T 3G5",
-      "province": "Ontario",
-      "streetAddress": "2223 Kennedy Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "2221 Kennedy Road Toronto Ontario",
-      "latitudeCoordinate": "43.7814906948",
-      "longitudeCoordinate": "-79.2869932848",
-      "postalCode": "M1T 3G5",
-      "province": "Ontario",
-      "streetAddress": "2221 Kennedy Road"
     }
   ],
   "backgroundInformationList": [

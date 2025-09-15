@@ -33,16 +33,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "123 Colonel Danforth Trail Toronto Ontario",
-      "latitudeCoordinate": "43.7772693878",
-      "longitudeCoordinate": "-79.1596702859",
-      "postalCode": "M1C 1P8",
-      "province": "Ontario",
-      "streetAddress": "123 Colonel Danforth Trail"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "207 Drewry Avenue Toronto Ontario",
       "latitudeCoordinate": "43.7846825444",
       "longitudeCoordinate": "-79.427015149",
@@ -69,6 +59,36 @@
       "postalCode": "M6C 1K2",
       "province": "Ontario",
       "streetAddress": "226 Maplewood Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1095 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6504513752",
+      "longitudeCoordinate": "-79.5387853939",
+      "postalCode": "M9B 3M3",
+      "province": "Ontario",
+      "streetAddress": "1095 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "304 Springdale Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.6891291228",
+      "longitudeCoordinate": "-79.3178328094",
+      "postalCode": "M4C 2A2",
+      "province": "Ontario",
+      "streetAddress": "304 Springdale Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "347 Rouge Highlands Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7925514747",
+      "longitudeCoordinate": "-79.1384792898",
+      "postalCode": "M1C 2V5",
+      "province": "Ontario",
+      "streetAddress": "347 Rouge Highlands Drive"
     },
     {
       "city": "Toronto",
@@ -103,32 +123,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "304 Springdale Boulevard Toronto Ontario",
-      "latitudeCoordinate": "43.6891291228",
-      "longitudeCoordinate": "-79.3178328094",
-      "postalCode": "M4C 2A2",
+      "fullAddress": "123 Colonel Danforth Trail Toronto Ontario",
+      "latitudeCoordinate": "43.7772693878",
+      "longitudeCoordinate": "-79.1596702859",
+      "postalCode": "M1C 1P8",
       "province": "Ontario",
-      "streetAddress": "304 Springdale Boulevard"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "347 Rouge Highlands Drive Toronto Ontario",
-      "latitudeCoordinate": "43.7925514747",
-      "longitudeCoordinate": "-79.1384792898",
-      "postalCode": "M1C 2V5",
-      "province": "Ontario",
-      "streetAddress": "347 Rouge Highlands Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "1095 Kipling Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6504513752",
-      "longitudeCoordinate": "-79.5387853939",
-      "postalCode": "M9B 3M3",
-      "province": "Ontario",
-      "streetAddress": "1095 Kipling Avenue"
+      "streetAddress": "123 Colonel Danforth Trail"
     }
   ],
   "backgroundInformationList": [

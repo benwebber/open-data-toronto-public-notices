@@ -3,6 +3,36 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "1460 Victoria Park Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7221038115",
+      "longitudeCoordinate": "-79.3019406216",
+      "postalCode": "M4A 2M1",
+      "province": "Ontario",
+      "streetAddress": "1460 Victoria Park Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1468 Victoria Park Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.722452552",
+      "longitudeCoordinate": "-79.302346473",
+      "postalCode": "M4A 2M2",
+      "province": "Ontario",
+      "streetAddress": "1468 Victoria Park Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1474 Victoria Park Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7226930446",
+      "longitudeCoordinate": "-79.3024522378",
+      "postalCode": "M4A 2M1",
+      "province": "Ontario",
+      "streetAddress": "1474 Victoria Park Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "1871 O'Connor Drive Toronto Ontario",
       "latitudeCoordinate": "43.721950706",
       "longitudeCoordinate": "-79.303413892",
@@ -47,36 +77,6 @@
       "postalCode": "M4A 1W7",
       "province": "Ontario",
       "streetAddress": "1888 O'Connor Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "1460 Victoria Park Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.7221038115",
-      "longitudeCoordinate": "-79.3019406216",
-      "postalCode": "M4A 2M1",
-      "province": "Ontario",
-      "streetAddress": "1460 Victoria Park Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "1468 Victoria Park Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.722452552",
-      "longitudeCoordinate": "-79.302346473",
-      "postalCode": "M4A 2M2",
-      "province": "Ontario",
-      "streetAddress": "1468 Victoria Park Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "1474 Victoria Park Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.7226930446",
-      "longitudeCoordinate": "-79.3024522378",
-      "postalCode": "M4A 2M1",
-      "province": "Ontario",
-      "streetAddress": "1474 Victoria Park Avenue"
     }
   ],
   "backgroundInformationList": [

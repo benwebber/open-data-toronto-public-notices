@@ -3,22 +3,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "4 Jerome Street Toronto Ontario",
-      "latitudeCoordinate": "43.6616375242",
-      "longitudeCoordinate": "-79.4553970954",
-      "postalCode": "M6P 1H7",
-      "province": "Ontario",
-      "streetAddress": "4 Jerome Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "6 Dukinfield Crescent Toronto Ontario",
       "latitudeCoordinate": "43.7617384108",
       "longitudeCoordinate": "-79.3334523687",
       "postalCode": "M3A 2S1",
       "province": "Ontario",
       "streetAddress": "6 Dukinfield Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "4 Jerome Street Toronto Ontario",
+      "latitudeCoordinate": "43.6616375242",
+      "longitudeCoordinate": "-79.4553970954",
+      "postalCode": "M6P 1H7",
+      "province": "Ontario",
+      "streetAddress": "4 Jerome Street"
     }
   ],
   "backgroundInformationList": [

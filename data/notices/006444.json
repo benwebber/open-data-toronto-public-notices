@@ -3,26 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "3 Parr Street Toronto Ontario",
-      "latitudeCoordinate": "43.6512240664",
-      "longitudeCoordinate": "-79.431227899",
-      "postalCode": "M6J 2E2",
-      "province": "Ontario",
-      "streetAddress": "3 Parr Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "5 Minden Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.6363953647",
-      "longitudeCoordinate": "-79.4958350977",
-      "postalCode": "M8Y 1Y3",
-      "province": "Ontario",
-      "streetAddress": "5 Minden Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "15 Osborne Avenue Toronto Ontario",
       "latitudeCoordinate": "43.68181889",
       "longitudeCoordinate": "-79.295877374",
@@ -73,32 +53,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "138 Geoffrey Street Toronto Ontario",
-      "latitudeCoordinate": "43.648041309",
-      "longitudeCoordinate": "-79.450568235",
-      "postalCode": "M6R 1P5",
-      "province": "Ontario",
-      "streetAddress": "138 Geoffrey Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "168 Wallace Avenue Toronto Ontario",
       "latitudeCoordinate": "43.662774273",
       "longitudeCoordinate": "-79.443240674",
       "postalCode": "M6H 1V2",
       "province": "Ontario",
       "streetAddress": "168 Wallace Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "172 Marion Street Toronto Ontario",
-      "latitudeCoordinate": "43.641010976",
-      "longitudeCoordinate": "-79.448367588",
-      "postalCode": "M6R 1E8",
-      "province": "Ontario",
-      "streetAddress": "172 Marion Street"
     },
     {
       "city": "Toronto",
@@ -133,12 +93,52 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "5 Minden Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.6363953647",
+      "longitudeCoordinate": "-79.4958350977",
+      "postalCode": "M8Y 1Y3",
+      "province": "Ontario",
+      "streetAddress": "5 Minden Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "1014 Spadina Road Toronto Ontario",
       "latitudeCoordinate": "43.7041002943",
       "longitudeCoordinate": "-79.4190031429",
       "postalCode": "M5N 2M6",
       "province": "Ontario",
       "streetAddress": "1014 Spadina Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3 Parr Street Toronto Ontario",
+      "latitudeCoordinate": "43.6512240664",
+      "longitudeCoordinate": "-79.431227899",
+      "postalCode": "M6J 2E2",
+      "province": "Ontario",
+      "streetAddress": "3 Parr Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "138 Geoffrey Street Toronto Ontario",
+      "latitudeCoordinate": "43.648041309",
+      "longitudeCoordinate": "-79.450568235",
+      "postalCode": "M6R 1P5",
+      "province": "Ontario",
+      "streetAddress": "138 Geoffrey Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "172 Marion Street Toronto Ontario",
+      "latitudeCoordinate": "43.641010976",
+      "longitudeCoordinate": "-79.448367588",
+      "postalCode": "M6R 1E8",
+      "province": "Ontario",
+      "streetAddress": "172 Marion Street"
     },
     {
       "city": "Toronto",

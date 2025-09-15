@@ -3,12 +3,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "7 Gillingham Street Toronto Ontario",
-      "latitudeCoordinate": "43.7995591395",
-      "longitudeCoordinate": "-79.1566104334",
-      "postalCode": "M1B 5X1",
+      "fullAddress": "94 Leuty Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6702496965",
+      "longitudeCoordinate": "-79.2966515081",
+      "postalCode": "M4E 2R4",
       "province": "Ontario",
-      "streetAddress": "7 Gillingham Street"
+      "streetAddress": "94 Leuty Avenue"
     },
     {
       "city": "Toronto",
@@ -23,12 +23,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "94 Leuty Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6702496965",
-      "longitudeCoordinate": "-79.2966515081",
-      "postalCode": "M4E 2R4",
+      "fullAddress": "7 Gillingham Street Toronto Ontario",
+      "latitudeCoordinate": "43.7995591395",
+      "longitudeCoordinate": "-79.1566104334",
+      "postalCode": "M1B 5X1",
       "province": "Ontario",
-      "streetAddress": "94 Leuty Avenue"
+      "streetAddress": "7 Gillingham Street"
     }
   ],
   "backgroundInformationList": [

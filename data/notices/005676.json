@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "131 Lyon Court Toronto Ontario",
-      "latitudeCoordinate": "43.7030805404",
-      "longitudeCoordinate": "-79.4402317594",
-      "postalCode": "M6B 3H1",
-      "province": "Ontario",
-      "streetAddress": "131 Lyon Court"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "836 Roselawn Avenue Toronto Ontario",
       "latitudeCoordinate": "43.702756083",
       "longitudeCoordinate": "-79.4397938426",
@@ -29,6 +19,16 @@
       "postalCode": "M6B 1B3",
       "province": "Ontario",
       "streetAddress": "838 Roselawn Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "131 Lyon Court Toronto Ontario",
+      "latitudeCoordinate": "43.7030805404",
+      "longitudeCoordinate": "-79.4402317594",
+      "postalCode": "M6B 3H1",
+      "province": "Ontario",
+      "streetAddress": "131 Lyon Court"
     }
   ],
   "backgroundInformationList": [

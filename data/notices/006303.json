@@ -3,32 +3,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "40 Brightwood Street Toronto Ontario",
-      "latitudeCoordinate": "43.734808832",
-      "longitudeCoordinate": "-79.438404558",
-      "postalCode": "M3H 2Z6",
-      "province": "Ontario",
-      "streetAddress": "40 Brightwood Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "47 Berwick Avenue Toronto Ontario",
       "latitudeCoordinate": "43.703654616",
       "longitudeCoordinate": "-79.399200243",
       "postalCode": "M5P 1G9",
       "province": "Ontario",
       "streetAddress": "47 Berwick Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "77 Riverview Gardens Toronto Ontario",
-      "latitudeCoordinate": "43.6509318668",
-      "longitudeCoordinate": "-79.4881455965",
-      "postalCode": "M6S 4E6",
-      "province": "Ontario",
-      "streetAddress": "77 Riverview Gardens"
     },
     {
       "city": "Toronto",
@@ -53,12 +33,32 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "77 Riverview Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.6509318668",
+      "longitudeCoordinate": "-79.4881455965",
+      "postalCode": "M6S 4E6",
+      "province": "Ontario",
+      "streetAddress": "77 Riverview Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "653 Oriole Parkway Toronto Ontario",
       "latitudeCoordinate": "43.707264507",
       "longitudeCoordinate": "-79.406814988",
       "postalCode": "M4R 2C1",
       "province": "Ontario",
       "streetAddress": "653 Oriole Parkway"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "40 Brightwood Street Toronto Ontario",
+      "latitudeCoordinate": "43.734808832",
+      "longitudeCoordinate": "-79.438404558",
+      "postalCode": "M3H 2Z6",
+      "province": "Ontario",
+      "streetAddress": "40 Brightwood Street"
     }
   ],
   "backgroundInformationList": [

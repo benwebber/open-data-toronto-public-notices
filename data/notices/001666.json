@@ -3,17 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "671 Huntingwood Drive Toronto Ontario",
-      "latitudeCoordinate": "43.789731343",
-      "longitudeCoordinate": "-79.304283296",
-      "postalCode": "M1W 1H6",
-      "province": "Ontario",
-      "streetAddress": "671 Huntingwood Drive",
-      "unit": "8"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "11 Stratton Avenue Toronto Ontario",
       "latitudeCoordinate": "43.7384802205",
       "longitudeCoordinate": "-79.2692372907",
@@ -30,26 +19,6 @@
       "postalCode": "M4L 1X1",
       "province": "Ontario",
       "streetAddress": "39 Robbins Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "40 Fallingbrook Road Toronto Ontario",
-      "latitudeCoordinate": "43.6770488553",
-      "longitudeCoordinate": "-79.2773687376",
-      "postalCode": "M1N 2T4",
-      "province": "Ontario",
-      "streetAddress": "40 Fallingbrook Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "42 Gordon Street Toronto Ontario",
-      "latitudeCoordinate": "43.646653364",
-      "longitudeCoordinate": "-79.432111244",
-      "postalCode": "M6K 1P6",
-      "province": "Ontario",
-      "streetAddress": "42 Gordon Street"
     },
     {
       "city": "Toronto",
@@ -84,6 +53,47 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "133 Cowan Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.63760143",
+      "longitudeCoordinate": "-79.431443775",
+      "postalCode": "M6K 2N1",
+      "province": "Ontario",
+      "streetAddress": "133 Cowan Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "278 Bering Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6386608927",
+      "longitudeCoordinate": "-79.5260848811",
+      "postalCode": "M8Z 3A3",
+      "province": "Ontario",
+      "streetAddress": "278 Bering Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "630 Glebeholme Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.6880208802",
+      "longitudeCoordinate": "-79.3151405207",
+      "postalCode": "M4C 1V6",
+      "province": "Ontario",
+      "streetAddress": "630 Glebeholme Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "671 Huntingwood Drive Toronto Ontario",
+      "latitudeCoordinate": "43.789731343",
+      "longitudeCoordinate": "-79.304283296",
+      "postalCode": "M1W 1H6",
+      "province": "Ontario",
+      "streetAddress": "671 Huntingwood Drive",
+      "unit": "8"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "100 Dowswell Drive Toronto Ontario",
       "latitudeCoordinate": "43.7954223292",
       "longitudeCoordinate": "-79.2226047617",
@@ -104,42 +114,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "133 Cowan Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.63760143",
-      "longitudeCoordinate": "-79.431443775",
-      "postalCode": "M6K 2N1",
+      "fullAddress": "40 Fallingbrook Road Toronto Ontario",
+      "latitudeCoordinate": "43.6770488553",
+      "longitudeCoordinate": "-79.2773687376",
+      "postalCode": "M1N 2T4",
       "province": "Ontario",
-      "streetAddress": "133 Cowan Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "182 Brenyon Way Toronto Ontario",
-      "latitudeCoordinate": "43.805698553",
-      "longitudeCoordinate": "-79.2127424913",
-      "postalCode": "M1B 3G2",
-      "province": "Ontario",
-      "streetAddress": "182 Brenyon Way"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "237 Seaton Street Toronto Ontario",
-      "latitudeCoordinate": "43.660367251",
-      "longitudeCoordinate": "-79.36999177",
-      "postalCode": "M5A 2T5",
-      "province": "Ontario",
-      "streetAddress": "237 Seaton Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "278 Bering Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6386608927",
-      "longitudeCoordinate": "-79.5260848811",
-      "postalCode": "M8Z 3A3",
-      "province": "Ontario",
-      "streetAddress": "278 Bering Avenue"
+      "streetAddress": "40 Fallingbrook Road"
     },
     {
       "city": "Toronto",
@@ -154,22 +134,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "630 Glebeholme Boulevard Toronto Ontario",
-      "latitudeCoordinate": "43.6880208802",
-      "longitudeCoordinate": "-79.3151405207",
-      "postalCode": "M4C 1V6",
+      "fullAddress": "42 Gordon Street Toronto Ontario",
+      "latitudeCoordinate": "43.646653364",
+      "longitudeCoordinate": "-79.432111244",
+      "postalCode": "M6K 1P6",
       "province": "Ontario",
-      "streetAddress": "630 Glebeholme Boulevard"
+      "streetAddress": "42 Gordon Street"
     },
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "796 The Queensway Toronto Ontario",
-      "latitudeCoordinate": "43.6257173021",
-      "longitudeCoordinate": "-79.5071960245",
-      "postalCode": "M8Z 1N5",
+      "fullAddress": "237 Seaton Street Toronto Ontario",
+      "latitudeCoordinate": "43.660367251",
+      "longitudeCoordinate": "-79.36999177",
+      "postalCode": "M5A 2T5",
       "province": "Ontario",
-      "streetAddress": "796 The Queensway"
+      "streetAddress": "237 Seaton Street"
     },
     {
       "city": "Toronto",
@@ -180,6 +160,26 @@
       "postalCode": "M4L 1L7",
       "province": "Ontario",
       "streetAddress": "1703 Dundas Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "182 Brenyon Way Toronto Ontario",
+      "latitudeCoordinate": "43.805698553",
+      "longitudeCoordinate": "-79.2127424913",
+      "postalCode": "M1B 3G2",
+      "province": "Ontario",
+      "streetAddress": "182 Brenyon Way"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "796 The Queensway Toronto Ontario",
+      "latitudeCoordinate": "43.6257173021",
+      "longitudeCoordinate": "-79.5071960245",
+      "postalCode": "M8Z 1N5",
+      "province": "Ontario",
+      "streetAddress": "796 The Queensway"
     }
   ],
   "backgroundInformationList": [

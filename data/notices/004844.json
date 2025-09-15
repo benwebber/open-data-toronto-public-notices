@@ -3,26 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "3 Leila Lane Toronto Ontario",
-      "latitudeCoordinate": "43.722049816",
-      "longitudeCoordinate": "-79.445755583",
-      "postalCode": "M6A 2M7",
-      "province": "Ontario",
-      "streetAddress": "3 Leila Lane"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "5 Leila Lane Toronto Ontario",
-      "latitudeCoordinate": "43.721282345",
-      "longitudeCoordinate": "-79.44523975",
-      "postalCode": "M6A 2M7",
-      "province": "Ontario",
-      "streetAddress": "5 Leila Lane"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "31 Bagot Court Toronto Ontario",
       "latitudeCoordinate": "43.721789435",
       "longitudeCoordinate": "-79.441872489",
@@ -39,6 +19,26 @@
       "postalCode": "M6A 2M5",
       "province": "Ontario",
       "streetAddress": "109 Bagot Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3 Leila Lane Toronto Ontario",
+      "latitudeCoordinate": "43.722049816",
+      "longitudeCoordinate": "-79.445755583",
+      "postalCode": "M6A 2M7",
+      "province": "Ontario",
+      "streetAddress": "3 Leila Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Leila Lane Toronto Ontario",
+      "latitudeCoordinate": "43.721282345",
+      "longitudeCoordinate": "-79.44523975",
+      "postalCode": "M6A 2M7",
+      "province": "Ontario",
+      "streetAddress": "5 Leila Lane"
     }
   ],
   "backgroundInformationList": [

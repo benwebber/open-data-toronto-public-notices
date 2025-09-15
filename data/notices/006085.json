@@ -23,6 +23,16 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "16 Stayner Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.705835111",
+      "longitudeCoordinate": "-79.441723105",
+      "postalCode": "M6B 1N4",
+      "province": "Ontario",
+      "streetAddress": "16 Stayner Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "1 Romar Crescent Toronto Ontario",
       "latitudeCoordinate": "43.706164109",
       "longitudeCoordinate": "-79.442413143",
@@ -39,16 +49,6 @@
       "postalCode": "M6B 1R7",
       "province": "Ontario",
       "streetAddress": "7 Romar Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "16 Stayner Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.705835111",
-      "longitudeCoordinate": "-79.441723105",
-      "postalCode": "M6B 1N4",
-      "province": "Ontario",
-      "streetAddress": "16 Stayner Avenue"
     }
   ],
   "backgroundInformationList": [

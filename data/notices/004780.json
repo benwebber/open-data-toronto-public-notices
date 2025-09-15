@@ -3,25 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "3736 Bathurst Street Toronto Ontario",
-      "latitudeCoordinate": "43.736598409",
-      "longitudeCoordinate": "-79.434184636",
-      "province": "Ontario",
-      "streetAddress": "3736 Bathurst Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "3750 Bathurst Street Toronto Ontario",
-      "latitudeCoordinate": "43.7370970434",
-      "longitudeCoordinate": "-79.4344107266",
-      "postalCode": "M3H 3M4",
-      "province": "Ontario",
-      "streetAddress": "3750 Bathurst Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "11 Richelieu Road Toronto Ontario",
       "latitudeCoordinate": "43.7365425691",
       "longitudeCoordinate": "-79.4347184917",
@@ -38,6 +19,25 @@
       "postalCode": "M3H 3A1",
       "province": "Ontario",
       "streetAddress": "15 Richelieu Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3736 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.736598409",
+      "longitudeCoordinate": "-79.434184636",
+      "province": "Ontario",
+      "streetAddress": "3736 Bathurst Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3750 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.7370970434",
+      "longitudeCoordinate": "-79.4344107266",
+      "postalCode": "M3H 3M4",
+      "province": "Ontario",
+      "streetAddress": "3750 Bathurst Street"
     }
   ],
   "backgroundInformationList": [

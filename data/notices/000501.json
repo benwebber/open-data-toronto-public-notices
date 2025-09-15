@@ -3,15 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "7 Westcroft Drive Toronto Ontario",
-      "latitudeCoordinate": "43.7699375227",
-      "longitudeCoordinate": "-79.1923525357",
-      "province": "Ontario",
-      "streetAddress": "7 Westcroft Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "7 Wyandot Avenue Toronto Ontario",
       "latitudeCoordinate": "43.6267417",
       "longitudeCoordinate": "-79.360488523",
@@ -26,24 +17,6 @@
       "longitudeCoordinate": "-79.4409839523",
       "province": "Ontario",
       "streetAddress": "13 Ashbury Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "15 Orton Park Road Toronto Ontario",
-      "latitudeCoordinate": "43.7652112364",
-      "longitudeCoordinate": "-79.2054482242",
-      "province": "Ontario",
-      "streetAddress": "15 Orton Park Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "16 Olson Drive Toronto Ontario",
-      "latitudeCoordinate": "43.7604972618",
-      "longitudeCoordinate": "-79.3434006512",
-      "province": "Ontario",
-      "streetAddress": "16 Olson Drive"
     },
     {
       "city": "Toronto",
@@ -120,60 +93,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "72 St Dunstan Drive Toronto Ontario",
-      "latitudeCoordinate": "43.6945317191",
-      "longitudeCoordinate": "-79.2869357777",
-      "province": "Ontario",
-      "streetAddress": "72 St Dunstan Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "73 Spruce Hill Road Toronto Ontario",
-      "latitudeCoordinate": "43.67451177",
-      "longitudeCoordinate": "-79.289400999",
-      "province": "Ontario",
-      "streetAddress": "73 Spruce Hill Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "74 Prince Charles Drive Toronto Ontario",
-      "latitudeCoordinate": "43.7246646832",
-      "longitudeCoordinate": "-79.4330609764",
-      "province": "Ontario",
-      "streetAddress": "74 Prince Charles Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "78 Bradworthy Court Toronto Ontario",
-      "latitudeCoordinate": "43.8030092645",
-      "longitudeCoordinate": "-79.2019690619",
-      "province": "Ontario",
-      "streetAddress": "78 Bradworthy Court"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "92 Holcolm Road Toronto Ontario",
-      "latitudeCoordinate": "43.7760990955",
-      "longitudeCoordinate": "-79.4218163167",
-      "province": "Ontario",
-      "streetAddress": "92 Holcolm Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "98 Waterton Road Toronto Ontario",
-      "latitudeCoordinate": "43.6960069346",
-      "longitudeCoordinate": "-79.5182202361",
-      "province": "Ontario",
-      "streetAddress": "98 Waterton Road"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "100 Silvio Avenue Toronto Ontario",
       "latitudeCoordinate": "43.7141810703",
       "longitudeCoordinate": "-79.2670429862",
@@ -210,24 +129,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "522 Main Street Toronto Ontario",
-      "latitudeCoordinate": "43.695251362",
-      "longitudeCoordinate": "-79.3052154893",
-      "province": "Ontario",
-      "streetAddress": "522 Main Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "1747 Dufferin Street Toronto Ontario",
-      "latitudeCoordinate": "43.6799944579",
-      "longitudeCoordinate": "-79.4436279322",
-      "province": "Ontario",
-      "streetAddress": "1747 Dufferin Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "3950 Lawrence Avenue East Toronto Ontario",
       "latitudeCoordinate": "43.7649205",
       "longitudeCoordinate": "-79.204613933",
@@ -247,12 +148,111 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "78 Bradworthy Court Toronto Ontario",
+      "latitudeCoordinate": "43.8030092645",
+      "longitudeCoordinate": "-79.2019690619",
+      "province": "Ontario",
+      "streetAddress": "78 Bradworthy Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Westcroft Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7699375227",
+      "longitudeCoordinate": "-79.1923525357",
+      "province": "Ontario",
+      "streetAddress": "7 Westcroft Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 Olson Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7604972618",
+      "longitudeCoordinate": "-79.3434006512",
+      "province": "Ontario",
+      "streetAddress": "16 Olson Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "72 St Dunstan Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6945317191",
+      "longitudeCoordinate": "-79.2869357777",
+      "province": "Ontario",
+      "streetAddress": "72 St Dunstan Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "74 Prince Charles Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7246646832",
+      "longitudeCoordinate": "-79.4330609764",
+      "province": "Ontario",
+      "streetAddress": "74 Prince Charles Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Orton Park Road Toronto Ontario",
+      "latitudeCoordinate": "43.7652112364",
+      "longitudeCoordinate": "-79.2054482242",
+      "province": "Ontario",
+      "streetAddress": "15 Orton Park Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "73 Spruce Hill Road Toronto Ontario",
+      "latitudeCoordinate": "43.67451177",
+      "longitudeCoordinate": "-79.289400999",
+      "province": "Ontario",
+      "streetAddress": "73 Spruce Hill Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "92 Holcolm Road Toronto Ontario",
+      "latitudeCoordinate": "43.7760990955",
+      "longitudeCoordinate": "-79.4218163167",
+      "province": "Ontario",
+      "streetAddress": "92 Holcolm Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "98 Waterton Road Toronto Ontario",
+      "latitudeCoordinate": "43.6960069346",
+      "longitudeCoordinate": "-79.5182202361",
+      "province": "Ontario",
+      "streetAddress": "98 Waterton Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "1566-1574 Avenue Road Toronto Ontario",
       "latitudeCoordinate": "43.7239070287",
       "longitudeCoordinate": "-79.4165383611",
       "postalCode": "M5M 3X6",
       "province": "Ontario",
       "streetAddress": "1566-1574 Avenue Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "522 Main Street Toronto Ontario",
+      "latitudeCoordinate": "43.695251362",
+      "longitudeCoordinate": "-79.3052154893",
+      "province": "Ontario",
+      "streetAddress": "522 Main Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1747 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.6799944579",
+      "longitudeCoordinate": "-79.4436279322",
+      "province": "Ontario",
+      "streetAddress": "1747 Dufferin Street"
     }
   ],
   "backgroundInformationList": [
