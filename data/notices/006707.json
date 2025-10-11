@@ -1,0 +1,78 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2915 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6481864929",
+      "longitudeCoordinate": "-79.5066565482",
+      "postalCode": "M8X 1B3",
+      "province": "Ontario",
+      "streetAddress": "2915 Bloor Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2917 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6481540337",
+      "longitudeCoordinate": "-79.506828584",
+      "postalCode": "M8X 1B4",
+      "province": "Ontario",
+      "streetAddress": "2917 Bloor Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2939 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6480472437",
+      "longitudeCoordinate": "-79.5072933581",
+      "postalCode": "M8X 1B3",
+      "province": "Ontario",
+      "streetAddress": "2939 Bloor Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2941-2943 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.648004397",
+      "longitudeCoordinate": "-79.507524198",
+      "postalCode": "M8X 1B3",
+      "province": "Ontario",
+      "streetAddress": "2941-2943 Bloor Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 2915, 2917, 2939, 2941 and 2943 Bloor Street West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6612"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Etobicoke York Community Council",
+  "eventList": [],
+  "noticeDate": 1760068800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>ETOBICOKE COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 25 208823 WET 03 OZ</p>\n<p>Application to Amend the Zoning By-law to construct a new 29-storey mixed-use building, containing 423 dwelling units, including seven rental replacement units, and a total of 26,114 square metres of gross floor area (GFA), including 1,024 square metres of non-residential GFA, resulting in a Floor Space Index (FSI) of approximately 8.2.</p>\n<p>2915, 2917, 2939, 2941 and 2943 Bloor Street West</p>\n<p>Ward 3 &ndash; Etobicoke-Lakeshore</p>\n<p>Ali Meghani, Planner at 416-394-8236 or <a href=\"mailto:Ali.Meghani@toronto.ca\">Ali.Meghani@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6707,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 208823 WET 03 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 2915, 2917, 2939, 2941 and 2943 Bloor Street West",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

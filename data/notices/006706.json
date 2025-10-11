@@ -1,0 +1,85 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "257 Lake Shore Boulevard East Toronto Ontario",
+      "latitudeCoordinate": "43.646383498",
+      "longitudeCoordinate": "-79.364688607",
+      "province": "Ontario",
+      "streetAddress": "257 Lake Shore Boulevard East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "259 Lake Shore Boulevard East Toronto Ontario",
+      "latitudeCoordinate": "43.64660421",
+      "longitudeCoordinate": "-79.364210515",
+      "postalCode": "M5A 0W5",
+      "province": "Ontario",
+      "streetAddress": "259 Lake Shore Boulevard East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "291 Lake Shore Boulevard East Toronto Ontario",
+      "latitudeCoordinate": "43.646994335",
+      "longitudeCoordinate": "-79.362698327",
+      "province": "Ontario",
+      "streetAddress": "291 Lake Shore Boulevard East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Small Street Toronto Ontario",
+      "latitudeCoordinate": "43.646516174",
+      "longitudeCoordinate": "-79.362314514",
+      "province": "Ontario",
+      "streetAddress": "2 Small Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "200 Queens Quay East Toronto Ontario",
+      "latitudeCoordinate": "43.646207429",
+      "longitudeCoordinate": "-79.363404853",
+      "postalCode": "M5A 4K9",
+      "province": "Ontario",
+      "streetAddress": "200 Queens Quay East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 257-259 and 291 Lake Shore Boulevard East, 2 Small Street and 200 Queens Quay East",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6611"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1760068800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 25 231179 STE 10 OZ</p>\n<p>Application to Amend the Zoning By-law to amend the previous development concept, to introduce an additional tower, for a total of four, along the northern half of the site, preserving the mid-rise built form fronting Queens Quay East and modify associated development standards and permissions. Approximately 2,850 total residential units are proposed (a 39 unit increase), including 1,129 purpose built rental units and 553 affordable rental units (a 95 unit increase), as well as a 4,100 m2 POPS, a 3,060 m2 community hub providing 62 child care spaces and other community uses, and 2,231 m2 of retail.</p>\n<p>257-259 and 291 Lake Shore Boulevard East, 2 Small Street and 200 Queens Quay East</p>\n<p>Ward 10 &ndash; Spadina-Fort York</p>\n<p>Benjamin Waters, Planner at 416-338-8355 or <a href=\"mailto:Benjamin.Waters@toronto.ca\">Benjamin.Waters@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6706,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 231179 STE 10 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 257-259 and 291 Lake Shore Boulevard East, 2 Small Street and 200 Queens Quay East",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
