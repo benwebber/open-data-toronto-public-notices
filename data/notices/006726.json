@@ -1,0 +1,63 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3600 Finch Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.799246028",
+      "longitudeCoordinate": "-79.3073043473",
+      "postalCode": "M1W 3N7",
+      "province": "Ontario",
+      "streetAddress": "3600 Finch Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2950 Birchmount Road Toronto Ontario",
+      "latitudeCoordinate": "43.7995570342",
+      "longitudeCoordinate": "-79.3068516016",
+      "postalCode": "M1W 3G5",
+      "province": "Ontario",
+      "streetAddress": "2950 Birchmount Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Zoning By-Law 1093-2025 - 2950 Birchmount Road and 3600 Finch Avenue East",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6630"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1760587200000,
+  "noticeDescription": "<p><strong>NOTICE OF PASSING OF ZONING BY-LAW 1093-2025</strong></p>\n<p><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that the City of Toronto passed Zoning By-law 1093-2025 on October 9, 2025, with respect to the lands known as 2950 Birchmount Road and 3600 Finch Avenue East.</p>\n<p>&nbsp;</p>\n<p>An explanation of the purpose and effect of the Zoning By-law, and a map showing the location of the lands to which the amendment applies, are attached. The amendment was processed under file number: 22 222351 ESC 22 OZ.</p>\n<p>&nbsp;</p>\n<p>A statutory public meeting was held on September 18, 2025, and the Scarborough Community Council and Toronto City Council considered one oral and one written submission in making the decision. Please see item 2025.SC25.1 at <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2025.SC25.1\">https://secure.toronto.ca/council/agenda-item.do?item=2025.SC25.1</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal to the Ontario Land Tribunal in respect to all or part of this Zoning By-law may be made by filing a notice of appeal with the City Clerk, <strong>Attention: &nbsp;Raneisha Hemmings</strong>, Registrar Secretariat, 100 Queen Street West, 2nd Floor West, Toronto, ON, M5H 2N2, no later than 4:30 p.m. on <strong>November 5, 2025</strong>. If delivering in-person, drop off at the Registry Services Counter, Toronto City Hall. The filing of a notice of appeal after 4:30 p.m., in person or electronically, will be deemed to have been received the next business day.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the appeal; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be accompanied by the fee prescribed under the Ontario Land Tribunal in the amount of $1,100.00 for each application appealed payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the OLT website at <a href=\"http://www.olt.gov.on.ca\">www.olt.gov.on.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only an applicant, a specified person or public body as defined in the <em>Planning Act</em> that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, the registered owner of any land to which the by-law would apply that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, and the Minister may appeal the by-law to the Ontario Land Tribunal.&nbsp;</p>\n<p>&nbsp;</p>\n<p>No person or public body shall be added as a party to the hearing of the appeal unless, before the by-law was passed, the person or public body made oral submissions at a public meeting or written submissions to the Council, or in the opinion of the Ontario Land Tribunal, there are reasonable grounds to add the person or public body as a party.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application may be obtained by contacting <strong>Laura Dainard</strong> at 416-396-7023 or by email at <a href=\"mailto:Laura.Dainard@toronto.ca\">Laura.Dainard@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p>&nbsp;</p>\n<p><strong>PURPOSE AND EFFECT OF</strong><br /><strong>ZONING BY-LAW 1093-2025</strong><br />&nbsp;</p>\n<p>The purpose and effect of Zoning By-law 1093-2025 is to permit a 12-storey mixed-use building with a total gross floor area of 27,179 square metres containing 356 residential units and 3,150 square metres of office and retail space, and 363 underground parking spaces at 2950 Birchmount Road and 3600 Finch Avenue East.</p>\n<p>&nbsp;</p>\n<p>Further information may be obtained by contacting <strong>Laura Dainard</strong> at 416-396-7023 or by email at <a href=\"mailto:Laura.Dainard@toronto.ca\">Laura.Dainard@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6726,
+  "otherReferenceList": [
+    {
+      "description": "2025.SC25.1 - 2950 Birchmount Road and 3600 Finch Avenue East Zoning By-law Amendment - Decision Report - Approval",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2025.SC25.1"
+    }
+  ],
+  "planningApplicationNumbers": [
+    "22 222351 ESC 22 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Passing of Zoning By-Law 1093-2025 - 2950 Birchmount Road and 3600 Finch Avenue East\n",
+  "topics": [
+    "Planning > Adoption of Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
