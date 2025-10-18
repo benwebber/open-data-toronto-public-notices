@@ -1,0 +1,79 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "26 Mountview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.655378159",
+      "longitudeCoordinate": "-79.461675819",
+      "postalCode": "M6P 2L3",
+      "province": "Ontario",
+      "streetAddress": "26 Mountview Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "36 Mountview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.655702195",
+      "longitudeCoordinate": "-79.461824151",
+      "postalCode": "M6P 2L3",
+      "province": "Ontario",
+      "streetAddress": "36 Mountview Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "21 Oakmount Road Toronto Ontario",
+      "latitudeCoordinate": "43.6551425925",
+      "longitudeCoordinate": "-79.4624461075",
+      "postalCode": "M6P 2M3",
+      "province": "Ontario",
+      "streetAddress": "21 Oakmount Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "29 Oakmount Road Toronto Ontario",
+      "latitudeCoordinate": "43.6555825894",
+      "longitudeCoordinate": "-79.4625805705",
+      "postalCode": "M6P 2M3",
+      "province": "Ontario",
+      "streetAddress": "29 Oakmount Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 26-36 Mountview Avenue and 21-29 Oakmount Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6631"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1760673600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 25 222465 STE 04 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-Law to permit 41-storey and 39-storey towers with a six-storey podium.</p>\n<p>26-36 Mountview Avenue and 21-29 Oakmount Road</p>\n<p>Ward 4 &ndash; Parkdale-High Park</p>\n<p>This land is also subject to an application under the Planning Act for rental housing demolition, Application Number: 25 222595 STE 04 RH</p>\n<p>Kishmita Arora, Planner at 416-397-4647 or <a href=\"mailto:Kishmita.Arora@toronto.ca\">Kishmita.Arora@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6727,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 222465 STE 04 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 26-36 Mountview Avenue and 21-29 Oakmount Road",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

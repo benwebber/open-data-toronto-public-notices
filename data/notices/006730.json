@@ -1,0 +1,79 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "744 Marlee Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.712741338",
+      "longitudeCoordinate": "-79.445701773",
+      "postalCode": "M6B 3J7",
+      "province": "Ontario",
+      "streetAddress": "744 Marlee Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "746 Marlee Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.712883788",
+      "longitudeCoordinate": "-79.445719077",
+      "postalCode": "M6B 3J7",
+      "province": "Ontario",
+      "streetAddress": "746 Marlee Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "748 Marlee Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.713018728",
+      "longitudeCoordinate": "-79.445788009",
+      "postalCode": "M6B 3J7",
+      "province": "Ontario",
+      "streetAddress": "748 Marlee Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "111 Wenderly Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7131765384",
+      "longitudeCoordinate": "-79.445886048",
+      "postalCode": "M6B 2P6",
+      "province": "Ontario",
+      "streetAddress": "111 Wenderly Drive"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 744, 746, 748 Marlee Avenue and 111 Wenderly Drive",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6634"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1760673600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 25 206513 NNY 08 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-law to permit a 13-storey (41.5 metre) mixed use building containing 200 residential units with an FSI of 6.05 and total GFA of 13,115 square metres, including 228 square metres of commercial space. 45 parking spaces and 211 bicycle parking spaces are proposed.</p>\n<p>744, 746, 748 Marlee Avenue and 111 Wenderly Drive</p>\n<p>Ward 8 &ndash; Eglinton-Lawrence</p>\n<p>Kayla Sintz, Planner at 416-394-8238 or <a href=\"mailto:Kayla.Sintz@toronto.ca\">Kayla.Sintz@toronto.ca</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6730,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 206513 NNY 08 OZ "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 744, 746, 748 Marlee Avenue and 111 Wenderly Drive",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
