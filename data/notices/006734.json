@@ -1,0 +1,73 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2720 Danforth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.689297349",
+      "longitudeCoordinate": "-79.298192338",
+      "postalCode": "M4C 1L7",
+      "province": "Ontario",
+      "streetAddress": "2720 Danforth Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2726 Danforth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.689202968",
+      "longitudeCoordinate": "-79.297988702",
+      "postalCode": "M4C 1L7",
+      "province": "Ontario",
+      "streetAddress": "2726 Danforth Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2734 Danforth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.689264897",
+      "longitudeCoordinate": "-79.297847572",
+      "postalCode": "M4C 1L7",
+      "province": "Ontario",
+      "streetAddress": "2734 Danforth Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Zoning By-Law 1170-2025 - 2726 and 2734 Danforth Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6638"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1760932800000,
+  "noticeDescription": "<p><strong>NOTICE OF PASSING OF ZONING BY-LAW 1170-2025</strong></p>\n<p><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that the City of Toronto passed Zoning By-law 1170-2025 on October 9, 2025, with respect to the lands known as 2720, 2726 and 2734 Danforth Avenue.</p>\n<p>&nbsp;</p>\n<p>An explanation of the purpose and effect of the Zoning By-law, and a map showing the location of the lands to which the amendment applies, are attached. The amendment was processed under file number: 20 113131 STE 19 OZ.</p>\n<p>&nbsp;</p>\n<p>A statutory public meeting was held on July 8, 2025, and the Toronto and East York Community Council and Toronto City Council considered one oral and two written submissions in making the decision. Please see item TE24.16 at <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2025.TE24.16\">https://secure.toronto.ca/council/agenda-item.do?item=2025.TE24.16</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal to the Ontario Land Tribunal in respect to all or part of this Zoning By-law may be made by filing a notice of appeal with the City Clerk, <strong>Attention: &nbsp;Raneisha Hemmings</strong>, Registrar Secretariat, 100 Queen Street West, 2nd Floor West, Toronto, ON, M5H 2N2, no later than 4:30 p.m. on <strong>November 10, 2025</strong>. If delivering in-person, drop off at the Registry Services Counter, Toronto City Hall. The filing of a notice of appeal after 4:30 p.m., in person or electronically, will be deemed to have been received the next business day.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the appeal; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be accompanied by the fee prescribed under the Ontario Land Tribunal in the amount of $1,100.00 for each application appealed payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the OLT website at <a href=\"http://www.olt.gov.on.ca\">www.olt.gov.on.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only an applicant, a specified person or public body as defined in the <em>Planning Act</em> that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, the registered owner of any land to which the by-law would apply that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, and the Minister may appeal the by-law to the Ontario Land Tribunal.&nbsp;</p>\n<p>&nbsp;</p>\n<p>No person or public body shall be added as a party to the hearing of the appeal unless, before the by-law was passed, the person or public body made oral submissions at a public meeting or written submissions to the Council, or in the opinion of the Ontario Land Tribunal, there are reasonable grounds to add the person or public body as a party.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application may be obtained by contacting <strong>Doris Ho</strong> at <a href=\"mailto:Doris.Ho@toronto.ca\">Doris.Ho@toronto.ca</a> or 416-338-1264.</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><strong>PURPOSE AND EFFECT OF ZONING BY-LAW 1170-2025</strong></p>\n<p>&nbsp;</p>\n<p>The purpose and effect of Zoning By-law 1170-2025 is to permit an eight and four storey modular mass timber residential building organized around a central outdoor courtyard, and a two storey reconstruction of the heritage building at 2726 Danforth Avenue.</p>\n<p>&nbsp;</p>\n<p>Further information may be obtained by contacting <strong>Doris Ho</strong> at <a href=\"mailto:Doris.Ho@toronto.ca\">Doris.Ho@toronto.ca</a> or 416-338-1264.&nbsp; You may also visit the Application Information Centre: <a href=\"http://www.toronto.ca/2720DanforthAve\">http://www.toronto.ca/2720DanforthAve</a>.&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6734,
+  "otherReferenceList": [
+    {
+      "description": "2025.TE24.16 - 2720, 2726 and 2734 Danforth Avenue - Zoning By-law Amendment - Decision Report - Approval",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2025.TE24.16"
+    }
+  ],
+  "planningApplicationNumbers": [
+    "20 113131 STE 19 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Passing of Zoning By-Law 1170-2025 - 2726 and 2734 Danforth Avenue",
+  "topics": [
+    "Planning > Adoption of Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
