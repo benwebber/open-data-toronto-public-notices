@@ -1,0 +1,34 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Cancellation of Public Meeting - City-initiated Zoning By-law Amendments to Update Definitions and Standards for Multi-tenant Houses",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6652"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1761105600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>CANCELLATION NOTICE OF PUBLIC MEETING</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Location of Proposal: City-wide</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>City-initiated Zoning By-law Amendments to Update Definitions</strong></p>\n<p style=\"text-align: center;\"><strong>and Standards for Multi-tenant Houses</strong></p>\n<p style=\"text-align: center;\"><strong>Proponent: City of Toronto</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>A Notice of Public Meeting was originally issued on October 2, 2025.&nbsp; Please be advised that the Public Meeting for this proposal previously scheduled for October 30, 2025, has been CANCELLED.</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6749,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Cancellation of Public Meeting - City-initiated Zoning By-law Amendments to Update Definitions and Standards for Multi-tenant Houses",
+  "topics": [
+    "Planning > Refusal of application for a Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

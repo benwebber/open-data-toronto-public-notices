@@ -1,0 +1,61 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "85 Hanna Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.640072711",
+      "longitudeCoordinate": "-79.419862619",
+      "postalCode": "M6K 3S3",
+      "province": "Ontario",
+      "streetAddress": "85 Hanna Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "109 Atlantic Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.63981156",
+      "longitudeCoordinate": "-79.420459568",
+      "postalCode": "M6K 1X4",
+      "province": "Ontario",
+      "streetAddress": "109 Atlantic Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Adoption of Official Plan Amendment 840 Pursuant to Subsection 17(23) - 85 Hanna Avenue and 109 Atlantic Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6653"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1761105600000,
+  "noticeDescription": "<p><strong>NOTICE OF ADOPTION OF OFFICIAL PLAN AMENDMENT 840 PURSUANT TO SUBSECTION 17(23)</strong></p>\n<p><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that the City of Toronto, on October 9, 2025, adopted By-law 1115-2025 of the Official Plan of the City of Toronto (&ldquo;OPA 840&rdquo;) with respect to 85 Hanna Avenue and 109 Atlantic Avenue, and associated maps, in a delineated Protected Major Transit Station Area, pursuant to Sections 16(15) and 17 of the <em>Planning Act</em> for Ministerial Approval.</p>\n<p>&nbsp;</p>\n<p>OPA 840 amends the Toronto Official Plan as follows:</p>\n<p>&nbsp;</p>\n<p>The purpose and effect of this Official Plan Amendment is to remove the subject site from Employment Areas, changing the designation from General Employment Areas to Mixed Use Areas.</p>\n<p>&nbsp;</p>\n<p>The Official Plan Amendment will be submitted to the Minister of Municipal Affairs and Housing for approval pursuant to Section 16(18) and 17(31) of the Planning Act.</p>\n<p>&nbsp;</p>\n<p>Pursuant to subsection 17(15) of the <em>Planning Act</em>, the appropriate approval authority and prescribed public bodies were consulted in the preparation of the OPA and given an opportunity to review all supporting information and material and any other prescribed information and material.</p>\n<p>&nbsp;</p>\n<p>A statutory public meeting was held on September 25, 2025, the Planning and Housing Committee and Toronto City Council considered one oral and one written submission in making the decision. Please see item 2025.PH24.1 at <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2025.PH24.1\">https://secure.toronto.ca/council/agenda-item.do?item=2025.PH24.1</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Detailed information regarding the Official Plan Amendment may be obtained by contacting &nbsp;Liam O&rsquo;Toole, Senior Planner</strong> at 416-338-5628, or by <strong>e-mail at</strong> Liam.OToole@toronto.ca. The By-law and Official Plan Amendment is also available at: <a href=\"https://www.toronto.ca/ourplan\">https://www.toronto.ca/ourplan</a>.</p>\n<p>&nbsp;</p>\n<p>The Official Plan Amendment will be submitted for Ministerial approval to Heather Watt, Manager, Community Planning and Development, Ministry of Municipal Affairs and Housing, 777 Bay St, 31st Floor, Toronto, Ontario, M7A 2J3, <a href=\"mailto:Heather.Watt@ontario.ca\">Heather.Watt@ontario.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Any person or public body is entitled to receive notice of the decision of the approval authority, which is the Ministry of Municipal Affairs and Housing, if a written request to be notified of the decision (including the person's or public body's address) is made to the Ministry of Municipal Affairs and Housing at the address provided. The Decision of the Minister of Municipal Affairs and Housing on this proposed Official Plan Amendment within a Protected Major Transit Station Area is not appealable to the Ontario Land Tribunal, pursuant to section 17(36.1.4) and 17(36.5) of the <em>Planning Act</em>.</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p>&nbsp;</p>\n<p><strong>PURPOSE AND EFFECT OF</strong></p>\n<p><strong>OFFICIAL PLAN AMENDMENT 840</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>The purpose and effect of Official Plan Amendment 840 is to remove the subject site from Employment Areas, changing the designation from General Employment Areas to Mixed Use Areas on the southeast corner of King Street West and Atlantic Avenue, at 85 Hanna Avenue and 109 Atlantic Avenue. The Site and Area Specific Policy requires non-residential gross floor area and affordable rental housing units as part of any future redevelopment of the site.</p>\n<p>&nbsp;</p>\n<p>Further information may be obtained by contacting <strong>Liam O&rsquo;Toole</strong> at 416-338-5628, or by email at <a href=\"mailto:Liam.Otoole@toronto.ca\">Liam.Otoole@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6748,
+  "otherReferenceList": [
+    {
+      "description": "2025.PH24.1 - 85 Hanna Avenue and 109 Atlantic Avenue - Official Plan Amendment - Decision Report - Approval",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2025.PH24.1"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Adoption of Official Plan Amendment 840 Pursuant to Subsection 17(23) - 85 Hanna Avenue and 109 Atlantic Avenue",
+  "topics": [
+    "Planning > Adoption of an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
