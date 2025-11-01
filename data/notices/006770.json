@@ -1,0 +1,99 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "351 Marlee Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.706854855",
+      "longitudeCoordinate": "-79.442498372",
+      "postalCode": "M6B 3H9",
+      "province": "Ontario",
+      "streetAddress": "351 Marlee Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "377 Marlee Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.707109479",
+      "longitudeCoordinate": "-79.442840179",
+      "postalCode": "M6B 3H9",
+      "province": "Ontario",
+      "streetAddress": "377 Marlee Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "265 Viewmount Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.707244864",
+      "longitudeCoordinate": "-79.441995886",
+      "postalCode": "M6B 1V1",
+      "province": "Ontario",
+      "streetAddress": "265 Viewmount Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "269 Viewmount Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.707205727",
+      "longitudeCoordinate": "-79.442185421",
+      "postalCode": "M6B 1V1",
+      "province": "Ontario",
+      "streetAddress": "269 Viewmount Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Romar Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.706593662",
+      "longitudeCoordinate": "-79.442546276",
+      "postalCode": "M6B 1R8",
+      "province": "Ontario",
+      "streetAddress": "2 Romar Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "6 Romar Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.706659704",
+      "longitudeCoordinate": "-79.442166625",
+      "postalCode": "M6B 1R8",
+      "province": "Ontario",
+      "streetAddress": "6 Romar Crescent"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 351-377 Marlee Avenue, 2-6 Romar Crescent and 265-269 Viewmount Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6675"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1761883200000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 25 198723 NNY 08 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-Law to permit a mixed-use development consisting of 36-storey (122.8 metre) and 39-storey (132.1 metre) towers on a shared six-storey podium.</p>\n<p>351-377 Marlee Avenue, 2-6 Romar Crescent and 265-269 Viewmount Avenue</p>\n<p>Ward 8 &ndash; Eglinton-Lawrence</p>\n<p>Kayla Sintz, Senior Planner at 416-394-8238 or <a href=\"mailto:Kayla.Sintz@toronto.ca\">Kayla.Sintz@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6770,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 198723 NNY 08 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 351-377 Marlee Avenue, 2-6 Romar Crescent and 265-269 Viewmount Avenue",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

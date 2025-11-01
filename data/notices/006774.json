@@ -1,0 +1,60 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2135 Sheppard Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.774665916",
+      "longitudeCoordinate": "-79.332047507",
+      "postalCode": "M2J 1W6",
+      "province": "Ontario",
+      "streetAddress": "2135 Sheppard Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Smooth Rose Court Toronto Ontario",
+      "latitudeCoordinate": "43.774020481",
+      "longitudeCoordinate": "-79.333305431",
+      "province": "Ontario",
+      "streetAddress": "15 Smooth Rose Court"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 2135 Sheppard Avenue East and 15 Smooth Rose Court",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6679"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-397-4579",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1761883200000,
+  "noticeDescription": "<p><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 24 245745 NNY 17 OZ</p>\n<p>Application to amend the Official Plan and Zoning By-Law proposes a new residential tower (Building \"A\") with a height of 43-storeys. The proposal contemplates a total gross floor area of 31519.8 square metres and a density of 5.24 Floor Space Index across the gross site area of the Parkside Square lands. The proposal includes a total of 471 residential units.</p>\n<p>2135 Sheppard Avenue East and 15 Smooth Rose Court</p>\n<p>Ward 17 &ndash; Don Valley North.</p>\n<p>Richard Martin, Planner at 416-396-7221 or <a href=\"mailto:Richard.Martin@toronto.ca\">Richard.Martin@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6774,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 245745 NNY 17 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 2135 Sheppard Avenue East and 15 Smooth Rose Court",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
