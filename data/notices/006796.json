@@ -1,0 +1,67 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "604 Bay Street Toronto Ontario",
+      "latitudeCoordinate": "43.656058136",
+      "longitudeCoordinate": "-79.384383019",
+      "postalCode": "M5G 1M5",
+      "province": "Ontario",
+      "streetAddress": "604 Bay Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "610 Bay Street Toronto Ontario",
+      "latitudeCoordinate": "43.656174038",
+      "longitudeCoordinate": "-79.384429079",
+      "postalCode": "M5G 1M5",
+      "province": "Ontario",
+      "streetAddress": "610 Bay Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "130 Elizabeth Street Toronto Ontario",
+      "latitudeCoordinate": "43.655844802",
+      "longitudeCoordinate": "-79.385788927",
+      "province": "Ontario",
+      "streetAddress": "130 Elizabeth Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 588-2025 - 604-610 Bay Street and 130 Elizabeth Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6702"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1762491600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF INTENTION TO REMOVE A HOLDING SYMBOL (H) FROM ZONING BY-LAW 588-2025</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application under Section 36 of the <em>Planning Act</em>:</p>\n<p>&nbsp;</p>\n<p><strong>Application Number:</strong> 25 244508 STE 11 OZ</p>\n<p><strong>Address:</strong> 604-610 Bay Street and 130 Elizabeth Street</p>\n<p><strong>Ward:</strong> Ward 11 - University-Rosedale</p>\n<p><strong>Contact:</strong> Cole Solish, Assistant Planner, Strategic Initiatives, Policy and Analysis at 416-338-3527, by e-mail at <a href=\"mailto:Cole.Solish@toronto.ca\">Cole.Solish@toronto.ca</a>, or by address 12 Floor East Tower, City Hall 100 Queen Street West, Toronto, ON, M5H2N2</p>\n<p>&nbsp;</p>\n<p><strong>DESCRIPTION</strong></p>\n<p>&nbsp;</p>\n<p>The application to amend Zoning By-law 588-2025 to remove the holding symbol (H) to permit a 16-storey building at 604-610 Bay Street (53.0 metres) and a 43-storey building at 130 Elizabeth Street (144.6) with 858 purpose built rental units including 245 affordable dwelling units. The location of where the holding symbol (H) would be removed is noted on the map below.</p>\n<p>&nbsp;</p>\n<p>Detailed information about the proposal, including background information and materials may be made available for review by contacting the Planner noted above or by visiting the City of Toronto&rsquo;s Application Information Centre; <a href=\"https://www.toronto.ca/city-government/planning-development/application-details/?id=5730254&amp;pid=219315&amp;title=604-610-BAY-ST-&amp;-130-ELIZABETH-ST\">https://www.toronto.ca/city-government/planning-development/application-details/?id=5730254&amp;pid=219315&amp;title=604-610-BAY-ST-&amp;-130-ELIZABETH-ST</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>MAKE YOUR VIEWS KNOWN</strong></p>\n<p>&nbsp;</p>\n<p>You may send written comments by mail or email to the Community Planner noted under Contact. Your written comments must be submitted no later than November 21, 2025, to be considered by the Executive Director, Development Review or their designate, Director, Community Planning, Toronto and East York North District. A decision by the Executive Director, Development Review or their designate as to whether to remove the holding symbol (H) will occur no earlier than December 9, 2025.</p>\n<p>&nbsp;</p>\n<p><strong>Notice to people writing to the City</strong>: The <em>City of Toronto Act, 2006,</em> the <em>Planning Act</em>, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication to the City.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s).&nbsp; If you are submitting letters, e-mails, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6796,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 244508 STE 11 OZ "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 588-2025  - 604-610 Bay Street and 130 Elizabeth Street",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Intention to remove a Holding Symbol"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
