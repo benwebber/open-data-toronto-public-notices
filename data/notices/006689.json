@@ -3,6 +3,16 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "72 Chester Hill Road Toronto Ontario",
+      "latitudeCoordinate": "43.681474133",
+      "longitudeCoordinate": "-79.358310574",
+      "postalCode": "M4K 1X3",
+      "province": "Ontario",
+      "streetAddress": "72 Chester Hill Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "954 Broadview Avenue Toronto Ontario",
       "latitudeCoordinate": "43.68162118",
       "longitudeCoordinate": "-79.357841086",
@@ -29,16 +39,6 @@
       "postalCode": "M4K 2R6",
       "province": "Ontario",
       "streetAddress": "958 Broadview Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "72 Chester Hill Road Toronto Ontario",
-      "latitudeCoordinate": "43.681474133",
-      "longitudeCoordinate": "-79.358310574",
-      "postalCode": "M4K 1X3",
-      "province": "Ontario",
-      "streetAddress": "72 Chester Hill Road"
     }
   ],
   "backgroundInformationList": [

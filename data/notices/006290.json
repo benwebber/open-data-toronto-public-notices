@@ -3,26 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "54 Fraser Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.636928549",
-      "longitudeCoordinate": "-79.424026974",
-      "postalCode": "M6K 1Y6",
-      "province": "Ontario",
-      "streetAddress": "54 Fraser Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "66 Fraser Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.637320855",
-      "longitudeCoordinate": "-79.424320491",
-      "postalCode": "M6K 1Y6",
-      "province": "Ontario",
-      "streetAddress": "66 Fraser Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "147 Liberty Street Toronto Ontario",
       "latitudeCoordinate": "43.637414667",
       "longitudeCoordinate": "-79.424448843",
@@ -39,6 +19,26 @@
       "postalCode": "M6K 3G3",
       "province": "Ontario",
       "streetAddress": "151 Liberty Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "54 Fraser Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.636928549",
+      "longitudeCoordinate": "-79.424026974",
+      "postalCode": "M6K 1Y6",
+      "province": "Ontario",
+      "streetAddress": "54 Fraser Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "66 Fraser Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.637320855",
+      "longitudeCoordinate": "-79.424320491",
+      "postalCode": "M6K 1Y6",
+      "province": "Ontario",
+      "streetAddress": "66 Fraser Avenue"
     }
   ],
   "backgroundInformationList": [

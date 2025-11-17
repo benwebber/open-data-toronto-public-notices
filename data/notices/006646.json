@@ -3,22 +3,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "303 Augusta Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.656576719",
-      "longitudeCoordinate": "-79.402574963",
-      "postalCode": "M5T 2M2",
-      "province": "Ontario",
-      "streetAddress": "303 Augusta Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "333 College Street Toronto Ontario",
       "latitudeCoordinate": "43.657299237",
       "longitudeCoordinate": "-79.402441864",
       "postalCode": "M5T 1S2",
       "province": "Ontario",
       "streetAddress": "333 College Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "303 Augusta Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.656576719",
+      "longitudeCoordinate": "-79.402574963",
+      "postalCode": "M5T 2M2",
+      "province": "Ontario",
+      "streetAddress": "303 Augusta Avenue"
     }
   ],
   "backgroundInformationList": [

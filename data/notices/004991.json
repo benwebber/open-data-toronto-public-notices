@@ -3,26 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "4 Irwin Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.666730005",
-      "longitudeCoordinate": "-79.385638412",
-      "postalCode": "M4Y 1K9",
-      "province": "Ontario",
-      "streetAddress": "4 Irwin Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "2 Irwin Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.666765315",
-      "longitudeCoordinate": "-79.385472788",
-      "postalCode": "M4Y 1K9",
-      "province": "Ontario",
-      "streetAddress": "2 Irwin Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "664 Yonge Street Toronto Ontario",
       "latitudeCoordinate": "43.66708137",
       "longitudeCoordinate": "-79.385690077",
@@ -39,6 +19,26 @@
       "postalCode": "M4Y 2A6",
       "province": "Ontario",
       "streetAddress": "646 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "4 Irwin Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.666730005",
+      "longitudeCoordinate": "-79.385638412",
+      "postalCode": "M4Y 1K9",
+      "province": "Ontario",
+      "streetAddress": "4 Irwin Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Irwin Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.666765315",
+      "longitudeCoordinate": "-79.385472788",
+      "postalCode": "M4Y 1K9",
+      "province": "Ontario",
+      "streetAddress": "2 Irwin Avenue"
     }
   ],
   "backgroundInformationList": [

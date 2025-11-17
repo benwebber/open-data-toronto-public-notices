@@ -3,6 +3,24 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "Southeast corner of Midland Avenue and McNicoll Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.81453833231296",
+      "longitudeCoordinate": "-79.29209351335095",
+      "province": "Ontario",
+      "streetAddress": "Southeast corner of Midland Avenue and McNicoll Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "Southwest and Southeast corner of McCowan Road and Finch Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.80794251123544",
+      "longitudeCoordinate": "-79.26661472738257",
+      "province": "Ontario",
+      "streetAddress": "Southwest and Southeast corner of McCowan Road and Finch Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "5789 Steeles Avenue East Toronto Ontario",
       "latitudeCoordinate": "43.83328006",
       "longitudeCoordinate": "-79.262422001",
@@ -27,24 +45,6 @@
       "longitudeCoordinate": "-79.235059506",
       "province": "Ontario",
       "streetAddress": "1088 Progress Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "Southeast corner of Midland Avenue and McNicoll Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.81453833231296",
-      "longitudeCoordinate": "-79.29209351335095",
-      "province": "Ontario",
-      "streetAddress": "Southeast corner of Midland Avenue and McNicoll Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "Southwest and Southeast corner of McCowan Road and Finch Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.80794251123544",
-      "longitudeCoordinate": "-79.26661472738257",
-      "province": "Ontario",
-      "streetAddress": "Southwest and Southeast corner of McCowan Road and Finch Avenue"
     }
   ],
   "backgroundInformationList": [

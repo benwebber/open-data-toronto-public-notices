@@ -3,21 +3,21 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "4620 Eglinton Avenue West Toronto Ontario",
-      "latitudeCoordinate": "43.678781426",
-      "longitudeCoordinate": "-79.546012106",
-      "province": "Ontario",
-      "streetAddress": "4620 Eglinton Avenue West"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "250 Wincott Drive Toronto Ontario",
       "latitudeCoordinate": "43.679692206",
       "longitudeCoordinate": "-79.546779451",
       "postalCode": "M9R 2R5",
       "province": "Ontario",
       "streetAddress": "250 Wincott Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "4620 Eglinton Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.678781426",
+      "longitudeCoordinate": "-79.546012106",
+      "province": "Ontario",
+      "streetAddress": "4620 Eglinton Avenue West"
     }
   ],
   "backgroundInformationList": [

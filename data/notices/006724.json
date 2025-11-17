@@ -3,6 +3,15 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "1400 Weston Road Toronto Ontario",
+      "latitudeCoordinate": "43.692506978",
+      "longitudeCoordinate": "-79.504458222",
+      "province": "Ontario",
+      "streetAddress": "1400 Weston Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "300 Sidney Belsey Crescent Toronto Ontario",
       "latitudeCoordinate": "43.691471421",
       "longitudeCoordinate": "-79.509796197",
@@ -36,15 +45,6 @@
       "longitudeCoordinate": "-79.50945661626085",
       "province": "Ontario",
       "streetAddress": "330 Sidney Belsey Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "1400 Weston Road Toronto Ontario",
-      "latitudeCoordinate": "43.692506978",
-      "longitudeCoordinate": "-79.504458222",
-      "province": "Ontario",
-      "streetAddress": "1400 Weston Road"
     }
   ],
   "backgroundInformationList": [

@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "160 Mountjoy Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.681610522",
-      "longitudeCoordinate": "-79.325196711",
-      "postalCode": "M4J 1K3",
-      "province": "Ontario",
-      "streetAddress": "160 Mountjoy Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "91 Parkmount Road Toronto Ontario",
       "latitudeCoordinate": "43.6794767002",
       "longitudeCoordinate": "-79.324484948",
@@ -29,6 +19,16 @@
       "postalCode": "M4J 4V5",
       "province": "Ontario",
       "streetAddress": "209 Parkmount Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "160 Mountjoy Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.681610522",
+      "longitudeCoordinate": "-79.325196711",
+      "postalCode": "M4J 1K3",
+      "province": "Ontario",
+      "streetAddress": "160 Mountjoy Avenue"
     }
   ],
   "backgroundInformationList": [

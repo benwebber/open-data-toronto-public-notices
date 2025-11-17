@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "56 Nottingham Drive Toronto Ontario",
-      "latitudeCoordinate": "43.653618167",
-      "longitudeCoordinate": "-79.525738414",
-      "postalCode": "M9A 2W5",
-      "province": "Ontario",
-      "streetAddress": "56 Nottingham Drive"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "4686 Dundas Street West Toronto Ontario",
       "latitudeCoordinate": "43.653449195",
       "longitudeCoordinate": "-79.525097811",
@@ -29,6 +19,16 @@
       "postalCode": "M9A 1A6",
       "province": "Ontario",
       "streetAddress": "4690 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "56 Nottingham Drive Toronto Ontario",
+      "latitudeCoordinate": "43.653618167",
+      "longitudeCoordinate": "-79.525738414",
+      "postalCode": "M9A 2W5",
+      "province": "Ontario",
+      "streetAddress": "56 Nottingham Drive"
     }
   ],
   "backgroundInformationList": [

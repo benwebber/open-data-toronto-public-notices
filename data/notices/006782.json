@@ -3,16 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "11 Churchill Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.7734165941",
-      "longitudeCoordinate": "-79.4148210265",
-      "postalCode": "M2N 1Y6",
-      "province": "Ontario",
-      "streetAddress": "11 Churchill Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "5318 Yonge Street Toronto Ontario",
       "latitudeCoordinate": "43.7731085898",
       "longitudeCoordinate": "-79.4141896556",
@@ -29,6 +19,16 @@
       "postalCode": "M2N 5P9",
       "province": "Ontario",
       "streetAddress": "5324 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Churchill Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7734165941",
+      "longitudeCoordinate": "-79.4148210265",
+      "postalCode": "M2N 1Y6",
+      "province": "Ontario",
+      "streetAddress": "11 Churchill Avenue"
     }
   ],
   "backgroundInformationList": [

@@ -3,6 +3,26 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "10 Maxim Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.761303327",
+      "longitudeCoordinate": "-79.287152609",
+      "postalCode": "M1P 1Y2",
+      "province": "Ontario",
+      "streetAddress": "10 Maxim Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Bank Street Toronto Ontario",
+      "latitudeCoordinate": "43.647407697",
+      "longitudeCoordinate": "-79.431460357",
+      "postalCode": "M6K 1R4",
+      "province": "Ontario",
+      "streetAddress": "11 Bank Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "14 Aldwych Avenue Toronto Ontario",
       "latitudeCoordinate": "43.68395134",
       "longitudeCoordinate": "-79.3457004596",
@@ -33,26 +53,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "292 Delaware Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.664113427",
-      "longitudeCoordinate": "-79.429382643",
-      "postalCode": "M6H 2T6",
-      "province": "Ontario",
-      "streetAddress": "292 Delaware Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "10 Maxim Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.761303327",
-      "longitudeCoordinate": "-79.287152609",
-      "postalCode": "M1P 1Y2",
-      "province": "Ontario",
-      "streetAddress": "10 Maxim Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "180 Queen's Drive Toronto Ontario",
       "latitudeCoordinate": "43.70683697953541",
       "longitudeCoordinate": "-79.509997534621",
@@ -73,22 +73,12 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "11 Bank Street Toronto Ontario",
-      "latitudeCoordinate": "43.647407697",
-      "longitudeCoordinate": "-79.431460357",
-      "postalCode": "M6K 1R4",
+      "fullAddress": "292 Delaware Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.664113427",
+      "longitudeCoordinate": "-79.429382643",
+      "postalCode": "M6H 2T6",
       "province": "Ontario",
-      "streetAddress": "11 Bank Street"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "705 Adelaide Street West Toronto Ontario",
-      "latitudeCoordinate": "43.644252444",
-      "longitudeCoordinate": "-79.406933609",
-      "postalCode": "M6J 1B2",
-      "province": "Ontario",
-      "streetAddress": "705 Adelaide Street West"
+      "streetAddress": "292 Delaware Avenue"
     },
     {
       "city": "Toronto",
@@ -99,6 +89,16 @@
       "postalCode": "M9A 3V7",
       "province": "Ontario",
       "streetAddress": "390 The Kingsway"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "705 Adelaide Street West Toronto Ontario",
+      "latitudeCoordinate": "43.644252444",
+      "longitudeCoordinate": "-79.406933609",
+      "postalCode": "M6J 1B2",
+      "province": "Ontario",
+      "streetAddress": "705 Adelaide Street West"
     }
   ],
   "backgroundInformationList": [

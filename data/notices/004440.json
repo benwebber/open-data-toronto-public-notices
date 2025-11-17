@@ -22,6 +22,15 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "125 Consumers Road Toronto Ontario",
+      "latitudeCoordinate": "43.774121605",
+      "longitudeCoordinate": "-79.332192109",
+      "province": "Ontario",
+      "streetAddress": "125 Consumers Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "15 Smooth Rose Court Toronto Ontario",
       "latitudeCoordinate": "43.774020481",
       "longitudeCoordinate": "-79.333305431",
@@ -37,15 +46,6 @@
       "postalCode": "M2J 0G7",
       "province": "Ontario",
       "streetAddress": "55 Smooth Rose Court"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "125 Consumers Road Toronto Ontario",
-      "latitudeCoordinate": "43.774121605",
-      "longitudeCoordinate": "-79.332192109",
-      "province": "Ontario",
-      "streetAddress": "125 Consumers Road"
     }
   ],
   "backgroundInformationList": [

@@ -3,36 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "107 Centre Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.7934642209",
-      "longitudeCoordinate": "-79.4089628463",
-      "postalCode": "M2M 2L7",
-      "province": "Ontario",
-      "streetAddress": "107 Centre Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "141 Chester Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.681471874",
-      "longitudeCoordinate": "-79.3531429134",
-      "postalCode": "M4K 2Z8",
-      "province": "Ontario",
-      "streetAddress": "141 Chester Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "177 St Helens Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6547230039",
-      "longitudeCoordinate": "-79.4424492555",
-      "postalCode": "M6H 4A2",
-      "province": "Ontario",
-      "streetAddress": "177 St Helens Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "7 Brushwood Court Toronto Ontario",
       "latitudeCoordinate": "43.7548022852",
       "longitudeCoordinate": "-79.328353335",
@@ -53,12 +23,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "127 Habitant Drive Toronto Ontario",
-      "latitudeCoordinate": "43.744863117",
-      "longitudeCoordinate": "-79.537650346",
-      "postalCode": "M9M 2P4",
+      "fullAddress": "63 Marchmount Road Toronto Ontario",
+      "latitudeCoordinate": "43.6739130381",
+      "longitudeCoordinate": "-79.4272293325",
+      "postalCode": "M6G 2A8",
       "province": "Ontario",
-      "streetAddress": "127 Habitant Drive"
+      "streetAddress": "63 Marchmount Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "107 Centre Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7934642209",
+      "longitudeCoordinate": "-79.4089628463",
+      "postalCode": "M2M 2L7",
+      "province": "Ontario",
+      "streetAddress": "107 Centre Avenue"
     },
     {
       "city": "Toronto",
@@ -73,12 +53,32 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "63 Marchmount Road Toronto Ontario",
-      "latitudeCoordinate": "43.6739130381",
-      "longitudeCoordinate": "-79.4272293325",
-      "postalCode": "M6G 2A8",
+      "fullAddress": "127 Habitant Drive Toronto Ontario",
+      "latitudeCoordinate": "43.744863117",
+      "longitudeCoordinate": "-79.537650346",
+      "postalCode": "M9M 2P4",
       "province": "Ontario",
-      "streetAddress": "63 Marchmount Road"
+      "streetAddress": "127 Habitant Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "141 Chester Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.681471874",
+      "longitudeCoordinate": "-79.3531429134",
+      "postalCode": "M4K 2Z8",
+      "province": "Ontario",
+      "streetAddress": "141 Chester Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "177 St Helens Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6547230039",
+      "longitudeCoordinate": "-79.4424492555",
+      "postalCode": "M6H 4A2",
+      "province": "Ontario",
+      "streetAddress": "177 St Helens Avenue"
     },
     {
       "city": "Toronto",

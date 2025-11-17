@@ -3,22 +3,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "3600 Finch Avenue East Toronto Ontario",
-      "latitudeCoordinate": "43.799246028",
-      "longitudeCoordinate": "-79.3073043473",
-      "postalCode": "M1W 3N7",
-      "province": "Ontario",
-      "streetAddress": "3600 Finch Avenue East"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "2950 Birchmount Road Toronto Ontario",
       "latitudeCoordinate": "43.7995570342",
       "longitudeCoordinate": "-79.3068516016",
       "postalCode": "M1W 3G5",
       "province": "Ontario",
       "streetAddress": "2950 Birchmount Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3600 Finch Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.799246028",
+      "longitudeCoordinate": "-79.3073043473",
+      "postalCode": "M1W 3N7",
+      "province": "Ontario",
+      "streetAddress": "3600 Finch Avenue East"
     }
   ],
   "backgroundInformationList": [

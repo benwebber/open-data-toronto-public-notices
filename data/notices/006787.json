@@ -3,26 +3,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "243 Greenwood Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.670683378",
-      "longitudeCoordinate": "-79.327684428",
-      "postalCode": "M4L 2R4",
-      "province": "Ontario",
-      "streetAddress": "243 Greenwood Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "247 Greenwood Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.670763778",
-      "longitudeCoordinate": "-79.327719754",
-      "postalCode": "M4L 2R4",
-      "province": "Ontario",
-      "streetAddress": "247 Greenwood Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "1291 Gerrard Street East Toronto Ontario",
       "latitudeCoordinate": "43.67088783",
       "longitudeCoordinate": "-79.327450404",
@@ -39,6 +19,26 @@
       "postalCode": "M4L 1Y8",
       "province": "Ontario",
       "streetAddress": "1311 Gerrard Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "243 Greenwood Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.670683378",
+      "longitudeCoordinate": "-79.327684428",
+      "postalCode": "M4L 2R4",
+      "province": "Ontario",
+      "streetAddress": "243 Greenwood Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "247 Greenwood Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.670763778",
+      "longitudeCoordinate": "-79.327719754",
+      "postalCode": "M4L 2R4",
+      "province": "Ontario",
+      "streetAddress": "247 Greenwood Avenue"
     }
   ],
   "backgroundInformationList": [

@@ -23,6 +23,36 @@
     {
       "city": "Toronto",
       "country": "Canada",
+      "fullAddress": "20 Castlebury Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7949076328",
+      "longitudeCoordinate": "-79.3705293249",
+      "postalCode": "M2H 1W6",
+      "province": "Ontario",
+      "streetAddress": "20 Castlebury Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "23 Kimberdale Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7869775944",
+      "longitudeCoordinate": "-79.3103744151",
+      "postalCode": "M1W 1Y4",
+      "province": "Ontario",
+      "streetAddress": "23 Kimberdale Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "41 Roebuck Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7229234887",
+      "longitudeCoordinate": "-79.2733499731",
+      "postalCode": "M1K 2H6",
+      "province": "Ontario",
+      "streetAddress": "41 Roebuck Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
       "fullAddress": "46 Benson Avenue Toronto Ontario",
       "latitudeCoordinate": "43.68046063",
       "longitudeCoordinate": "-79.424158738",
@@ -53,86 +83,6 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "270 Bingham Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6858937398",
-      "longitudeCoordinate": "-79.2874913572",
-      "postalCode": "M4E 3R7",
-      "province": "Ontario",
-      "streetAddress": "270 Bingham Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "63 Harvie Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.6790713308",
-      "longitudeCoordinate": "-79.4506987717",
-      "postalCode": "M6E 4K4",
-      "province": "Ontario",
-      "streetAddress": "63 Harvie Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "195 Westmount Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.680818597",
-      "longitudeCoordinate": "-79.442724157",
-      "postalCode": "M6E 3M6",
-      "province": "Ontario",
-      "streetAddress": "195 Westmount Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "495 Glenlake Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.655242821",
-      "longitudeCoordinate": "-79.4735232424",
-      "postalCode": "M6P 1G9",
-      "province": "Ontario",
-      "streetAddress": "495 Glenlake Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "621 Glencairn Avenue Toronto Ontario",
-      "latitudeCoordinate": "43.7109230604",
-      "longitudeCoordinate": "-79.4339165428",
-      "postalCode": "M6B 1Z6",
-      "province": "Ontario",
-      "streetAddress": "621 Glencairn Avenue"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "19 Hardwick Court Toronto Ontario",
-      "latitudeCoordinate": "43.669639627",
-      "longitudeCoordinate": "-79.5819940096",
-      "postalCode": "M9C 4G5",
-      "province": "Ontario",
-      "streetAddress": "19 Hardwick Court"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "20 Castlebury Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.7949076328",
-      "longitudeCoordinate": "-79.3705293249",
-      "postalCode": "M2H 1W6",
-      "province": "Ontario",
-      "streetAddress": "20 Castlebury Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
-      "fullAddress": "23 Kimberdale Crescent Toronto Ontario",
-      "latitudeCoordinate": "43.7869775944",
-      "longitudeCoordinate": "-79.3103744151",
-      "postalCode": "M1W 1Y4",
-      "province": "Ontario",
-      "streetAddress": "23 Kimberdale Crescent"
-    },
-    {
-      "city": "Toronto",
-      "country": "Canada",
       "fullAddress": "64 MacKenzie Crescent Toronto Ontario",
       "latitudeCoordinate": "43.648669423",
       "longitudeCoordinate": "-79.425996104",
@@ -143,22 +93,22 @@
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "41 Roebuck Drive Toronto Ontario",
-      "latitudeCoordinate": "43.7229234887",
-      "longitudeCoordinate": "-79.2733499731",
-      "postalCode": "M1K 2H6",
+      "fullAddress": "270 Bingham Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6858937398",
+      "longitudeCoordinate": "-79.2874913572",
+      "postalCode": "M4E 3R7",
       "province": "Ontario",
-      "streetAddress": "41 Roebuck Drive"
+      "streetAddress": "270 Bingham Avenue"
     },
     {
       "city": "Toronto",
       "country": "Canada",
-      "fullAddress": "110 Roseneath Gardens Toronto Ontario",
-      "latitudeCoordinate": "43.6854208277",
-      "longitudeCoordinate": "-79.4361017425",
-      "postalCode": "M6C 3X6",
+      "fullAddress": "19 Hardwick Court Toronto Ontario",
+      "latitudeCoordinate": "43.669639627",
+      "longitudeCoordinate": "-79.5819940096",
+      "postalCode": "M9C 4G5",
       "province": "Ontario",
-      "streetAddress": "110 Roseneath Gardens"
+      "streetAddress": "19 Hardwick Court"
     },
     {
       "city": "Toronto",
@@ -189,6 +139,56 @@
       "postalCode": "M9N 3J5",
       "province": "Ontario",
       "streetAddress": "50 Grattan Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "63 Harvie Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6790713308",
+      "longitudeCoordinate": "-79.4506987717",
+      "postalCode": "M6E 4K4",
+      "province": "Ontario",
+      "streetAddress": "63 Harvie Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "110 Roseneath Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.6854208277",
+      "longitudeCoordinate": "-79.4361017425",
+      "postalCode": "M6C 3X6",
+      "province": "Ontario",
+      "streetAddress": "110 Roseneath Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "195 Westmount Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.680818597",
+      "longitudeCoordinate": "-79.442724157",
+      "postalCode": "M6E 3M6",
+      "province": "Ontario",
+      "streetAddress": "195 Westmount Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "495 Glenlake Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.655242821",
+      "longitudeCoordinate": "-79.4735232424",
+      "postalCode": "M6P 1G9",
+      "province": "Ontario",
+      "streetAddress": "495 Glenlake Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "621 Glencairn Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7109230604",
+      "longitudeCoordinate": "-79.4339165428",
+      "postalCode": "M6B 1Z6",
+      "province": "Ontario",
+      "streetAddress": "621 Glencairn Avenue"
     }
   ],
   "backgroundInformationList": [
