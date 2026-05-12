@@ -1,0 +1,69 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "8 Benner Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.705534864",
+      "longitudeCoordinate": "-79.440399316",
+      "postalCode": "M6B 3G8",
+      "province": "Ontario",
+      "streetAddress": "8 Benner Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "12 Benner Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.705728559",
+      "longitudeCoordinate": "-79.440520734",
+      "postalCode": "M6B 3G8",
+      "province": "Ontario",
+      "streetAddress": "12 Benner Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Stayner Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.705641338",
+      "longitudeCoordinate": "-79.440776716",
+      "postalCode": "M6B 1N3",
+      "province": "Ontario",
+      "streetAddress": "5 Stayner Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 8-12 Benner Avenue and 5 Stayner Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6956"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1768539600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 25 264514 NNY 08 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-law proposes a 37-storey residential building containing 418 units and 17 parking spaces, with a gross floor area of 27,812.40 square metres, resulting in a Floor Space Index (FSI) of 15.1.</p>\n<p>8-12 Benner Avenue and 5 Stayner Avenue</p>\n<p>Ward 8 &ndash; Eglinton-Lawrence</p>\n<p>Kayla Sintz, Planner at 416-394-8238 or <a href=\"mailto:Kayla.Sintz@toronto.ca\">Kayla.Sintz@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7012,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 264514 NNY 08 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 8-12 Benner Avenue and 5 Stayner Avenue",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

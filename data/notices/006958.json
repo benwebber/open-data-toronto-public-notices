@@ -1,0 +1,55 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "6 Foxdale Court Toronto Ontario",
+      "latitudeCoordinate": "43.795229451",
+      "longitudeCoordinate": "-79.384848193",
+      "postalCode": "M2K 2P2",
+      "province": "Ontario",
+      "streetAddress": "6 Foxdale Court"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Zoning By-law - 1464-2025 - 6 Foxdale Court",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6871"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "phone": "416-394-8101",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1766984400000,
+  "noticeDescription": "<p><strong>NOTICE OF PASSING OF ZONING BY-LAW 1464-2025</strong></p>\n<p><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that the City of Toronto passed Zoning By-law 1464-2025 on December 17, 2025, with respect to the lands known as 6 Foxdale Court.</p>\n<p>&nbsp;</p>\n<p>An explanation of the purpose and effect of the Zoning By-law, and a map showing the location of the lands to which the amendment applies, are attached. The amendment was processed under file number: 20 234713 NNY 17 OZ.</p>\n<p>&nbsp;</p>\n<p>A statutory public meeting was held on September 17, 2025 and the North York Community Council and Toronto City Council considered no oral and three written submissions in making the decision. Please see item Item 2025.NY26.5 at <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2025.NY26.5\">https://secure.toronto.ca/council/agenda-item.do?item=2025.NY26.5</a>.</p>\n<p>&nbsp;</p>\n<p>&nbsp;This land is also subject to an application under the Planning Act for approval of a plan of subdivision, file number 20 234714 NNY 17 SB.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal to the Ontario Land Tribunal in respect to all or part of this Zoning By-law may be made by filing a notice of appeal with the City Clerk, <strong>Attention: &nbsp;Raneisha Hemmings,</strong> Registrar Secretariat, 100 Queen Street West, 2nd Floor West, Toronto, ON, M5H 2N2, no later than 4:30 p.m. on <strong>January 19, 2026</strong>. If delivering in-person, drop off at the Registry Services Counter, Toronto City Hall. The filing of a notice of appeal after 4:30 p.m., in person or electronically, will be deemed to have been received the next business day.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the appeal; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be accompanied by the fee prescribed under the Ontario Land Tribunal in the amount of $1,100.00 for each application appealed payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the OLT website at <a href=\"http://www.olt.gov.on.ca.]\">www.olt.gov.on.ca.</a></p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only an applicant, a specified person or public body as defined in the <em>Planning Act</em> that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, the registered owner of any land to which the by-law would apply that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, and the Minister may appeal the by-law to the Ontario Land Tribunal.&nbsp;</p>\n<p>&nbsp;</p>\n<p>No person or public body shall be added as a party to the hearing of the appeal unless, before the by-law was passed, the person or public body made oral submissions at a public meeting or written submissions to the Council, or in the opinion of the Ontario Land Tribunal, there are reasonable grounds to add the person or public body as a party.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application may be obtained by contacting <strong>Diana Steinberg</strong> at 416-338-3455, or <a href=\"mailto:Diana.Steinberg@toronto.ca\">Diana.Steinberg@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><strong>PURPOSE AND EFFECT OF</strong><br /><strong>ZONING BY-LAW 1464-2025</strong><br />&nbsp;</p>\n<p>The purpose and effect of Zoning By-law 1464-2025 is to facilitate the construction of 6 (six) two-storey detached dwellings with a total residential gross floor area of 2,192 square metres fronting a new private street, created through a future common elements condominium application. A total of 12 residential parking spaces will be provided. The proposal will also identify lands to be zoned as Open Space at the rear of the subject site with an area of 2,750 square metres.</p>\n<p>&nbsp;</p>\n<p>Further information may be obtained by contacting <strong>Diana Steinberg</strong> at 416-338-3455, or <a href=\"mailto:Diana.Steinberg@toronto.ca\">Diana.Steinberg@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6958,
+  "otherReferenceList": [
+    {
+      "description": "2025.NY26.5 - 6 Foxdale Court - Zoning By-law Amendment Applications - Decision Report - Approval",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2025.NY26.5"
+    }
+  ],
+  "planningApplicationNumbers": [
+    "20 234713 NNY 17 OZ",
+    "20 234714 NNY 17 SB"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Passing of Zoning By-law - 1464-2025 - 6 Foxdale Court",
+  "topics": [
+    "Planning > Adoption of Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

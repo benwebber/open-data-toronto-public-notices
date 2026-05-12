@@ -1,0 +1,35 @@
+{
+  "addressList": [],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Cancellation of Public Meeting - City-initiated Official Plan Amendment, Zoning By-law Amendment and standalone Zoning By-law pertaining to Inclusionary Zoning",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6743"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1763614800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>CANCELLATION NOTICE</strong></p>\n<p style=\"text-align: center;\"><strong>OF PUBLIC MEETING</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Location of Application: City-wide</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>City-Initiated Official Plan Amendment, Zoning By-law Amendment and standalone Zoning By-law pertaining to Inclusionary Zoning</strong></p>\n<p style=\"text-align: center;\"><strong>Applicant: City of Toronto</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>A Notice of Public Meeting was originally sent to you on November 12, 2025.&nbsp; Please be advised that this application will <strong>NOT</strong> be considered by the Planning and Housing Committee meeting on December 3, 2025.</p>\n<p>&nbsp;</p>\n<p>This Public Meeting has been <strong>CANCELLED</strong>. You will be notified of any rescheduled date, time and location of the Public Meeting.</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6837,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Cancellation of Public Meeting - City-initiated Official Plan Amendment, Zoning By-law Amendment and standalone Zoning By-law pertaining to Inclusionary Zoning",
+  "topics": [
+    "Planning > Refusal of application for a Zoning By-law Amendment",
+    "Planning > Refusal of an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Secord Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.693121262",
+      "longitudeCoordinate": "-79.301596009",
+      "postalCode": "M4C 2C3",
+      "province": "Ontario",
+      "streetAddress": "2 Secord Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1251 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.68416348",
+      "longitudeCoordinate": "-79.392116676",
+      "postalCode": "M4T 1W6",
+      "province": "Ontario",
+      "streetAddress": "1251 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1311 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.684950948",
+      "longitudeCoordinate": "-79.392522729",
+      "province": "Ontario",
+      "streetAddress": "1311 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "135 St Clair Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.686252991",
+      "longitudeCoordinate": "-79.400955602",
+      "postalCode": "M4V 1P5",
+      "province": "Ontario",
+      "streetAddress": "135 St Clair Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2323 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.7083133798",
+      "longitudeCoordinate": "-79.3982701248",
+      "postalCode": "M4P 2C9",
+      "province": "Ontario",
+      "streetAddress": "2323 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2329 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.7085302432",
+      "longitudeCoordinate": "-79.3982872542",
+      "postalCode": "M4P 2C8",
+      "province": "Ontario",
+      "streetAddress": "2329 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2345 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.708851966",
+      "longitudeCoordinate": "-79.398404123",
+      "postalCode": "M4P 2E5",
+      "province": "Ontario",
+      "streetAddress": "2345 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1400 Victoria Park Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7187086586",
+      "longitudeCoordinate": "-79.3007955553",
+      "postalCode": "M4A 2L8",
+      "province": "Ontario",
+      "streetAddress": "1400 Victoria Park Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1408 Victoria Park Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.719125378",
+      "longitudeCoordinate": "-79.300879852",
+      "postalCode": "M4A 2L8",
+      "province": "Ontario",
+      "streetAddress": "1408 Victoria Park Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1410 Victoria Park Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.719418737",
+      "longitudeCoordinate": "-79.301060223",
+      "postalCode": "M4A 2L8",
+      "province": "Ontario",
+      "streetAddress": "1410 Victoria Park Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1930 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.653574315",
+      "longitudeCoordinate": "-79.466573813",
+      "postalCode": "M6P 3K8",
+      "province": "Ontario",
+      "streetAddress": "1930 Bloor Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1938 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.653433265",
+      "longitudeCoordinate": "-79.466789536",
+      "postalCode": "M6P 3K8",
+      "province": "Ontario",
+      "streetAddress": "1938 Bloor Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3 Quebec Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.653492213",
+      "longitudeCoordinate": "-79.466815012",
+      "postalCode": "M6P 2T3",
+      "province": "Ontario",
+      "streetAddress": "3 Quebec Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Quebec Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.653529258",
+      "longitudeCoordinate": "-79.466828898",
+      "postalCode": "M6P 2T3",
+      "province": "Ontario",
+      "streetAddress": "5 Quebec Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "21 Quebec Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.65372342",
+      "longitudeCoordinate": "-79.466835241",
+      "postalCode": "M6P 2T3",
+      "province": "Ontario",
+      "streetAddress": "21 Quebec Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "340 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.640752463",
+      "longitudeCoordinate": "-79.428262003",
+      "postalCode": "M6K 1Z9",
+      "province": "Ontario",
+      "streetAddress": "340 Dufferin Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "376R Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.641503604",
+      "longitudeCoordinate": "-79.428833188",
+      "province": "Ontario",
+      "streetAddress": "376R Dufferin Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Melbourne Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.64065528",
+      "longitudeCoordinate": "-79.428166657",
+      "province": "Ontario",
+      "streetAddress": "2 Melbourne Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3239 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.66536219",
+      "longitudeCoordinate": "-79.477916824",
+      "postalCode": "M6P 2A2",
+      "province": "Ontario",
+      "streetAddress": "3239 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3251 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.665363704",
+      "longitudeCoordinate": "-79.478398165",
+      "postalCode": "M6P 2A2",
+      "province": "Ontario",
+      "streetAddress": "3251 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "450 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.645183039",
+      "longitudeCoordinate": "-79.430121318",
+      "postalCode": "M6K 2A5",
+      "province": "Ontario",
+      "streetAddress": "450 Dufferin Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1648 Dupont Street Toronto Ontario",
+      "latitudeCoordinate": "43.664915608",
+      "longitudeCoordinate": "-79.455944284",
+      "postalCode": "M6P 3T2",
+      "province": "Ontario",
+      "streetAddress": "1648 Dupont Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1664 Dupont Street Toronto Ontario",
+      "latitudeCoordinate": "43.664856499",
+      "longitudeCoordinate": "-79.456436455",
+      "postalCode": "M6P 3T2",
+      "province": "Ontario",
+      "streetAddress": "1664 Dupont Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "152 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.645965661",
+      "longitudeCoordinate": "-79.40383157",
+      "postalCode": "M5V 2R3",
+      "province": "Ontario",
+      "streetAddress": "152 Bathurst Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "164 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.646270195",
+      "longitudeCoordinate": "-79.403981297",
+      "postalCode": "M5V 2R3",
+      "province": "Ontario",
+      "streetAddress": "164 Bathurst Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "623 Richmond Street West Toronto Ontario",
+      "latitudeCoordinate": "43.646202123",
+      "longitudeCoordinate": "-79.404231949",
+      "postalCode": "M6J 1C2",
+      "province": "Ontario",
+      "streetAddress": "623 Richmond Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "627 Richmond Street West Toronto Ontario",
+      "latitudeCoordinate": "43.646153748",
+      "longitudeCoordinate": "-79.404315781",
+      "postalCode": "M6J 1C2",
+      "province": "Ontario",
+      "streetAddress": "627 Richmond Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "126 Avenue Road Toronto Ontario",
+      "latitudeCoordinate": "43.674051008",
+      "longitudeCoordinate": "-79.396678596",
+      "postalCode": "M5R 2H6",
+      "province": "Ontario",
+      "streetAddress": "126 Avenue Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "130 Avenue Road Toronto Ontario",
+      "latitudeCoordinate": "43.67418496",
+      "longitudeCoordinate": "-79.396689304",
+      "postalCode": "M5R 2H6",
+      "province": "Ontario",
+      "streetAddress": "130 Avenue Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "425 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.6662112962",
+      "longitudeCoordinate": "-79.4049173486",
+      "postalCode": "M5S 1X6",
+      "province": "Ontario",
+      "streetAddress": "425 Bloor Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "569 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.664878299",
+      "longitudeCoordinate": "-79.411605332",
+      "postalCode": "M6G 0B2",
+      "province": "Ontario",
+      "streetAddress": "569 Bloor Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "571 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.664856113",
+      "longitudeCoordinate": "-79.411480939",
+      "postalCode": "M6G 0A7",
+      "province": "Ontario",
+      "streetAddress": "571 Bloor Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "625 Markham Street Toronto Ontario",
+      "latitudeCoordinate": "43.664647309",
+      "longitudeCoordinate": "-79.412099135",
+      "postalCode": "M6G 0A6",
+      "province": "Ontario",
+      "streetAddress": "625 Markham Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "748 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.664092875",
+      "longitudeCoordinate": "-79.411027068",
+      "postalCode": "M5S 0C7",
+      "province": "Ontario",
+      "streetAddress": "748 Bathurst Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "760 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.664379336",
+      "longitudeCoordinate": "-79.411374356",
+      "postalCode": "M5S 0C8",
+      "province": "Ontario",
+      "streetAddress": "760 Bathurst Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "762 Bathurst Street Toronto Ontario",
+      "latitudeCoordinate": "43.664561673",
+      "longitudeCoordinate": "-79.411215846",
+      "postalCode": "M5S 0E8",
+      "province": "Ontario",
+      "streetAddress": "762 Bathurst Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "601 Markham Street Toronto Ontario",
+      "latitudeCoordinate": "43.664305338",
+      "longitudeCoordinate": "-79.411953238",
+      "postalCode": "M6G 0A8",
+      "province": "Ontario",
+      "streetAddress": "601 Markham Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1212 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.681808992",
+      "longitudeCoordinate": "-79.391693313",
+      "postalCode": "M4T 1W1",
+      "province": "Ontario",
+      "streetAddress": "1212 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1220 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.681954181",
+      "longitudeCoordinate": "-79.391888959",
+      "postalCode": "M4T 1W1",
+      "province": "Ontario",
+      "streetAddress": "1220 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2720 Danforth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.689297349",
+      "longitudeCoordinate": "-79.298192338",
+      "postalCode": "M4C 1L7",
+      "province": "Ontario",
+      "streetAddress": "2720 Danforth Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2726 Danforth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.689202968",
+      "longitudeCoordinate": "-79.297988702",
+      "postalCode": "M4C 1L7",
+      "province": "Ontario",
+      "streetAddress": "2726 Danforth Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2734 Danforth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.689264897",
+      "longitudeCoordinate": "-79.297847572",
+      "postalCode": "M4C 1L7",
+      "province": "Ontario",
+      "streetAddress": "2734 Danforth Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "90 Eastdale Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6946110438",
+      "longitudeCoordinate": "-79.3012502948",
+      "postalCode": "M4C 5A2",
+      "province": "Ontario",
+      "streetAddress": "90 Eastdale Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice - Exclusion of Various Addresses from the Permit Parking Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6843"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1766466000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>Public Notice</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Exclusion of Various Addresses from Permit Parking</strong></p>\n<p>&nbsp;</p>\n<p>Notice is hereby given that the Council of the City of Toronto proposes to pass a by-law to realign the boundary of Permit Parking areas to exclude the following developments:</p>\n<ul>\n<li>1930-1938 Bloor Street West;</li>\n<li>3, 5 and 21 Quebec Avenue;</li>\n<li>340-376R Dufferin Street;</li>\n<li>2 Melbourne Avenue;</li>\n<li>3239-3251 Dundas Street West;</li>\n<li>450 Dufferin Street;</li>\n<li>1648-1664 Dupont Street;</li>\n<li>152-164 Bathurst Street;</li>\n<li>623-627 Richmond Street West;</li>\n<li>126-130 Avenue Road;</li>\n<li>425 Bloor Street West;</li>\n<li>569 Bloor Street West;</li>\n<li>571 Bloor Street West;</li>\n<li>625 Markham Street;</li>\n<li>748 Bathurst Street;</li>\n<li>760 Bathurst Street;</li>\n<li>762 Bathurst Street;</li>\n<li>601 Markham Street;</li>\n<li>1212-1220 Yonge Street;</li>\n<li>2720, 2726 and 2734 Danforth Avenue;</li>\n<li>90 Eastdale Road;</li>\n<li>2 Secord Avenue;</li>\n<li>1251-1311 Yonge Street;</li>\n<li>135 St. Clair Avenue West;</li>\n<li>2323-2329 and 2345 Yonge Street; and</li>\n<li>1400, 1408 and 1410 Victoria Park Avenue.</li>\n</ul>\n<p>The meeting of the Toronto and East York Community Council will be held on January 13, 2026, at 9:30 a.m., or shortly afterwards and will meet by video conference and in person in Committee Room 1, Toronto City Hall, 100 Queen Street West.</p>\n<p>&nbsp;</p>\n<p>Any objections regarding this proposal should be set out in writing and forwarded to the City Clerk, Attention: Administrator, Toronto and East York Community Council, City of Toronto, City Clerk&rsquo;s Office - Secretariat, City Hall, 100 Queen Street West, 2nd floor, Toronto, Ontario, M5H 2N2, or by E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>If you wish to make a presentation to the Community Council regarding this proposal, please phone 416-392-7033 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a> by 12:00 p.m. on January 12, 2026, at 9:30 a.m so that we can include your name on the list of speakers and provide you with instructions on how to participate in the meeting.</p>\n<p>&nbsp;</p>\n<p>Special Assistance for Members of the Public: City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Notice to People Writing or Making Presentations to the Toronto and East York Community Council: The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees and Boards.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash;available to the public unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting, you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available. If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, City Hall, 100 Queen Street West, Toronto, ON, M5H 2N2 or call 416-392-7033.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6933,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Public Notice - Exclusion of Various Addresses from the Permit Parking Program  ",
+  "topics": [
+    "Transportation > Intention to terminate permit parking on a road"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

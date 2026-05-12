@@ -1,0 +1,150 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "564 Sherbourne Street Toronto Ontario",
+      "latitudeCoordinate": "43.670185216",
+      "longitudeCoordinate": "-79.37624786",
+      "postalCode": "M4X 1L3",
+      "province": "Ontario",
+      "streetAddress": "564 Sherbourne Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "566 Sherbourne Street Toronto Ontario",
+      "latitudeCoordinate": "43.670232095",
+      "longitudeCoordinate": "-79.376258463",
+      "postalCode": "M4X 1L3",
+      "province": "Ontario",
+      "streetAddress": "566 Sherbourne Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "568 Sherbourne Street Toronto Ontario",
+      "latitudeCoordinate": "43.670273239",
+      "longitudeCoordinate": "-79.376285856",
+      "postalCode": "M4X 1L3",
+      "province": "Ontario",
+      "streetAddress": "568 Sherbourne Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "570 Sherbourne Street Toronto Ontario",
+      "latitudeCoordinate": "43.670382662",
+      "longitudeCoordinate": "-79.376275433",
+      "postalCode": "M4X 1L3",
+      "province": "Ontario",
+      "streetAddress": "570 Sherbourne Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "572 Sherbourne Street Toronto Ontario",
+      "latitudeCoordinate": "43.670414327",
+      "longitudeCoordinate": "-79.376328018",
+      "postalCode": "M4X 1L3",
+      "province": "Ontario",
+      "streetAddress": "572 Sherbourne Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "574 Sherbourne Street Toronto Ontario",
+      "latitudeCoordinate": "43.67047256",
+      "longitudeCoordinate": "-79.376342975",
+      "postalCode": "M4X 1L3",
+      "province": "Ontario",
+      "streetAddress": "574 Sherbourne Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "576 Sherbourne Street Toronto Ontario",
+      "latitudeCoordinate": "43.670544684",
+      "longitudeCoordinate": "-79.376376639",
+      "postalCode": "M4X 1L3",
+      "province": "Ontario",
+      "streetAddress": "576 Sherbourne Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "29 Linden Street Toronto Ontario",
+      "latitudeCoordinate": "43.670468617",
+      "longitudeCoordinate": "-79.376745013",
+      "postalCode": "M4Y 1V5",
+      "province": "Ontario",
+      "streetAddress": "29 Linden Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "31 Linden Street Toronto Ontario",
+      "latitudeCoordinate": "43.670520962",
+      "longitudeCoordinate": "-79.37663495",
+      "postalCode": "M4Y 1V5",
+      "province": "Ontario",
+      "streetAddress": "31 Linden Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "33 Linden Street Toronto Ontario",
+      "latitudeCoordinate": "43.670510529",
+      "longitudeCoordinate": "-79.376555177",
+      "postalCode": "M4Y 1V5",
+      "province": "Ontario",
+      "streetAddress": "33 Linden Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "37 Linden Street Toronto Ontario",
+      "latitudeCoordinate": "43.67060861",
+      "longitudeCoordinate": "-79.376360484",
+      "postalCode": "M4Y 1V5",
+      "province": "Ontario",
+      "streetAddress": "37 Linden Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Public Meeting - Rental Housing Demolition and Conversion - 564, 566, 568, 570, 572, 574, 576 Sherbourne Street and 29, 31, 33, 37 Linden Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7363"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1778040000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF PUBLIC MEETING</strong></p>\n<p style=\"text-align: center;\"><strong>To be held by the Toronto And East York Community Council</strong></p>\n<p style=\"text-align: center;\"><strong>(Municipal Code Ch. 667 under <em>City of Toronto Act, 2006</em>)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Amendment to Rental Housing Demolition Application number 23 195991 STE 13 RH</strong></p>\n<p>&nbsp;</p>\n<p><strong>Location of Application:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>564, 566, 568, 570, 572, 574, 576 Sherbourne Street and 29, 31, 33, 37 Linden Street&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><br /><strong>Applicant:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong><strong>WND Plan</strong><br /><strong>&nbsp;</strong><br /><strong>Date:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong><strong>May 28, 2026</strong><br /><strong>Time:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>10:00 a.m., or as soon as possible thereafter </strong><br /><strong>Place:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong><strong>Committee Room 1, Toronto City Hall and by Video Conference </strong><br /><strong>&nbsp;</strong></p>\n<p><strong>PROPOSAL</strong></p>\n<p>&nbsp;</p>\n<p>At its meeting on October 9 and 10, 2024, City Council approved TE16.6 - 566-576 Sherbourne Street and 29-37 Linden Street - Official Plan and Zoning By-law Amendment, and Rental Housing Demolition Applications - Decision Report to permit the development of a 69-storey residential building containing 872 residential units, including 41 rental dwelling units to replace the existing 19 rental dwelling units and 22 dwelling rooms on the property.</p>\n<p>&nbsp;</p>\n<p>The owner has applied to revise the Rental Housing Demolition Application (23 195991 STE 13 RH) that was previously approved by City Council on October 9, 2024. The revisions include the addition of a residential property at 564 Sherbourne Street containing four rental dwelling units and one dwelling room. The amended application proposes to demolish and replace the four rental dwelling units and gross floor area of the dwelling room in the proposed residential development resulting a total of 45 replacement rental units.</p>\n<p>&nbsp;</p>\n<p>Under Chapter 667 of the Municipal Code, Community Council shall consider and make recommendations on the revised approval conditions of the Rental Housing Demolition application.</p>\n<p>&nbsp;</p>\n<p><strong>Detailed information regarding the demolition proposal, including background information and materials, may be obtained by contacting Denise McMullin, Senior Planner, Strategic Initiatives, Policy and Analysis (Housing) at 416-395-7133 or email at <a href=\"mailto:Denise.McMullin2@toronto.ca\">Denise.McMullin2@toronto.ca</a>.</strong></p>\n<p>&nbsp;</p>\n<p><strong>PURPOSE OF PUBLIC MEETING</strong></p>\n<p>&nbsp;</p>\n<p>The Toronto and East York Community Council will receive input and review the proposal and any other material placed before it, in order to make recommendations on the application. These recommendations will then be forwarded to Toronto City Council for its consideration.</p>\n<p>&nbsp;</p>\n<p>You can follow the meeting at <a href=\"http://www.youtube.com/TorontoCityCouncilLive\">www.youtube.com/TorontoCityCouncilLive</a>.</p>\n<p>&nbsp;</p>\n<p><strong>MAKE YOUR VIEWS KNOWN</strong></p>\n<p>&nbsp;</p>\n<p>You may send written comments by e-mail to <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a> or by mail to the address below. You can submit written comments up until City Council gives final consideration to the proposal.</p>\n<p>&nbsp;</p>\n<p>You are also invited to address the Toronto and East York Community Council, in person, by video conference or by telephone, to make your views known regarding the proposal.</p>\n<p>&nbsp;</p>\n<p>If you wish to address the Toronto and East York Community Council directly, please register by e-mail to <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a> or by phone at 416-392-7033, no later than <strong>12:00 p.m. on May 27, 2026.</strong> If you register, we will contact you with instructions on how to participate in the meeting.</p>\n<p>&nbsp;</p>\n<p>The Toronto and East York Community Council may request you to file an outline of your presentation with the Clerk.</p>\n<p>&nbsp;</p>\n<p>For more information about the matter, including information about appeal rights, please contact: <strong>City Clerk, Attention: Cathrine Regan, Administrator, Toronto and East York Community Council, 100 Queen Street West, 2nd Floor, West Tower, Toronto, ON, M5H 2N2, Phone: 416-392-7033, Fax: 416-392-2980, e-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</strong></p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance:</strong> City Staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392- 7033, TTY 416-338-0889 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p><strong>If you wish to be notified</strong> of the decision on the proposed demolition, you must make a written request to the City Clerk, attention: Cathrine Regan, Administrator, Toronto and East York Community Council, at the address, fax number or e-mail set out in this notice.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>People writing or making presentations at the public meeting:&nbsp;</strong> The <em>City of Toronto Act, 2006,</em> the <em>Planning Act</em>, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available. Direct any questions about this collection to City Clerk&rsquo;s Office at the telephone number or email address set out above.</p>\n<p>&nbsp;</p>\n<p>An online version of this Notice is available at <a href=\"https://www.toronto.ca/city-government/public-notices-bylaws/.\">https://www.toronto.ca/city-government/public-notices-bylaws/.&nbsp;</a></p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7416,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "23 195991 STE 13 RH"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Public Meeting - Rental Housing Demolition and Conversion - 564, 566, 568, 570, 572, 574, 576 Sherbourne Street and 29, 31, 33, 37 Linden Street",
+  "topics": [
+    "Meetings > Notice of meeting"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-meeting.png"
+  ]
+}

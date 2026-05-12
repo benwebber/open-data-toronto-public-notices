@@ -1,0 +1,63 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "333 College Street Toronto Ontario",
+      "latitudeCoordinate": "43.657299237",
+      "longitudeCoordinate": "-79.402441864",
+      "postalCode": "M5T 1S2",
+      "province": "Ontario",
+      "streetAddress": "333 College Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "303 Augusta Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.656576719",
+      "longitudeCoordinate": "-79.402574963",
+      "postalCode": "M5T 2M2",
+      "province": "Ontario",
+      "streetAddress": "303 Augusta Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Zoning By-law 251-2026 - 333 College Street And 303 Augusta Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7271"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1775707200000,
+  "noticeDescription": "<p><strong>NOTICE OF PASSING OF ZONING BY-LAW 251-2026</strong></p>\n<p><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that the City of Toronto passed Zoning By-law 251-2026 on March 26, 2026, with respect to the lands known as 333 College Street And 303 Augusta Avenue.</p>\n<p>&nbsp;</p>\n<p>An explanation of the purpose and effect of the Zoning By-law, and a map showing the location of the lands to which the amendments apply, are attached. The amendments were processed under file number: 25 214214 STE 11 OZ.</p>\n<p>&nbsp;</p>\n<p>A statutory public meeting was held on November 27, 2025, and the Toronto and East York Community Council and Toronto City Council considered six oral and 36 written submissions in making the decision. Please see item TE27.8 at <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2025.TE27.8\">https://secure.toronto.ca/council/agenda-item.do?item=2025.TE27.8</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal to the Ontario Land Tribunal in respect to all or part of this Zoning By-law may be made by filing a notice of appeal with the City Clerk, <strong>Attention: &nbsp;Raneisha Hemmings</strong>, Registrar Secretariat, 100 Queen Street West, 2nd Floor West, Toronto, ON, M5H 2N2, no later than 4:30 p.m. on <strong>April 29, 2026</strong>. If delivering in-person, drop off at the Registry Services Counter, Toronto City Hall. The filing of a notice of appeal after 4:30 p.m., in person or electronically, will be deemed to have been received the next business day.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the appeal Zoning By-law; and</p>\n<p>(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be accompanied by the fee charged by the Ontario Land Tribunal, currently in the amount of $1,100.00 for each application appealed, payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the OLT website at <a href=\"http://www.olt.gov.on.ca\">www.olt.gov.on.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only an applicant, a specified person or public body as defined in the <em>Planning Act</em> that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, the registered owner of any land to which the by-law would apply that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, and the Minister may appeal the by-law to the Ontario Land Tribunal.&nbsp;</p>\n<p>No person or public body shall be added as a party to the hearing of the appeal unless, before the by-law was passed, the person or public body made oral submissions at a public meeting or written submissions to the Council or, in the opinion of the Ontario Land Tribunal, there are reasonable grounds to add the person or public body as a party.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application may be obtained by contacting <strong>Abraham Plunkett-Latimer</strong> at 416-397-1942 or at <a href=\"mailto:Abraham.Plunkett-Latimer@toronto.ca\">Abraham.Plunkett-Latimer@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><strong>PURPOSE AND EFFECT OF ZONING BY-LAW 251-2026</strong></p>\n<p>&nbsp;</p>\n<p>The purpose and effect of Zoning By-law 251-2026 is a technical amendment to correct minor errors in by-law 1563-2025 to permit the construction of a 63-metre (excluding mechanical penthouse) mixed-use building containing a maximum gross floor area of 17,750 square metres including a maximum 17,650 square metres of residential gross floor area and 60 square metres of non-residential gross floor area.</p>\n<p>&nbsp;</p>\n<p>No changes have been made to the development concept that was previously made available at the statutory meeting and considered by City Council on December 16 and 17, 2026. The previous decision may be found here: <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2025.TE27.8\">https://secure.toronto.ca/council/agenda-item.do?item=2025.TE27.8</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Further information may be obtained by contacting <strong>Abraham Plunkett-Latimer</strong> at 416-397-1942, or at <a href=\"mailto:Abraham.Plunkett-Latimer@toronto.ca\">Abraham.Plunkett-Latimer@toronto.ca</a>.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7325,
+  "otherReferenceList": [
+    {
+      "description": "2025.TE27.8 - 333 College Street and 303 Augusta Avenue - Official Plan and Zoning By-law Amendment Application - Decision Report - Approval",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2025.TE27.8"
+    }
+  ],
+  "planningApplicationNumbers": [
+    "25 214214 STE 11 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Passing of Zoning By-law 251-2026 - 333 College Street and 303 Augusta Avenue",
+  "topics": [
+    "Planning > Adoption of Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

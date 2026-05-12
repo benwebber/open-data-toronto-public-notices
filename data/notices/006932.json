@@ -1,0 +1,239 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "30 Price Street Toronto Ontario",
+      "latitudeCoordinate": "43.68152011371873",
+      "longitudeCoordinate": "-79.38945668337266",
+      "province": "Ontario",
+      "streetAddress": "30 Price Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "40 Price Street Toronto Ontario",
+      "latitudeCoordinate": "43.680980455735536",
+      "longitudeCoordinate": "-79.38917111486222",
+      "province": "Ontario",
+      "streetAddress": "40 Price Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "43 Price Street Toronto Ontario",
+      "latitudeCoordinate": "43.680498837183706",
+      "longitudeCoordinate": "-79.38865992356305",
+      "province": "Ontario",
+      "streetAddress": "43 Price Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "44 Price Street Toronto Ontario",
+      "latitudeCoordinate": "43.68108700069377",
+      "longitudeCoordinate": "-79.38940161486224",
+      "province": "Ontario",
+      "streetAddress": "44 Price Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "45  Price Street Toronto Ontario",
+      "latitudeCoordinate": "43.680755467626184",
+      "longitudeCoordinate": "-79.38893547623111",
+      "province": "Ontario",
+      "streetAddress": "45  Price Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1245 Dupont Street Toronto Ontario",
+      "latitudeCoordinate": "43.667931341",
+      "longitudeCoordinate": "-79.441821819",
+      "postalCode": "M6H 2A6",
+      "province": "Ontario",
+      "streetAddress": "1245 Dupont Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1260 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.667315005",
+      "longitudeCoordinate": "-79.439270611",
+      "postalCode": "M6H 4C3",
+      "province": "Ontario",
+      "streetAddress": "1260 Dufferin Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "213 Emerson Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.666309675",
+      "longitudeCoordinate": "-79.44346979",
+      "postalCode": "M6H 3T7",
+      "province": "Ontario",
+      "streetAddress": "213 Emerson Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10 Graphophone Grove Toronto Ontario",
+      "latitudeCoordinate": "43.667448",
+      "longitudeCoordinate": "-79.442210354",
+      "postalCode": "M6H 0E5",
+      "province": "Ontario",
+      "streetAddress": "10 Graphophone Grove"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "158 Sterling Road Toronto Ontario",
+      "latitudeCoordinate": "43.654653055",
+      "longitudeCoordinate": "-79.445255848",
+      "postalCode": "M6R 2B7",
+      "province": "Ontario",
+      "streetAddress": "158 Sterling Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "190 Sterling Road Toronto Ontario",
+      "latitudeCoordinate": "43.654904023",
+      "longitudeCoordinate": "-79.445957592",
+      "province": "Ontario",
+      "streetAddress": "190 Sterling Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "70 Lynn Williams Street Toronto Ontario",
+      "latitudeCoordinate": "43.639292343",
+      "longitudeCoordinate": "-79.416179393",
+      "province": "Ontario",
+      "streetAddress": "70 Lynn Williams Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "86 Lynn Williams Street Toronto Ontario",
+      "latitudeCoordinate": "43.639441519",
+      "longitudeCoordinate": "-79.416719178",
+      "province": "Ontario",
+      "streetAddress": "86 Lynn Williams Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55 Belmont Street Toronto Ontario",
+      "latitudeCoordinate": "43.674670985",
+      "longitudeCoordinate": "-79.390963577",
+      "postalCode": "M5R 1R1",
+      "province": "Ontario",
+      "streetAddress": "55 Belmont Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "72 Amroth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.68531846",
+      "longitudeCoordinate": "-79.311682658",
+      "province": "Ontario",
+      "streetAddress": "72 Amroth Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "315 Front Street West Toronto Ontario",
+      "latitudeCoordinate": "43.643482876",
+      "longitudeCoordinate": "-79.389209446",
+      "postalCode": "M7A 0B8",
+      "province": "Ontario",
+      "streetAddress": "315 Front Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "325 Front Street West Toronto Ontario",
+      "latitudeCoordinate": "43.643271489",
+      "longitudeCoordinate": "-79.389829092",
+      "postalCode": "M5V 2Y1",
+      "province": "Ontario",
+      "streetAddress": "325 Front Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Thelma Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.68937575",
+      "longitudeCoordinate": "-79.412320049",
+      "postalCode": "M4V 1X8",
+      "province": "Ontario",
+      "streetAddress": "1 Thelma Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Thelma Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.689474923",
+      "longitudeCoordinate": "-79.411842333",
+      "postalCode": "M4V 1X8",
+      "province": "Ontario",
+      "streetAddress": "19 Thelma Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Cawthra Square Toronto Ontario",
+      "latitudeCoordinate": "43.667165627",
+      "longitudeCoordinate": "-79.379500631",
+      "postalCode": "M4Y 1K8",
+      "province": "Ontario",
+      "streetAddress": "2 Cawthra Square"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "12 Cawthra Square Toronto Ontario",
+      "latitudeCoordinate": "43.667091646",
+      "longitudeCoordinate": "-79.379958786",
+      "postalCode": "M4Y 1K8",
+      "province": "Ontario",
+      "streetAddress": "12 Cawthra Square"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Public Notice - Exclusion of Various Addresses from the Permit Parking Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6844"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1766466000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>Public Notice</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Exclusion of Various Addresses from Permit Parking</strong></p>\n<p>&nbsp;</p>\n<p>Notice is hereby given that Toronto and East York Community Council proposes to pass a by-law to realign the boundary of Permit Parking areas to exclude the following developments:</p>\n<p>&nbsp;</p>\n<ul>\n<li>1245 Dupont Street;</li>\n<li>1260 Dufferin Street;</li>\n<li>213 Emerson Avenue;</li>\n<li>10 Graphophone Grove;</li>\n<li>158 Sterling Road (Blocks 5B, 5C and 5D);</li>\n<li>190 Sterling Road (Block 3B);</li>\n<li>70-86 Lynn Williams Street;</li>\n<li>55 Belmont Street;</li>\n<li>72 Amroth Avenue;</li>\n<li>315-325 Front Street West;</li>\n<li>30, 40, 43, 44 and 45 Price Street;</li>\n<li>1-19 Thelma Avenue; and</li>\n<li>2-12 Cawthra Square.</li>\n</ul>\n<p>The meeting of the Toronto and East York Community Council will be held on January 13, 2026, at 9:30 a.m., or shortly afterwards and will meet by video conference and in person in Committee Room 1, Toronto City Hall, 100 Queen Street West.</p>\n<p>&nbsp;</p>\n<p>Any objections regarding this proposal should be set out in writing and forwarded to the City Clerk, Attention: Administrator, Toronto and East York Community Council, City of Toronto, City Clerk&rsquo;s Office - Secretariat, City Hall, 100 Queen Street West, 2nd floor, Toronto, Ontario, M5H 2N2, or by E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>If you wish to make a presentation to the Community Council regarding this proposal, please phone 416-392-7033 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a> by 12:00 p.m. on January 12, 2026 so that we can include your name on the list of speakers and provide you with instructions on how to participate in the meeting.</p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance for Members of the Public:</strong> City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail teycc@toronto.ca.</p>\n<p>&nbsp;</p>\n<p><strong>Notice to People Writing or Making Presentations to the Toronto and East York Community Council:</strong> The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees and Boards.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash;available to the public unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting, you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available. If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, City Hall, 100 Queen Street West, Toronto, ON, M5H 2N2 or call 416-392-7033.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6932,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Public Notice - Exclusion of Various Addresses from the Permit Parking Program",
+  "topics": [
+    "Transportation > Intention to terminate permit parking on a road"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}

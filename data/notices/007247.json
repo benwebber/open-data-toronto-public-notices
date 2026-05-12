@@ -1,0 +1,87 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1167 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.65915351",
+      "longitudeCoordinate": "-79.438155824",
+      "postalCode": "M6H 1M9",
+      "province": "Ontario",
+      "streetAddress": "1167 Bloor Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1175 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.65904317",
+      "longitudeCoordinate": "-79.438419543",
+      "postalCode": "M6H 1M9",
+      "province": "Ontario",
+      "streetAddress": "1175 Bloor Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "34 Brock Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.658844239",
+      "longitudeCoordinate": "-79.438178609",
+      "province": "Ontario",
+      "streetAddress": "34 Brock Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "42 Brock Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.658800742",
+      "longitudeCoordinate": "-79.438408832",
+      "province": "Ontario",
+      "streetAddress": "42 Brock Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "90 Croatia Street Toronto Ontario",
+      "latitudeCoordinate": "43.658125587",
+      "longitudeCoordinate": "-79.437725686",
+      "postalCode": "M6H 0G4",
+      "province": "Ontario",
+      "streetAddress": "90 Croatia Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 1167 - 1175 Bloor Street West, 34 - 42 Brock Crescent, and 90 Croatia Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7191"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1774584000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 26 115225 STE 09 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-Law to permit a 14-storey mixed-use building consisting of 52 residential units and 14 supportive group living suites.</p>\n<p>1167 - 1175 Bloor Street West, 34 - 42 Brock Crescent, and 90 Croatia Street</p>\n<p>Ward 9 &ndash; Davenport</p>\n<p>Doris Ho, Planner at 416-338-1264 or <a href=\"mailto:Doris.Ho@toronto.ca\">Doris.Ho@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7247,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "26 115225 STE 09 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 1167 - 1175 Bloor Street West, 34 - 42 Brock Crescent, and 90 Croatia Street",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

@@ -1,0 +1,1559 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "23 Sun Row Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6918713428",
+      "longitudeCoordinate": "-79.541751903",
+      "postalCode": "M9P 3H5",
+      "province": "Ontario",
+      "streetAddress": "23 Sun Row Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "111 Thistle Down Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.73867770632829",
+      "longitudeCoordinate": "-79.55361271875488",
+      "province": "Ontario",
+      "streetAddress": "111 Thistle Down Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "30 Van Dusen Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.64386600389181",
+      "longitudeCoordinate": "-79.51225797458275",
+      "province": "Ontario",
+      "streetAddress": "30 Van Dusen Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55 Weston Road Toronto Ontario",
+      "latitudeCoordinate": "43.673740347",
+      "longitudeCoordinate": "-79.468491516",
+      "postalCode": "M6N 5H3",
+      "province": "Ontario",
+      "streetAddress": "55 Weston Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1040 Weston Road Toronto Ontario",
+      "latitudeCoordinate": "43.685216223",
+      "longitudeCoordinate": "-79.4863982669",
+      "postalCode": "M6N 3S2",
+      "province": "Ontario",
+      "streetAddress": "1040 Weston Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3035 Weston Road Toronto Ontario",
+      "latitudeCoordinate": "43.729872437",
+      "longitudeCoordinate": "-79.535976865",
+      "postalCode": "M9M 2T1",
+      "province": "Ontario",
+      "streetAddress": "3035 Weston Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55A Westona Street Toronto Ontario",
+      "latitudeCoordinate": "43.697591848",
+      "longitudeCoordinate": "-79.527879891",
+      "postalCode": "M9P 2X9",
+      "province": "Ontario",
+      "streetAddress": "55A Westona Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55B Westona Street Toronto Ontario",
+      "latitudeCoordinate": "43.697540898",
+      "longitudeCoordinate": "-79.527857287",
+      "postalCode": "M9P 2X9",
+      "province": "Ontario",
+      "streetAddress": "55B Westona Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "57A Westona Street Toronto Ontario",
+      "latitudeCoordinate": "43.697489956",
+      "longitudeCoordinate": "-79.527837201",
+      "postalCode": "M9P 2X9",
+      "province": "Ontario",
+      "streetAddress": "57A Westona Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "57B Westona Street Toronto Ontario",
+      "latitudeCoordinate": "43.697438096",
+      "longitudeCoordinate": "-79.527815849",
+      "postalCode": "M9P 2X9",
+      "province": "Ontario",
+      "streetAddress": "57B Westona Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "59A Westona Street Toronto Ontario",
+      "latitudeCoordinate": "43.69739431",
+      "longitudeCoordinate": "-79.527831534",
+      "postalCode": "M9P 2X9",
+      "province": "Ontario",
+      "streetAddress": "59A Westona Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "59B Westona Street Toronto Ontario",
+      "latitudeCoordinate": "43.697365196",
+      "longitudeCoordinate": "-79.527780034",
+      "postalCode": "M9P 2X9",
+      "province": "Ontario",
+      "streetAddress": "59B Westona Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "168 Islington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.60242050763995",
+      "longitudeCoordinate": "-79.50588587301283",
+      "province": "Ontario",
+      "streetAddress": "168 Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1140 Islington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639499931",
+      "longitudeCoordinate": "-79.521509726",
+      "postalCode": "M8Z 4S5",
+      "province": "Ontario",
+      "streetAddress": "1140 Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2670 Islington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7390850173",
+      "longitudeCoordinate": "-79.5664957113",
+      "postalCode": "M9V 2X5",
+      "province": "Ontario",
+      "streetAddress": "2670 Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1142A Islington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639536886",
+      "longitudeCoordinate": "-79.521523777",
+      "postalCode": "M8Z 4S5",
+      "province": "Ontario",
+      "streetAddress": "1142A Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1142B Islington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639572572",
+      "longitudeCoordinate": "-79.521539576",
+      "postalCode": "M8Z 4S5",
+      "province": "Ontario",
+      "streetAddress": "1142B Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1144A Islington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639609527",
+      "longitudeCoordinate": "-79.521555388",
+      "postalCode": "M8Z 4S5",
+      "province": "Ontario",
+      "streetAddress": "1144A Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1144B Islington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639643936",
+      "longitudeCoordinate": "-79.521564171",
+      "postalCode": "M8Z 4S5",
+      "province": "Ontario",
+      "streetAddress": "1144B Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1146A Islington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639678343",
+      "longitudeCoordinate": "-79.521581729",
+      "postalCode": "M8Z 4S5",
+      "province": "Ontario",
+      "streetAddress": "1146A Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1146B Islington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639711473",
+      "longitudeCoordinate": "-79.521595768",
+      "postalCode": "M8Z 4S5",
+      "province": "Ontario",
+      "streetAddress": "1146B Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "17 John Best Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.697965077",
+      "longitudeCoordinate": "-79.503916407",
+      "postalCode": "M9N 1C4",
+      "province": "Ontario",
+      "streetAddress": "17 John Best Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Justice Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.70392450528083",
+      "longitudeCoordinate": "-79.52534536108587",
+      "province": "Ontario",
+      "streetAddress": "19 Justice Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "12 Justice Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.703653888",
+      "longitudeCoordinate": "-79.52560077",
+      "postalCode": "M9N 0B5",
+      "province": "Ontario",
+      "streetAddress": "12 Justice Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "13 Justice Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.703513464",
+      "longitudeCoordinate": "-79.525461875",
+      "postalCode": "M9N 0B5",
+      "province": "Ontario",
+      "streetAddress": "13 Justice Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Justice Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.703533804",
+      "longitudeCoordinate": "-79.525412205",
+      "postalCode": "M9N 0B5",
+      "province": "Ontario",
+      "streetAddress": "15 Justice Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 Justice Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.703751902",
+      "longitudeCoordinate": "-79.525386843",
+      "postalCode": "M9N 0B5",
+      "province": "Ontario",
+      "streetAddress": "16 Justice Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "17 Justice Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.703560619",
+      "longitudeCoordinate": "-79.525361275",
+      "postalCode": "M9N 0B5",
+      "province": "Ontario",
+      "streetAddress": "17 Justice Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "29 Justice Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.703832395",
+      "longitudeCoordinate": "-79.52505448",
+      "postalCode": "M9N 0B5",
+      "province": "Ontario",
+      "streetAddress": "29 Justice Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "31 Justice Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.703893366",
+      "longitudeCoordinate": "-79.525127107",
+      "postalCode": "M9N 0B5",
+      "province": "Ontario",
+      "streetAddress": "31 Justice Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "350 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6015719891",
+      "longitudeCoordinate": "-79.5191639127",
+      "postalCode": "M8V 3L1",
+      "province": "Ontario",
+      "streetAddress": "350 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "409 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6032078262",
+      "longitudeCoordinate": "-79.5187009075",
+      "postalCode": "M8V 3K8",
+      "province": "Ontario",
+      "streetAddress": "409 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "413 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6035035107",
+      "longitudeCoordinate": "-79.5188121878",
+      "postalCode": "M8V 3K8",
+      "province": "Ontario",
+      "streetAddress": "413 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "967 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.642584114",
+      "longitudeCoordinate": "-79.535412249",
+      "postalCode": "M9B 3L3",
+      "province": "Ontario",
+      "streetAddress": "967 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "969 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.642638625",
+      "longitudeCoordinate": "-79.535443715",
+      "postalCode": "M9B 3L3",
+      "province": "Ontario",
+      "streetAddress": "969 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "971 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.642688053",
+      "longitudeCoordinate": "-79.535464692",
+      "postalCode": "M9B 3L3",
+      "province": "Ontario",
+      "streetAddress": "971 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "973 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.642734952",
+      "longitudeCoordinate": "-79.535483919",
+      "postalCode": "M9B 3L3",
+      "province": "Ontario",
+      "streetAddress": "973 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "975 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.642786936",
+      "longitudeCoordinate": "-79.535504898",
+      "postalCode": "M9B 3L3",
+      "province": "Ontario",
+      "streetAddress": "975 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "977 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.642838892",
+      "longitudeCoordinate": "-79.535527624",
+      "postalCode": "M9B 3L3",
+      "province": "Ontario",
+      "streetAddress": "977 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "979 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6428943667",
+      "longitudeCoordinate": "-79.5355518806",
+      "postalCode": "M9B 3L3",
+      "province": "Ontario",
+      "streetAddress": "979 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "981 Lakeshore Boulevard West Toronto Ontario",
+      "latitudeCoordinate": "43.63527003558932",
+      "longitudeCoordinate": "-79.4677228322541",
+      "province": "Ontario",
+      "streetAddress": "981 Lakeshore Boulevard West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2298 Lake Shore Boulevard West Toronto Ontario",
+      "latitudeCoordinate": "43.6186326939",
+      "longitudeCoordinate": "-79.4870502385",
+      "postalCode": "M8V 1B4",
+      "province": "Ontario",
+      "streetAddress": "2298 Lake Shore Boulevard West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2300 Lake Shore Boulevard West Toronto Ontario",
+      "latitudeCoordinate": "43.6185937623",
+      "longitudeCoordinate": "-79.4870459721",
+      "postalCode": "M8V 1B4",
+      "province": "Ontario",
+      "streetAddress": "2300 Lake Shore Boulevard West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2609 Lake Shore Boulevard West Toronto Ontario",
+      "latitudeCoordinate": "43.605489809",
+      "longitudeCoordinate": "-79.490641538",
+      "postalCode": "M8V 1G5",
+      "province": "Ontario",
+      "streetAddress": "2609 Lake Shore Boulevard West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2686 Lake Shore Boulevard West Toronto Ontario",
+      "latitudeCoordinate": "43.6030141455",
+      "longitudeCoordinate": "-79.4954897571",
+      "postalCode": "M8V 1G8",
+      "province": "Ontario",
+      "streetAddress": "2686 Lake Shore Boulevard West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "51 Lavender Road Toronto Ontario",
+      "latitudeCoordinate": "43.6798096112",
+      "longitudeCoordinate": "-79.4692736031",
+      "postalCode": "M6N 2B6",
+      "province": "Ontario",
+      "streetAddress": "51 Lavender Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2686 Lake Shore Boulevard West Toronto Ontario",
+      "latitudeCoordinate": "43.6030141455",
+      "longitudeCoordinate": "-79.4954897571",
+      "postalCode": "M8V 1G8",
+      "province": "Ontario",
+      "streetAddress": "2686 Lake Shore Boulevard West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "56 Lawrence Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.725004305419574",
+      "longitudeCoordinate": "-79.40449065923642",
+      "province": "Ontario",
+      "streetAddress": "56 Lawrence Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2284  Lorne Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.63051890021997",
+      "longitudeCoordinate": "-79.4918555849163",
+      "province": "Ontario",
+      "streetAddress": "2284  Lorne Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Lou Pomanti Street Toronto Ontario",
+      "latitudeCoordinate": "43.731002804",
+      "longitudeCoordinate": "-79.53215933",
+      "postalCode": "M9M 0C3",
+      "province": "Ontario",
+      "streetAddress": "1 Lou Pomanti Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "52 Lou Pomanti Street Toronto Ontario",
+      "latitudeCoordinate": "43.730892061",
+      "longitudeCoordinate": "-79.534337146",
+      "postalCode": "M9M 0C2",
+      "province": "Ontario",
+      "streetAddress": "52 Lou Pomanti Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "52 Mainshep Road North Toronto Ontario",
+      "latitudeCoordinate": "43.73338942888912",
+      "longitudeCoordinate": "-79.53588029095984",
+      "province": "Ontario",
+      "streetAddress": "52 Mainshep Road North"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "25 Maple Bush Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.709917461",
+      "longitudeCoordinate": "-79.536454207",
+      "postalCode": "M9N 1S7",
+      "province": "Ontario",
+      "streetAddress": "25 Maple Bush Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Maple Bush Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.709970123",
+      "longitudeCoordinate": "-79.536180567",
+      "postalCode": "M9N 1S7",
+      "province": "Ontario",
+      "streetAddress": "19 Maple Bush Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "21 Mary Chapman Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.73021777230384",
+      "longitudeCoordinate": "-79.53384986108445",
+      "province": "Ontario",
+      "streetAddress": "21 Mary Chapman Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "30 Mary Chapman Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.730366479",
+      "longitudeCoordinate": "-79.534546747",
+      "postalCode": "M9M 0B2",
+      "province": "Ontario",
+      "streetAddress": "30 Mary Chapman Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "118 Mary Chapman Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.73333676",
+      "longitudeCoordinate": "-79.535781818",
+      "postalCode": "M9M 0B3",
+      "province": "Ontario",
+      "streetAddress": "118 Mary Chapman Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "66A McCartney Street Toronto Ontario",
+      "latitudeCoordinate": "43.73191324219111",
+      "longitudeCoordinate": "-79.53484732263715",
+      "province": "Ontario",
+      "streetAddress": "66A McCartney Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Abraham Welsh Road Toronto Ontario",
+      "latitudeCoordinate": "43.732391571",
+      "longitudeCoordinate": "-79.53294916",
+      "postalCode": "M9M 0B7",
+      "province": "Ontario",
+      "streetAddress": "1 Abraham Welsh Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "36 Abraham Welsh Road Toronto Ontario",
+      "latitudeCoordinate": "43.733116352",
+      "longitudeCoordinate": "-79.533587951",
+      "postalCode": "M9M 0B7",
+      "province": "Ontario",
+      "streetAddress": "36 Abraham Welsh Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1155 Albion Road Toronto Ontario",
+      "latitudeCoordinate": "43.737507386",
+      "longitudeCoordinate": "-79.568479726",
+      "postalCode": "M9V 1A9",
+      "province": "Ontario",
+      "streetAddress": "1155 Albion Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1155R Albion Road Toronto Ontario",
+      "latitudeCoordinate": "43.737196506",
+      "longitudeCoordinate": "-79.568615267",
+      "postalCode": "M9V 1A9",
+      "province": "Ontario",
+      "streetAddress": "1155R Albion Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Ashley Park Road Toronto Ontario",
+      "latitudeCoordinate": "43.6623721695",
+      "longitudeCoordinate": "-79.5174469504",
+      "postalCode": "M9A 4C9",
+      "province": "Ontario",
+      "streetAddress": "1 Ashley Park Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "4 Ashley Road Toronto Ontario",
+      "latitudeCoordinate": "43.663235215",
+      "longitudeCoordinate": "-79.518651122",
+      "postalCode": "M9A 0C5",
+      "province": "Ontario",
+      "streetAddress": "4 Ashley Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "6 Ashley Road Toronto Ontario",
+      "latitudeCoordinate": "43.663213298",
+      "longitudeCoordinate": "-79.51874747",
+      "postalCode": "M9A 0C5",
+      "province": "Ontario",
+      "streetAddress": "6 Ashley Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "8 Ashley Road Toronto Ontario",
+      "latitudeCoordinate": "43.663191369",
+      "longitudeCoordinate": "-79.518859154",
+      "postalCode": "M9A 0C5",
+      "province": "Ontario",
+      "streetAddress": "8 Ashley Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10 Ashley Road Toronto Ontario",
+      "latitudeCoordinate": "43.66317599",
+      "longitudeCoordinate": "-79.518939088",
+      "postalCode": "M9A 0C5",
+      "province": "Ontario",
+      "streetAddress": "10 Ashley Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "12 Ashley Road Toronto Ontario",
+      "latitudeCoordinate": "43.663149839",
+      "longitudeCoordinate": "-79.519049704",
+      "province": "Ontario",
+      "streetAddress": "12 Ashley Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "65 Barker Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6931294665",
+      "longitudeCoordinate": "-79.3208248233",
+      "postalCode": "M9V 1E7",
+      "province": "Ontario",
+      "streetAddress": "65 Barker Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "14 Barkwin Drive Toronto Ontario",
+      "latitudeCoordinate": "43.7386064358",
+      "longitudeCoordinate": "-79.5649496598",
+      "postalCode": "M9V 2W1",
+      "province": "Ontario",
+      "streetAddress": "14 Barkwin Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10 Beaucourt Road Toronto Ontario",
+      "latitudeCoordinate": "43.634142483",
+      "longitudeCoordinate": "-79.498822766",
+      "postalCode": "M8Y 3G2",
+      "province": "Ontario",
+      "streetAddress": "10 Beaucourt Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "196 Bering Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639441302",
+      "longitudeCoordinate": "-79.521534288",
+      "postalCode": "M8Z 3A3",
+      "province": "Ontario",
+      "streetAddress": "196 Bering Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "200 Bering Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639438725",
+      "longitudeCoordinate": "-79.521679928",
+      "postalCode": "M8Z 3A3",
+      "province": "Ontario",
+      "streetAddress": "200 Bering Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "204 Bering Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639428548",
+      "longitudeCoordinate": "-79.521754599",
+      "postalCode": "M8Z 3A3",
+      "province": "Ontario",
+      "streetAddress": "204 Bering Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "206 Bering Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639437699",
+      "longitudeCoordinate": "-79.521816186",
+      "postalCode": "M8Z 3A3",
+      "province": "Ontario",
+      "streetAddress": "206 Bering Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "208 Bering Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639444158",
+      "longitudeCoordinate": "-79.521877773",
+      "postalCode": "M8Z 3A3",
+      "province": "Ontario",
+      "streetAddress": "208 Bering Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "126 Bob Yuill Drive Toronto Ontario",
+      "latitudeCoordinate": "43.728896594",
+      "longitudeCoordinate": "-79.534814397",
+      "postalCode": "M9M 0B1",
+      "province": "Ontario",
+      "streetAddress": "126 Bob Yuill Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "192 Bob Yuill Drive Toronto Ontario",
+      "latitudeCoordinate": "43.731333",
+      "longitudeCoordinate": "-79.535095459",
+      "postalCode": "M9M 0B1",
+      "province": "Ontario",
+      "streetAddress": "192 Bob Yuill Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1A Bowsprit Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.697246647",
+      "longitudeCoordinate": "-79.52834021",
+      "postalCode": "M9P 2Y4",
+      "province": "Ontario",
+      "streetAddress": "1A Bowsprit Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1B Bowsprit Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.697293493",
+      "longitudeCoordinate": "-79.528361176",
+      "postalCode": "M9P 2Y4",
+      "province": "Ontario",
+      "streetAddress": "1B Bowsprit Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1C Bowsprit Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.697334642",
+      "longitudeCoordinate": "-79.528377783",
+      "postalCode": "M9P 2Y4",
+      "province": "Ontario",
+      "streetAddress": "1C Bowsprit Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1D Bowsprit Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.697370596",
+      "longitudeCoordinate": "-79.528405256",
+      "postalCode": "M9P 2Y4",
+      "province": "Ontario",
+      "streetAddress": "1D Bowsprit Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1E Bowsprit Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.697421548",
+      "longitudeCoordinate": "-79.528425343",
+      "postalCode": "M9P 2Y4",
+      "province": "Ontario",
+      "streetAddress": "1E Bowsprit Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1F Bowsprit Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.697469771",
+      "longitudeCoordinate": "-79.528446681",
+      "postalCode": "M9P 2Y4",
+      "province": "Ontario",
+      "streetAddress": "1F Bowsprit Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "36 Brentwood Road North Toronto Ontario",
+      "latitudeCoordinate": "43.6474333611",
+      "longitudeCoordinate": "-79.5143109974",
+      "postalCode": "M8X 2B5",
+      "province": "Ontario",
+      "streetAddress": "36 Brentwood Road North"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Brookhaven Drive Toronto Ontario",
+      "latitudeCoordinate": "43.697167505",
+      "longitudeCoordinate": "-79.493286545",
+      "postalCode": "M6M 4N6",
+      "province": "Ontario",
+      "streetAddress": "1 Brookhaven Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "35 Canerouth Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6465051717",
+      "longitudeCoordinate": "-79.582922422",
+      "postalCode": "M9C 3R6",
+      "province": "Ontario",
+      "streetAddress": "35 Canerouth Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "37 Canerouth Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6463831876",
+      "longitudeCoordinate": "-79.5830980911",
+      "postalCode": "M9C 3R6",
+      "province": "Ontario",
+      "streetAddress": "37 Canerouth Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Chapman Road Toronto Ontario",
+      "latitudeCoordinate": "43.688703368",
+      "longitudeCoordinate": "-79.514693374",
+      "postalCode": "M9P 3P7",
+      "province": "Ontario",
+      "streetAddress": "5 Chapman Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Chapman Road Toronto Ontario",
+      "latitudeCoordinate": "43.688679992",
+      "longitudeCoordinate": "-79.514816433",
+      "postalCode": "M9P 3P7",
+      "province": "Ontario",
+      "streetAddress": "7 Chapman Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Chapman Road Toronto Ontario",
+      "latitudeCoordinate": "43.688653868",
+      "longitudeCoordinate": "-79.514950853",
+      "postalCode": "M9P 3P7",
+      "province": "Ontario",
+      "streetAddress": "9 Chapman Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Chapman Road Toronto Ontario",
+      "latitudeCoordinate": "43.68862912",
+      "longitudeCoordinate": "-79.515083388",
+      "postalCode": "M9P 3P7",
+      "province": "Ontario",
+      "streetAddress": "11 Chapman Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "13 Chapman Road Toronto Ontario",
+      "latitudeCoordinate": "43.688599502",
+      "longitudeCoordinate": "-79.515216082",
+      "postalCode": "M9P 3P7",
+      "province": "Ontario",
+      "streetAddress": "13 Chapman Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Charlie Jordan Road Toronto Ontario",
+      "latitudeCoordinate": "43.7321863",
+      "longitudeCoordinate": "-79.533845727",
+      "postalCode": "M9M 0B7",
+      "province": "Ontario",
+      "streetAddress": "1 Charlie Jordan Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "35 Charlie Jordan Road Toronto Ontario",
+      "latitudeCoordinate": "43.733008662",
+      "longitudeCoordinate": "-79.534058248",
+      "postalCode": "M9M 0B7",
+      "province": "Ontario",
+      "streetAddress": "35 Charlie Jordan Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "33 Cornelius Parkway Toronto Ontario",
+      "latitudeCoordinate": "43.714256245",
+      "longitudeCoordinate": "-79.476945428",
+      "postalCode": "M6L 2K2",
+      "province": "Ontario",
+      "streetAddress": "33 Cornelius Parkway"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "63 Cornelius Parkway Toronto Ontario",
+      "latitudeCoordinate": "43.7152044601",
+      "longitudeCoordinate": "-79.4753013397",
+      "postalCode": "M6L 2K2",
+      "province": "Ontario",
+      "streetAddress": "63 Cornelius Parkway"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "12 Duckworth Street Toronto Ontario",
+      "latitudeCoordinate": "43.702525967",
+      "longitudeCoordinate": "-79.500069987",
+      "postalCode": "M6M 4W4",
+      "province": "Ontario",
+      "streetAddress": "12 Duckworth Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "24 Dunning Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.6020610485",
+      "longitudeCoordinate": "-79.5555564182",
+      "postalCode": "M8W 4S8",
+      "province": "Ontario",
+      "streetAddress": "24 Dunning Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "188 Edenbridge Drive Toronto Ontario",
+      "latitudeCoordinate": "43.675698337",
+      "longitudeCoordinate": "-79.514035928",
+      "postalCode": "M9A 3G8",
+      "province": "Ontario",
+      "streetAddress": "188 Edenbridge Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "53 Edenbrook Hill Toronto Ontario",
+      "latitudeCoordinate": "43.6754455907",
+      "longitudeCoordinate": "-79.5262676521",
+      "postalCode": "M9A 4A1",
+      "province": "Ontario",
+      "streetAddress": "53 Edenbrook Hill"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "73 Enfield Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.5937282901",
+      "longitudeCoordinate": "-79.5481253498",
+      "postalCode": "M8W 1T6",
+      "province": "Ontario",
+      "streetAddress": "73 Enfield Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "14 Flaxman Road Toronto Ontario",
+      "latitudeCoordinate": "43.72179106",
+      "longitudeCoordinate": "-79.539724929",
+      "postalCode": "M9M 2R3",
+      "province": "Ontario",
+      "streetAddress": "14 Flaxman Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "52A Hilldale Road Toronto Ontario",
+      "latitudeCoordinate": "43.676745564",
+      "longitudeCoordinate": "-79.482315351",
+      "postalCode": "M6N 3Y2",
+      "province": "Ontario",
+      "streetAddress": "52A Hilldale Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "52B Hilldale Road Toronto Ontario",
+      "latitudeCoordinate": "43.67680235",
+      "longitudeCoordinate": "-79.48234567",
+      "postalCode": "M6N 3Y2",
+      "province": "Ontario",
+      "streetAddress": "52B Hilldale Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "133 Isaac Devins Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.731625497",
+      "longitudeCoordinate": "-79.53189812",
+      "postalCode": "M9M 0C4",
+      "province": "Ontario",
+      "streetAddress": "133 Isaac Devins Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "245 Isaac Devins Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.733023017",
+      "longitudeCoordinate": "-79.535333795",
+      "postalCode": "M9M 0B6",
+      "province": "Ontario",
+      "streetAddress": "245 Isaac Devins Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 McCartney Street Toronto Ontario",
+      "latitudeCoordinate": "43.732198782",
+      "longitudeCoordinate": "-79.532459506",
+      "postalCode": "M9M 0B8",
+      "province": "Ontario",
+      "streetAddress": "1 McCartney Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "59 McCartney Street Toronto Ontario",
+      "latitudeCoordinate": "43.731632786",
+      "longitudeCoordinate": "-79.534860572",
+      "postalCode": "M9M 0B8",
+      "province": "Ontario",
+      "streetAddress": "59 McCartney Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "59 Noranda Drive Toronto Ontario",
+      "latitudeCoordinate": "43.703090197176664",
+      "longitudeCoordinate": "-79.49118280415263",
+      "province": "Ontario",
+      "streetAddress": "59 Noranda Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "34 Nordale Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.702254374",
+      "longitudeCoordinate": "-79.492988462",
+      "postalCode": "M6M 3A1",
+      "province": "Ontario",
+      "streetAddress": "34 Nordale Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "34 North Drive Toronto Ontario",
+      "latitudeCoordinate": "43.676379199",
+      "longitudeCoordinate": "-79.516925548",
+      "postalCode": "M9A 4P9",
+      "province": "Ontario",
+      "streetAddress": "34 North Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "43 Norval Street Toronto Ontario",
+      "latitudeCoordinate": "43.672078277",
+      "longitudeCoordinate": "-79.483873926",
+      "postalCode": "M6N 3Z1",
+      "province": "Ontario",
+      "streetAddress": "43 Norval Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "48 Oakfield Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6332127458",
+      "longitudeCoordinate": "-79.501094119",
+      "postalCode": "M8Y 1N8",
+      "province": "Ontario",
+      "streetAddress": "48 Oakfield Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "46 Orchard Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.6422424113",
+      "longitudeCoordinate": "-79.513832219",
+      "postalCode": "M8Z 3E2",
+      "province": "Ontario",
+      "streetAddress": "46 Orchard Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Parrotta Drive Toronto Ontario",
+      "latitudeCoordinate": "43.732061555",
+      "longitudeCoordinate": "-79.536118372",
+      "postalCode": "M9M 0B4",
+      "province": "Ontario",
+      "streetAddress": "1 Parrotta Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "121 Parrotta Drive Toronto Ontario",
+      "latitudeCoordinate": "43.733749817",
+      "longitudeCoordinate": "-79.533737449",
+      "postalCode": "M9M 0B5",
+      "province": "Ontario",
+      "streetAddress": "121 Parrotta Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Pipestone Place Toronto Ontario",
+      "latitudeCoordinate": "43.7215352907",
+      "longitudeCoordinate": "-79.5487629179",
+      "postalCode": "M9W 3V4",
+      "province": "Ontario",
+      "streetAddress": "1 Pipestone Place"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "21 Pipestone Place Toronto Ontario",
+      "latitudeCoordinate": "43.720983039497014",
+      "longitudeCoordinate": "-79.5486594787757",
+      "province": "Ontario",
+      "streetAddress": "21 Pipestone Place"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Ravenscrest Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6593704151",
+      "longitudeCoordinate": "-79.5496595411",
+      "postalCode": "M9B 5M6",
+      "province": "Ontario",
+      "streetAddress": "9 Ravenscrest Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "54  Ridgegate Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.63751609419074",
+      "longitudeCoordinate": "-79.50376130341853",
+      "province": "Ontario",
+      "streetAddress": "54  Ridgegate Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Ridgevalley Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.672148024",
+      "longitudeCoordinate": "-79.53323865",
+      "postalCode": "M9A 3J7",
+      "province": "Ontario",
+      "streetAddress": "9 Ridgevalley Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "30 Ridgevalley Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.672250382",
+      "longitudeCoordinate": "-79.531308204",
+      "postalCode": "M9A 3J6",
+      "province": "Ontario",
+      "streetAddress": "30 Ridgevalley Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "54 Ron Attwell Street Toronto Ontario",
+      "latitudeCoordinate": "43.731478145",
+      "longitudeCoordinate": "-79.534523712",
+      "postalCode": "M9M 0B9",
+      "province": "Ontario",
+      "streetAddress": "54 Ron Attwell Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Ron Attwell Street Toronto Ontario",
+      "latitudeCoordinate": "43.731600043",
+      "longitudeCoordinate": "-79.532301763",
+      "postalCode": "M9M 0C1",
+      "province": "Ontario",
+      "streetAddress": "1 Ron Attwell Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "58 Ron Attwell Street Toronto Ontario",
+      "latitudeCoordinate": "43.731431266",
+      "longitudeCoordinate": "-79.534713969",
+      "postalCode": "M9M 0B9",
+      "province": "Ontario",
+      "streetAddress": "58 Ron Attwell Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "58 Roxaline Street Toronto Ontario",
+      "latitudeCoordinate": "43.6971356098",
+      "longitudeCoordinate": "-79.5300838128",
+      "postalCode": "M9P 2Y9",
+      "province": "Ontario",
+      "streetAddress": "58 Roxaline Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "59 Royal York Road Toronto Ontario",
+      "latitudeCoordinate": "43.606381157",
+      "longitudeCoordinate": "-79.49405163",
+      "postalCode": "M8V 2T5",
+      "province": "Ontario",
+      "streetAddress": "59 Royal York Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1216A Royal York Road Toronto Ontario",
+      "latitudeCoordinate": "43.666420916",
+      "longitudeCoordinate": "-79.520141078",
+      "postalCode": "M9A 4B6",
+      "province": "Ontario",
+      "streetAddress": "1216A Royal York Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1216B Royal York Road Toronto Ontario",
+      "latitudeCoordinate": "43.666481405",
+      "longitudeCoordinate": "-79.5201838",
+      "postalCode": "M9A 4B6",
+      "province": "Ontario",
+      "streetAddress": "1216B Royal York Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "35 Scarlett Road Toronto Ontario",
+      "latitudeCoordinate": "43.667538412063195",
+      "longitudeCoordinate": "-79.49930088807504",
+      "province": "Ontario",
+      "streetAddress": "35 Scarlett Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "556 Scarlett Road Toronto Ontario",
+      "latitudeCoordinate": "43.688613486",
+      "longitudeCoordinate": "-79.514341467",
+      "postalCode": "M9P 2S2",
+      "province": "Ontario",
+      "streetAddress": "556 Scarlett Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "558A Scarlett Road Toronto Ontario",
+      "latitudeCoordinate": "43.688663057",
+      "longitudeCoordinate": "-79.514342686",
+      "postalCode": "M9P 2S2",
+      "province": "Ontario",
+      "streetAddress": "558A Scarlett Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "558B Scarlett Road Toronto Ontario",
+      "latitudeCoordinate": "43.688706477",
+      "longitudeCoordinate": "-79.514366218",
+      "postalCode": "M9P 2S2",
+      "province": "Ontario",
+      "streetAddress": "558B Scarlett Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "560A Scarlett Road Toronto Ontario",
+      "latitudeCoordinate": "43.688761266",
+      "longitudeCoordinate": "-79.514386938",
+      "province": "Ontario",
+      "streetAddress": "560A Scarlett Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "560B Scarlett Road Toronto Ontario",
+      "latitudeCoordinate": "43.68881374",
+      "longitudeCoordinate": "-79.514417965",
+      "province": "Ontario",
+      "streetAddress": "560B Scarlett Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2295 Sheppard Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.734454539",
+      "longitudeCoordinate": "-79.533309802",
+      "postalCode": "M9M 0G6",
+      "province": "Ontario",
+      "streetAddress": "2295 Sheppard Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2355 Spears Street Toronto Ontario",
+      "latitudeCoordinate": "43.67654899152112,",
+      "longitudeCoordinate": "-79.48045664820162",
+      "province": "Ontario",
+      "streetAddress": "2355 Spears Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 Spring Garden Road Toronto Ontario",
+      "latitudeCoordinate": "43.640927437",
+      "longitudeCoordinate": "-79.5160007731",
+      "postalCode": "M8Z 3W9",
+      "province": "Ontario",
+      "streetAddress": "16 Spring Garden Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Spring Garden Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.764212234",
+      "longitudeCoordinate": "-79.410905328",
+      "postalCode": "M2N 3G1",
+      "province": "Ontario",
+      "streetAddress": "7 Spring Garden Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "29 Station Road Toronto Ontario",
+      "latitudeCoordinate": "43.614190802",
+      "longitudeCoordinate": "-79.493548486",
+      "postalCode": "M8V 2R1",
+      "province": "Ontario",
+      "streetAddress": "29 Station Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Stong Court Toronto Ontario",
+      "latitudeCoordinate": "43.762056385",
+      "longitudeCoordinate": "-79.5156542778",
+      "postalCode": "M3N 1N9",
+      "province": "Ontario",
+      "streetAddress": "2 Stong Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "20 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.64315743852381",
+      "longitudeCoordinate": "-79.5353321592409",
+      "province": "Ontario",
+      "streetAddress": "20 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.6425598054",
+      "longitudeCoordinate": "-79.5351641226",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "1 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.6426257185",
+      "longitudeCoordinate": "-79.5351676561",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "3 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.6426624837",
+      "longitudeCoordinate": "-79.5351816468",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "5 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.6427017769",
+      "longitudeCoordinate": "-79.5351991215",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "7 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.6427435998",
+      "longitudeCoordinate": "-79.535216599",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "9 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.6427829029",
+      "longitudeCoordinate": "-79.5352340863",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "11 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "13 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.642823456",
+      "longitudeCoordinate": "-79.5352533102",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "13 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.6428614893",
+      "longitudeCoordinate": "-79.5352725323",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "15 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "17 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.6429007914",
+      "longitudeCoordinate": "-79.5352917679",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "17 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.6429400846",
+      "longitudeCoordinate": "-79.5353074952",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "19 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "21 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.6429819157",
+      "longitudeCoordinate": "-79.5353284674",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "21 Streight Lane"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Public Meeting - Request to Amend the Zoning By-law - Incorporate Low-rise Residential Lands in the Etobicoke York district of the City of Toronto, to Zoning By-law 569-2013",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6837"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Planning and Housing Committee",
+    "country": "Canada",
+    "emailAddress": "phc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall, 10th Floor, West Tower",
+    "phone": "416-397-4579",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "Planning and Housing Committee",
+  "eventList": [],
+  "noticeDate": 1766379600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF PUBLIC MEETING</strong></p>\n<p style=\"text-align: center;\"><strong>To be held by the Planning and Housing Committee</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>City-initiated request to Amend the Zoning By-law, to Incorporate Low-rise Residential Lands in the Etobicoke York district of the City of Toronto, to Zoning By-law 569-2013&nbsp;&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p><strong>Location of Application:&nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>Properties Listed Below </strong><br /><strong>Applicant:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong><strong>City of Toronto</strong><br /><strong>&nbsp;</strong><br /><strong>Date:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong><strong>January 22, 2026</strong><br /><strong>Time:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>9:30 a.m., or as soon as possible thereafter</strong><br /><strong>Place:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>Committee Room 1, Toronto City Hall and by Video Conference</strong><br />&nbsp;</p>\n<p><strong>PROPOSAL</strong></p>\n<p>&nbsp;</p>\n<p>The City-initiated Zoning By-law Amendment proposes to amend the Zoning By-law 569-2013, to add the properties in the Etobicoke York district of the City of Toronto, as listed below, to Zoning By-law 569-2013. The Zoning By-law Amendment is the outcome of the City-initiated study &ldquo;Housing Action Plan: Incorporating Low-rise Residential Lands into Zoning By-law 569-2013.&rdquo; These properties had active zoning by-law amendment or site plan control applications in 2012 and were excluded from the city-wide Zoning By-law through the transition protocol. The Zoning by-law amendment proposes to bring these lands into the city-wide Zoning By-law with zoning standards that are consistent with the applicable former municipal zoning by-law and consistent with recent city-wide zoning amendments.</p>\n<p>&nbsp;</p>\n<table style=\"border: 1px solid black; border-collapse: collapse; height: 2593px;\" border=\"1\" width=\"368\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"height: 19px;\">\n<td style=\"width: 134.344px; height: 19px;\"><strong>Address Number</strong></td>\n<td style=\"width: 230.656px; height: 19px;\"><strong>Address, Street</strong></td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"width: 134.344px; height: 19px;\">1-36</td>\n<td style=\"width: 230.656px; height: 19px;\">Abraham Welsh Road</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"width: 134.344px; height: 19px;\">38</td>\n<td style=\"width: 230.656px; height: 19px;\">Acacia Avenue</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"width: 134.344px; height: 19px;\">1155</td>\n<td style=\"width: 230.656px; height: 19px;\">Albion Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1155R</td>\n<td style=\"width: 230.656px; height: 18px;\">Albion Road</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"width: 134.344px; height: 19px;\">1</td>\n<td style=\"width: 230.656px; height: 19px;\">Ashley Park Road</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"width: 134.344px; height: 19px;\">4</td>\n<td style=\"width: 230.656px; height: 19px;\">Ashley Road</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"width: 134.344px; height: 19px;\">6</td>\n<td style=\"width: 230.656px; height: 19px;\">Ashley Road</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"width: 134.344px; height: 19px;\">8</td>\n<td style=\"width: 230.656px; height: 19px;\">Ashley Road</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"width: 134.344px; height: 19px;\">10</td>\n<td style=\"width: 230.656px; height: 19px;\">Ashley Road</td>\n</tr>\n<tr style=\"height: 19px;\">\n<td style=\"width: 134.344px; height: 19px;\">12</td>\n<td style=\"width: 230.656px; height: 19px;\">Ashley Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">65</td>\n<td style=\"width: 230.656px; height: 18px;\">Barker Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">14</td>\n<td style=\"width: 230.656px; height: 18px;\">Barkwin Drive</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">10</td>\n<td style=\"width: 230.656px; height: 18px;\">Beaucourt Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">196</td>\n<td style=\"width: 230.656px; height: 18px;\">Bering Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">200</td>\n<td style=\"width: 230.656px; height: 18px;\">Bering Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">204</td>\n<td style=\"width: 230.656px; height: 18px;\">Bering Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">206</td>\n<td style=\"width: 230.656px; height: 18px;\">Bering Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">208</td>\n<td style=\"width: 230.656px; height: 18px;\">Bering Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">126-192</td>\n<td style=\"width: 230.656px; height: 18px;\">Bob Yuill Drive</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1A</td>\n<td style=\"width: 230.656px; height: 18px;\">Bowsprit Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1B</td>\n<td style=\"width: 230.656px; height: 18px;\">Bowsprit Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1C</td>\n<td style=\"width: 230.656px; height: 18px;\">Bowsprit Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1D</td>\n<td style=\"width: 230.656px; height: 18px;\">Bowsprit Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1E</td>\n<td style=\"width: 230.656px; height: 18px;\">Bowsprit Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1F</td>\n<td style=\"width: 230.656px; height: 18px;\">Bowsprit Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">36</td>\n<td style=\"width: 230.656px; height: 18px;\">Brentwood Road North</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1</td>\n<td style=\"width: 230.656px; height: 18px;\">Brookhaven Drive</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">35</td>\n<td style=\"width: 230.656px; height: 18px;\">Canerouth Drive</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">37</td>\n<td style=\"width: 230.656px; height: 18px;\">Canerouth Drive</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">5</td>\n<td style=\"width: 230.656px; height: 18px;\">Chapman Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">7</td>\n<td style=\"width: 230.656px; height: 18px;\">Chapman Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">9</td>\n<td style=\"width: 230.656px; height: 18px;\">Chapman Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">11</td>\n<td style=\"width: 230.656px; height: 18px;\">Chapman Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">13</td>\n<td style=\"width: 230.656px; height: 18px;\">Chapman Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1-35</td>\n<td style=\"width: 230.656px; height: 18px;\">Charlie Jordan Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">33</td>\n<td style=\"width: 230.656px; height: 18px;\">Cornelius Parkway</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">63</td>\n<td style=\"width: 230.656px; height: 18px;\">Cornelius Parkway</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">12</td>\n<td style=\"width: 230.656px; height: 18px;\">Duckworth Street</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">24</td>\n<td style=\"width: 230.656px; height: 18px;\">Dunning Crescent</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">188</td>\n<td style=\"width: 230.656px; height: 18px;\">Edenbridge Drive</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">53</td>\n<td style=\"width: 230.656px; height: 18px;\">Edenbrook Hill</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">73</td>\n<td style=\"width: 230.656px; height: 18px;\">Enfield Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">14</td>\n<td style=\"width: 230.656px; height: 18px;\">Flaxman Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">52A</td>\n<td style=\"width: 230.656px; height: 18px;\">Hilldale Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">52B</td>\n<td style=\"width: 230.656px; height: 18px;\">Hilldale Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">133-245</td>\n<td style=\"width: 230.656px; height: 18px;\">Isaac Devins Boulevard</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">168</td>\n<td style=\"width: 230.656px; height: 18px;\">Islington Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1140</td>\n<td style=\"width: 230.656px; height: 18px;\">Islington Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">2670</td>\n<td style=\"width: 230.656px; height: 18px;\">Islington Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1142A</td>\n<td style=\"width: 230.656px; height: 18px;\">Islington Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1142B</td>\n<td style=\"width: 230.656px; height: 18px;\">Islington Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1144A</td>\n<td style=\"width: 230.656px; height: 18px;\">Islington Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1144B</td>\n<td style=\"width: 230.656px; height: 18px;\">Islington Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1146A</td>\n<td style=\"width: 230.656px; height: 18px;\">Islington Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1146B</td>\n<td style=\"width: 230.656px; height: 18px;\">Islington Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">17</td>\n<td style=\"width: 230.656px; height: 18px;\">John Best Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">19</td>\n<td style=\"width: 230.656px; height: 18px;\">Justice Gardens</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">12</td>\n<td style=\"width: 230.656px; height: 18px;\">Justice Gardens</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">13</td>\n<td style=\"width: 230.656px; height: 18px;\">Justice Gardens</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">15</td>\n<td style=\"width: 230.656px; height: 18px;\">Justice Gardens</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">16</td>\n<td style=\"width: 230.656px; height: 18px;\">Justice Gardens</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">17</td>\n<td style=\"width: 230.656px; height: 18px;\">Justice Gardens</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">29</td>\n<td style=\"width: 230.656px; height: 18px;\">Justice Gardens</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">31</td>\n<td style=\"width: 230.656px; height: 18px;\">Kipling Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">350</td>\n<td style=\"width: 230.656px; height: 18px;\">Kipling Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">409</td>\n<td style=\"width: 230.656px; height: 18px;\">Kipling Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">413</td>\n<td style=\"width: 230.656px; height: 18px;\">Kipling Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">967</td>\n<td style=\"width: 230.656px; height: 18px;\">Kipling Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">969</td>\n<td style=\"width: 230.656px; height: 18px;\">Kipling Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">971</td>\n<td style=\"width: 230.656px; height: 18px;\">Kipling Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">973</td>\n<td style=\"width: 230.656px; height: 18px;\">Kipling Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">975</td>\n<td style=\"width: 230.656px; height: 18px;\">Kipling Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">977</td>\n<td style=\"width: 230.656px; height: 18px;\">Kipling Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">979</td>\n<td style=\"width: 230.656px; height: 18px;\">Kipling Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">981</td>\n<td style=\"width: 230.656px; height: 18px;\">Lake Shore Boulevard West</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">2298</td>\n<td style=\"width: 230.656px; height: 18px;\">Lake Shore Boulevard West</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">2300</td>\n<td style=\"width: 230.656px; height: 18px;\">Lake Shore Boulevard West</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">2609</td>\n<td style=\"width: 230.656px; height: 18px;\">Lake Shore Boulevard West</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">2686</td>\n<td style=\"width: 230.656px; height: 18px;\">Lake Shore Drive</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">51</td>\n<td style=\"width: 230.656px; height: 18px;\">Lavender Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">56</td>\n<td style=\"width: 230.656px; height: 18px;\">Lawrence Avenue West</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">2284</td>\n<td style=\"width: 230.656px; height: 18px;\">Lorne Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1-52</td>\n<td style=\"width: 230.656px; height: 18px;\">Lou Pomanti Street</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">52</td>\n<td style=\"width: 230.656px; height: 18px;\">Mainshep Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">25</td>\n<td style=\"width: 230.656px; height: 18px;\">Maple Bush Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">19</td>\n<td style=\"width: 230.656px; height: 18px;\">Maple Bush Avenue</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">21</td>\n<td style=\"width: 230.656px; height: 18px;\">Mary Chapman Boulevard</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">30-118</td>\n<td style=\"width: 230.656px; height: 18px;\">Mary Chapman Boulevard</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">66A</td>\n<td style=\"width: 230.656px; height: 18px;\">McCartney Street</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1-59</td>\n<td style=\"width: 230.656px; height: 18px;\">McCartney Street</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">59</td>\n<td style=\"width: 230.656px; height: 18px;\">Noranda Drive</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">34</td>\n<td style=\"width: 230.656px; height: 18px;\">Nordale Crescent</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">34</td>\n<td style=\"width: 230.656px; height: 18px;\">North Drive</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">43</td>\n<td style=\"width: 230.656px; height: 18px;\">Norval Street</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">48</td>\n<td style=\"width: 230.656px; height: 18px;\">Oakfield Drive</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">46</td>\n<td style=\"width: 230.656px; height: 18px;\">Orchard Crescent</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1-121</td>\n<td style=\"width: 230.656px; height: 18px;\">Parrotta Drive</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">121</td>\n<td style=\"width: 230.656px; height: 18px;\">Pipestone Place</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">9</td>\n<td style=\"width: 230.656px; height: 18px;\">Ravenscrest Drive</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">54</td>\n<td style=\"width: 230.656px; height: 18px;\">Ridgegate Crescent</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 134.344px; height: 17px;\">9</td>\n<td style=\"width: 230.656px; height: 17px;\">Ridgevalley Crescent</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">30</td>\n<td style=\"width: 230.656px; height: 18px;\">Ridgevalley Crescent</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">54</td>\n<td style=\"width: 230.656px; height: 18px;\">Ron Attwell Street</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 134.344px; height: 10px;\">1-58</td>\n<td style=\"width: 230.656px; height: 10px;\">Ron Attwell Street</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">59</td>\n<td style=\"width: 230.656px; height: 18px;\">Royal York Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1216A</td>\n<td style=\"width: 230.656px; height: 18px;\">Royal York Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1216B</td>\n<td style=\"width: 230.656px; height: 18px;\">Saffron Crescent</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">35</td>\n<td style=\"width: 230.656px; height: 18px;\">Scarlett Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">556</td>\n<td style=\"width: 230.656px; height: 18px;\">Scarlett Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">558A</td>\n<td style=\"width: 230.656px; height: 18px;\">Scarlett Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">558B</td>\n<td style=\"width: 230.656px; height: 18px;\">Scarlett Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">560A</td>\n<td style=\"width: 230.656px; height: 18px;\">Scarlett Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">560B</td>\n<td style=\"width: 230.656px; height: 18px;\">Sheppard Avenue West</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">2295</td>\n<td style=\"width: 230.656px; height: 18px;\">Sheppard Avenue West</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">2355</td>\n<td style=\"width: 230.656px; height: 18px;\">Spears Street</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">16</td>\n<td style=\"width: 230.656px; height: 18px;\">Spring Garden Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">7</td>\n<td style=\"width: 230.656px; height: 18px;\">Spring Garden Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">29</td>\n<td style=\"width: 230.656px; height: 18px;\">Station Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">2</td>\n<td style=\"width: 230.656px; height: 18px;\">Stong Court</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">20</td>\n<td style=\"width: 230.656px; height: 18px;\">Streight Lane</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1</td>\n<td style=\"width: 230.656px; height: 18px;\">Streight Lane</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">3</td>\n<td style=\"width: 230.656px; height: 18px;\">Streight Lane</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">5</td>\n<td style=\"width: 230.656px; height: 18px;\">Streight Lane</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">7</td>\n<td style=\"width: 230.656px; height: 18px;\">Streight Lane</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">9</td>\n<td style=\"width: 230.656px; height: 18px;\">Streight Lane</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">11</td>\n<td style=\"width: 230.656px; height: 18px;\">Streight Lane</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">13</td>\n<td style=\"width: 230.656px; height: 18px;\">Streight Lane</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">15</td>\n<td style=\"width: 230.656px; height: 18px;\">Streight Lane</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">17</td>\n<td style=\"width: 230.656px; height: 18px;\">Streight Lane</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">19</td>\n<td style=\"width: 230.656px; height: 18px;\">Streight Lane</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">21</td>\n<td style=\"width: 230.656px; height: 18px;\">Streight Lane</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">23</td>\n<td style=\"width: 230.656px; height: 18px;\">Sun Row Drive</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">111</td>\n<td style=\"width: 230.656px; height: 18px;\">Thistle Down Boulevard</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">30</td>\n<td style=\"width: 230.656px; height: 18px;\">Van Dusen Boulevard</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">55</td>\n<td style=\"width: 230.656px; height: 18px;\">Weston Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">1040</td>\n<td style=\"width: 230.656px; height: 18px;\">Weston Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">3035</td>\n<td style=\"width: 230.656px; height: 18px;\">Weston Road</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">55A</td>\n<td style=\"width: 230.656px; height: 18px;\">Westona Street</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">55B</td>\n<td style=\"width: 230.656px; height: 18px;\">Westona Street</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">57A</td>\n<td style=\"width: 230.656px; height: 18px;\">Westona Street</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">57B</td>\n<td style=\"width: 230.656px; height: 18px;\">Westona Street</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">59A</td>\n<td style=\"width: 230.656px; height: 18px;\">Westona Street</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 134.344px; height: 18px;\">59B</td>\n<td style=\"width: 230.656px; height: 18px;\">Westona Street</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p><strong>Detailed information regarding the proposal, including background information and material may be obtained by contacting Hania Butter, Assistant Planner at 416-392-0189, or by e-mail at <a href=\"mailto:Hania.Butter@toronto.ca\">Hania.Butter@toronto.ca</a>.</strong></p>\n<p>&nbsp;</p>\n<p>Further information can be found at <a href=\"https://www.toronto.ca/city-government/planning-development/planning-studies-initiatives/incorporating-low-rise-residential-lands-into-zoning-by-law-569-2013/\">https://www.toronto.ca/city-government/planning-development/planning-studies-initiatives/incorporating-low-rise-residential-lands-into-zoning-by-law-569-2013/</a>.</p>\n<p>&nbsp;</p>\n<p><strong>PURPOSE OF PUBLIC MEETING</strong></p>\n<p>&nbsp;</p>\n<p>The Planning and Housing Committee will receive input and review the proposal and any other material placed before it, in order to make recommendations on the proposed Zoning By-law Amendment. These recommendations will then be forwarded to Toronto City Council for its consideration.</p>\n<p>&nbsp;</p>\n<p>You can follow the meeting at <a href=\"http://www.youtube.com/TorontoCityCouncilLive\">www.youtube.com/TorontoCityCouncilLive</a>.</p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>MAKE YOUR VIEWS KNOWN</strong></span></p>\n<p>&nbsp;</p>\n<p>You may send written comments by e-mail to <a href=\"mailto:phc@toronto.ca\">phc@toronto.ca</a> or by mail to the address below. You can submit written comments up until City Council gives final consideration to the proposal.</p>\n<p>&nbsp;</p>\n<p>You are also invited to address the Planning and Housing Committee, in person, by video conference or by telephone, to make your views known regarding the proposal.</p>\n<p>&nbsp;</p>\n<p>If you wish to address the Planning and Housing Committee directly, please register by e-mail to <a href=\"mailto:phc@toronto.ca\">phc@toronto.ca </a><span style=\"font-size: 12pt;\">or by phone at 416-397-4579, no later than <strong>12:00 p.m. on January 21, 2026.</strong> If you register, we will contact you with instructions on how to participate in the meeting.</span></p>\n<p>&nbsp;</p>\n<p>The Planning and Housing Committee may request you to file an outline of your presentation with the Clerk.</p>\n<p>&nbsp;</p>\n<p>For more information about matter, including information about appeal rights, please contact: <strong>City Clerk, Attention: Nancy Martins, Administrator, Planning and Housing Committee, Toronto City Hall, 100 Queen Street West, 2nd Floor, Toronto, ON, M5H 2N2, Phone: 416-397-4579, Fax: 416-392-2980, email: <a href=\"mailto:phc@toronto.ca\">phc@toronto.ca</a>.</strong></p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance:</strong> City Staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-397-4579, TTY 416-338-0889 or e-mail <a href=\"mailto:phc@toronto.ca\">phc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Given that the amendments listed in this Notice apply to lands at multiple locations within the geographic boundaries of the Etobicoke York district of the City of Toronto, a key map has not been provided with this notice.</p>\n<p>&nbsp;</p>\n<p><strong>If you wish to be notified</strong> of the decision of the City of Toronto on the passing or refusal of the proposed Zoning By-law Amendment, you must make a written request to the City Clerk, Attention: Nancy Martins, Administrator, Planning and Housing Committee, at the address, fax number or e-mail set out in this notice.</p>\n<p>&nbsp;</p>\n<p><strong>Zoning By-law Amendment Appeal:</strong>&nbsp; If a specified person or public body as defined under the Planning Act or the registered owner of any land to which by-law would apply would otherwise have an ability to appeal the decision of the Council of the City of Toronto to the Ontario Land Tribunal but the specified person or public body as defined under the Planning Act or the registered owner of any land to which the by-law would apply does not make oral submissions at a public meeting or make written submissions to the City of Toronto before the proposed Zoning By-law Amendment is passed, the specified person or public body as defined under the Planning Act or the registered owner of any land to which the by-law would apply is not entitled to appeal the by-law.</p>\n<p>&nbsp;</p>\n<p><strong>People writing or making presentations at the public meeting:</strong>&nbsp; The <em>City of Toronto Act, 2006</em>, the <em>Planning Act,</em> and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s).&nbsp; If you are submitting letters, faxes, e-mails, presentations, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website.&nbsp; The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board and Advisory Body meetings are broadcast live over the internet for the public to view.&nbsp; If you speak at the meeting you will appear in the video broadcast.&nbsp; Video broadcasts are archived and continue to be publicly available.&nbsp; Direct any questions about this collection to City Clerk&rsquo;s Office at the telephone number or email address set out above.</p>\n<p>&nbsp;</p>\n<p>An online version of this Notice is available at <a href=\"https://www.toronto.ca/city-government/public-notices-bylaws/\">https://www.toronto.ca/city-government/public-notices-bylaws/</a>.</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 6930,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Public Meeting - Request to Amend the Zoning By-law - Incorporate Low-rise Residential Lands in the Etobicoke York district of the City of Toronto, to Zoning By-law 569-2013 ",
+  "topics": [
+    "Planning > Proposal for a Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "180 Queen's Drive Toronto Ontario",
+      "latitudeCoordinate": "43.70691929133849",
+      "longitudeCoordinate": "-79.50991782698752",
+      "postalCode": "M9N 2H7",
+      "province": "Ontario",
+      "streetAddress": "180 Queen's Drive"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Deemed Withdrawal of Notice of Intention to Designate - 180 Queen's Drive",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7309"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1777003200000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>IN THE MATTER OF THE ONTARIO HERITAGE ACT</strong></p>\n<p style=\"text-align: center;\"><strong>R.S.O. 1990, CHAPTER O.18 AND</strong></p>\n<p style=\"text-align: center;\"><strong>CITY OF TORONTO, PROVINCE OF ONTARIO</strong></p>\n<p style=\"text-align: center;\"><strong>180 QUEENS DRIVE</strong></p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>DEEMED WITHDRAWAL OF NOTICE OF INTENTION TO DESIGNATE THE PROPERTY</strong></span></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that as Council for the City of Toronto did not pass the designating by-law, the notice of intention designate the property, including the lands, buildings and structures thereon, known municipally as 180 Queens Drive under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest is deemed withdrawn in accordance with subsection 29(9) of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended,.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7365,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Deemed Withdrawal of Notice of Intention to Designate - 180 Queen's Drive",
+  "topics": [
+    "Heritage > Intention to designate a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

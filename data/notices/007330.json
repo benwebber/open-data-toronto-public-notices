@@ -1,0 +1,1355 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Abraham Welsh Road Toronto Ontario",
+      "latitudeCoordinate": "43.732391571",
+      "longitudeCoordinate": "-79.53294916",
+      "postalCode": "M9M 0B7",
+      "province": "Ontario",
+      "streetAddress": "1 Abraham Welsh Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "36 Abraham Welsh Road Toronto Ontario",
+      "latitudeCoordinate": "43.733116352",
+      "longitudeCoordinate": "-79.533587951",
+      "postalCode": "M9M 0B7",
+      "province": "Ontario",
+      "streetAddress": "36 Abraham Welsh Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "38 Acacia Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.720554458",
+      "longitudeCoordinate": "-79.540947798",
+      "postalCode": "M9M 1H7",
+      "province": "Ontario",
+      "streetAddress": "38 Acacia Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1155 Albion Road Toronto Ontario",
+      "latitudeCoordinate": "43.737507387",
+      "longitudeCoordinate": "-79.568479726",
+      "postalCode": "M9V 1A9",
+      "province": "Ontario",
+      "streetAddress": "1155 Albion Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1155R Albion Road Toronto Ontario",
+      "latitudeCoordinate": "43.737196507",
+      "longitudeCoordinate": "-79.568615267",
+      "postalCode": "M9V 1A9",
+      "province": "Ontario",
+      "streetAddress": "1155R Albion Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Ashley Park Road Toronto Ontario",
+      "latitudeCoordinate": "43.6623721695",
+      "longitudeCoordinate": "-79.5174469504",
+      "postalCode": "M9A 4C9",
+      "province": "Ontario",
+      "streetAddress": "1 Ashley Park Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "4 Ashley Road Toronto Ontario",
+      "latitudeCoordinate": "43.663235215",
+      "longitudeCoordinate": "-79.518651122",
+      "postalCode": "M9A 0C5",
+      "province": "Ontario",
+      "streetAddress": "4 Ashley Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "6 Ashley Road Toronto Ontario",
+      "latitudeCoordinate": "43.663213298",
+      "longitudeCoordinate": "-79.51874747",
+      "postalCode": "M9A 0C5",
+      "province": "Ontario",
+      "streetAddress": "6 Ashley Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "8 Ashley Road Toronto Ontario",
+      "latitudeCoordinate": "43.663191369",
+      "longitudeCoordinate": "-79.518859154",
+      "postalCode": "M9A 0C5",
+      "province": "Ontario",
+      "streetAddress": "8 Ashley Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10 Ashley Road Toronto Ontario",
+      "latitudeCoordinate": "43.66317599",
+      "longitudeCoordinate": "-79.518939088",
+      "postalCode": "M9A 0C5",
+      "province": "Ontario",
+      "streetAddress": "10 Ashley Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "12 Ashley Road Toronto Ontario",
+      "latitudeCoordinate": "43.663149839",
+      "longitudeCoordinate": "-79.519049704",
+      "province": "Ontario",
+      "streetAddress": "12 Ashley Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "65 Barker Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6931294665",
+      "longitudeCoordinate": "-79.3208248233",
+      "postalCode": "M9V 1E7",
+      "province": "Ontario",
+      "streetAddress": "65 Barker Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "14 Barkwin Drive Toronto Ontario",
+      "latitudeCoordinate": "43.738597845",
+      "longitudeCoordinate": "-79.564946361",
+      "postalCode": "M9V 2W1",
+      "province": "Ontario",
+      "streetAddress": "14 Barkwin Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10 Beaucourt Road Toronto Ontario",
+      "latitudeCoordinate": "43.634142483",
+      "longitudeCoordinate": "-79.498822766",
+      "postalCode": "M8Y 3G2",
+      "province": "Ontario",
+      "streetAddress": "10 Beaucourt Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "196 Bering Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639441303",
+      "longitudeCoordinate": "-79.521534288",
+      "postalCode": "M8Z 3A3",
+      "province": "Ontario",
+      "streetAddress": "196 Bering Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "200 Bering Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639438726",
+      "longitudeCoordinate": "-79.521679928",
+      "postalCode": "M8Z 3A3",
+      "province": "Ontario",
+      "streetAddress": "200 Bering Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "204 Bering Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639428549",
+      "longitudeCoordinate": "-79.521754599",
+      "postalCode": "M8Z 3A3",
+      "province": "Ontario",
+      "streetAddress": "204 Bering Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "206 Bering Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6394377",
+      "longitudeCoordinate": "-79.521816186",
+      "postalCode": "M8Z 3A3",
+      "province": "Ontario",
+      "streetAddress": "206 Bering Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "208 Bering Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639444159",
+      "longitudeCoordinate": "-79.521877773",
+      "postalCode": "M8Z 3A3",
+      "province": "Ontario",
+      "streetAddress": "208 Bering Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "126 Bob Yuill Drive Toronto Ontario",
+      "latitudeCoordinate": "43.728896594",
+      "longitudeCoordinate": "-79.534814397",
+      "postalCode": "M9M 0B1",
+      "province": "Ontario",
+      "streetAddress": "126 Bob Yuill Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "192 Bob Yuill Drive Toronto Ontario",
+      "latitudeCoordinate": "43.731333001",
+      "longitudeCoordinate": "-79.535095459",
+      "postalCode": "M9M 0B1",
+      "province": "Ontario",
+      "streetAddress": "192 Bob Yuill Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1A Bowsprit Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.697246648",
+      "longitudeCoordinate": "-79.52834021",
+      "postalCode": "M9P 2Y4",
+      "province": "Ontario",
+      "streetAddress": "1A Bowsprit Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1B Bowsprit Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.697293494",
+      "longitudeCoordinate": "-79.528361176",
+      "postalCode": "M9P 2Y4",
+      "province": "Ontario",
+      "streetAddress": "1B Bowsprit Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1C Bowsprit Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.697334643",
+      "longitudeCoordinate": "-79.528377783",
+      "postalCode": "M9P 2Y4",
+      "province": "Ontario",
+      "streetAddress": "1C Bowsprit Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1D Bowsprit Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.697370597",
+      "longitudeCoordinate": "-79.528405256",
+      "postalCode": "M9P 2Y4",
+      "province": "Ontario",
+      "streetAddress": "1D Bowsprit Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1F Bowsprit Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.697469772",
+      "longitudeCoordinate": "-79.528446681",
+      "postalCode": "M9P 2Y4",
+      "province": "Ontario",
+      "streetAddress": "1F Bowsprit Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "36 Brentwood Road North Toronto Ontario",
+      "latitudeCoordinate": "43.6474333611",
+      "longitudeCoordinate": "-79.5143109974",
+      "postalCode": "M8X 2B5",
+      "province": "Ontario",
+      "streetAddress": "36 Brentwood Road North"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Brookhaven Drive Toronto Ontario",
+      "latitudeCoordinate": "43.697167505",
+      "longitudeCoordinate": "-79.493286545",
+      "postalCode": "M6M 4N6",
+      "province": "Ontario",
+      "streetAddress": "1 Brookhaven Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Chapman Road Toronto Ontario",
+      "latitudeCoordinate": "43.688703368",
+      "longitudeCoordinate": "-79.514693374",
+      "postalCode": "M9P 3P7",
+      "province": "Ontario",
+      "streetAddress": "5 Chapman Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "35 Canerouth Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6465051717",
+      "longitudeCoordinate": "-79.582922422",
+      "postalCode": "M9C 3R6",
+      "province": "Ontario",
+      "streetAddress": "35 Canerouth Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "37 Canerouth Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6463831876",
+      "longitudeCoordinate": "-79.5830980911",
+      "postalCode": "M9C 3R6",
+      "province": "Ontario",
+      "streetAddress": "37 Canerouth Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Chapman Road Toronto Ontario",
+      "latitudeCoordinate": "43.688679992",
+      "longitudeCoordinate": "-79.514816433",
+      "postalCode": "M9P 3P7",
+      "province": "Ontario",
+      "streetAddress": "7 Chapman Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Chapman Road Toronto Ontario",
+      "latitudeCoordinate": "43.688653868",
+      "longitudeCoordinate": "-79.514950853",
+      "postalCode": "M9P 3P7",
+      "province": "Ontario",
+      "streetAddress": "9 Chapman Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Chapman Road Toronto Ontario",
+      "latitudeCoordinate": "43.68862912",
+      "longitudeCoordinate": "-79.515083388",
+      "postalCode": "M9P 3P7",
+      "province": "Ontario",
+      "streetAddress": "11 Chapman Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "13 Chapman Road Toronto Ontario",
+      "latitudeCoordinate": "43.688599502",
+      "longitudeCoordinate": "-79.515216082",
+      "postalCode": "M9P 3P7",
+      "province": "Ontario",
+      "streetAddress": "13 Chapman Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Charlie Jordan Road Toronto Ontario",
+      "latitudeCoordinate": "43.7321863",
+      "longitudeCoordinate": "-79.533845727",
+      "postalCode": "M9M 0B7",
+      "province": "Ontario",
+      "streetAddress": "1 Charlie Jordan Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "35 Charlie Jordan Road Toronto Ontario",
+      "latitudeCoordinate": "43.733008662",
+      "longitudeCoordinate": "-79.534058248",
+      "postalCode": "M9M 0B7",
+      "province": "Ontario",
+      "streetAddress": "35 Charlie Jordan Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "33 Cornelius Parkway Toronto Ontario",
+      "latitudeCoordinate": "43.714256245",
+      "longitudeCoordinate": "-79.476945428",
+      "postalCode": "M6L 2K2",
+      "province": "Ontario",
+      "streetAddress": "33 Cornelius Parkway"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "63 Cornelius Parkway Toronto Ontario",
+      "latitudeCoordinate": "43.7152044601",
+      "longitudeCoordinate": "-79.4753013397",
+      "postalCode": "M6L 2K2",
+      "province": "Ontario",
+      "streetAddress": "63 Cornelius Parkway"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "12 Duckworth Street Toronto Ontario",
+      "latitudeCoordinate": "43.702525967",
+      "longitudeCoordinate": "-79.500069987",
+      "postalCode": "M6M 4W4",
+      "province": "Ontario",
+      "streetAddress": "12 Duckworth Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "24 Dunning Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.602052482",
+      "longitudeCoordinate": "-79.555553134",
+      "postalCode": "M8W 4S8",
+      "province": "Ontario",
+      "streetAddress": "24 Dunning Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "188 Edenbridge Drive Toronto Ontario",
+      "latitudeCoordinate": "43.675698337",
+      "longitudeCoordinate": "-79.514035928",
+      "postalCode": "M9A 3G8",
+      "province": "Ontario",
+      "streetAddress": "188 Edenbridge Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "53 Edenbrook Hill Toronto Ontario",
+      "latitudeCoordinate": "43.6754455907",
+      "longitudeCoordinate": "-79.5262676521",
+      "postalCode": "M9A 4A1",
+      "province": "Ontario",
+      "streetAddress": "53 Edenbrook Hill"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "73 Enfield Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.593719725",
+      "longitudeCoordinate": "-79.548122069",
+      "postalCode": "M8W 1T6",
+      "province": "Ontario",
+      "streetAddress": "73 Enfield Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "14 Flaxman Road Toronto Ontario",
+      "latitudeCoordinate": "43.72179106",
+      "longitudeCoordinate": "-79.539724929",
+      "postalCode": "M9M 2R3",
+      "province": "Ontario",
+      "streetAddress": "14 Flaxman Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "52A Hilldale Road Toronto Ontario",
+      "latitudeCoordinate": "43.676745564",
+      "longitudeCoordinate": "-79.482315351",
+      "postalCode": "M6N 3Y2",
+      "province": "Ontario",
+      "streetAddress": "52A Hilldale Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "52B Hilldale Road Toronto Ontario",
+      "latitudeCoordinate": "43.67680235",
+      "longitudeCoordinate": "-79.48234567",
+      "postalCode": "M6N 3Y2",
+      "province": "Ontario",
+      "streetAddress": "52B Hilldale Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "133 Isaac Devins Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.731625498",
+      "longitudeCoordinate": "-79.53189812",
+      "postalCode": "M9M 0C4",
+      "province": "Ontario",
+      "streetAddress": "133 Isaac Devins Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "245 Isaac Devins Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.733023017",
+      "longitudeCoordinate": "-79.535333795",
+      "postalCode": "M9M 0B6",
+      "province": "Ontario",
+      "streetAddress": "245 Isaac Devins Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1140 Islington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639499931",
+      "longitudeCoordinate": "-79.521509726",
+      "postalCode": "M8Z 4S5",
+      "province": "Ontario",
+      "streetAddress": "1140 Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2670 Islington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.739022529",
+      "longitudeCoordinate": "-79.566519662",
+      "postalCode": "M9V 2X5",
+      "province": "Ontario",
+      "streetAddress": "2670 Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1142A Islington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639536886",
+      "longitudeCoordinate": "-79.521523777",
+      "postalCode": "M8Z 4S5",
+      "province": "Ontario",
+      "streetAddress": "1142A Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1142B Islington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639572572",
+      "longitudeCoordinate": "-79.521539576",
+      "postalCode": "M8Z 4S5",
+      "province": "Ontario",
+      "streetAddress": "1142B Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1144A Islington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639609527",
+      "longitudeCoordinate": "-79.521555388",
+      "postalCode": "M8Z 4S5",
+      "province": "Ontario",
+      "streetAddress": "1144A Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1144B Islington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639643936",
+      "longitudeCoordinate": "-79.521564171",
+      "postalCode": "M8Z 4S5",
+      "province": "Ontario",
+      "streetAddress": "1144B Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1146A Islington Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.639678343",
+      "longitudeCoordinate": "-79.521581729",
+      "postalCode": "M8Z 4S5",
+      "province": "Ontario",
+      "streetAddress": "1146A Islington Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "17 John Best Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.697965078",
+      "longitudeCoordinate": "-79.503916407",
+      "postalCode": "M9N 1C4",
+      "province": "Ontario",
+      "streetAddress": "17 John Best Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "12 Justice Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.703653888",
+      "longitudeCoordinate": "-79.52560077",
+      "postalCode": "M9N 0B5",
+      "province": "Ontario",
+      "streetAddress": "12 Justice Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "13 Justice Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.703513464",
+      "longitudeCoordinate": "-79.525461875",
+      "postalCode": "M9N 0B5",
+      "province": "Ontario",
+      "streetAddress": "13 Justice Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Justice Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.703533804",
+      "longitudeCoordinate": "-79.525412205",
+      "postalCode": "M9N 0B5",
+      "province": "Ontario",
+      "streetAddress": "15 Justice Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 Justice Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.703751902",
+      "longitudeCoordinate": "-79.525386843",
+      "postalCode": "M9N 0B5",
+      "province": "Ontario",
+      "streetAddress": "16 Justice Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "17 Justice Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.703560619",
+      "longitudeCoordinate": "-79.525361275",
+      "postalCode": "M9N 0B5",
+      "province": "Ontario",
+      "streetAddress": "17 Justice Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "29 Justice Gardens Toronto Ontario",
+      "latitudeCoordinate": "43.703832395",
+      "longitudeCoordinate": "-79.52505448",
+      "postalCode": "M9N 0B5",
+      "province": "Ontario",
+      "streetAddress": "29 Justice Gardens"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "350 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6015719891",
+      "longitudeCoordinate": "-79.5191639127",
+      "postalCode": "M8V 3L1",
+      "province": "Ontario",
+      "streetAddress": "350 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "409 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6032078262",
+      "longitudeCoordinate": "-79.5187009075",
+      "postalCode": "M8V 3K8",
+      "province": "Ontario",
+      "streetAddress": "409 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "413 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6035035107",
+      "longitudeCoordinate": "-79.5188121878",
+      "postalCode": "M8V 3K8",
+      "province": "Ontario",
+      "streetAddress": "413 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "967 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.642584115",
+      "longitudeCoordinate": "-79.535412249",
+      "postalCode": "M9B 3L3",
+      "province": "Ontario",
+      "streetAddress": "967 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "969 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.642638626",
+      "longitudeCoordinate": "-79.535443715",
+      "postalCode": "M9B 3L3",
+      "province": "Ontario",
+      "streetAddress": "969 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "971 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.642688054",
+      "longitudeCoordinate": "-79.535464692",
+      "postalCode": "M9B 3L3",
+      "province": "Ontario",
+      "streetAddress": "971 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "973 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.642734953",
+      "longitudeCoordinate": "-79.535483919",
+      "postalCode": "M9B 3L3",
+      "province": "Ontario",
+      "streetAddress": "973 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "975 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.642786937",
+      "longitudeCoordinate": "-79.535504898",
+      "postalCode": "M9B 3L3",
+      "province": "Ontario",
+      "streetAddress": "975 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "977 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.642838893",
+      "longitudeCoordinate": "-79.535527624",
+      "postalCode": "M9B 3L3",
+      "province": "Ontario",
+      "streetAddress": "977 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "979 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.642885792",
+      "longitudeCoordinate": "-79.535548599",
+      "postalCode": "M9B 3L3",
+      "province": "Ontario",
+      "streetAddress": "979 Kipling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2300 Lake Shore Boulevard West Toronto Ontario",
+      "latitudeCoordinate": "43.61858519",
+      "longitudeCoordinate": "-79.487042708",
+      "province": "Ontario",
+      "streetAddress": "2300 Lake Shore Boulevard West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2609 Lake Shore Boulevard West Toronto Ontario",
+      "latitudeCoordinate": "43.605489809",
+      "longitudeCoordinate": "-79.490641538",
+      "postalCode": "M8V 1G5",
+      "province": "Ontario",
+      "streetAddress": "2609 Lake Shore Boulevard West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "51 Lavender Road Toronto Ontario",
+      "latitudeCoordinate": "43.6798096112",
+      "longitudeCoordinate": "-79.4692736031",
+      "postalCode": "M6N 2B6",
+      "province": "Ontario",
+      "streetAddress": "51 Lavender Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "56 Lawrence Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.7260283145",
+      "longitudeCoordinate": "-79.3991306519",
+      "postalCode": "M4N 1S3",
+      "province": "Ontario",
+      "streetAddress": "56 Lawrence Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Lou Pomanti Street Toronto Ontario",
+      "latitudeCoordinate": "43.731002804",
+      "longitudeCoordinate": "-79.53215933",
+      "postalCode": "M9M 0C3",
+      "province": "Ontario",
+      "streetAddress": "1 Lou Pomanti Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "52 Lou Pomanti Street Toronto Ontario",
+      "latitudeCoordinate": "43.730892061",
+      "longitudeCoordinate": "-79.534337146",
+      "postalCode": "M9M 0C2",
+      "province": "Ontario",
+      "streetAddress": "52 Lou Pomanti Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "25 Maple Bush Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.709917461",
+      "longitudeCoordinate": "-79.536454207",
+      "postalCode": "M9N 1S7",
+      "province": "Ontario",
+      "streetAddress": "25 Maple Bush Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Maple Bush Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.709970123",
+      "longitudeCoordinate": "-79.536180567",
+      "postalCode": "M9N 1S7",
+      "province": "Ontario",
+      "streetAddress": "19 Maple Bush Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "30 Mary Chapman Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.73036648",
+      "longitudeCoordinate": "-79.534546747",
+      "postalCode": "M9M 0B2",
+      "province": "Ontario",
+      "streetAddress": "30 Mary Chapman Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "118 Mary Chapman Boulevard Toronto Ontario",
+      "latitudeCoordinate": "43.733336761",
+      "longitudeCoordinate": "-79.535781818",
+      "postalCode": "M9M 0B3",
+      "province": "Ontario",
+      "streetAddress": "118 Mary Chapman Boulevard"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 McCartney Street Toronto Ontario",
+      "latitudeCoordinate": "43.732198782",
+      "longitudeCoordinate": "-79.532459506",
+      "postalCode": "M9M 0B8",
+      "province": "Ontario",
+      "streetAddress": "1 McCartney Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "59 McCartney Street Toronto Ontario",
+      "latitudeCoordinate": "43.731632786",
+      "longitudeCoordinate": "-79.534860572",
+      "postalCode": "M9M 0B8",
+      "province": "Ontario",
+      "streetAddress": "59 McCartney Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "34 Nordale Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.702254374",
+      "longitudeCoordinate": "-79.492988462",
+      "postalCode": "M6M 3A1",
+      "province": "Ontario",
+      "streetAddress": "34 Nordale Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "34 North Drive Toronto Ontario",
+      "latitudeCoordinate": "43.676379199",
+      "longitudeCoordinate": "-79.516925548",
+      "postalCode": "M9A 4P9",
+      "province": "Ontario",
+      "streetAddress": "34 North Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "43 Norval Street Toronto Ontario",
+      "latitudeCoordinate": "43.672078277",
+      "longitudeCoordinate": "-79.483873926",
+      "postalCode": "M6N 3Z1",
+      "province": "Ontario",
+      "streetAddress": "43 Norval Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "48 Oakfield Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6332127458",
+      "longitudeCoordinate": "-79.501094119",
+      "postalCode": "M8Y 1N8",
+      "province": "Ontario",
+      "streetAddress": "48 Oakfield Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "46 Orchard Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.642233836",
+      "longitudeCoordinate": "-79.513828944",
+      "postalCode": "M8Z 3E2",
+      "province": "Ontario",
+      "streetAddress": "46 Orchard Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Parrotta Drive Toronto Ontario",
+      "latitudeCoordinate": "43.732061555",
+      "longitudeCoordinate": "-79.536118372",
+      "postalCode": "M9M 0B4",
+      "province": "Ontario",
+      "streetAddress": "1 Parrotta Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "121 Parrotta Drive Toronto Ontario",
+      "latitudeCoordinate": "43.733749818",
+      "longitudeCoordinate": "-79.533737449",
+      "postalCode": "M9M 0B5",
+      "province": "Ontario",
+      "streetAddress": "121 Parrotta Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Ravenscrest Drive Toronto Ontario",
+      "latitudeCoordinate": "43.659361838",
+      "longitudeCoordinate": "-79.549656254",
+      "postalCode": "M9B 5M6",
+      "province": "Ontario",
+      "streetAddress": "9 Ravenscrest Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Ridgevalley Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.672148024",
+      "longitudeCoordinate": "-79.53323865",
+      "postalCode": "M9A 3J7",
+      "province": "Ontario",
+      "streetAddress": "9 Ridgevalley Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "30 Ridgevalley Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.672250382",
+      "longitudeCoordinate": "-79.531308204",
+      "postalCode": "M9A 3J6",
+      "province": "Ontario",
+      "streetAddress": "30 Ridgevalley Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "54 Ron Attwell Street Toronto Ontario",
+      "latitudeCoordinate": "43.731478146",
+      "longitudeCoordinate": "-79.534523712",
+      "postalCode": "M9M 0B9",
+      "province": "Ontario",
+      "streetAddress": "54 Ron Attwell Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Ron Attwell Street Toronto Ontario",
+      "latitudeCoordinate": "43.731600044",
+      "longitudeCoordinate": "-79.532301763",
+      "postalCode": "M9M 0C1",
+      "province": "Ontario",
+      "streetAddress": "1 Ron Attwell Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "58 Ron Attwell Street Toronto Ontario",
+      "latitudeCoordinate": "43.731431267",
+      "longitudeCoordinate": "-79.534713969",
+      "postalCode": "M9M 0B9",
+      "province": "Ontario",
+      "streetAddress": "58 Ron Attwell Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "58 Roxaline Street Toronto Ontario",
+      "latitudeCoordinate": "43.697127025",
+      "longitudeCoordinate": "-79.530080529",
+      "postalCode": "M9P 2Y9",
+      "province": "Ontario",
+      "streetAddress": "58 Roxaline Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "59 Royal York Road Toronto Ontario",
+      "latitudeCoordinate": "43.606381157",
+      "longitudeCoordinate": "-79.49405163",
+      "postalCode": "M8V 2T5",
+      "province": "Ontario",
+      "streetAddress": "59 Royal York Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1216A Royal York Road Toronto Ontario",
+      "latitudeCoordinate": "43.666420916",
+      "longitudeCoordinate": "-79.520141078",
+      "postalCode": "M9A 4B6",
+      "province": "Ontario",
+      "streetAddress": "1216A Royal York Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1216B Royal York Road Toronto Ontario",
+      "latitudeCoordinate": "43.666481405",
+      "longitudeCoordinate": "-79.5201838",
+      "postalCode": "M9A 4B6",
+      "province": "Ontario",
+      "streetAddress": "1216B Royal York Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "556 Scarlett Road Toronto Ontario",
+      "latitudeCoordinate": "43.688613486",
+      "longitudeCoordinate": "-79.514341467",
+      "postalCode": "M9P 2S2",
+      "province": "Ontario",
+      "streetAddress": "556 Scarlett Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "558A Scarlett Road Toronto Ontario",
+      "latitudeCoordinate": "43.688663057",
+      "longitudeCoordinate": "-79.514342686",
+      "postalCode": "M9P 2S2",
+      "province": "Ontario",
+      "streetAddress": "558A Scarlett Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "558B Scarlett Road Toronto Ontario",
+      "latitudeCoordinate": "43.688706477",
+      "longitudeCoordinate": "-79.514366218",
+      "postalCode": "M9P 2S2",
+      "province": "Ontario",
+      "streetAddress": "558B Scarlett Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "560A Scarlett Road Toronto Ontario",
+      "latitudeCoordinate": "43.688761266",
+      "longitudeCoordinate": "-79.514386938",
+      "province": "Ontario",
+      "streetAddress": "560A Scarlett Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "560 Sheppard Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.755910639",
+      "longitudeCoordinate": "-79.437653652",
+      "postalCode": "M3H 2R9",
+      "province": "Ontario",
+      "streetAddress": "560 Sheppard Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2295 Sheppard Avenue West Toronto Ontario",
+      "latitudeCoordinate": "43.734454539",
+      "longitudeCoordinate": "-79.533309802",
+      "postalCode": "M9M 0G6",
+      "province": "Ontario",
+      "streetAddress": "2295 Sheppard Avenue West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 Spring Garden Road Toronto Ontario",
+      "latitudeCoordinate": "43.640918862",
+      "longitudeCoordinate": "-79.515997499",
+      "postalCode": "M8Z 3W9",
+      "province": "Ontario",
+      "streetAddress": "16 Spring Garden Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Spring Garden Road Toronto Ontario",
+      "latitudeCoordinate": "43.641682289",
+      "longitudeCoordinate": "-79.51620054",
+      "postalCode": "M8Z 3W8",
+      "province": "Ontario",
+      "streetAddress": "7 Spring Garden Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "29 Station Road Toronto Ontario",
+      "latitudeCoordinate": "43.614190802",
+      "longitudeCoordinate": "-79.493548486",
+      "postalCode": "M8V 2R1",
+      "province": "Ontario",
+      "streetAddress": "29 Station Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Stong Court Toronto Ontario",
+      "latitudeCoordinate": "43.762056385",
+      "longitudeCoordinate": "-79.5156542778",
+      "postalCode": "M3N 1N9",
+      "province": "Ontario",
+      "streetAddress": "2 Stong Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.642551231",
+      "longitudeCoordinate": "-79.535160842",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "1 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.642617144",
+      "longitudeCoordinate": "-79.535164375",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "3 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.642653909",
+      "longitudeCoordinate": "-79.535178366",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "5 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.642693202",
+      "longitudeCoordinate": "-79.535195841",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "7 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.642735026",
+      "longitudeCoordinate": "-79.535213318",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "9 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.642774328",
+      "longitudeCoordinate": "-79.535230805",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "11 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "13 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.642814881",
+      "longitudeCoordinate": "-79.535250029",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "13 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.642852915",
+      "longitudeCoordinate": "-79.535269251",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "15 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "17 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.642892216",
+      "longitudeCoordinate": "-79.535288486",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "17 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.642931511",
+      "longitudeCoordinate": "-79.535304215",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "19 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "21 Streight Lane Toronto Ontario",
+      "latitudeCoordinate": "43.642973341",
+      "longitudeCoordinate": "-79.535325186",
+      "postalCode": "M9B 0A3",
+      "province": "Ontario",
+      "streetAddress": "21 Streight Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "23 Sun Row Drive Toronto Ontario",
+      "latitudeCoordinate": "43.69186276",
+      "longitudeCoordinate": "-79.541748616",
+      "postalCode": "M9P 3H5",
+      "province": "Ontario",
+      "streetAddress": "23 Sun Row Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55 Weston Road Toronto Ontario",
+      "latitudeCoordinate": "43.673740347",
+      "longitudeCoordinate": "-79.468491516",
+      "postalCode": "M6N 5H3",
+      "province": "Ontario",
+      "streetAddress": "55 Weston Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1040 Weston Road Toronto Ontario",
+      "latitudeCoordinate": "43.685216223",
+      "longitudeCoordinate": "-79.4863982669",
+      "postalCode": "M6N 3S2",
+      "province": "Ontario",
+      "streetAddress": "1040 Weston Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55A Westona Street Toronto Ontario",
+      "latitudeCoordinate": "43.697591848",
+      "longitudeCoordinate": "-79.527879891",
+      "postalCode": "M9P 2X9",
+      "province": "Ontario",
+      "streetAddress": "55A Westona Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55B Westona Street Toronto Ontario",
+      "latitudeCoordinate": "43.697540898",
+      "longitudeCoordinate": "-79.527857287",
+      "postalCode": "M9P 2X9",
+      "province": "Ontario",
+      "streetAddress": "55B Westona Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "57A Westona Street Toronto Ontario",
+      "latitudeCoordinate": "43.697489956",
+      "longitudeCoordinate": "-79.527837201",
+      "postalCode": "M9P 2X9",
+      "province": "Ontario",
+      "streetAddress": "57A Westona Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "57B Westona Street Toronto Ontario",
+      "latitudeCoordinate": "43.697438096",
+      "longitudeCoordinate": "-79.527815849",
+      "postalCode": "M9P 2X9",
+      "province": "Ontario",
+      "streetAddress": "57B Westona Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "59A Westona Street Toronto Ontario",
+      "latitudeCoordinate": "43.69739431",
+      "longitudeCoordinate": "-79.527831534",
+      "postalCode": "M9P 2X9",
+      "province": "Ontario",
+      "streetAddress": "59A Westona Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "59B Westona Street Toronto Ontario",
+      "latitudeCoordinate": "43.697365196",
+      "longitudeCoordinate": "-79.527780034",
+      "postalCode": "M9P 2X9",
+      "province": "Ontario",
+      "streetAddress": "59B Westona Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Zoning By-law 206-2026 - Housing Action Plan: Incorporating Low-rise Residential Lands into Zoning By-law 569-2013 - Etobicoke-York District",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7277"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1775707200000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF PASSING OF ZONING BY-LAW 206-2026</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\"><strong>&nbsp;</strong><br /><strong>&nbsp;</strong></p>\n<p style=\"text-align: center;\"><strong>TAKE NOTICE that the City of Toronto passed Zoning By-law 206-2026 on March 26, 2026, with respect to the lands in the Etobicoke-York District of the City of Toronto, as noted in the list below.</strong></p>\n<p>&nbsp;</p>\n<p>An explanation of the purpose and effect of the Zoning By-law is attached. &nbsp;Given that the amendments listed in this Notice apply to lands at multiple locations within the geographic boundaries of the Etobicoke-York District of the City of Toronto, a key map has not been provided with this notice. The amendment was processed under file number: 25 216299 CPS 00 OZ.</p>\n<p>&nbsp;</p>\n<p>A statutory public meeting was held on January 22, 2026, and the Planning and Housing Committee and Toronto City Council considered one oral and one written submission in making the decision. Please see item PH27.4 at <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2026.PH27.4\">https://secure.toronto.ca/council/agenda-item.do?item=2026.PH27.4</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal to the Ontario Land Tribunal in respect to all or part of this Zoning By-law may be made by filing a notice of appeal with the City Clerk, Attention: &nbsp;Raneisha Hemmings, Registrar Secretariat, 100 Queen Street West, 2nd Floor West, Toronto, ON, M5H 2N2, no later than 4:30 p.m. on April 29, 2026. If delivering in-person, drop off at the Registry Services Counter, Toronto City Hall. The filing of a notice of appeal after 4:30 p.m., in person or electronically, will be deemed to have been received the next business day.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the appeal; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be accompanied by the fee prescribed under the Ontario Land Tribunal in the amount of $1,100.00 for each application appealed payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the OLT website at <a href=\"http://www.olt.gov.on.ca\">www.olt.gov.on.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only an applicant, a specified person or public body as defined in the Planning Act that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, the registered owner of any land to which the by-law would apply that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, and the Minister may appeal the by-law to the Ontario Land Tribunal.&nbsp;</p>\n<p>&nbsp;</p>\n<p>No person or public body shall be added as a party to the hearing of the appeal unless, before the by-law was passed, the person or public body made oral submissions at a public meeting or written submissions to the Council, or in the opinion of the Ontario Land Tribunal, there are reasonable grounds to add the person or public body as a party.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application may be obtained by contacting Hania Butter at 416-392-0189, or by email at <a href=\"mailto:Hania.Butter@toronto.ca\">Hania.Butter@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>PURPOSE AND EFFECT OF ZONING BY-LAW 206-2026</strong></p>\n<p>&nbsp;</p>\n<p>The purpose and effect of Zoning By-law 206-2026 is to amend the Zoning By-law 569-2013, to add the properties in the Etobicoke-York District of the City of Toronto, as listed below, to Zoning By-law 569-2013. The Zoning By-law Amendment is the outcome of the City-initiated study &ldquo;Housing Action Plan: Incorporating Low-rise Residential Lands into Zoning By-law 569-2013&rdquo;. These properties had active zoning by-law amendment or site plan control applications in 2012 and were excluded from the city-wide Zoning By-law through the transition protocol. The Zoning by-law Amendment brings these lands into the city-wide Zoning By-law with zoning standards that are consistent with the applicable former municipal zoning by-law and consistent with recent city-wide zoning amendments.</p>\n<p>&nbsp;</p>\n<p>Further information may be obtained by contacting Hania Butter at 416-392-0189, or by email at <a href=\"mailto:Hania.Butter@toronto.ca\">Hania.Butter@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>PURPOSE AND EFFECT OF ZONING BY-LAW 206-2026</p>\n<p>&nbsp;</p>\n<p>The purpose and effect of Zoning By-law 206-2026 is to amend the Zoning By-law 569-2013, to add the properties in the Etobicoke-York District of the City of Toronto, as listed below, to Zoning By-law 569-2013. The Zoning By-law Amendment is the outcome of the City-initiated study &ldquo;Housing Action Plan: Incorporating Low-rise Residential Lands into Zoning By-law 569-2013&rdquo;. These properties had active zoning by-law amendment or site plan control applications in 2012 and were excluded from the city-wide Zoning By-law through the transition protocol. The Zoning by-law Amendment brings these lands into the city-wide Zoning By-law with zoning standards that are consistent with the applicable former municipal zoning by-law and consistent with recent city-wide zoning amendments.</p>\n<p>&nbsp;</p>\n<p>Further information may be obtained by contacting Hania Butter at 416-392-0189, or by email at Hania.Butter@toronto.ca.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><strong><span style=\"font-size: 14.0pt;\">PURPOSE AND EFFECT OF ZONING BY-LAW 206-2026</span></strong></p>\n<p><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p>The purpose and effect of Zoning By-law 206-2026 is to amend the Zoning By-law 569-2013, to add the properties in the Etobicoke-York District of the City of Toronto, as listed below, to Zoning By-law 569-2013. The Zoning By-law Amendment is the outcome of the City-initiated study &ldquo;Housing Action Plan: Incorporating Low-rise Residential Lands into Zoning By-law 569-2013&rdquo;. These properties had active zoning by-law amendment or site plan control applications in 2012 and were excluded from the city-wide Zoning By-law through the transition protocol. The Zoning by-law Amendment brings these lands into the city-wide Zoning By-law with zoning standards that are consistent with the applicable former municipal zoning by-law and consistent with recent city-wide zoning amendments.</p>\n<p>&nbsp;</p>\n<p>Further information may be obtained by contacting Hania Butter at 416-392-0189, or by email at <a href=\"mailto:Hania.Butter@toronto.ca\">Hania.Butter@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>&nbsp;</strong></p>\n<p>&nbsp;</p>\n<table style=\"width: 234.5pt; border-collapse: collapse; border: none;\" width=\"313\">\n<thead>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><strong><span style=\"font-family: 'Calibri',sans-serif; color: black;\">Address, Number</span></strong></p>\n</td>\n<td style=\"width: 106.2pt; border: solid windowtext 1.0pt; border-left: none; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p style=\"tab-stops: 98.9pt;\"><strong><span style=\"font-family: 'Calibri',sans-serif; color: black;\">Address, Street&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong></p>\n</td>\n<td style=\"width: 43.55pt; border: solid windowtext 1.0pt; border-left: none; background: #BFBFBF; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><strong><span style=\"font-family: 'Calibri',sans-serif; color: black;\">Ward</span></strong></p>\n</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1-36</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Abraham Welsh Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">38</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Acacia Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1155</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Albion Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1155R</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Albion Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Ashley Park Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">4</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Ashley Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">6</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Ashley Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">8</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Ashley Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">10</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Ashley Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">12</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Ashley Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">65</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Barker Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">14</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Barkwin Drive</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">10</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Beaucourt Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">196</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Bering Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">200</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Bering Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">204</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Bering Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">206</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Bering Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">208</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Bering Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">126-192</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Bob Yuill Drive</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1A</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Bowsprit Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1B</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Bowsprit Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1C</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Bowsprit Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1D</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Bowsprit Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1E</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Bowsprit Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1F</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Bowsprit Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">36</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Brentwood Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Brookhaven Drive</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">35</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Canerouth Drive</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">37</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Canerouth Drive</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Chapman Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Chapman Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">9</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Chapman Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">11</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Chapman Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">13</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Chapman Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1-35</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Charlie Jordan Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">33</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Cornelius Parkway</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">63</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Cornelius Parkway</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">12</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Duckworth Street</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">24</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Dunning Crescent</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">188</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Edenbridge Drive</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">53</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Edenbrook Hill</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">73</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Enfield Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">14</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Flaxman Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">52A</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Hilldale Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">52B</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Hilldale Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">133-245</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Isaac Devins Boulevard</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">168</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Islington Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1140</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Islington Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2670</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Islington Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1142A</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Islington Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1142B</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Islington Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1144A</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Islington Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1144B</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Islington Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1146A</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Islington Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1146B</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">John Best Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">17</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">John Best Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">19</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Justice Gardens</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">12</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Justice Gardens</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">13</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Justice Gardens</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">15</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Justice Gardens</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">16</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Justice Gardens</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">17</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Justice Gardens</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">29</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Justice Gardens</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">31</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Kipling Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">350</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Kipling Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">409</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Kipling Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">413</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Kipling Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">967</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Kipling Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">969</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Kipling Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">971</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Kipling Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">973</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Kipling Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">975</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Kipling Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">977</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Kipling Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">979</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Kipling Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">981</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Lake Shore Boulevard</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2298</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Lake Shore Boulevard</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2300</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Lake Shore Boulevard</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2609</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Lake Shore Boulevard</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2686</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Lake Shore Drive</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">51</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Lavender Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">56</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Lawrence Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2284</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Lorne Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1-52</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Lou Pomanti Street</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">52</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Mainshep Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">25</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Maple Bush Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">19</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Maple Bush Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">21</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Mary Chapman Boulevard</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">30-118</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Mary Chapman Boulevard</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">66A</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">McCartney Street</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1-59</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">McCartney Street</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">59</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Noranda Drive</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">34</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Nordale Crescent</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">34</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">North Drive</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">43</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Norval Street</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">48</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Oakfield Drive</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">46</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Orchard Crescent</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1-121</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Parrotta Drive</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">121</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Pipestone Place</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">9</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Ravenscrest Drive</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">54</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Ridgegate Crescent</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">9</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Ridgevalley Crescent</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">30</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Ridgevalley Crescent</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">54</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Ron Attwell Street</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1-58</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Ron Attwell Street</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">58</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Roxaline Street</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">59</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Royal York Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1216A</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Royal York Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1216B</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Saffron Crescent</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">35</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Scarlett Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">556</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Scarlett Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">558A</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Scarlett Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">558B</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Scarlett Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">560A</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Scarlett Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">560B</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Sheppard Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2295</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Sheppard Avenue</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2355</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Spears Street</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">16</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Spring Garden Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Spring Garden Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">29</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Station Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Stong Court</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">20</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Streight Lane</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Streight Lane</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Streight Lane</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Streight Lane</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Streight Lane</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">9</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Streight Lane</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">11</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Streight Lane</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">13</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Streight Lane</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">15</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Streight Lane</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">17</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Streight Lane</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">19</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Streight Lane</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">21</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Streight Lane</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">23</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Sun Row Drive</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">111</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Thistle Down Boulevard</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">30</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Van Dusen Boulevard</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">55</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Weston Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">1040</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Weston Road</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">5</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">3035</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Westona Street</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">7</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">55A</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Westona Street</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">55B</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Westona Street</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">57A</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Westona Street</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">57B</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Westona Street</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">59A</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Westona Street</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 84.75pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"113\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">59B</span></p>\n</td>\n<td style=\"width: 106.2pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"142\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Westona Street</span></p>\n</td>\n<td style=\"width: 43.55pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;\" width=\"58\">\n<p><span style=\"font-family: 'Calibri',sans-serif;\">2</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif;\">&nbsp;</span></p>\n<p style=\"margin-right: .9pt;\"><span style=\"font-size: 11.0pt;\">&nbsp;</span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7330,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 216299 CPS 00 OZ."
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Passing of Zoning By-law 206-2026 - Housing Action Plan: Incorporating Low-rise Residential Lands into Zoning By-law 569-2013 - Etobicoke-York District",
+  "topics": [
+    "Planning > Adoption of Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

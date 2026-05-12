@@ -1,0 +1,61 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "699 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.669207333",
+      "longitudeCoordinate": "-79.386141322",
+      "postalCode": "M4Y 2B2",
+      "province": "Ontario",
+      "streetAddress": "699 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "707 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.66928882",
+      "longitudeCoordinate": "-79.386176539",
+      "postalCode": "M4Y 2B2",
+      "province": "Ontario",
+      "streetAddress": "707 Yonge Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - 699 and 707 Yonge Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7333"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1777348800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>IN THE MATTER OF THE ONTARIO HERITAGE ACT</strong></p>\n<p style=\"text-align: center;\"><strong>R.S.O. 1990, CHAPTER O.18 AND</strong></p>\n<p style=\"text-align: center;\"><strong>CITY OF TORONTO, PROVINCE OF ONTARIO</strong></p>\n<p style=\"text-align: center;\"><strong>699 AND 707 YONGE STREET</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>NOTICE OF DECISION</strong></span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>TAKE NOTICE that the Council of the City of Toronto on April 22 and April 23, 2026, has considered an application under Section 33 of the Ontario Heritage Act to alter a building and/or structure on a Property designated under Part IV, Section 29 of the Ontario Heritage Act for the Property municipally known as 699 and 707 Yonge Street.</p>\n<p>&nbsp;</p>\n<p>The decision of City Council, among other matters, regarding the application under the Ontario Heritage Act is as follows:</p>\n<p>&nbsp;</p>\n<p>1. City Council refuse the application to alter the designated heritage property/properties at 699 and 707 Yonge Street under Section 33 of the Ontario Heritage Act to allow for the construction of a 64-storey (217 metres, including mechanical penthouse) mixed-use building, in accordance with the plans and drawings dated September 15, 2022 prepared by DIALOG on file with the Senior Manager, Heritage Planning and the Heritage Impact Assessment prepared by ERA Architects Inc. dated September 15, 2022 and on file with the Senior Manager, Heritage Planning.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Notice of an appeal of the decision of City Council on the application to alter the Property may be served on the City Clerk, Attention: Registrar Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2.; Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a> within thirty days of April 28, 2026, which is May 28, 2026.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the objection to the decision;</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons in support of the objection to the decision; and</p>\n<p>(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be accompanied by the fee prescribed under the Ontario Land Tribunal Act, 2021, in the amount of $1,100 for each appeal payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the Ontario Land Tribunal website at <a href=\"https://olt.gov.on.ca/appeals-process/forms\">https://olt.gov.on.ca/appeals-process/forms</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only the owner of the Property may appeal the decision of Council of the City of Toronto to the Ontario Land Tribunal under Part IV, Section 33 of the Ontario Heritage Act, and only where City Council has consented to an application to alter a property with certain terms or conditions, or refuses the application to alter a property.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>Further information in respect of the Decision of Council of the City of Toronto on the matter is available from the City of Toronto at:</p>\n<p>&nbsp;</p>\n<p><a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2026.TE31.26\">https://secure.toronto.ca/council/agenda-item.do?item=2026.TE31.26</a>.&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7389,
+  "otherReferenceList": [
+    {
+      "description": "2026.TE31.26  - 699 and 707 Yonge Street - Alterations to a Designated Heritage Property under Section 33 of the Ontario Heritage Act - Refusal",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2026.TE31.26"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Decision - 699 and 707 Yonge Street",
+  "topics": [
+    "Heritage > Decision on alteration to a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3 Turnberry Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.678799921",
+      "longitudeCoordinate": "-79.462211218",
+      "postalCode": "M6N 1P6",
+      "province": "Ontario",
+      "streetAddress": "3 Turnberry Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "6 Gort Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.592860863",
+      "longitudeCoordinate": "-79.546433217",
+      "postalCode": "M8W 3Y5",
+      "province": "Ontario",
+      "streetAddress": "6 Gort Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "14A Laws Street Toronto Ontario",
+      "latitudeCoordinate": "43.6624980081",
+      "longitudeCoordinate": "-79.4746254704",
+      "postalCode": "M6P 2Y7",
+      "province": "Ontario",
+      "streetAddress": "14A Laws Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "24 Ambleside Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6313516159",
+      "longitudeCoordinate": "-79.5089695271",
+      "postalCode": "M8Z 2H6",
+      "province": "Ontario",
+      "streetAddress": "24 Ambleside Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "31 Saunders Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.640852773",
+      "longitudeCoordinate": "-79.440808722",
+      "postalCode": "M6R 1B9",
+      "province": "Ontario",
+      "streetAddress": "31 Saunders Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "37 Centrepark Drive Toronto Ontario",
+      "latitudeCoordinate": "43.6952442133",
+      "longitudeCoordinate": "-79.4984178895",
+      "postalCode": "M6M 5K3",
+      "province": "Ontario",
+      "streetAddress": "37 Centrepark Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "52 Roslin Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.730191457",
+      "longitudeCoordinate": "-79.4006000955",
+      "postalCode": "M4N 1Z2",
+      "province": "Ontario",
+      "streetAddress": "52 Roslin Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "53 Holmesdale Road Toronto Ontario",
+      "latitudeCoordinate": "43.689139493",
+      "longitudeCoordinate": "-79.449672186",
+      "postalCode": "M6E 1Y2",
+      "province": "Ontario",
+      "streetAddress": "53 Holmesdale Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "77 Priscilla Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6629172208",
+      "longitudeCoordinate": "-79.4882054347",
+      "postalCode": "M6S 3W4",
+      "province": "Ontario",
+      "streetAddress": "77 Priscilla Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "89 Gainsborough Road Toronto Ontario",
+      "latitudeCoordinate": "43.6736457398",
+      "longitudeCoordinate": "-79.3177940028",
+      "postalCode": "M4L 3C3",
+      "province": "Ontario",
+      "streetAddress": "89 Gainsborough Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "147 Dowling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.637601668",
+      "longitudeCoordinate": "-79.438627008",
+      "postalCode": "M6K 3A9",
+      "province": "Ontario",
+      "streetAddress": "147 Dowling Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "172 Olive Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.781443076",
+      "longitudeCoordinate": "-79.403762749",
+      "postalCode": "M2N 4P4",
+      "province": "Ontario",
+      "streetAddress": "172 Olive Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "255 Bartlett Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.66756093",
+      "longitudeCoordinate": "-79.435588085",
+      "postalCode": "M6H 3G3",
+      "province": "Ontario",
+      "streetAddress": "255 Bartlett Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7269"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-8485",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1775534400000,
+  "noticeDescription": "<p><strong>City's Residential Retrofit Program</strong></p>\n<p>&nbsp;</p>\n<p><strong>PUBLIC NOTICE</strong></p>\n<p>&nbsp;</p>\n<p><strong>Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.</strong></p>\n<p>&nbsp;</p>\n<p>Individual by-laws for each of the benefitting properties listed below have been enacted for the meeting of City Council held on March 25 and 26, 2026. Review by-law details (<a href=\"https://secure.toronto.ca/council/bill-bylaw.do?meeting=2026.CC39\">https://secure.toronto.ca/council/bill-bylaw.do?meeting=2026.CC39</a>).&nbsp;</p>\n<p>&nbsp;</p>\n<p>Each of these by-laws imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a href=\"https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">By-law 1105-2013 (July 19, 2013)</a>.</p>\n<p>&nbsp;</p>\n<p>The benefitting properties are:</p>\n<p>&nbsp;</p>\n<ul>\n<li>3 Turnberry Avenue</li>\n<li>6 Gort Avenue</li>\n<li>14A Laws Street</li>\n<li>24 Ambleside Avenue</li>\n<li>31 Saunders Avenue</li>\n<li>37 Centrepark Drive</li>\n<li>52 Roslin Avenue</li>\n<li>53 Holmesdale Road</li>\n<li>77 Priscilla Avenue</li>\n<li>89 Gainsborough Road</li>\n<li>147 Dowling Avenue</li>\n<li>172 Olive Avenue</li>\n<li>255 Bartlett Avenue</li>\n</ul>\n<p><strong>For More Information Contact</strong></p>\n<p>City Council<br /><a href=\"mailto:councilmeeting@toronto.ca\">councilmeeting@toronto.ca</a>&nbsp;<br />Phone: 416-392-8485<br />Fax: 416-392-2980</p>\n<p>&nbsp;</p>\n<p>Toronto City Hall<br />100 Queen Street<br />Toronto, Ontario<br />M5H 2N2<br />Canada</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7305,
+  "otherReferenceList": [
+    {
+      "description": "By-law Index March 25 and 26, 2026",
+      "url": "https://secure.toronto.ca/council/bill-bylaw.do?meeting=2026.CC39"
+    },
+    {
+      "description": "2013.EX33.22",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22"
+    },
+    {
+      "description": "BY-LAW No. 1105-2013 ",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "City's Residential Retrofit Program",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png"
+  ]
+}

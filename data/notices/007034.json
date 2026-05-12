@@ -1,0 +1,98 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "58 Atlantic Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.638042417",
+      "longitudeCoordinate": "-79.420826012",
+      "province": "Ontario",
+      "streetAddress": "58 Atlantic Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "25 Liberty Street Toronto Ontario",
+      "latitudeCoordinate": "43.63812803",
+      "longitudeCoordinate": "-79.420839824",
+      "postalCode": "M6K 1A6",
+      "province": "Ontario",
+      "streetAddress": "25 Liberty Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "35 Liberty Street Toronto Ontario",
+      "latitudeCoordinate": "43.638090363",
+      "longitudeCoordinate": "-79.421046141",
+      "postalCode": "M6K 1A6",
+      "province": "Ontario",
+      "streetAddress": "35 Liberty Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "51 Jefferson Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.637649055",
+      "longitudeCoordinate": "-79.421241576",
+      "postalCode": "M6K 1Y3",
+      "province": "Ontario",
+      "streetAddress": "51 Jefferson Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "61 Jefferson Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.63778104",
+      "longitudeCoordinate": "-79.421142946",
+      "postalCode": "M6K 1Y3",
+      "province": "Ontario",
+      "streetAddress": "61 Jefferson Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "65 Jefferson Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.637959478",
+      "longitudeCoordinate": "-79.421348648",
+      "postalCode": "M6K 1Y3",
+      "province": "Ontario",
+      "streetAddress": "65 Jefferson Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 25 and 35 Liberty Street, 58 Atlantic Avenue, and 51, 61, and 65 Jefferson Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=6979"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1769144400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 25 269806 STE 10 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-Law to permit the construction of a 50-storey mixed use building at a density of 14 times the area of the lot.</p>\n<p>25 and 35 Liberty Street, 58 Atlantic Avenue, and 51, 61, and 65 Jefferson Avenue</p>\n<p>Ward 10 &ndash; Spadina-Fort York</p>\n<p>George Pantazis, Senior Planner at 416-392-3566 or <a href=\"mailto:George.Pantazis@toronto.ca\">George.Pantazis@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7034,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 269806 STE 10 OZ "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 25 and 35 Liberty Street, 58 Atlantic Avenue, and 51, 61, and 65 Jefferson Avenue",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

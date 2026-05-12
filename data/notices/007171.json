@@ -1,0 +1,101 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "54 Fraser Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.636928549",
+      "longitudeCoordinate": "-79.424026974",
+      "postalCode": "M6K 1Y6",
+      "province": "Ontario",
+      "streetAddress": "54 Fraser Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "66 Fraser Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.637320855",
+      "longitudeCoordinate": "-79.424320491",
+      "postalCode": "M6K 1Y6",
+      "province": "Ontario",
+      "streetAddress": "66 Fraser Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "58 Fraser Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.637135324",
+      "longitudeCoordinate": "-79.424116498",
+      "postalCode": "M6K 1Y6",
+      "province": "Ontario",
+      "streetAddress": "58 Fraser Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "60 Fraser Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.637187668",
+      "longitudeCoordinate": "-79.424132449",
+      "postalCode": "M6K 1Y6",
+      "province": "Ontario",
+      "streetAddress": "60 Fraser Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "62 Fraser Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.637283163",
+      "longitudeCoordinate": "-79.424303581",
+      "postalCode": "M6K 1Y6",
+      "province": "Ontario",
+      "streetAddress": "62 Fraser Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "64 Fraser Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.637302953",
+      "longitudeCoordinate": "-79.424310821",
+      "postalCode": "M6K 1Y6",
+      "province": "Ontario",
+      "streetAddress": "64 Fraser Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Passing of Designation By-law - 58-2026 - 54 and 66 Fraser Ave",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7115"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M2H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1772427600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>IN THE MATTER OF THE ONTARIO HERITAGE ACT</strong></p>\n<p style=\"text-align: center;\"><strong>R.S.O. 1990, CHAPTER O.18 AND</strong></p>\n<p style=\"text-align: center;\"><strong>CITY OF TORONTO, PROVINCE OF ONTARIO</strong></p>\n<p style=\"text-align: center;\"><strong>54 AND 66 FRASER AVENUE</strong></p>\n<p style=\"text-align: center;\"><strong>(INCLUDING ENTRANCE ADDRESSES 58, 60, 62 AND 64 FRASER AVENUE)</strong></p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">NOTICE OF PASSING OF DESIGNATION BY-LAW 85-2026</span></strong></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that Council for the City of Toronto passed Designation By-law 85-2026 on February 4, 2026, which designates the lands, buildings and structures known municipally as 54 and 66 Fraser Avenue under Part IV, Section 29 of the Ontario Heritage Act, R.S.O. 1990, c.O.18, as amended, as a property of cultural heritage value or interest.</p>\n<p>&nbsp;</p>\n<p>The City Clerk did not receive any objections to the Notice of Intention to Designate the Property. Therefore, City Council did not consider any objections and passed the Designation By-law for the Property.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal of the Designation by-law for the Property by those persons permitted to appeal under section 29 of the Ontario Heritage Act may be made by filing a notice of appeal with the City Clerk, Attention: Registrar Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2.; Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a> within thirty days of March 2, 2026, which is April 1, 2026.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the objection to the designation by-law; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons in support of the objection to the designation by-law.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the Ontario Land Tribunal website at <a href=\"https://olt.gov.on.ca\">https://olt.gov.on.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Any persons who object to the designation by-law may appeal to the Ontario Land Tribunal.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application is available for public inspection by contacting Heritage Planning staff at <a href=\"mailto:heritageplanning@toronto.ca\">heritageplanning@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Further information in respect of the Designation By-law is available from the City of Toronto at:</p>\n<p>&nbsp;</p>\n<p><a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2025.PH25.14\">https://secure.toronto.ca/council/agenda-item.do?item=2025.PH25.14</a>.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7171,
+  "otherReferenceList": [
+    {
+      "description": "2025.PH25.14 - 54, 66 and 68 Fraser Avenue - Notice of Intention to Designate a Property under Part IV, Section 29 of the Ontario Heritage Act",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2025.PH25.14"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Passing of Designation By-law - 58-2026 - 54 and 66 Fraser Ave ",
+  "topics": [
+    "Heritage > Designation of a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-heritage.png"
+  ]
+}

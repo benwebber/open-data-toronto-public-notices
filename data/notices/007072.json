@@ -1,0 +1,621 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2-8 Flemington Road Toronto Ontario",
+      "latitudeCoordinate": "43.719836504",
+      "longitudeCoordinate": "-79.441971619",
+      "postalCode": "M6A 2N4",
+      "province": "Ontario",
+      "streetAddress": "2-8 Flemington Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "21 Varna Drive Toronto Ontario",
+      "latitudeCoordinate": "43.719892348",
+      "longitudeCoordinate": "-79.439599942",
+      "postalCode": "M6A 2L6",
+      "province": "Ontario",
+      "streetAddress": "21 Varna Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "23 Varna Drive Toronto Ontario",
+      "latitudeCoordinate": "43.720030088",
+      "longitudeCoordinate": "-79.439843503",
+      "postalCode": "M6A 2L6",
+      "province": "Ontario",
+      "streetAddress": "23 Varna Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "25 Varna Drive Toronto Ontario",
+      "latitudeCoordinate": "43.720061671",
+      "longitudeCoordinate": "-79.440057605",
+      "postalCode": "M6A 2L6",
+      "province": "Ontario",
+      "streetAddress": "25 Varna Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "27 Varna Drive Toronto Ontario",
+      "latitudeCoordinate": "43.720149814",
+      "longitudeCoordinate": "-79.440313786",
+      "postalCode": "M6A 2L6",
+      "province": "Ontario",
+      "streetAddress": "27 Varna Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "29 Varna Drive Toronto Ontario",
+      "latitudeCoordinate": "43.720281256",
+      "longitudeCoordinate": "-79.440682416",
+      "postalCode": "M6A 2L6",
+      "province": "Ontario",
+      "streetAddress": "29 Varna Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "31 Varna Drive Toronto Ontario",
+      "latitudeCoordinate": "43.720505831",
+      "longitudeCoordinate": "-79.440642726",
+      "postalCode": "M6A 2L6",
+      "province": "Ontario",
+      "streetAddress": "31 Varna Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "33 Varna Drive Toronto Ontario",
+      "latitudeCoordinate": "43.720659742",
+      "longitudeCoordinate": "-79.44047768",
+      "postalCode": "M6A 2L6",
+      "province": "Ontario",
+      "streetAddress": "33 Varna Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "35 Varna Drive Toronto Ontario",
+      "latitudeCoordinate": "43.720885897",
+      "longitudeCoordinate": "-79.440516373",
+      "postalCode": "M6A 2L6",
+      "province": "Ontario",
+      "streetAddress": "35 Varna Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "37 Varna Drive Toronto Ontario",
+      "latitudeCoordinate": "43.721014656",
+      "longitudeCoordinate": "-79.440545106",
+      "postalCode": "M6A 2L6",
+      "province": "Ontario",
+      "streetAddress": "37 Varna Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "39 Varna Drive Toronto Ontario",
+      "latitudeCoordinate": "43.721236784",
+      "longitudeCoordinate": "-79.440623307",
+      "postalCode": "M6A 2L6",
+      "province": "Ontario",
+      "streetAddress": "39 Varna Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720686268",
+      "longitudeCoordinate": "-79.441204104",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "1 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720637348",
+      "longitudeCoordinate": "-79.441207363",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "3 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720590755",
+      "longitudeCoordinate": "-79.441217049",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "5 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720541845",
+      "longitudeCoordinate": "-79.441220297",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "7 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720495246",
+      "longitudeCoordinate": "-79.441220339",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "9 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.7204277",
+      "longitudeCoordinate": "-79.441233247",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "11 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720444185",
+      "longitudeCoordinate": "-79.441567263",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "15 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "17 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720462869",
+      "longitudeCoordinate": "-79.441666815",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "17 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720469917",
+      "longitudeCoordinate": "-79.44175352",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "19 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "21 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720476944",
+      "longitudeCoordinate": "-79.441837024",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "21 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "23 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.72048396",
+      "longitudeCoordinate": "-79.44189804",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "23 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "25 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720488646",
+      "longitudeCoordinate": "-79.441959058",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "25 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "27 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720491014",
+      "longitudeCoordinate": "-79.442013662",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "27 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "29 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720484061",
+      "longitudeCoordinate": "-79.442093964",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "29 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "31 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720498208",
+      "longitudeCoordinate": "-79.442437611",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "31 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "33 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720561112",
+      "longitudeCoordinate": "-79.442447186",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "33 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "35 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720607708",
+      "longitudeCoordinate": "-79.442459991",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "35 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "37 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720658965",
+      "longitudeCoordinate": "-79.442485648",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "37 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "39 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720710229",
+      "longitudeCoordinate": "-79.442508079",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "39 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "41 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720761485",
+      "longitudeCoordinate": "-79.442533737",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "41 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "43 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720812746",
+      "longitudeCoordinate": "-79.442549752",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "43 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "45 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720861676",
+      "longitudeCoordinate": "-79.44258503",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "45 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "47 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721046148",
+      "longitudeCoordinate": "-79.442677809",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "47 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "49 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721056975",
+      "longitudeCoordinate": "-79.442587934",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "49 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "51 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721075942",
+      "longitudeCoordinate": "-79.442520514",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "51 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "53 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.7210922",
+      "longitudeCoordinate": "-79.442453096",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "53 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721108463",
+      "longitudeCoordinate": "-79.442378182",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "55 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "57 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721124717",
+      "longitudeCoordinate": "-79.442307029",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "57 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "59 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721138255",
+      "longitudeCoordinate": "-79.442235865",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "59 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "61 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721162667",
+      "longitudeCoordinate": "-79.44216844",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "61 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "63 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.72127124",
+      "longitudeCoordinate": "-79.442029787",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "63 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "65 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721320137",
+      "longitudeCoordinate": "-79.442052219",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "65 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "67 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721366314",
+      "longitudeCoordinate": "-79.442070892",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "67 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "69 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.72140706",
+      "longitudeCoordinate": "-79.442085835",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "69 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "71 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721466658",
+      "longitudeCoordinate": "-79.441808682",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "71 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "73 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721488344",
+      "longitudeCoordinate": "-79.441726278",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "73 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "75 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721507316",
+      "longitudeCoordinate": "-79.441651361",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "75 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "79 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721537114",
+      "longitudeCoordinate": "-79.441520274",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "79 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "81 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721550672",
+      "longitudeCoordinate": "-79.441456606",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "81 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "83 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721349668",
+      "longitudeCoordinate": "-79.441389389",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "83 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "85 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721289903",
+      "longitudeCoordinate": "-79.441378212",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "85 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "87 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.72124101",
+      "longitudeCoordinate": "-79.441363278",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "87 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "89 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721186679",
+      "longitudeCoordinate": "-79.4413446",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "89 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "91 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721135074",
+      "longitudeCoordinate": "-79.441325932",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "91 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "93 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721080743",
+      "longitudeCoordinate": "-79.441307255",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "93 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "95 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.721037293",
+      "longitudeCoordinate": "-79.441288568",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "95 Dorney Court"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "97 Dorney Court Toronto Ontario",
+      "latitudeCoordinate": "43.720993824",
+      "longitudeCoordinate": "-79.441266145",
+      "postalCode": "M6A 2M4",
+      "province": "Ontario",
+      "streetAddress": "97 Dorney Court"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Public Meeting - Rental Housing Demolition and Conversion - 1-97 Dorney Court, 2-8 Flemington Road and 21-39 Varna Drive",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7016"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Planning and Housing Committee",
+    "country": "Canada",
+    "emailAddress": "phc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall, 10th Floor, West Tower",
+    "phone": "416-397-4579",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street West"
+  },
+  "decisionBody": "Planning and Housing Committee",
+  "eventList": [],
+  "noticeDate": 1770008400000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF PUBLIC MEETING</strong></p>\n<p style=\"text-align: center;\"><strong>To be held by the Planning and Housing Committee</strong></p>\n<p style=\"text-align: center;\"><strong>(Municipal Code Ch. 667 under <em>City of Toronto Act, 2006</em>)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Rental Housing Demolition and Conversion Application</strong></p>\n<p style=\"text-align: center;\"><strong>Application Number 25 266763 NNY 08 RH</strong></p>\n<p>&nbsp;</p>\n<p><strong>Location of Application:&nbsp; &nbsp; &nbsp; &nbsp; 2-8 Flemington Road, 21 Varna Drive, 23 Varna Drive, 25 Varna Drive, 27 Varna Drive, 29 Varna Drive, 31 Varna Drive, 33 Varna Drive, 35 Varna Drive, 37 Varna Drive, 39 Varna Drive, 1 Dorney Court, 3 Dorney Court, 5 Dorney Court, 7 Dorney Court, , 9 Dorney Court, 11 Dorney Court, 15 Dorney Court, 17 Dorney Court, 19 Dorney Court, 21 Dorney Court, 23 Dorney Court, 25 Dorney Court, 27 Dorney Court, 29 Dorney Court, 31 Dorney Court, 33 Dorney Court, 35 Dorney Court, 37 Dorney Court, 39 Dorney Court,&nbsp; 41 Dorney Court, 43 Dorney Court, 45 Dorney Court, 47 Dorney Court, 49 Dorney Court, 51 Dorney Court, 53 Dorney Court, 55 Dorney Court, 57 Dorney Court, 59 Dorney Court, 61 Dorney Court, 63 Dorney Court, 65 Dorney Court, 67 Dorney Court, 69 Dorney Court, 71 Dorney Court, 73 Dorney Court, 75 Dorney Court, 79 Dorney Court, 81 Dorney Court, 83 Dorney Court, 85 Dorney Court, 87 Dorney Court, 89 Dorney Court, 91 Dorney Court, 93 Dorney Court, 95 Dorney Court, 97 Dorney Court.</strong><br /><strong>Applicant:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong><strong>Toronto Community Housing Corporation&nbsp; </strong><br /><strong>&nbsp;</strong><br /><strong>Date:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong><strong>February 26, 2026</strong><br /><strong>Time:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>9:30 a.m., or as soon as possible thereafter</strong><br /><strong>Place:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong><strong>Committee Room 1, City Hall or Video Conference</strong><br /><strong>&nbsp;</strong></p>\n<p><strong>PROPOSAL</strong></p>\n<p>&nbsp;</p>\n<p>The application proposes to demolish 121 existing social housing units at 2-8 Flemington Road, 21-39 Varna Drive, 1-11 Dorney Court, 15-29 Dorney Court, 31-45 Dorney Court, 47-61 Dorney Court, 63-69 Dorney Court, 71-81 Dorney Court, and 83-97 Dorney Court &nbsp;and redevelop all Phase 2 lands of the TCHC Lawrence Heights revitalization, including new and reconfigured public streets, public parks and community uses, and residential development ranging from six to 28 storeys in height. Phase 2 includes the replacement of 277 social housing units, and the creation of 150 new TCHC affordable units, 44 new TCHC seniors units, 316 non-profit housing units and 961 market units. A Tenant Relocation and Assistance Implementation Plan will be provided to lessen hardship for impacted tenants. A related Official Plan Amendment and Zoning By-law Amendment application (25 251661 NNY 08 OZ) has been submitted for all Phase 2 lands.</p>\n<p>&nbsp;</p>\n<p>A Rental Housing Demolition application (25 266763 NNY 08 RH) under Section 111 of the <em>City of Toronto Act, 2006</em> (Chapter 667 of the Municipal Code) has been submitted to permit the demolition.&nbsp; Under the <em>City of Toronto Act, 2006</em>, the demolition of a rental property with six or more dwelling units is prohibited without obtaining a permit from the City. Decisions by City Council on the Rental Housing Demolition application are not subject to appeal to the Ontario Land Tribunal (OLT).</p>\n<p>&nbsp;</p>\n<p><strong>Detailed information regarding the demolition proposal, including background information and materials, may be obtained by contacting Andrew Cohrs, Senior Planner, Strategic Initiatives, Policy and Analysis at 416-392-4730, or by e-mail at <a href=\"mailto:Andrew.Cohrs@toronto.ca\">Andrew.Cohrs@toronto.ca</a>.</strong></p>\n<p>&nbsp;</p>\n<p><strong>PURPOSE OF PUBLIC MEETING</strong></p>\n<p>&nbsp;</p>\n<p>The Planning and Housing Committee will receive input and review the proposal and any other material placed before it, in order to make recommendations on the application. These recommendations will then be forwarded to Toronto City Council for its consideration.</p>\n<p>&nbsp;</p>\n<p>You can follow the meeting at <a href=\"http://www.youtube.com/TorontoCityCouncilLive\">www.youtube.com/TorontoCityCouncilLive</a>.</p>\n<p>&nbsp;</p>\n<p><strong>MAKE YOUR VIEWS KNOWN</strong></p>\n<p>&nbsp;</p>\n<p>You may send written comments by e-mail to <strong><a href=\"mailto:phc@toronto.ca\">phc@toronto.ca</a></strong> or by mail to the address below. You can submit written comments up until City Council gives final consideration to the proposal.</p>\n<p>&nbsp;</p>\n<p>You are also invited to address Planning Housing and Committee, in person, by video conference or by telephone, to make your views known regarding the proposal.</p>\n<p>&nbsp;</p>\n<p>If you wish to address Planning Housing and Committee directly, please register by e-mail to <strong><a href=\"mailto:phc@toronto.ca\">phc@toronto.ca </a></strong>or by phone at <strong>416-397-4579</strong>, no later than <strong>12:00 p.m. on February 25, 2026</strong>. If you register, we will contact you with instructions on how to participate in the meeting.</p>\n<p>&nbsp;</p>\n<p>The Planning and Housing Committee may request you to file an outline of your presentation with the Clerk.</p>\n<p>&nbsp;</p>\n<p>For more information about the matter, including information about appeal rights, please contact: <strong>City Clerk, Attention: Nancy Martins, Administrator, Planning and Housing Committee, 100 Queen Street West, Floor 2, Toronto, ON, M5H 2N2, Phone: 416-397-4579, Fax: 416-392-2980, e-mail: <a href=\"mailto:phc@toronto.ca\">phc@toronto.ca</a>.</strong></p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance:</strong> City Staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-397-4579, TTY 416-338-0889 or e-mail <a href=\"mailto:phc@toronto.ca\">phc@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p><strong>If you wish to be notified</strong> of the decision of the City of Toronto on the proposed Rental Housing Demolition application, you must make a written request to the City Clerk attention: Nancy Martins, Administrator, at the address, fax number or email set out above.</p>\n<p>&nbsp;</p>\n<p><strong>People writing or making presentations at the public meeting:</strong>&nbsp; The <em>City of Toronto Act, 2006</em>, the <em>Planning Act</em>, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available. Direct any questions about this collection to City Clerk&rsquo;s Office at the telephone number or email address set out above.</p>\n<p>&nbsp;</p>\n<p>An online version of this Notice is available at <a href=\"https://www.toronto.ca/city-government/public-notices-bylaws/\">https://www.toronto.ca/city-government/public-notices-bylaws/</a>.</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7072,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 266763 NNY 08 RH",
+    "25 251661 NNY 08 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Public Meeting - Rental Housing Demolition and Conversion - 1-97 Dorney Court, 2-8 Flemington Road and 21-39 Varna Drive",
+  "topics": [
+    "Meetings > Notice of meeting"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-meeting.png"
+  ]
+}
