@@ -1,0 +1,79 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "191 College Street Toronto Ontario",
+      "latitudeCoordinate": "43.658679643",
+      "longitudeCoordinate": "-79.394797581",
+      "postalCode": "M5T 1P9",
+      "province": "Ontario",
+      "streetAddress": "191 College Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "199 College Street Toronto Ontario",
+      "latitudeCoordinate": "43.65861021",
+      "longitudeCoordinate": "-79.395130724",
+      "postalCode": "M5T 1P9",
+      "province": "Ontario",
+      "streetAddress": "199 College Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "74 Henry Street Toronto Ontario",
+      "latitudeCoordinate": "43.658432585",
+      "longitudeCoordinate": "-79.394814507",
+      "postalCode": "M5T 1X2",
+      "province": "Ontario",
+      "streetAddress": "74 Henry Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "76 Henry Street Toronto Ontario",
+      "latitudeCoordinate": "43.658468032",
+      "longitudeCoordinate": "-79.394787688",
+      "postalCode": "M5T 1X2",
+      "province": "Ontario",
+      "streetAddress": "76 Henry Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 191-199 College Street and 74-76 Henry Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7390"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M5H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1778817600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 26 120321 STE 11 OZ</p>\n<p>Application to Amend the Official Plan and Zoning By-Law for a 45-storey mixed-use building, containing 694 units (408 affordable units), and 1,355 square metres of non-residential space.</p>\n<p>191-199 College Street and 74-76 Henry Street</p>\n<p>Ward 11 &ndash; University-Rosedale</p>\n<p>This land is also subject to an application under the Planning Act for site plan control, Application Number: 22 196930 STE 11 SA</p>\n<p>Konain Edhi, Planner at 416-396-4254 or <a href=\"mailto:Konain.Edhi2@toronto.ca\">Konain.Edhi2@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7444,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "26 120321 STE 11 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 191-199 College Street and 74-76 Henry Street",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}

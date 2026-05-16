@@ -1,0 +1,57 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "27 Grosvenor Street Toronto Ontario",
+      "latitudeCoordinate": "43.662467559",
+      "longitudeCoordinate": "-79.385264424",
+      "province": "Ontario",
+      "streetAddress": "27 Grosvenor Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "26 Grenville Street Toronto Ontario",
+      "latitudeCoordinate": "43.662072575",
+      "longitudeCoordinate": "-79.385008284",
+      "postalCode": "M7A 2G9",
+      "province": "Ontario",
+      "streetAddress": "26 Grenville Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 27 Grosvenor Street and 26 Grenville Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7393"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M5H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1778817600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>&nbsp; NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 26 144414 STE 13 OZ</p>\n<p>Application to Amend Zoning By-Law 1096-2021 and the associated Section 37 agreement to reduce the required gross floor area of the childcare centre without reducing the capacity of the facility and to reduce the number of pickup and drop-off spaces required to be provided on site with the additional spaces to be provided in a layby in the adjacent public Right of Way.</p>\n<p>27 Grosvenor Street and 26 Grenville Street</p>\n<p>Ward 13 &ndash; Toronto Centre</p>\n<p>This land is also subject to an application under the Planning Act for Site Plan Control, Application Number: 19 127591 STE 13 SA.</p>\n<p>Abraham Plunkett-Latimer, Planner at 416-397-1942 or at <a href=\"mailto:Abraham.Plunkett-Latimer@toronto.ca\">Abraham.Plunkett-Latimer@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7447,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "26 144414 STE 13 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 27 Grosvenor Street and 26 Grenville Street",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
