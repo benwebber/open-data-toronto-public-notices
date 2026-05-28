@@ -1,0 +1,49 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "145 Sheppard Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.76332953",
+      "longitudeCoordinate": "-79.4013905187",
+      "postalCode": "M2N 3A7",
+      "province": "Ontario",
+      "streetAddress": "145 Sheppard Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "181 Sheppard Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.763515072",
+      "longitudeCoordinate": "-79.400095844",
+      "postalCode": "M2N 0L9",
+      "province": "Ontario",
+      "streetAddress": "181 Sheppard Avenue East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Property - 145 Sheppard Avenue East and 181 Sheppard Avenue East",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7419"
+    }
+  ],
+  "contact": {
+    "contactName": "Winnie Lam",
+    "emailAddress": "Winnie.Lam@toronto.ca"
+  },
+  "eventList": [],
+  "noticeDate": 1779854400000,
+  "noticeDescription": "<p><strong>NOTICE</strong> is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal By-law, the following property was declared surplus on November 24, 2025:</p>\n<p>&nbsp;</p>\n<p>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A portion of the public lane between 145 Sheppard Avenue East and 181 Sheppard Avenue East, being part of lane Plan 3596 North York, shown as Part 1 on Plan 66R-34984, City of Toronto, conditional on City Council approving the permanent closure of the subject lane. The parcel has an area of 36.79m2 (396ft2). The City proposes that the intended manner of disposal be by way of inviting an offer to purchase the lane from the adjacent owner, Tilzen Holding Limited.</p>\n<p>&nbsp;</p>\n<p>2) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A portion of the public lane between 145 Sheppard Avenue East and 181 Sheppard Avenue East, being part of lane Plan 3596 North York,&nbsp; shown as Part 2 on Plan 66R-34984, City of Toronto, conditional on City Council approving the permanent closure of the subject lane. The parcel has an area of 9.082 (97.74ft2). The City proposes that the intended manner of disposal be by way of inviting an offer to purchase the lane from the adjacent owner, Tilzen Holding Limited.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Ms. Winnie Lam, Property Officer, Real Estate Services, Tel: 437-991-8040, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until June 10, 2026.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7473,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property - 145 Sheppard Avenue East and 181 Sheppard Avenue East",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-realestate.png"
+  ]
+}
