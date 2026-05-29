@@ -1,0 +1,301 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5670 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.78056351588728",
+      "longitudeCoordinate": "-79.41591865767214",
+      "province": "Ontario",
+      "streetAddress": "5670 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "6600 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.79674441",
+      "longitudeCoordinate": "-79.422689848",
+      "postalCode": "M2M 3X4",
+      "province": "Ontario",
+      "streetAddress": "6600 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "6991  Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.7978002909404",
+      "longitudeCoordinate": "-79.41960879999999",
+      "province": "Ontario",
+      "streetAddress": "6991  Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.797900434",
+      "longitudeCoordinate": "-79.419618999",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "1 Steeles Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.7979968112",
+      "longitudeCoordinate": "-79.4192835578",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "7 Steeles Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.7980228682",
+      "longitudeCoordinate": "-79.4190883464",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "9 Steeles Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.7980547923",
+      "longitudeCoordinate": "-79.4189433551",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "11 Steeles Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "13 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.798078107",
+      "longitudeCoordinate": "-79.418795107",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "13 Steeles Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "15 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.798109696",
+      "longitudeCoordinate": "-79.418649993",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "15 Steeles Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.798150201",
+      "longitudeCoordinate": "-79.418537695",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "19 Steeles Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "25 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.798235915",
+      "longitudeCoordinate": "-79.418069422",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "25 Steeles Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "27 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.798290666",
+      "longitudeCoordinate": "-79.417754693",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "27 Steeles Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "31 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.798373717",
+      "longitudeCoordinate": "-79.417506917",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "31 Steeles Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "33 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.798415746",
+      "longitudeCoordinate": "-79.417376589",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "33 Steeles Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "35 Steeles Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.79842519",
+      "longitudeCoordinate": "-79.417198439",
+      "postalCode": "M2M 3Y2",
+      "province": "Ontario",
+      "streetAddress": "35 Steeles Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "8 Nipigon Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.797505338",
+      "longitudeCoordinate": "-79.419145724",
+      "postalCode": "M2M 2V8",
+      "province": "Ontario",
+      "streetAddress": "8 Nipigon Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10 Nipigon Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.797562452",
+      "longitudeCoordinate": "-79.41892761",
+      "postalCode": "M2M 2V8",
+      "province": "Ontario",
+      "streetAddress": "10 Nipigon Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "14 Nipigon Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.797594856",
+      "longitudeCoordinate": "-79.41876895",
+      "postalCode": "M2M 2V8",
+      "province": "Ontario",
+      "streetAddress": "14 Nipigon Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "26 Nipigon Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.797786696",
+      "longitudeCoordinate": "-79.417918601",
+      "postalCode": "M2M 2V8",
+      "province": "Ontario",
+      "streetAddress": "26 Nipigon Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "28 Nipigon Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.797810547",
+      "longitudeCoordinate": "-79.417735493",
+      "postalCode": "M2M 2V8",
+      "province": "Ontario",
+      "streetAddress": "28 Nipigon Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "30 Nipigon Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.797894656",
+      "longitudeCoordinate": "-79.417612008",
+      "postalCode": "M2M 2V8",
+      "province": "Ontario",
+      "streetAddress": "30 Nipigon Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "32 Nipigon Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.797875256",
+      "longitudeCoordinate": "-79.417447795",
+      "postalCode": "M2M 2V8",
+      "province": "Ontario",
+      "streetAddress": "32 Nipigon Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "34 Nipigon Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.79791459",
+      "longitudeCoordinate": "-79.417286222",
+      "postalCode": "M2M 2V8",
+      "province": "Ontario",
+      "streetAddress": "34 Nipigon Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "36 Nipigon Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.797954085",
+      "longitudeCoordinate": "-79.417172402",
+      "postalCode": "M2M 2V8",
+      "province": "Ontario",
+      "streetAddress": "36 Nipigon Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "38 Nipigon Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.798007206",
+      "longitudeCoordinate": "-79.417057147",
+      "postalCode": "M2M 2V8",
+      "province": "Ontario",
+      "streetAddress": "38 Nipigon Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "843 Don Mills Road Toronto Ontario",
+      "latitudeCoordinate": "43.722760772",
+      "longitudeCoordinate": "-79.338919574",
+      "postalCode": "M3C 1V4",
+      "province": "Ontario",
+      "streetAddress": "843 Don Mills Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": " Notice of Passing of Zoning By-laws 487-2026 and 488-2026 - 5670 Yonge Street, 6600 Yonge Street, 6991 Yonge Street, 1 Steeles Avenue East, 7 Steeles Avenue East, 9 Steeles Avenue East, 11 Steeles Avenue, 13 Steeles Avenue, 15 Steeles Avenue, 19 Steeles Avenue, 25 Steeles Avenue, 27 Steeles Avenue East, 31 Steeles Avenue East, 33 Steeles Avenue East, 35 Steeles Avenue East, 8 Nipigon Avenue, 10 Nipigon Avenue, 14 Nipigon Avenue, 26 Nipigon Avenue, 28 Nipigon Avenue, 30 Nipigon Avenue, 32 Nipigo",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7429"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M5H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1779940800000,
+  "noticeDescription": "<p><strong>NOTICE OF PASSING OF ZONING BY-LAWS 487-2026 and 488-2026</strong></p>\n<p><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that the City of Toronto passed Zoning By-laws 487-2026 and 488-2026 on May 21, 2026, with respect to the lands known as 5670 Yonge Street, 6600 Yonge Street, 6991 Yonge Street, 1 Steeles Avenue East, 7 Steeles Avenue East, 9 Steeles Avenue East, 11 Steeles Avenue, 13 Steeles Avenue, 15 Steeles Avenue, 19 Steeles Avenue, 25 Steeles Avenue, 27 Steeles Avenue East, 31 Steeles Avenue East, 33 Steeles Avenue East, 35 Steeles Avenue East, 8 Nipigon Avenue, 10 Nipigon Avenue, 14 Nipigon Avenue, 26 Nipigon Avenue, 28 Nipigon Avenue, 30 Nipigon Avenue, 32 Nipigon Avenue, 34 Nipigon Avenue, 36 Nipigon Avenue and 38 Nipigon Avenue, 843 Don Mills Road, and certain&nbsp;unaddressed lands south of 235 and 255 Wicksteed Avenue and north of existing hydro corridor.&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p>An explanation of the purpose and effect of the Zoning By-laws are provided.&nbsp; The amendments were processed under file number:&nbsp; 25 252478 STE 10 OZ.</p>\n<p>&nbsp;</p>\n<p>A statutory public meeting was held on April 29, 2026, and the North York Community Council and Toronto City Council considered no oral and one written submission in making the decision. Please see item <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2026.NY32.5\">https://secure.toronto.ca/council/agenda-item.do?item=2026.NY32.5</a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal to the Ontario Land Tribunal in respect to all or part of this Zoning By-law may be made by filing a notice of appeal with the City Clerk, <strong>Attention:&nbsp; Raneisha Hemmings</strong>, Registrar Secretariat, 100 Queen Street West, 2nd Floor West, Toronto, ON. M5H 2N2, no later than 4:30 p.m. on <strong>June 17, 2026</strong>. If delivering in-person, drop off at the Registry Services Counter, Toronto City Hall. The filing of notice of appeal after 4:30 p.m., in person or electronically, will be deemed to have received the next business day.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the appeal; and</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be accompanied by the fee prescribed under the Ontario Land Tribunal in the amount of $1,100.00 for each application appealed payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the OLT website at <a href=\"http://www.olt.gov.on.ca\">www.olt.gov.on.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only individuals, corporations and public bodies may appeal a by-law to the Ontario Land Tribunal.&nbsp; A notice of appeal may not be filed by an unincorporated association or group.&nbsp; However, a notice of appeal may be filed in the name of an individual who is a member of the association or group on its behalf.</p>\n<p>&nbsp;</p>\n<p>No person or public body shall be added as a party to the hearing of the appeal unless, before the by-law was passed, the person or public body made oral submissions at a public meeting or written submissions to the Council, or in the opinion of the Ontario Land Tribunal, there are reasonable grounds to add the person or public body as a party.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>A copy of the by-law and background information about the application may be obtained by contacting Anushree Banerjee, Community Planner at 416-338-5769 or by email at <a href=\"mailto:Anushree.Banerjee@toronto.ca\">Anushree.Banerjee@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><strong>PURPOSE AND EFFECT OF ZONING BY-LAWS 487-2026 and 488-2026</strong><br />&nbsp;</p>\n<p>The purpose and effect of Zoning By-laws 487-2026 and 488-2026 is to propose city-initiated zoning by-law amendments to facilitate the delivery of the Yonge North Subway Extension (YNSE) project and Ontario Line (OL). The purpose of these amendments is to provide relief from certain zoning by-law provisions related to transportation uses for lands to be acquired by Metrolinx to accommodate YNSE project elements and OL project elements.</p>\n<p>&nbsp;</p>\n<p>The zoning by-law amendments affect lands which will accommodate Transit Structures such as emergency exit buildings, emergency service buildings, traction power substations, transit station entrance buildings and temporary facilities required for construction.</p>\n<p>&nbsp;</p>\n<p>The amendments would apply to transportation uses only and are consistent with Official Plan and zoning policies, and none of the proposed amendments reduce zoning permissions on abutting lands, nor will the amendments impact other uses permitted on properties affected by the amendments.</p>\n<p>&nbsp;</p>\n<p>Given that the amendments listed in this Notice regulate the use of lands at several locations within the geographic boundaries of the City of Toronto, a key map has not been provided with this notice.</p>\n<p>&nbsp;</p>\n<p>Further information may be obtained by <strong>Anushree Banerjee</strong>, Community Planner at 416-338-5769 or by email at <a href=\"mailto:Anushree.Banerjee@toronto.ca\">Anushree.Banerjee@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7481,
+  "otherReferenceList": [
+    {
+      "description": "2026.NY32.5 - Yonge North Subway Extension and Ontario Line City-initiated Zoning By-law Amendments to Implement - Decision Report - Approval",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2026.NY32.5"
+    }
+  ],
+  "planningApplicationNumbers": [
+    "25 252478 STE 10 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Passing of Zoning By-laws 487-2026 and 488-2026 - 5670 Yonge Street, 6600 Yonge Street, 6991 Yonge Street, 1 Steeles Avenue East, 7 Steeles Avenue East, 9 Steeles Avenue East, 11 Steeles Avenue, 13 Steeles Avenue, 15 Steeles Avenue, 19 Steeles Avenue, 25 Steeles Avenue, 27 Steeles Avenue East, 31 Steeles Avenue East, 33 Steeles Avenue East, 35 Steeles Avenue East, 8 Nipigon Avenue, 10 Nipigon Avenue, 14 Nipigon Avenue, 26 Nipigon Avenue, 28 Nipigon Avenue, 30 Nipigon Avenue, 32 Nipigon Avenue, 34 Nipigon Avenue, 36 Nipigon Avenue and 38 Nipigon Avenue, 843 Don Mills Road, and certain unaddressed lands south of 235 and 255 Wicksteed Avenue and north of existing hydro corridor",
+  "topics": [
+    "Planning > Adoption of Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
