@@ -1,0 +1,232 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "238 Cherry Street Toronto Ontario",
+      "latitudeCoordinate": "43.644169921",
+      "longitudeCoordinate": "-79.354203819",
+      "province": "Ontario",
+      "streetAddress": "238 Cherry Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "256 Cherry Street Toronto Ontario",
+      "latitudeCoordinate": "43.64624653469804",
+      "longitudeCoordinate": "-79.3534691",
+      "province": "Ontario",
+      "streetAddress": "256 Cherry Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "312 Cherry Street Toronto Ontario",
+      "latitudeCoordinate": "43.64727939330387",
+      "longitudeCoordinate": "-79.35445287380098",
+      "province": "Ontario",
+      "streetAddress": "312 Cherry Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "54 Commissioners Street Toronto Ontario",
+      "latitudeCoordinate": "43.646450453",
+      "longitudeCoordinate": "-79.350920179",
+      "province": "Ontario",
+      "streetAddress": "54 Commissioners Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "80 Commissioners Street Toronto Ontario",
+      "latitudeCoordinate": "43.647031432",
+      "longitudeCoordinate": "-79.349094724",
+      "postalCode": "M5A 1A8",
+      "province": "Ontario",
+      "streetAddress": "80 Commissioners Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "130 Commissioners Street Toronto Ontario",
+      "latitudeCoordinate": "43.647632064",
+      "longitudeCoordinate": "-79.347760447",
+      "postalCode": "M5A 1A8",
+      "province": "Ontario",
+      "streetAddress": "130 Commissioners Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "150 Commissioners Street Toronto Ontario",
+      "latitudeCoordinate": "43.648089995",
+      "longitudeCoordinate": "-79.346797533",
+      "province": "Ontario",
+      "streetAddress": "150 Commissioners Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "10 Munition Street Toronto Ontario",
+      "latitudeCoordinate": "43.646942328",
+      "longitudeCoordinate": "-79.351214693",
+      "province": "Ontario",
+      "streetAddress": "10 Munition Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Munition Street Toronto Ontario",
+      "latitudeCoordinate": "43.647156057",
+      "longitudeCoordinate": "-79.350578614",
+      "province": "Ontario",
+      "streetAddress": "11 Munition Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "13 Munition Street Toronto Ontario",
+      "latitudeCoordinate": "43.648303179",
+      "longitudeCoordinate": "-79.348055023",
+      "province": "Ontario",
+      "streetAddress": "13 Munition Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "50 Ookwemin Street Toronto Ontario",
+      "latitudeCoordinate": "43.646083574",
+      "longitudeCoordinate": "-79.353469178",
+      "province": "Ontario",
+      "streetAddress": "50 Ookwemin Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "75 Ookwemin Street Toronto Ontario",
+      "latitudeCoordinate": "43.647021511",
+      "longitudeCoordinate": "-79.353460362",
+      "province": "Ontario",
+      "streetAddress": "75 Ookwemin Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "80 Ookwemin Street Toronto Ontario",
+      "latitudeCoordinate": "43.646979219",
+      "longitudeCoordinate": "-79.35443464",
+      "postalCode": "M5A 3L2",
+      "province": "Ontario",
+      "streetAddress": "80 Ookwemin Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Villiers Street Toronto Ontario",
+      "latitudeCoordinate": "43.6476402285",
+      "longitudeCoordinate": "-79.353411174",
+      "postalCode": "M5A 1B1",
+      "province": "Ontario",
+      "streetAddress": "2 Villiers Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "50 Villiers Street Toronto Ontario",
+      "latitudeCoordinate": "43.648109856296216",
+      "longitudeCoordinate": "-79.35194548650821",
+      "province": "Ontario",
+      "streetAddress": "50 Villiers Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "62 Villiers Street Toronto Ontario",
+      "latitudeCoordinate": "43.6480760876",
+      "longitudeCoordinate": "-79.3516257274",
+      "postalCode": "M5A 1B1",
+      "province": "Ontario",
+      "streetAddress": "62 Villiers Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "65 Villiers Street Toronto Ontario",
+      "latitudeCoordinate": "43.647612539",
+      "longitudeCoordinate": "-79.350601852",
+      "province": "Ontario",
+      "streetAddress": "65 Villiers Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "95 Villiers Street Toronto Ontario",
+      "latitudeCoordinate": "43.648115832",
+      "longitudeCoordinate": "-79.350244605",
+      "province": "Ontario",
+      "streetAddress": "95 Villiers Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "105 Villiers Street Toronto Ontario",
+      "latitudeCoordinate": "43.648629211",
+      "longitudeCoordinate": "-79.349055092",
+      "province": "Ontario",
+      "streetAddress": "105 Villiers Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "155 Villiers Street Toronto Ontario",
+      "latitudeCoordinate": "43.649140702",
+      "longitudeCoordinate": "-79.347871344",
+      "province": "Ontario",
+      "streetAddress": "155 Villiers Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "170 Villiers Street Toronto Ontario",
+      "latitudeCoordinate": "43.649736652",
+      "longitudeCoordinate": "-79.347781134",
+      "province": "Ontario",
+      "streetAddress": "170 Villiers Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 238, 256 and 312 Cherry Street; 54, 80, 130 and 150 Commissioners Street; 10, 11 and 13 Munition Street; 50, 75 and 80 Ookwemin Street; and 2, 50, 62, 65, 95, 105, 155 and 170 Villiers Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7532"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M5H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1781236800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following applications under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 26 161475 STE 14 SB</p>\n<p>Application to Amend the Draft Plan of Subdivision to create 13 development blocks of varying sizes and configurations, and nine additional blocks to facilitate new segments of the water's edge promenade and dockwall as well as a variety of publicly-accessible open spaces on Ookwemin Minising Precinct.</p>\n<p>238, 256 and 312 Cherry Street; 54, 80, 130 and 150 Commissioners Street; 10, 11 and 13 Munition Street; 50, 75 and 80 Ookwemin Street; and 2, 50, 62, 65, 95, 105, 155 and 170 Villiers Street</p>\n<p>Ward 14 &ndash; Toronto-Danforth</p>\n<p>Ali Meghani, Planner at 416-394-8236 or <a href=\"mailto:Ali.Meghani@toronto.ca\">Ali.Meghani@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7579,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "26 161475 STE 14 SB"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 238, 256 and 312 Cherry Street; 54, 80, 130 and 150 Commissioners Street; 10, 11 and 13 Munition Street; 50, 75 and 80 Ookwemin Street; and 2, 50, 62, 65, 95, 105, 155 and 170 Villiers Street",
+  "topics": [
+    "Planning > Complete application for Plan of Subdivision"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
