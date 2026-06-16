@@ -1,0 +1,260 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "47 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.670424614",
+      "longitudeCoordinate": "-79.378321367",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "47 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "49 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.670433099",
+      "longitudeCoordinate": "-79.378414788",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "49 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "51 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.67052623",
+      "longitudeCoordinate": "-79.378373328",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "51 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "53 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.670562311",
+      "longitudeCoordinate": "-79.378481398",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "53 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "55 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.670617498",
+      "longitudeCoordinate": "-79.378507735",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "55 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "57 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.670671157",
+      "longitudeCoordinate": "-79.37843037",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "57 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "59 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.670690366",
+      "longitudeCoordinate": "-79.37849201",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "59 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "63 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.670830987",
+      "longitudeCoordinate": "-79.378605311",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "63 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "65 Huntley Street Toronto Ontario",
+      "latitudeCoordinate": "43.670885093",
+      "longitudeCoordinate": "-79.378525526",
+      "postalCode": "M4Y 2L2",
+      "province": "Ontario",
+      "streetAddress": "65 Huntley Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1 Selby Street Toronto Ontario",
+      "latitudeCoordinate": "43.670914484",
+      "longitudeCoordinate": "-79.378075201",
+      "postalCode": "M4Y 1W3",
+      "province": "Ontario",
+      "streetAddress": "1 Selby Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3 Selby Street Toronto Ontario",
+      "latitudeCoordinate": "43.670933412",
+      "longitudeCoordinate": "-79.377987627",
+      "postalCode": "M4Y 1W3",
+      "province": "Ontario",
+      "streetAddress": "3 Selby Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "5 Selby Street Toronto Ontario",
+      "latitudeCoordinate": "43.670942838",
+      "longitudeCoordinate": "-79.377894045",
+      "postalCode": "M4Y 1W3",
+      "province": "Ontario",
+      "streetAddress": "5 Selby Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "7 Selby Street Toronto Ontario",
+      "latitudeCoordinate": "43.670960289",
+      "longitudeCoordinate": "-79.377805593",
+      "postalCode": "M4Y 1W3",
+      "province": "Ontario",
+      "streetAddress": "7 Selby Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "9 Selby Street Toronto Ontario",
+      "latitudeCoordinate": "43.670984176",
+      "longitudeCoordinate": "-79.377759117",
+      "postalCode": "M4Y 1W3",
+      "province": "Ontario",
+      "streetAddress": "9 Selby Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "11 Selby Street Toronto Ontario",
+      "latitudeCoordinate": "43.670988429",
+      "longitudeCoordinate": "-79.377659221",
+      "postalCode": "M4Y 1W3",
+      "province": "Ontario",
+      "streetAddress": "11 Selby Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Linden Street Toronto Ontario",
+      "latitudeCoordinate": "43.670454487",
+      "longitudeCoordinate": "-79.378170479",
+      "postalCode": "M4Y 1V6",
+      "province": "Ontario",
+      "streetAddress": "2 Linden Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "8 Linden Street Toronto Ontario",
+      "latitudeCoordinate": "43.670647362",
+      "longitudeCoordinate": "-79.377998273",
+      "postalCode": "M4Y 1V6",
+      "province": "Ontario",
+      "streetAddress": "8 Linden Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "12 Linden Street Toronto Ontario",
+      "latitudeCoordinate": "43.67058004",
+      "longitudeCoordinate": "-79.377849344",
+      "postalCode": "M4Y 1V6",
+      "province": "Ontario",
+      "streetAddress": "12 Linden Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "16 Linden Street Toronto Ontario",
+      "latitudeCoordinate": "43.670605309",
+      "longitudeCoordinate": "-79.37772964",
+      "postalCode": "M4Y 1V6",
+      "province": "Ontario",
+      "streetAddress": "16 Linden Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "18 Linden Street Toronto Ontario",
+      "latitudeCoordinate": "43.670689689",
+      "longitudeCoordinate": "-79.377661957",
+      "postalCode": "M4Y 1V6",
+      "province": "Ontario",
+      "streetAddress": "18 Linden Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "24 Linden Street Toronto Ontario",
+      "latitudeCoordinate": "43.670739041",
+      "longitudeCoordinate": "-79.377440817",
+      "postalCode": "M4Y 1V6",
+      "province": "Ontario",
+      "streetAddress": "24 Linden Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "26 Linden Street Toronto Ontario",
+      "latitudeCoordinate": "43.670750787",
+      "longitudeCoordinate": "-79.377388067",
+      "postalCode": "M4Y 1V6",
+      "province": "Ontario",
+      "streetAddress": "26 Linden Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Public Meeting - Rental Housing Demolition - 47, 49, 51, 53, 55, 57, 59, 63, 65 Huntley Street; 1, 3, 5, 7, 9, 11 Selby Street; 2, 8, 12, 16, 18, 24 and 26 Linden Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7528"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1781496000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF PUBLIC MEETING</strong></p>\n<p style=\"text-align: center;\"><strong>To be held by the Toronto And East York Community Council</strong></p>\n<p style=\"text-align: center;\"><strong>(Municipal Code Ch. 667 under <em>City of Toronto Act, 2006</em>)</strong></p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Rental Housing Demolition Application Number 21 238874 STE 13 RH</strong></p>\n<p>&nbsp;</p>\n<p><strong>Location of Application:&nbsp; 47, 49, 51, 53, 55, 57, 59, 63, 65 Huntley Street; 1, 3, 5, 7, 9, 11 Selby Street; 2, 8, 12, 16, 18, 24 and 26 Linden Street&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong><br /><strong>Applicant:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>Broccolini HLS Limited Partnership</strong><br /><strong>&nbsp;</strong><br /><strong>Date:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong><strong>July 8, 2026</strong><br /><strong>Time:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>1:30 p.m., or as soon as possible thereafter</strong><br /><strong>Place:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong><strong>Committee Room 1, Toronto City Hall and by Video Conference</strong><br />&nbsp;</p>\n<p><strong>PROPOSAL</strong></p>\n<p>&nbsp;</p>\n<p>The application proposes to demolish 29 existing rental dwelling units at 47, 65 Huntley Street 2, 8, 12, 16 Linden Street, and 3, 5, 11 Selby Street and redevelop the site with two residential buildings containing a total of 1,461 residential units, including 29 replacement rental units. The application also proposes the demolition of 25 existing dwelling rooms at 53, 55 Huntley Street and 8 Linden Street that will be replaced as 22 studio rental dwelling units. Tenant relocation and assistance is proposed to lessen hardship for impacted tenants. A related Official Plan and Zoning By-law Amendment application (21 227527 STE 13 OZ) has been approved by the Ontario Land Tribunal.</p>\n<p>&nbsp;</p>\n<p>A Rental Housing Demolition and Conversion application (21 238874 STE 13 RH) under Section 111 of the <em>City of Toronto Act, 2006</em> (Chapter 667 of the Municipal Code) has been submitted to permit the demolition.&nbsp; Under the <em>City of Toronto Act, 2006</em>, the demolition of a rental property with six or more dwelling units is prohibited without obtaining a permit from the City. Decisions by City Council on the Rental Housing Demolition application are not subject to appeal to the Ontario Land Tribunal (OLT).</p>\n<p>&nbsp;</p>\n<p><strong>Detailed information regarding the demolition proposal, including background information and materials, may be obtained by contacting Denise McMullin, Senior Planner, Strategic Initiatives, Policy and Analysis (Housing) at 416-395-7133, or&nbsp; by email at Denise.McMullin2@toronto.ca.</strong></p>\n<p>&nbsp;</p>\n<p><strong>PURPOSE OF PUBLIC MEETING</strong></p>\n<p>&nbsp;</p>\n<p>The Toronto and East York Community Council will receive input and review the proposal and any other</p>\n<p>material placed before it, in order to make recommendations on the application. These recommendations</p>\n<p>will then be forwarded to Toronto City Council for its consideration.</p>\n<p>&nbsp;</p>\n<p>You can follow the meeting at <a href=\"http://www.youtube.com/TorontoCityCouncilLive\">www.youtube.com/TorontoCityCouncilLive</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>MAKE YOUR VIEWS KNOWN</strong></p>\n<p>&nbsp;</p>\n<p>You may send written comments by e-mail to <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a> or by mail to the address below. You can submit written comments up until City Council gives final consideration to the proposal.</p>\n<p>&nbsp;</p>\n<p>You are also invited to address the Toronto and East York Community Council, in person, by video conference or by telephone, to make your views known regarding the proposal.</p>\n<p>If you wish to address the Toronto and East York Community Council directly, please register by e-mail to <strong><a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a></strong> or by phone at <strong>416-392-7033</strong>, no later than 1<strong>2:00 p.m. on July 7, 2026</strong>. If you register, we will contact you with instructions on how to participate in the meeting.</p>\n<p>&nbsp;</p>\n<p>The Toronto and East York Community Council may request you to file an outline of your presentation with the Clerk.</p>\n<p>&nbsp;</p>\n<p>For more information about the matter, including information about appeal rights, please contact: <strong>City Clerk, Attention: Cathrine Regan, Administrator, Toronto and East York Community Council, 100 Queen Street West, 2nd Floor, West Tower, Toronto, ON, M5H 2N2, Phone: 416-392-7033, Fax: 416-392-2980, e-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance: </strong>City Staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p><strong>If you wish to be notified</strong> of the decision on the proposed demolition, you must make a written request to the City Clerk, attention: Cathrine Regan, Administrator, Toronto and East York Community Council, at the address, fax number or e-mail set out in this notice.</p>\n<p>&nbsp;</p>\n<p><strong>People writing or making presentations at the public meeting:</strong>&nbsp; The <em>City of Toronto Act, 2006</em>, the <em>Planning Act</em>, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee, Board and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting you will appear in the video broadcast. Video broadcasts are archived and</p>\n<p>continue to be publicly available. Direct any questions about this collection to City Clerk&rsquo;s Office at the telephone number or email address set out above.</p>\n<p>&nbsp;</p>\n<p>An online version of this Notice is available at <a href=\"https://www.toronto.ca/city-government/public-notices-bylaws/\">https://www.toronto.ca/city-government/public-notices-bylaws/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7575,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "21 238874 STE 13 RH"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Public Meeting - Rental Housing Demolition - 47, 49, 51, 53, 55, 57, 59, 63, 65 Huntley Street; 1, 3, 5, 7, 9, 11 Selby Street; 2, 8, 12, 16, 18, 24 and 26 Linden Street",
+  "topics": [
+    "Meetings > Notice of meeting"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-meeting.png"
+  ]
+}
