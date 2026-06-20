@@ -1,0 +1,49 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "571 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.652267565",
+      "longitudeCoordinate": "-79.400442222",
+      "province": "Ontario",
+      "streetAddress": "571 Dundas Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 842-2020 - 571 Dundas Street West",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7553"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "eventList": [],
+  "noticeDate": 1781841600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF INTENTION TO REMOVE A HOLDING SYMBOL (H) FROM ZONING BY-LAW 842-2020</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application under Section 36 of the <em>Planning Act</em>:</p>\n<p>&nbsp;</p>\n<p><strong>Application Number:</strong> 26 101646 STE 10 OZ</p>\n<p><strong>Address:</strong> 571 Dundas Street West</p>\n<p><strong>Ward:</strong> Ward 10 - Spadina-Fort York</p>\n<p><strong>Contact: Patricia Cho, Community Planner at 416-338-6697 by e-mail at <a href=\"mailto:Patricia.Cho2@toronto.ca\">Patricia.Cho2@toronto.ca</a>.&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p><strong>DESCRIPTION</strong></p>\n<p>&nbsp;</p>\n<p>The application proposes to amend Zoning By-law 842-2020 to remove the holding symbol (H) to permit Phase 2, Site 9 and part of Site 17 of the Alexandra Park Revitalization. The proposal includes a 12-storey apartment building on the east side and a 4-storey back-to-back stacked townhouse building on the west side, with a central courtyard between the two buildings on Site 9 and a Community Recreation Hub &amp; Local Social Enterprise Centre on Site 17 (the eastern portion of Site 17). The holding provision was placed on the originally approved Zoning By-law Amendment to ensure further review of the updated Detailed Context Plans, Construction Mitigation and Safety Plan and Tenant Communication Strategy, Tenant Relocation and Assistance Plan, execution of a subdivision agreement, Housing Issues report, the Community Services and Facilities Implementation Plan, and confirmation of financing for proposed infrastructure. The location of where the holding symbol (H) would be removed is noted on the map below.</p>\n<p>&nbsp;</p>\n<p>Detailed information about the proposal, including background information and materials may be made available for review by contacting the Planner noted above or by visiting the City of Toronto&rsquo;s<a href=\"https://www.toronto.ca/city-government/planning-development/application-information-centre/#location=&amp;lat=&amp;lng=&amp;zoom=\"> Application Information Centre</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>MAKE YOUR VIEWS KNOWN</strong></p>\n<p>&nbsp;</p>\n<p>You may send written comments by mail or email to the Community Planner noted under Contact above. Your written comments must be submitted no later July 3, 2026 to be considered by the Executive Director, Development Review or their designate, the Director, Community Planning, Toronto and East York South District. A decision by the Executive Director, Development Review or their designate as to whether to remove the holding symbol (H) will occur no earlier than July 21, 2026.</p>\n<p>&nbsp;</p>\n<p><strong>Notice to people writing to the City</strong>: The<em> City of Toronto Act, 2006</em>, the <em>Planning Act</em>, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication to the City.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s).&nbsp; If you are submitting letters, e-mails, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7604,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "26 101646 STE 10 OZ "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 842-2020 - 571 Dundas Street West",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Intention to remove a Holding Symbol"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+  ]
+}
