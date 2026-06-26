@@ -1,0 +1,479 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1141 Bloor Street West Toronto Ontario",
+      "latitudeCoordinate": "43.659255104",
+      "longitudeCoordinate": "-79.436443698",
+      "province": "Ontario",
+      "streetAddress": "1141 Bloor Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "6 Breadalbane Street Toronto Ontario",
+      "latitudeCoordinate": "43.663971944",
+      "longitudeCoordinate": "-79.384433812",
+      "postalCode": "M4Y 1C3",
+      "province": "Ontario",
+      "streetAddress": "6 Breadalbane Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "8 Breadalbane Street Toronto Ontario",
+      "latitudeCoordinate": "43.663951167",
+      "longitudeCoordinate": "-79.384530725",
+      "postalCode": "M4Y 1C3",
+      "province": "Ontario",
+      "streetAddress": "8 Breadalbane Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1099 Broadview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6863153654",
+      "longitudeCoordinate": "-79.3558517083",
+      "postalCode": "M4K 2S4",
+      "province": "Ontario",
+      "streetAddress": "1099 Broadview Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2451 Danforth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.687431423",
+      "longitudeCoordinate": "-79.304147948",
+      "postalCode": "M4C 1L1",
+      "province": "Ontario",
+      "streetAddress": "2451 Danforth Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2495  Danforth Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.68786843806324",
+      "longitudeCoordinate": "-79.30306927116393",
+      "province": "Ontario",
+      "streetAddress": "2495  Danforth Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "21 Davenport Road Toronto Ontario",
+      "latitudeCoordinate": "43.672768511",
+      "longitudeCoordinate": "-79.38903583",
+      "postalCode": "M5R 1H2",
+      "province": "Ontario",
+      "streetAddress": "21 Davenport Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "25 Davenport Road Toronto Ontario",
+      "latitudeCoordinate": "43.672712264",
+      "longitudeCoordinate": "-79.389167017",
+      "postalCode": "M5R 1H2",
+      "province": "Ontario",
+      "streetAddress": "25 Davenport Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "980 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.658829881",
+      "longitudeCoordinate": "-79.435444718",
+      "postalCode": "M6H 0H4",
+      "province": "Ontario",
+      "streetAddress": "980 Dufferin Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1423 Dufferin Street Toronto Ontario",
+      "latitudeCoordinate": "43.671210951",
+      "longitudeCoordinate": "-79.439943324",
+      "postalCode": "M6H 4C7",
+      "province": "Ontario",
+      "streetAddress": "1423 Dufferin Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3286 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.665729362",
+      "longitudeCoordinate": "-79.479797573",
+      "postalCode": "M6P 2A4",
+      "province": "Ontario",
+      "streetAddress": "3286 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3290 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.665907529",
+      "longitudeCoordinate": "-79.479907759",
+      "postalCode": "M6P 2A4",
+      "province": "Ontario",
+      "streetAddress": "3290 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3298 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.665842489",
+      "longitudeCoordinate": "-79.480190509",
+      "postalCode": "M6P 2A4",
+      "province": "Ontario",
+      "streetAddress": "3298 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3300 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.665821514",
+      "longitudeCoordinate": "-79.480369326",
+      "postalCode": "M6P 2A4",
+      "province": "Ontario",
+      "streetAddress": "3300 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3308 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.665741684",
+      "longitudeCoordinate": "-79.480512916",
+      "postalCode": "M6P 2A4",
+      "province": "Ontario",
+      "streetAddress": "3308 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3316 Dundas Street West Toronto Ontario",
+      "latitudeCoordinate": "43.665769619",
+      "longitudeCoordinate": "-79.480589285",
+      "postalCode": "M6P 2A4",
+      "province": "Ontario",
+      "streetAddress": "3316 Dundas Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1080 Eastern Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.665851128",
+      "longitudeCoordinate": "-79.316040199",
+      "postalCode": "M4L 1B1",
+      "province": "Ontario",
+      "streetAddress": "1080 Eastern Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1090 Eastern Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.665973668",
+      "longitudeCoordinate": "-79.315233309",
+      "province": "Ontario",
+      "streetAddress": "1090 Eastern Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1012 Gerrard Street East Toronto Ontario",
+      "latitudeCoordinate": "43.668896792",
+      "longitudeCoordinate": "-79.338028061",
+      "postalCode": "M4M 1Z3",
+      "province": "Ontario",
+      "streetAddress": "1012 Gerrard Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1014 Gerrard Street East Toronto Ontario",
+      "latitudeCoordinate": "43.668910764",
+      "longitudeCoordinate": "-79.337960933",
+      "postalCode": "M4M 1Z3",
+      "province": "Ontario",
+      "streetAddress": "1014 Gerrard Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1016 Gerrard Street East Toronto Ontario",
+      "latitudeCoordinate": "43.668924734",
+      "longitudeCoordinate": "-79.337892317",
+      "postalCode": "M4M 1Z3",
+      "province": "Ontario",
+      "streetAddress": "1016 Gerrard Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1018 Gerrard Street East Toronto Ontario",
+      "latitudeCoordinate": "43.668941952",
+      "longitudeCoordinate": "-79.337828169",
+      "postalCode": "M4M 1Z3",
+      "province": "Ontario",
+      "streetAddress": "1018 Gerrard Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1291 Gerrard Street East Toronto Ontario",
+      "latitudeCoordinate": "43.67088783",
+      "longitudeCoordinate": "-79.327450404",
+      "postalCode": "M4L 1Y8",
+      "province": "Ontario",
+      "streetAddress": "1291 Gerrard Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1311 Gerrard Street East Toronto Ontario",
+      "latitudeCoordinate": "43.671074898",
+      "longitudeCoordinate": "-79.326628099",
+      "postalCode": "M4L 1Y8",
+      "province": "Ontario",
+      "streetAddress": "1311 Gerrard Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "243 Greenwood Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.670683379",
+      "longitudeCoordinate": "-79.327684428",
+      "postalCode": "M4L 2R4",
+      "province": "Ontario",
+      "streetAddress": "243 Greenwood Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "247 Greenwood Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.670763779",
+      "longitudeCoordinate": "-79.327719754",
+      "postalCode": "M4L 2R4",
+      "province": "Ontario",
+      "streetAddress": "247 Greenwood Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "257 Lake Shore Boulevard East Toronto Ontario",
+      "latitudeCoordinate": "43.646483607",
+      "longitudeCoordinate": "-79.364463188",
+      "province": "Ontario",
+      "streetAddress": "257 Lake Shore Boulevard East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "259 Lake Shore Boulevard East Toronto Ontario",
+      "latitudeCoordinate": "43.64660421",
+      "longitudeCoordinate": "-79.364210515",
+      "postalCode": "M5A 0W5",
+      "province": "Ontario",
+      "streetAddress": "259 Lake Shore Boulevard East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "291 Lake Shore Boulevard East Toronto Ontario",
+      "latitudeCoordinate": "43.646994335",
+      "longitudeCoordinate": "-79.362698327",
+      "province": "Ontario",
+      "streetAddress": "291 Lake Shore Boulevard East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "145 St Luke Lane Toronto Ontario",
+      "latitudeCoordinate": "43.664110869",
+      "longitudeCoordinate": "-79.384797708",
+      "postalCode": "M4Y 0J6",
+      "province": "Ontario",
+      "streetAddress": "145 St Luke Lane"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1631 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.666300712",
+      "longitudeCoordinate": "-79.31557687",
+      "postalCode": "M4L 1G4",
+      "province": "Ontario",
+      "streetAddress": "1631 Queen Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1641 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.666463051",
+      "longitudeCoordinate": "-79.31509796",
+      "postalCode": "M4L 1G4",
+      "province": "Ontario",
+      "streetAddress": "1641 Queen Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1684 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.667403044",
+      "longitudeCoordinate": "-79.313464393",
+      "postalCode": "M4L 1G6",
+      "province": "Ontario",
+      "streetAddress": "1684 Queen Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1698 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.667293313",
+      "longitudeCoordinate": "-79.312913151",
+      "province": "Ontario",
+      "streetAddress": "1698 Queen Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1700 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.667445572",
+      "longitudeCoordinate": "-79.313072701",
+      "postalCode": "M4L 1G6",
+      "province": "Ontario",
+      "streetAddress": "1700 Queen Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1702 Queen Street East Toronto Ontario",
+      "latitudeCoordinate": "43.667405342",
+      "longitudeCoordinate": "-79.312827546",
+      "postalCode": "M4L 1G6",
+      "province": "Ontario",
+      "streetAddress": "1702 Queen Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "200 Queens Quay East Toronto Ontario",
+      "latitudeCoordinate": "43.646207429",
+      "longitudeCoordinate": "-79.363404853",
+      "postalCode": "M5A 4K9",
+      "province": "Ontario",
+      "streetAddress": "200 Queens Quay East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "22 Scollard Street Toronto Ontario",
+      "latitudeCoordinate": "43.6726256",
+      "longitudeCoordinate": "-79.388957705",
+      "postalCode": "M5R 1E9",
+      "province": "Ontario",
+      "streetAddress": "22 Scollard Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "23 Scollard Street Toronto Ontario",
+      "latitudeCoordinate": "43.67238104337315",
+      "longitudeCoordinate": "-79.38877808465571",
+      "province": "Ontario",
+      "streetAddress": "23 Scollard Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Small Street Toronto Ontario",
+      "latitudeCoordinate": "43.646516174",
+      "longitudeCoordinate": "-79.362314514",
+      "province": "Ontario",
+      "streetAddress": "2 Small Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "530 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.664028672",
+      "longitudeCoordinate": "-79.384459718",
+      "postalCode": "M4Y 1Y8",
+      "province": "Ontario",
+      "streetAddress": "530 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "550 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.664386073",
+      "longitudeCoordinate": "-79.384598232",
+      "postalCode": "M4Y 1Y8",
+      "province": "Ontario",
+      "streetAddress": "550 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "543 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.664357568",
+      "longitudeCoordinate": "-79.384005793",
+      "postalCode": "M4Y 1Y5",
+      "province": "Ontario",
+      "streetAddress": "543 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "555 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.664757247",
+      "longitudeCoordinate": "-79.384085417",
+      "postalCode": "M4Y 3A6",
+      "province": "Ontario",
+      "streetAddress": "555 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "21 Windermere Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.638537676",
+      "longitudeCoordinate": "-79.47007012",
+      "province": "Ontario",
+      "streetAddress": "21 Windermere Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": " Public Notice - Exclusion of Various Addresses from Permit Parking - 1141 Bloor Street West,6-8 Breadalbane Street,1099 Broadview Avenue, 2451-2495 Danforth Avenue, 21-25 Davenport Road, 980 Dufferin Street, 1423 Dufferin Street, 3286, 3290, 3298, 3300, 3308, 3316 Dundas Street West, 1080, 1090 Eastern Avenue, 1012, 1014, 1016, 1018, 1291-1311 Gerrard Street East, 243-247 Greenwood Avenue, 257-259,291 Lake Shore Boulevard East, 145 St Luke Lane, 1631, 1641, 1684, 1698, 1700, 1702 Queen Street E",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7599"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Toronto and East York Community Council",
+    "country": "Canada",
+    "emailAddress": "teycc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall, 2nd Floor",
+    "phone": "416-392-7033",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1782360000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>&nbsp;Public Notice</strong></p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Exclusion of Various Addresses from Permit Parking</strong></p>\n<p>&nbsp;</p>\n<p>Notice is hereby given that the Council of the City of Toronto proposes to pass a by-law to realign the boundary of Permit Parking areas to exclude the following developments:</p>\n<p>&nbsp;</p>\n<ul>\n<li>1141 Bloor Street West;</li>\n<li>6-8 Breadalbane Street;</li>\n<li>1099 Broadview Avenue;</li>\n<li>2451-2495 Danforth Avenue;</li>\n<li>21-25 Davenport Road;</li>\n<li>980 Dufferin Street;</li>\n<li>1423 Dufferin Street;</li>\n<li>3286, 3290, 3298, 3300, 3308, 3316 Dundas Street West;</li>\n<li>1080, 1090 Eastern Avenue;</li>\n<li>1012, 1014, 1016, 1018, 1291-1311 Gerrard Street East;</li>\n<li>243-247 Greenwood Avenue;</li>\n<li>257-259,291 Lake Shore Boulevard East;</li>\n<li>145 St Luke Lane;</li>\n<li>1631, 1641, 1684, 1698, 1700, 1702 Queen Street East;</li>\n<li>200 Queens Quay East (Quayside Blocks 1 and 2);</li>\n<li>22-23 Scollard Street;</li>\n<li>2 Small Street;</li>\n<li>530-550, 543-555 Yonge Street; and</li>\n<li>21 Windermere Avenue.</li>\n</ul>\n<p>The meeting of the Toronto and East York Community Council will be held on July 8 and 9, 2026, at 9:30 a.m., or shortly afterwards and will meet by video conference and in person in Committee Room 1, Toronto City Hall, 100 Queen Street West.</p>\n<p>&nbsp;</p>\n<p>Any objections regarding this proposal should be set out in writing and forwarded to the City Clerk, Attention: Administrator, Toronto and East York Community Council, City of Toronto, City Clerk&rsquo;s Office - Secretariat, City Hall, 100 Queen Street West, 2nd floor, Toronto, Ontario, M5H 2N2, or by E-mail: <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>If you wish to make a presentation to the Community Council regarding this proposal, please phone 416-392-7033 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a> by 12:00 p.m. on July 7, 2026, so that we can include your name on the list of speakers and provide you with instructions on how to participate in the meeting.</p>\n<p>&nbsp;</p>\n<p><strong>Special Assistance for Members of the Public</strong>: City staff can arrange for special assistance with some advance notice. If you need special assistance, please call 416-392-7033, TTY 416-338-0889 or e-mail <a href=\"mailto:teycc@toronto.ca\">teycc@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Notice to People Writing or Making Presentations to the Toronto and East York Community Council:</strong> The City of Toronto Act, 2006 and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication or presentation to City Council or its committees and Boards.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). If you are submitting letters, faxes, e-mails, presentations, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it &ndash; such as your postal address, telephone number or e-mail address &ndash;available to the public unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>\n<p>Many Committee Board, and Advisory Body meetings are broadcast live over the internet for the public to view. If you speak at the meeting, you will appear in the video broadcast. Video broadcasts are archived and continue to be publicly available.</p>\n<p>If you want to learn more about why and how the City collects your information, write to the City Clerk's Office, City Hall, 100 Queen Street West, Toronto, ON, M5H 2N2 or call 416-392-7033.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7630,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Public Notice - Exclusion of Various Addresses from Permit Parking - 1141 Bloor Street West,6-8 Breadalbane Street,1099 Broadview Avenue, 2451-2495 Danforth Avenue, 21-25 Davenport Road, 980 Dufferin Street, 1423 Dufferin Street, 3286, 3290, 3298, 3300, 3308, 3316 Dundas Street West, 1080, 1090 Eastern Avenue, 1012, 1014, 1016, 1018, 1291-1311 Gerrard Street East, 243-247 Greenwood Avenue, 257-259,291 Lake Shore Boulevard East, 145 St Luke Lane, 1631, 1641, 1684, 1698, 1700, 1702 Queen Street East, 200 Queens Quay East (Quayside Blocks 1 and 2), 22-23 Scollard Street, 2 Small Street, 530-550, 543-555 Yonge Street, 21 Windermere Avenue\n",
+  "topics": [
+    "Transportation > Intention to terminate permit parking on a road"
+  ],
+  "uniqueMapUrl": [
+    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-transport.png"
+  ]
+}
