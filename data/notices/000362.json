@@ -38,7 +38,7 @@
     "Meetings > Council adopted meeting schedule"
   ],
   "uniqueMapUrl": [
-    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-financial.png",
-    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-meeting.png"
+    "/nm/static/map-icon/7628.png",
+    "/nm/static/map-icon/7631.png"
   ]
 }

@@ -33,7 +33,7 @@
     "Meetings"
   ],
   "uniqueMapUrl": [
-    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-council.png",
-    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-meeting.png"
+    "/nm/static/map-icon/7627.png",
+    "/nm/static/map-icon/7631.png"
   ]
 }

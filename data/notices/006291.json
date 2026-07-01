@@ -30,7 +30,7 @@
     "Planning"
   ],
   "uniqueMapUrl": [
-    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-meeting.png",
-    "https://www.toronto.ca/legdocs/nmis/legend/images/legend-planning.png"
+    "/nm/static/map-icon/7631.png",
+    "/nm/static/map-icon/7636.png"
   ]
 }
