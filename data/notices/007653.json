@@ -1,0 +1,60 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2930 Finch Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.794141512",
+      "longitudeCoordinate": "-79.330362761",
+      "postalCode": "M1W 2T4",
+      "province": "Ontario",
+      "streetAddress": "2930 Finch Avenue East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2948 Finch Avenue East Toronto Ontario",
+      "latitudeCoordinate": "43.79412167",
+      "longitudeCoordinate": "-79.329491657",
+      "postalCode": "M1W 2T4",
+      "province": "Ontario",
+      "streetAddress": "2948 Finch Avenue East"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": " Notice of Application - Under the Planning Act - 2930–2948 Finch Avenue East",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7624"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Scarborough Community Council",
+    "country": "Canada",
+    "emailAddress": "scc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Scarborough Civic Centre",
+    "phone": "416-397-4579",
+    "postalCode": "M1P 4N7",
+    "province": "Ontario",
+    "streetAddress": "150 Borough Drive"
+  },
+  "decisionBody": "Scarborough Community Council",
+  "eventList": [],
+  "noticeDate": 1783051200000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>&nbsp; NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application(s) under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>SCARBOROUGH COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 24 105045 ESC 22 OZ</p>\n<p>Application to Amend the Zoning By-law to permit a mixed-use building complex consisting of a 16-storey tower, a 28-storey tower, and a 10-storeys mid-rise, all connected by a seven-storey base building.</p>\n<p>2930&ndash;2948 Finch Avenue East</p>\n<p>Ward 22 &ndash; Scarborough-Agincourt</p>\n<p>Asif Patel, Planner at 416-392-7572 or <a href=\"mailto:Asif.Patel@toronto.ca\">Asif.Patel@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7653,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "24 105045 ESC 22 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 2930-2948 Finch Avenue East",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "/nm/static/map-icon/7636.png"
+  ]
+}
