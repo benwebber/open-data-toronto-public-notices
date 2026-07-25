@@ -1,0 +1,177 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "70 Fraser Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.637840981",
+      "longitudeCoordinate": "-79.424384952",
+      "postalCode": "M6K 3E1",
+      "province": "Ontario",
+      "streetAddress": "70 Fraser Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "74 Fraser Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.638531609",
+      "longitudeCoordinate": "-79.42468917",
+      "postalCode": "M6K 3E1",
+      "province": "Ontario",
+      "streetAddress": "74 Fraser Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "80 Fraser Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.638503746",
+      "longitudeCoordinate": "-79.425047863",
+      "postalCode": "M6K 3E1",
+      "province": "Ontario",
+      "streetAddress": "80 Fraser Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "90 Fraser Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.638969789939075",
+      "longitudeCoordinate": "-79.42516147116372",
+      "province": "Ontario",
+      "streetAddress": "90 Fraser Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "100 Liberty Street Toronto Ontario",
+      "latitudeCoordinate": "43.637844723",
+      "longitudeCoordinate": "-79.42482422",
+      "postalCode": "M6K 3L7",
+      "province": "Ontario",
+      "streetAddress": "100 Liberty Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "108 Liberty Street Toronto Ontario",
+      "latitudeCoordinate": "43.637539452",
+      "longitudeCoordinate": "-79.425180995",
+      "province": "Ontario",
+      "streetAddress": "108 Liberty Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "67 Mowat Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6381431944",
+      "longitudeCoordinate": "-79.4253785978",
+      "postalCode": "M6K 3E3",
+      "province": "Ontario",
+      "streetAddress": "67 Mowat Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "77 Mowat Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.638451994",
+      "longitudeCoordinate": "-79.425503899",
+      "postalCode": "M6K 3E3",
+      "province": "Ontario",
+      "streetAddress": "77 Mowat Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "85 Mowat Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.638852614",
+      "longitudeCoordinate": "-79.425625186",
+      "postalCode": "M6K 3E3",
+      "province": "Ontario",
+      "streetAddress": "85 Mowat Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "87 Mowat Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.638935857",
+      "longitudeCoordinate": "-79.42565373",
+      "postalCode": "M6K 3E3",
+      "province": "Ontario",
+      "streetAddress": "87 Mowat Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1179 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.639224491",
+      "longitudeCoordinate": "-79.425215974",
+      "postalCode": "M6K 3C5",
+      "province": "Ontario",
+      "streetAddress": "1179 King Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1179 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.639207728",
+      "longitudeCoordinate": "-79.425042246",
+      "postalCode": "M6K 3C5",
+      "province": "Ontario",
+      "streetAddress": "1179 King Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1183 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.639159379",
+      "longitudeCoordinate": "-79.42538131",
+      "postalCode": "M6K 3C5",
+      "province": "Ontario",
+      "streetAddress": "1183 King Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "1189 King Street West Toronto Ontario",
+      "latitudeCoordinate": "43.639100634",
+      "longitudeCoordinate": "-79.425753811",
+      "postalCode": "M6K 3C5",
+      "province": "Ontario",
+      "streetAddress": "1189 King Street West"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - Toronto Carpet Factory",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7706"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M5H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1784865600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>&nbsp; NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 26 183202 STE 10 OZ&nbsp;</p>\n<p>Application to Amend the Official Plan and Zoning By-law to permit a 37-storey building at the southeast corner of the complex known as the Toronto Carpet Factory.</p>\n<p>70-74, 80 and 90 Fraser Avenue, 100-108, Liberty Street, 67, 77 and 85-87 Mowat Avenue and 1179, 1179A and 1183-1189 King Street West</p>\n<p>Ward 10 &ndash; Spadina-Fort York</p>\n<p>George Pantazis, Planner at 416-392-3566 or <a href=\"mailto:George.Pantazis@toronto.ca\">George.Pantazis@toronto.ca</a></p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,&nbsp;</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7718,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "26 183202 STE 10 OZ "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - Toronto Carpet Factory",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "/nm/static/map-icon/7636.png"
+  ]
+}

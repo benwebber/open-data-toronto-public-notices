@@ -1,0 +1,111 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "19 Archerhill Drive Toronto Ontario",
+      "latitudeCoordinate": "43.657209397",
+      "longitudeCoordinate": "-79.561909675",
+      "postalCode": "M9B 5P2",
+      "province": "Ontario",
+      "streetAddress": "19 Archerhill Drive"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "28 Forsyth Crescent Toronto Ontario",
+      "latitudeCoordinate": "43.7020116413",
+      "longitudeCoordinate": "-79.3816451054",
+      "postalCode": "M4S 2R1",
+      "province": "Ontario",
+      "streetAddress": "28 Forsyth Crescent"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "46 Purpledusk Trail Toronto Ontario",
+      "latitudeCoordinate": "43.782379376",
+      "longitudeCoordinate": "-79.208852433",
+      "postalCode": "M1E 4C8",
+      "province": "Ontario",
+      "streetAddress": "46 Purpledusk Trail"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "102 Donlands Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.6834372866",
+      "longitudeCoordinate": "-79.3388121195",
+      "postalCode": "M4J 3P1",
+      "province": "Ontario",
+      "streetAddress": "102 Donlands Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "395 Kane Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.690809943",
+      "longitudeCoordinate": "-79.469942266",
+      "postalCode": "M6M 3P5",
+      "province": "Ontario",
+      "streetAddress": "395 Kane Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "563 Woburn Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.723999811",
+      "longitudeCoordinate": "-79.422442639",
+      "postalCode": "M5M 1L8",
+      "province": "Ontario",
+      "streetAddress": "563 Woburn Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "City's Residential Retrofit Program",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7707"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "City Council",
+    "country": "Canada",
+    "emailAddress": "councilmeeting@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Toronto City Hall",
+    "phone": "416-392-8485",
+    "postalCode": "M5H 2N2",
+    "province": "Ontario",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1784865600000,
+  "noticeDescription": "<p><strong>City's Residential Retrofit Program<br /><br /></strong></p>\n<p><strong>PUBLIC NOTICE</strong></p>\n<p>&nbsp;</p>\n<p><strong>Notice of the imposition of special charges on benefitting properties under the City's Residential Retrofit Program.</strong></p>\n<p>&nbsp;</p>\n<p>Individual bills for each of the benefitting properties listed below have been submitted for the meeting of City Council being held on July 29, 30 and 31, 2026. Review bill details (<a href=\"https://secure.toronto.ca/council/bill-bylaw.do?meeting=2026.CC43\">https://secure.toronto.ca/council/bill-bylaw.do?meeting=2026.CC43</a>).&nbsp;</p>\n<p>&nbsp;</p>\n<p>Each of these bills imposes a special charge on each of the corresponding benefitting properties as a result of the property having entered into a Property Owner Agreement with the City and having undertaken energy efficiency and/or water conservation works as local improvements under the Residential Retrofit Program authorized by <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22\">Executive Committee Item EX33.22, as adopted by Council on July 16, 17, 18 and 19, 2013</a> and enacted in <a href=\"https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf\">By-law 1105-2013 (July 19, 2013)</a>.<br /><br /></p>\n<p>The benefitting properties are:</p>\n<p>&nbsp;</p>\n<ul>\n<li>19 Archerhill Drive</li>\n<li>28 Forsyth Crescent</li>\n<li>46 Purpledusk Trail</li>\n<li>102 Donlands Avenue</li>\n<li>395 Kane Avenue</li>\n<li>563 Woburn Avenue</li>\n</ul>\n<p><strong>For More Information Contact</strong></p>\n<p>City Council<br /><a href=\"mailto:councilmeeting@toronto.ca\">councilmeeting@toronto.ca</a>&nbsp;<br />Phone: 416-392-8485<br />Fax: 416-392-2980<br /><br /></p>\n<p>Toronto City Hall<br />100 Queen Street<br />Toronto, Ontario<br />M5H 2N2<br />Canada</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7719,
+  "otherReferenceList": [
+    {
+      "description": "Bills Index July 29, 30 and 31, 2026",
+      "url": "https://secure.toronto.ca/council/bill-bylaw.do?meeting=2026.CC43"
+    },
+    {
+      "description": "2013.EX33.22",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2013.EX33.22"
+    },
+    {
+      "description": "BY-LAW No. 1105-2013 ",
+      "url": "https://www.toronto.ca/legdocs/bylaws/2013/law1105.pdf"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "City's Residential Retrofit Program",
+  "topics": [
+    "Financial > Special charges for City's Residential Retrofit Program"
+  ],
+  "uniqueMapUrl": [
+    "/nm/static/map-icon/7628.png"
+  ]
+}
