@@ -1,0 +1,51 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2 Whitney Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.683765784",
+      "longitudeCoordinate": "-79.372483931",
+      "postalCode": "M4W 2A8",
+      "province": "Ontario",
+      "streetAddress": "2 Whitney Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Decision - City-Owned Lands Adjacent to 2 Whitney Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7827"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M5H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1786420800000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>IN THE MATTER OF THE ONTARIO HERITAGE ACT</strong></p>\n<p style=\"text-align: center;\"><strong>R.S.O. 1990, CHAPTER O.18 AND</strong></p>\n<p style=\"text-align: center;\"><strong>CITY OF TORONTO, PROVINCE OF ONTARIO</strong></p>\n<p style=\"text-align: center;\"><strong>CITY-OWNED LANDS ADJACENT TO 2 WHITNEY AVENUE</strong></p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>NOTICE OF DECISION</strong></span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>TAKE NOTICE that the Council of the City of Toronto on July 30, 2026, has considered an application under Section 42 of the Ontario Heritage Act to alter, erect, demolish or remove, or permit the alteration, erection, demolition or removal of a building and/or structure on the Property included within a Heritage Conservation District designated under Part V of the Ontario Heritage Act adjacent to the Property municipally known as 2 Whitney Avenue. &nbsp;</p>\n<p>&nbsp;</p>\n<p>This notice is being served to the Owner of the Property, and any Interested Persons.</p>\n<p>&nbsp;</p>\n<p>The Decision of Council of the City of Toronto, among other matters, regarding the application under the Ontario Heritage Act is as follows:</p>\n<p>&nbsp;</p>\n<p>City Council refuse the proposal to construct a structure on lands subject to an encroachment agreement adjacent to 2 Whitney Avenue, a property within the North Rosedale Heritage Conservation District, in accordance with Section 42 of the Ontario Heritage Act, as outlined in the Applicants' Submission dated June 23, 2026, and received by Heritage Planning on July 2, 2026.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Notice of an appeal of the decision of City Council on the application to alter, erect, demolish or remove a building and/or structure on the Property may be served on the City Clerk, Attention: Administrator, Secretariat, City Clerk's Office, Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, Ontario, M5H 2N2.; Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a> within thirty days of August 11, 2026, which is September 10, 2026.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons for the objection to the decision;</p>\n<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; set out the reasons in support of the objection to the decision; and</p>\n<p>(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; be accompanied by the fee prescribed under the Ontario Land Tribunal Act, 2021, in the amount of $1,100 for each appeal payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the Ontario Land Tribunal website at <a href=\"https://olt.gov.on.ca/appeals-process/forms\">https://olt.gov.on.ca/appeals-process/forms</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Only the owner of the Property may appeal the decision of Council of the City of Toronto to the Ontario Land Tribunal under Part V, Section 42 of the Ontario Heritage Act. The appeal may only be made where City Council has consented to an application to alter, erect, demolish or remove a building and/or structure on a Property with certain terms or conditions, or refuses the application to alter, erect, demolish or remove the building and/or structure on a Property.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>Further information in respect of the Decision of Council of the City of Toronto on the matter is available from the City of Toronto at:</p>\n<p>&nbsp;</p>\n<p><a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2026.CC43.30\">https://secure.toronto.ca/council/agenda-item.do?item=2026.CC43.30</a>.&nbsp;</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7836,
+  "otherReferenceList": [
+    {
+      "description": "2026.CC43.30 - 2 Whitney Avenue - Application to Erect a Structure in the North Rosedale Heritage Conservation District",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2026.CC43.30"
+    }
+  ],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Decision - City-Owned Lands Adjacent to 2 Whitney Avenue",
+  "topics": [
+    "Heritage > Decision on alteration to a heritage property"
+  ],
+  "uniqueMapUrl": [
+    "/nm/static/map-icon/7629.png"
+  ]
+}
