@@ -1,0 +1,154 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "64 Wellesley Street East Toronto Ontario",
+      "latitudeCoordinate": "43.665901023",
+      "longitudeCoordinate": "-79.381806918",
+      "postalCode": "M4Y 1G6",
+      "province": "Ontario",
+      "streetAddress": "64 Wellesley Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "66 Wellesley Street East Toronto Ontario",
+      "latitudeCoordinate": "43.665812644",
+      "longitudeCoordinate": "-79.381552582",
+      "postalCode": "M4Y 1G2",
+      "province": "Ontario",
+      "streetAddress": "66 Wellesley Street East"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "552 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.665787967",
+      "longitudeCoordinate": "-79.381137092",
+      "postalCode": "M4Y 2E3",
+      "province": "Ontario",
+      "streetAddress": "552 Church Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "556 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.665854127",
+      "longitudeCoordinate": "-79.381206511",
+      "postalCode": "M4Y 2E3",
+      "province": "Ontario",
+      "streetAddress": "556 Church Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "558 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.665883378",
+      "longitudeCoordinate": "-79.381220961",
+      "postalCode": "M4Y 2E3",
+      "province": "Ontario",
+      "streetAddress": "558 Church Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "560 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.665938538",
+      "longitudeCoordinate": "-79.381255026",
+      "postalCode": "M4Y 2E3",
+      "province": "Ontario",
+      "streetAddress": "560 Church Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "562 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.66598455",
+      "longitudeCoordinate": "-79.38127945",
+      "postalCode": "M4Y 2E3",
+      "province": "Ontario",
+      "streetAddress": "562 Church Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "564 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.66601626",
+      "longitudeCoordinate": "-79.381294033",
+      "postalCode": "M4Y 2E3",
+      "province": "Ontario",
+      "streetAddress": "564 Church Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "566 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.666037242",
+      "longitudeCoordinate": "-79.381303192",
+      "postalCode": "M4Y 2E3",
+      "province": "Ontario",
+      "streetAddress": "566 Church Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "568 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.666062996",
+      "longitudeCoordinate": "-79.38131233",
+      "postalCode": "M4Y 2E3",
+      "province": "Ontario",
+      "streetAddress": "568 Church Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "570 Church Street Toronto Ontario",
+      "latitudeCoordinate": "43.666133925",
+      "longitudeCoordinate": "-79.381426242",
+      "postalCode": "M4Y 2E3",
+      "province": "Ontario",
+      "streetAddress": "570 Church Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Adoption of Official Plan Amendment 956 and Passing of Zoning By-law 1213-2026 - 64 and 66 Wellesley Street East and 552, 556, 558, 560, 562, 564, 566, 568, and 570 Church Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7835"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M5H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "City Council",
+  "eventList": [],
+  "noticeDate": 1786507200000,
+  "noticeDescription": "<p><strong>NOTICE OF ADOPTION OF OFFICIAL PLAN AMENDMENT 956 AND NOTICE OF PASSING OF ZONING BY-LAW 1213-2026&nbsp;</strong></p>\n<p><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>TAKE NOTICE that the City of Toronto adopted Official Plan Amendment 956, by By-law 1212-2026, on July 30, 2026. Zoning By-law 1213-2026 was also passed on this date, with respect to the lands known as 64 and 66 Wellesley Street East and 552, 556, 558, 560, 562, 564, 566, 568, and 570 Church Street.</p>\n<p>&nbsp;</p>\n<p>An explanation of the purpose and effect of the Official Plan Amendment and Zoning By-law, and a map showing the location of the lands to which the amendments apply, are attached. The amendments were processed under file number: 26 119147 STE 13 OZ.</p>\n<p>&nbsp;</p>\n<p>A statutory public meeting was held on July 8 and 9, 2026, and the Toronto and East York Community Council and Toronto City Council considered no oral and nine written submissions in making the decision. Please see item TE34.45. at <a href=\"https://secure.toronto.ca/council/agenda-item.do?item=2026.TE34.45\">https://secure.toronto.ca/council/agenda-item.do?item=2026.TE34.45</a>.</p>\n<p>&nbsp;</p>\n<p><strong>IF YOU WISH TO APPEAL TO THE ONTARIO LAND TRIBUNAL:</strong></p>\n<p>&nbsp;</p>\n<p>Take notice that an appeal to the Ontario Land Tribunal in respect to all or part of this Official Plan Amendment and/or Zoning By-law may be made by filing a notice of appeal with the City Clerk, <strong>Attention: Raneisha Hemmings</strong>, Registrar Secretariat, 100 Queen Street West, 2nd Floor West, Toronto, ON, M5H 2N2, no later than 4:30 p.m. on <strong>September 1, 2026</strong>. If delivering in-person, drop off at the Registry Services Counter, Toronto City Hall. The filing of a notice of appeal after 4:30 p.m., in person or electronically, will be deemed to have been received the next business day.</p>\n<p>&nbsp;</p>\n<p><strong>A Notice of Appeal must:</strong></p>\n<p>&nbsp;</p>\n<p>(1) &nbsp; &nbsp; &nbsp; &nbsp;set out the specific part of the proposed Official Plan Amendment to which the appeal applies;</p>\n<p>(2) &nbsp; &nbsp; &nbsp; &nbsp;set out the reasons for the appeal of the proposed Official Plan Amendment and/or Zoning By-law; and</p>\n<p>(3) &nbsp; &nbsp; &nbsp; &nbsp;be accompanied by the fee charged by the Ontario Land Tribunal, currently in the amount of $1,100.00 for each application appealed, payable by certified cheque or money order to the Minister of Finance, Province of Ontario.</p>\n<p>&nbsp;</p>\n<p>If you wish to appeal to the Ontario Land Tribunal (OLT) or request a fee reduction for an appeal, forms are available from the OLT website at <a href=\"http://www.olt.gov.on.ca\">www.olt.gov.on.ca</a>.</p>\n<p>&nbsp;</p>\n<p>The proposed Official Plan Amendment is exempt from approval by the Minister of Municipal Affairs and Housing. The decision of Toronto City Council to adopt the proposed Official Plan Amendment is final if a notice of appeal is not received before or on the last day for filing a notice of appeal.</p>\n<p>&nbsp;</p>\n<p><strong>Who Can File An Appeal:</strong></p>\n<p>&nbsp;</p>\n<p>Official Plan Amendment: Only a specified person or public body as defined in the <em>Planning Act</em> that made oral submissions at a public meeting or written submissions to the Council before the plan was adopted, the registered owner of any land to which the plan would apply that made oral submissions at a public meeting or written submissions to the Council before the plan was adopted, the Minister and, in the case of a request to amend the plan, the person or public body that made the request may appeal the decision of Council to the Ontario Land Tribunal. &nbsp;</p>\n<p>&nbsp;</p>\n<p>Zoning By-law Amendment: Only an applicant, a specified person or public body as defined in the <em>Planning Act</em> that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, the registered owner of any land to which the by-law would apply that made oral submissions at a public meeting or written submissions to the Council before the by-law was passed, and the Minister may appeal the by-law to the Ontario Land Tribunal. &nbsp;</p>\n<p>&nbsp;</p>\n<p>No person or public body shall be added as a party to the hearing of the appeal unless, before the Official Plan Amendment was adopted or before the by-law was passed, the person or public body made oral submissions at a public meeting or written submissions to the Council or, in the opinion of the Ontario Land Tribunal, there are reasonable grounds to add the person or public body as a party.</p>\n<p>&nbsp;</p>\n<p><strong>Getting Additional Information:</strong></p>\n<p>&nbsp;</p>\n<p>A copy of the by-law, Official Plan Amendment and background information about the application may be obtained by contacting <strong>Stephan Posikira</strong> at 416-396-7824, or at <a href=\"mailto:Stephan.Posikira@toronto.ca\">Stephan.Posikira@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p>Compliance with Provincial laws respecting Notice may result in you receiving duplicate notices.</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>PURPOSE AND EFFECT OF&nbsp;</strong><br /><strong>OFFICIAL PLAN AMENDMENT 956</strong><br /><strong>AND ZONING BY-LAW 1213-2026&nbsp;</strong><br />&nbsp;</p>\n<p>The purpose and effect of Official Plan Amendment 956 and Zoning By-law 1213-2026 is to apply the Commercial Residential (CR) zone category to the entire site and permit an approximately 115-metre (36-storey) mixed-use building with a maximum residential gross floor area of 31,800 square metres and maximum non-residential gross floor area of 3,500 square metres, at 64 and 66 Wellesley Street East and 552, 556, 558, 560, 562, 564, 566, 568, and 570 Church Street.</p>\n<p>&nbsp;</p>\n<p>Further information may be obtained by contacting <strong>Stephan Posikira</strong> at 416-396-7824, or at <a href=\"mailto:Stephan.Posikira@toronto.ca\">Stephan.Posikira@toronto.ca</a>.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7844,
+  "otherReferenceList": [
+    {
+      "description": "2026.TE34.45 - 64-66 Wellesley Street East and 552-570 Church Street - Official Plan and Zoning By-law Amendment Application - Decision Report - Approval",
+      "url": "https://secure.toronto.ca/council/agenda-item.do?item=2026.TE34.45"
+    }
+  ],
+  "planningApplicationNumbers": [
+    "26 119147 STE 13 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Adoption of Official Plan Amendment 956 and Passing of Zoning By-law 1213-2026 - 64 and 66 Wellesley Street East and 552, 556, 558, 560, 562, 564, 566, 568, and 570 Church Street",
+  "topics": [
+    "Planning > Adoption of Zoning By-law Amendment",
+    "Planning > Adoption of an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "/nm/static/map-icon/7636.png"
+  ]
+}

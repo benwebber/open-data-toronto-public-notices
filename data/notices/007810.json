@@ -1,0 +1,38 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "701 Fleet Street Toronto Ontario",
+      "latitudeCoordinate": "43.636011014",
+      "longitudeCoordinate": "-79.408310316",
+      "province": "Ontario",
+      "streetAddress": "701 Fleet Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Property - Portion of 701 Fleet Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7800"
+    }
+  ],
+  "contact": {
+    "contactName": "Patricia Chen",
+    "emailAddress": "Patricia.Chen@toronto.ca"
+  },
+  "eventList": [],
+  "noticeDate": 1786507200000,
+  "noticeDescription": "<p><strong>NOTICE</strong> is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal By-law, the following property was declared surplus on August 5, 2026:</p>\n<p>&nbsp;</p>\n<p>1) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Land located on a portion of 701 Fleet Street of approximately 1.75 acres, being part of PT BLK 14 PL ORDNANCE RESERVE TORONTO; PT WATER LT IN FRONT OF PL ORDNANCE RESERVE TORONTO PT 3 63R310 LYING W OF PT 1 66R19717; S/T CT264775; CITY OF TORONTO. The parcel has an area of approximately 7,081 m2 (76,230 ft2). The City proposes that the intended manner of disposal be by way of a long-term lease to Tempo Basketball Club Inc. for the construction and operation of a high-performance practice facility with community amenities.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Ms. Patricia Chen, Senior Project Manager, Corporate Real Estate Management, Tel: 437-997-5321, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until August 26th, 2026.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7810,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property - Portion of 701 Fleet Street ",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "/nm/static/map-icon/7632.png"
+  ]
+}
