@@ -1,0 +1,49 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "970 Kipling Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.64071179",
+      "longitudeCoordinate": "-79.535713186",
+      "province": "Ontario",
+      "streetAddress": "970 Kipling Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 492-2026 - 970 Kipling Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7918"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Etobicoke York Community Council",
+    "country": "Canada",
+    "emailAddress": "etcc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Etobicoke Civic Centre",
+    "phone": "416-397-4579",
+    "postalCode": "M9C 2Y2",
+    "province": "Ontario",
+    "streetAddress": "399 The West Mall"
+  },
+  "eventList": [],
+  "noticeDate": 1789099200000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF INTENTION TO REMOVE A HOLDING SYMBOL (H) FROM ZONING BY-LAW 492-2026</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application under Section 36 of the <em>Planning Act</em>:</p>\n<p>&nbsp;</p>\n<p><strong>&nbsp;Application Number: </strong>26 226939 WET 03 OZ&nbsp;</p>\n<p><strong>Location of Application: </strong>970 Kipling Avenue</p>\n<p><strong>Ward: </strong>Ward 03 - Etobicoke-Lakeshore&nbsp;</p>\n<p><strong>Contact: </strong>Dominik Matusik, Senior Planner, by telephone at 416-397-2530, by email at <a href=\"mailto:Dominik.Matusik@toronto.ca\">Dominik.Matusik@toronto.ca</a>, or by mail at 2 Civic Centre Court, Toronto, ON M9C 5A3.</p>\n<p>&nbsp;</p>\n<p><strong>DESCRIPTION</strong></p>\n<p>&nbsp;</p>\n<p>The application is to amend Zoning By-law 492-2026 to remove the holding symbol (H) to permit a mixed-use building on Block 5 of the Bloor-Kipling lands which would be comprised of a 43-storey tower and a 28-storey tower with a common five-storey podium and retail uses at grade. Approximately 840 residential units is proposed, including 198 affordable units. The submitted proposal addresses the conditions under the Holding Provision of site-specific zoning by-law 492-2026 that was approved by Toronto City Council on May 21, 2026. The \"H\" provision was imposed to enable the applicant to provide additional information related to site servicing and enter into any necessary infrastructure agreements. The area where the holding symbol (H) is to be removed is noted on the map below.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Detailed information regarding the above-listed proposal, including background information and materials may be made available for public inspection by contacting the Senior Planner noted above or by visiting the City of Toronto&rsquo;s Application Information Centre. &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>MAKE YOUR VIEWS KNOWN</strong></p>\n<p>&nbsp;</p>\n<p>You may send written comments by mail or email to the Senior Planner noted above. Your written comments must be submitted no later than <strong>September 25, 2026</strong>, to be considered by the Executive Director, Development Review or their designate. A decision by the Executive Director, Development Review or their designate as to whether to remove the holding symbol (H) will occur no earlier than <strong>October 13, 2026</strong>.</p>\n<p>&nbsp;</p>\n<p><strong>Notice to people writing to the City:</strong> The <em>City of Toronto Act, 2006,</em> the <em>Planning Act,</em> and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication to the City.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). &nbsp;If you are submitting letters, e-mails, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7927,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "26 226939 WET 03 OZ "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 492-2026 - 970 Kipling Avenue",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Intention to remove a Holding Symbol"
+  ],
+  "uniqueMapUrl": [
+    "/nm/static/map-icon/7636.png"
+  ]
+}

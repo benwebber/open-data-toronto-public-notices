@@ -1,0 +1,79 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2654 Bayview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7559766028",
+      "longitudeCoordinate": "-79.3864435039",
+      "postalCode": "M2L 1B9",
+      "province": "Ontario",
+      "streetAddress": "2654 Bayview Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2656 Bayview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7561739267",
+      "longitudeCoordinate": "-79.3861496099",
+      "postalCode": "M2L 1B9",
+      "province": "Ontario",
+      "streetAddress": "2656 Bayview Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2660 Bayview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7563397455",
+      "longitudeCoordinate": "-79.3864283413",
+      "postalCode": "M2L 1B9",
+      "province": "Ontario",
+      "streetAddress": "2660 Bayview Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "2668 Bayview Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.7565818214",
+      "longitudeCoordinate": "-79.3863303377",
+      "postalCode": "M2L 1B9",
+      "province": "Ontario",
+      "streetAddress": "2668 Bayview Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": " Notice of Application - Under the Planning Act - 2654, 2656, 2660 and 2668 Bayview Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7914"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M5H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1789099200000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>&nbsp; NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 25 151165 NNY 15 OZ</p>\n<p>Application to amend the Official Plan and the Zoning By-law to permit a seven-storey residential building.</p>\n<p>2654, 2656, 2660 and 2668 Bayview Avenue</p>\n<p>Ward 15 &ndash; Don Valley West</p>\n<p>Planner, Diane Pi at 416-396-8254 or <a href=\"mailto:Diane.Pi@toronto.ca\">Diane.Pi@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,&nbsp;</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7923,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "25 151165 NNY 15 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 2654, 2656, 2660 and 2668 Bayview Avenue",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "/nm/static/map-icon/7636.png"
+  ]
+}
