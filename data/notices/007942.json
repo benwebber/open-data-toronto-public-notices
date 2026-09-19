@@ -1,0 +1,96 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "330 University Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.651696608",
+      "longitudeCoordinate": "-79.387577254",
+      "postalCode": "M5G 1R7",
+      "province": "Ontario",
+      "streetAddress": "330 University Avenue"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "180 Queen Street West Toronto Ontario",
+      "latitudeCoordinate": "43.650823926",
+      "longitudeCoordinate": "-79.387835525",
+      "postalCode": "M5V 3X3",
+      "province": "Ontario",
+      "streetAddress": "180 Queen Street West"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "180 Simcoe Street Toronto Ontario",
+      "latitudeCoordinate": "43.651059801",
+      "longitudeCoordinate": "-79.387999234",
+      "postalCode": "M5T 3M2",
+      "province": "Ontario",
+      "streetAddress": "180 Simcoe Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "190 Simcoe Street Toronto Ontario",
+      "latitudeCoordinate": "43.651580383",
+      "longitudeCoordinate": "-79.388493576",
+      "postalCode": "M5T 3M3",
+      "province": "Ontario",
+      "streetAddress": "190 Simcoe Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "206 Simcoe Street Toronto Ontario",
+      "latitudeCoordinate": "43.652113521",
+      "longitudeCoordinate": "-79.388481801",
+      "province": "Ontario",
+      "streetAddress": "206 Simcoe Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "17 St Patrick Street Toronto Ontario",
+      "latitudeCoordinate": "43.651178579",
+      "longitudeCoordinate": "-79.388696492",
+      "province": "Ontario",
+      "streetAddress": "17 St Patrick Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 330 University Avenue, 180 Queen Street West, 180, 190, and 206 Simcoe Street and 17 St. Patrick Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7933"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M5H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1789704000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>&nbsp; NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 26 221979 STE 10 OZ</p>\n<p>Application to Amend the Zoning By-Law to permit the redevelopment of the Canada Life Campus, proposing a 71-storey residential tower; two residential towers of 54-storeys and 25-storeys on a mixed-use podium; and a six-storey amenity pavilion. The proposed development includes a new POPS space, 64,103 square metres of retained office space including the Canada Life building, 10,476 square metres of new commercial space, and 1,402 residential dwelling units.</p>\n<p>330 University Avenue, 180 Queen Street West, 180, 190, and 206 Simcoe Street and 17 St. Patrick Street</p>\n<p>Ward 10 &ndash; Spadina-Fort York</p>\n<p>Shaylyn Costello, Planner at 416-392-6061 or <a href=\"mailto:Shaylyn.Costello@toronto.ca\">Shaylyn.Costello@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp; &nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7942,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "26 221979 STE 10 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 330 University Avenue, 180 Queen Street West, 180, 190, and 206 Simcoe Street and 17 St. Patrick Street",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment"
+  ],
+  "uniqueMapUrl": [
+    "/nm/static/map-icon/7636.png"
+  ]
+}
