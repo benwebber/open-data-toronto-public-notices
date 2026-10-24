@@ -1,0 +1,109 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "207 Jarvis Street Toronto Ontario",
+      "latitudeCoordinate": "43.655781263",
+      "longitudeCoordinate": "-79.373791102",
+      "postalCode": "M5B 2C1",
+      "province": "Ontario",
+      "streetAddress": "207 Jarvis Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "209 Jarvis Street Toronto Ontario",
+      "latitudeCoordinate": "43.655835692",
+      "longitudeCoordinate": "-79.373810522",
+      "postalCode": "M5B 2C1",
+      "province": "Ontario",
+      "streetAddress": "209 Jarvis Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "211 Jarvis Street Toronto Ontario",
+      "latitudeCoordinate": "43.655896056",
+      "longitudeCoordinate": "-79.373832621",
+      "postalCode": "M5B 2C1",
+      "province": "Ontario",
+      "streetAddress": "211 Jarvis Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "213 Jarvis Street Toronto Ontario",
+      "latitudeCoordinate": "43.655959294",
+      "longitudeCoordinate": "-79.37385578",
+      "postalCode": "M5B 2C1",
+      "province": "Ontario",
+      "streetAddress": "213 Jarvis Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "215 Jarvis Street Toronto Ontario",
+      "latitudeCoordinate": "43.656037457",
+      "longitudeCoordinate": "-79.373863138",
+      "postalCode": "M5B 2C1",
+      "province": "Ontario",
+      "streetAddress": "215 Jarvis Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "217 Jarvis Street Toronto Ontario",
+      "latitudeCoordinate": "43.656099622",
+      "longitudeCoordinate": "-79.373884973",
+      "postalCode": "M5B 2C1",
+      "province": "Ontario",
+      "streetAddress": "217 Jarvis Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "219 Jarvis Street Toronto Ontario",
+      "latitudeCoordinate": "43.656162654",
+      "longitudeCoordinate": "-79.373908814",
+      "postalCode": "M5B 2C1",
+      "province": "Ontario",
+      "streetAddress": "219 Jarvis Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 207, 209, 211, 213, 215, 217, and 219 Jarvis Street",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=7975"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M5H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "Toronto and East York Community Council",
+  "eventList": [],
+  "noticeDate": 1792728000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>The City has received the following application under the Planning Act:</p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>TORONTO AND EAST YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 26 136937 STE 13 OZ</p>\n<p>The application proposes to amend the Official Plan and Zoning By-law 569-2013 to allow for a 102.8-metre mixed-use building containing 23,000 square metres of gross floor area comprising a maximum of 22,800 square metres of residential gross floor area and a minimum of 200 square metres of non-residential gross floor area.</p>\n<p>207, 209, 211, 213, 215, 217, and 219 Jarvis Street&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p>Ward 13 &ndash; Toronto Centre</p>\n<p>Abraham Plunkett-Latimer, Planner at 416-397-1942 or <a href=\"mailto:Abraham.Plunkett-Latimer@toronto.ca\">Abraham.Plunkett-Latimer@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION </strong></p>\n<p><strong>&nbsp;</strong></p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2<sup>nd</sup> Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.</p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>. &nbsp;</p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p><strong>&nbsp;</strong></p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 7984,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "26 136937 STE 13 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 207, 209, 211, 213, 215, 217, and 219 Jarvis Street",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "/nm/static/map-icon/7636.png"
+  ]
+}
