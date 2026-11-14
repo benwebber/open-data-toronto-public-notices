@@ -1,0 +1,60 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3307 Ellesmere Road Toronto Ontario",
+      "latitudeCoordinate": "43.786743779",
+      "longitudeCoordinate": "-79.186601655",
+      "postalCode": "M1C 1H1",
+      "province": "Ontario",
+      "streetAddress": "3307 Ellesmere Road"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "3313 Ellesmere Road Toronto Ontario",
+      "latitudeCoordinate": "43.786775963",
+      "longitudeCoordinate": "-79.186350975",
+      "postalCode": "M1C 1H1",
+      "province": "Ontario",
+      "streetAddress": "3313 Ellesmere Road"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 518-2026 - 3307 and 3313 Ellesmere Road",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=8015"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Scarborough Community Council",
+    "country": "Canada",
+    "emailAddress": "scc@toronto.ca",
+    "fax": "416-392-2980",
+    "locationName": "Scarborough Civic Centre",
+    "phone": "416-397-4579",
+    "postalCode": "M1P 4N7",
+    "province": "Ontario",
+    "streetAddress": "150 Borough Drive"
+  },
+  "eventList": [],
+  "noticeDate": 1794546000000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>NOTICE OF INTENTION TO REMOVE A HOLDING SYMBOL (H) FROM ZONING BY-LAW 518-2026</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>The City has received the following application under Section 36 of the <em>Planning Act</em>:</p>\n<p>&nbsp;</p>\n<p><strong>Application Number:</strong> 26 216092 ESC 25 OZ&nbsp;</p>\n<p><strong>Address:</strong> 3307 and 3313 Ellesmere Road</p>\n<p><strong>Ward:</strong> Ward 25 - Scarborough-Rouge Park&nbsp;</p>\n<p><strong>Contact:</strong> Philip Liu, Senior Planner at 416-396-5574, or by e-mail at Philip.Liu@toronto.ca, or by address at Scarborough Civic Centre, 3rd Floor, 150 Borough Drive, Toronto, ON M1P 4N7.</p>\n<p>&nbsp;</p>\n<p><strong>DESCRIPTION</strong></p>\n<p>&nbsp;</p>\n<p>The application to amend Zoning By-law 518-2026 to remove the holding symbol (H) to permit an 11-storey mixed use building consisting of 166 dwelling units and 168 sqm of commercial use at grade. The location of where the holding symbol (H) would be removed is noted on the map below.</p>\n<p>&nbsp;</p>\n<p>Detailed information about the proposal, including background information and materials may be made available for review by contacting the Planner noted above or by visiting the City of Toronto&rsquo;s Application Information Centre: <a href=\"https://www.toronto.ca/city-government/planning-development/application-information-centre/\">https://www.toronto.ca/city-government/planning-development/application-information-centre/</a>.&nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>MAKE YOUR VIEWS KNOWN</strong></p>\n<p>&nbsp;</p>\n<p>You may send written comments by mail or email to the Community Planner noted under Contact. Your written comments must be submitted no later than <strong>November 27, 2026</strong> to be considered by the Executive Director, Development Review or their designate, Director, Community Planning, Scarborough District. A decision by the Executive Director, Development Review or their designate as to whether to remove the holding symbol (H) will occur no earlier than <strong>December 15, 2026</strong>.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Notice to people writing to the City: The City of Toronto Act, 2006, the <em>Planning Act</em>, and the City of Toronto Municipal Code authorize the City of Toronto to collect any personal information in your communication to the City.</p>\n<p>&nbsp;</p>\n<p>The City collects this information to enable it to make informed decisions on the relevant issue(s). &nbsp;If you are submitting letters, e-mails, or other communications to the City, you should be aware that your name and the fact that you communicated with the City will become part of the public record and will appear on the City's website. The City will also make your communication and any personal information in it - such as your postal address, telephone number or e-mail address - available to the public, unless you expressly request the City to remove it.</p>\n<p>&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 8023,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "26 216092 ESC 25 OZ "
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Intention to Remove a Holding Symbol (H) from Zoning By-law 518-2026 - 3307 and 3313 Ellesmere Road",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Intention to remove a Holding Symbol"
+  ],
+  "uniqueMapUrl": [
+    "/nm/static/map-icon/7636.png"
+  ]
+}
