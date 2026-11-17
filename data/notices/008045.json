@@ -1,0 +1,45 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "175 Cummer Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.78785777",
+      "longitudeCoordinate": "-79.408640775",
+      "postalCode": "M2M 2E9",
+      "province": "Ontario",
+      "streetAddress": "175 Cummer Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Property - 175 Cummer Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=8036"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Desiree Picchiello",
+    "country": "Canada",
+    "locationName": "Metro Hall",
+    "phone": "416-338-5028",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1794805200000,
+  "noticeDescription": "<p><strong>NOTICE</strong> is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal By-law, the City&rsquo;s leasehold interest in the following property was declared surplus on October 30, 2026:</p>\n<p>&nbsp;</p>\n<p>The land and buildings located at 175 Cummer Avenue, legally described as Parts 1 and 2 on Plan 66R-31734. The property has a total area of approximately <strong>3,749.51 m&sup2; (40,359 sq. ft.)</strong>.</p>\n<p>&nbsp;</p>\n<p>The City proposes that the intended manner of disposal be by way of a long-term sublease to such entities as may be authorized by City Council, for the purpose of providing affordable housing, together with all ancillary uses related thereto, or benefitting or contributing to the principal use.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: Desiree Picchiello, Project Manager, Tel: 416-338-5028, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until November 24, 2026.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 8045,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property - 175 Cummer Avenue",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "/nm/static/map-icon/7632.png"
+  ]
+}

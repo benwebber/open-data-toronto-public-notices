@@ -1,0 +1,45 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "35 Bellevue Avenue Toronto Ontario",
+      "latitudeCoordinate": "43.654248468",
+      "longitudeCoordinate": "-79.403070658",
+      "postalCode": "M5T 2N5",
+      "province": "Ontario",
+      "streetAddress": "35 Bellevue Avenue"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Declaration of Surplus Property - 35 Bellevue Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=8034"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Desiree Picchiello",
+    "country": "Canada",
+    "locationName": "Metro Hall",
+    "phone": "416-338-5028",
+    "postalCode": "M5V 3C6",
+    "province": "Ontario",
+    "streetAddress": "55 John Street"
+  },
+  "eventList": [],
+  "noticeDate": 1794805200000,
+  "noticeDescription": "<p><strong>NOTICE</strong> is hereby given that in accordance with the City of Toronto&rsquo;s real estate disposal By-law, the following City-owned parcel of lands was declared surplus on October 29, 2026:</p>\n<p>&nbsp;</p>\n<p>The property municipally known as 35 Bellevue Avenue, legally described as part of Lots 24, 21 and 25, Plan D55 Toronto; Lots 6-8, Plan 319 City West; and Parts 1 to 14, Part of Lots 5, 9-11, Plan 319 City West, as shown on Expropriation Plan WA83651; also shown as PIN 21236-0414 (LT), LRO No. 66, subject to permitted encumbrances Instrument Nos. WA83651, AT6203466 and 66R32977. The property has a total area of approximately <strong>2,460 m&sup2; (26,479 sq. ft.)</strong>.</p>\n<p>&nbsp;</p>\n<p>The City proposes that the intended manner of disposal be by way of a long-term lease to such entities as may be authorized by City Council, for the purpose of providing affordable housing, together with all ancillary uses related thereto, or benefitting or contributing to the principal use.</p>\n<p>&nbsp;</p>\n<p>The following City official has information about the proposed disposition: <strong>Desiree Picchiello, Project Manager, Tel: 416-338-5028</strong>, Metro Hall, 55 John Street, 2nd floor, Toronto, Ontario M5V 3C6. Enquiries may be made of the said official until N<strong>ovember 24, 2026</strong>.</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 8043,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Declaration of Surplus Property - 35 Bellevue Avenue",
+  "topics": [
+    "Sale of City Property/Real Estate > Proposed sale of City property"
+  ],
+  "uniqueMapUrl": [
+    "/nm/static/map-icon/7632.png"
+  ]
+}
