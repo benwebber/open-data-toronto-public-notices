@@ -1,0 +1,59 @@
+{
+  "addressList": [
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "4632 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.757402603",
+      "longitudeCoordinate": "-79.410292209",
+      "postalCode": "M2N 5M1",
+      "province": "Ontario",
+      "streetAddress": "4632 Yonge Street"
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "fullAddress": "4648 Yonge Street Toronto Ontario",
+      "latitudeCoordinate": "43.757552372",
+      "longitudeCoordinate": "-79.410235232",
+      "postalCode": "M2N 5M1",
+      "province": "Ontario",
+      "streetAddress": "4648 Yonge Street"
+    }
+  ],
+  "backgroundInformationList": [
+    {
+      "description": "Notice of Application - Under the Planning Act - 4632-4648 Yonge Street and 16-18 Cameron Avenue",
+      "url": "https://secure.toronto.ca/nm/api/individual/fileSpace.do?f=8058"
+    }
+  ],
+  "contact": {
+    "city": "Toronto",
+    "contactName": "Registrar Secretariat",
+    "country": "Canada",
+    "emailAddress": "RegistrarCCO@toronto.ca",
+    "locationName": "Toronto City Hall",
+    "postalCode": "M5H 2N2",
+    "province": "ON",
+    "streetAddress": "100 Queen Street"
+  },
+  "decisionBody": "North York Community Council",
+  "eventList": [],
+  "noticeDate": 1795755600000,
+  "noticeDescription": "<p style=\"text-align: center;\"><strong>&nbsp; NOTICE OF APPLICATION(S)</strong></p>\n<p style=\"text-align: center;\"><strong>(Under the Planning Act)</strong></p>\n<p>&nbsp;</p>\n<p>The City has received the following application under the Planning Act:</p>\n<p>&nbsp;</p>\n<p><strong>NORTH YORK COMMUNITY COUNCIL AREA:</strong></p>\n<p>&nbsp;</p>\n<p>Application Number: 26 246327 NNY 18 OZ</p>\n<p>The application proposes to amend the Official Plan and Zoning By-law 569-2013 to permit a</p>\n<p>50-storey mixed-use building with commercial uses at grade, 569 residential units, 114 vehicular</p>\n<p>parking spaces and 385 bicycle parking spaces, with a total gross floor area of 40,200 square</p>\n<p>metres.</p>\n<p>4632-4648 Yonge Street and 16-18 Cameron Avenue</p>\n<p>Ward 18 &ndash; Willowdale</p>\n<p>This land is also subject to an application under the Planning Act for Site Plan Control,</p>\n<p>Application Number: 26 246324 NNY 18 SA</p>\n<p>Diana Steinberg, Planner at 416-338-3455 or <a href=\"mailto:Diana.Steinberg@toronto.ca\">Diana.Steinberg@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>CONTACT INFORMATION&nbsp;</strong></p>\n<p>&nbsp;</p>\n<p>City Clerk, Attention: Registrar Secretariat</p>\n<p>Toronto City Hall, 2nd Floor West, 100 Queen Street West, Toronto, ON, M5H 2N2,&nbsp;</p>\n<p>Tel: 416-394-8101, Email: <a href=\"mailto:RegistrarCCO@toronto.ca\">RegistrarCCO@toronto.ca</a>.</p>\n<p>&nbsp;</p>\n<p><strong>BACKGROUND INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>Background information and materials regarding the above-listed proposals are available at <a href=\"http://www.toronto.ca/city-government/planning-development/application-information-centre/\">www.toronto.ca/city-government/planning-development/application-information-centre/</a>.</p>\n<p>&nbsp;</p>\n<p><strong>FURTHER INFORMATION</strong></p>\n<p>&nbsp;</p>\n<p>If you wish to receive notice regarding the progression of any of the proposed applications above, which include Official Plan amendment, proposed Draft Plan of Subdivision, Draft Plan of Common Elements Condominium, Vacant Land Condominium Application and/or proposed Zoning By-law amendment, you may make a request to the City Clerk, to the attention of the Registrar Secretariat, at the address or email noted above.&nbsp;</p>",
+  "noticeHeadingType": "Public Notice",
+  "noticeId": 8066,
+  "otherReferenceList": [],
+  "planningApplicationNumbers": [
+    "26 246327 NNY 18 OZ"
+  ],
+  "signedBy": "John D. Elvidge, City Clerk",
+  "title": "Notice of Application - Under the Planning Act - 4632-4648 Yonge Street and 16-18 Cameron Avenue",
+  "topics": [
+    "Planning > Complete application for Zoning By-law Amendment",
+    "Planning > Complete application for an Official Plan Amendment"
+  ],
+  "uniqueMapUrl": [
+    "/nm/static/map-icon/7636.png"
+  ]
+}
